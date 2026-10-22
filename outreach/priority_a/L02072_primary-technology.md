@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "HomeView First Look with Jennifer Tuohy" (2026-10-19); Repurposing into clips
 - **Why IncuBrix:** Repurposing into clips: ~82-min episodes; no Instagram/TikTok clip channel linked in the feed
 - **Commercial signal:** Sponsorship: "ignal Awards: Technology Podcast Member Promo Code: IWANTCHAPTERS (Click above and the $2.50 promo will be aut" (episode 'Muse AI is Useful and Horrible, Apple Home Event, OpenAI Crossed a Lin') (https://primarytech.fm/152)
-- **Checked:** 2026-10-20
+- **Checked:** 2026-10-22
 
 ## Step 1 · Email · day 0
 **Subject:** "HomeView First Look with Jennifer Tuohy" as clips?
@@ -21,8 +21,8 @@ IncuBrix is a creator studio that turns one recording into captioned clips, quot
 
 If it helps, I can run "HomeView First Look with Jennifer Tuohy" through it and send you three ready-to-post clips. No call and no card needed. Would that be useful?
 
-[Sender name]
-Creator Partnerships, IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
+Gowtham M P
+Growth Engineer candidate for IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
 https://incubrix.com/?utm_source=email&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=L02072-s1
 
 Not for you? Reply "no thanks" and I won't email you again.
@@ -36,7 +36,7 @@ Hi Stephen, a quick follow-up on my note about "HomeView First Look with Jennife
 
 Happy to send the three sample clips. Just reply "yes".
 
-[Sender name], IncuBrix
+Gowtham M P (for IncuBrix)
 https://incubrix.com/?utm_source=email&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=L02072-s2
 
 Not for you? Reply "no thanks" and I won't email you again.
@@ -50,7 +50,7 @@ Hi Stephen, last note from me. If clipping and captioning Primary Technology isn
 
 Thanks for making the show.
 
-[Sender name], IncuBrix
+Gowtham M P (for IncuBrix)
 
 Not for you? Reply "no thanks" and I won't email you again.
 ```
@@ -67,8 +67,8 @@ IncuBrix is a creator studio that turns one recording into captioned clips, quot
 
 If it helps, I can run "HomeView First Look with Jennifer Tuohy" through it and send you three ready-to-post clips. No call and no card needed. Would that be useful?
 
-[Sender name]
-Creator Partnerships, IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
+Gowtham M P
+Growth Engineer candidate for IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
 https://incubrix.com/?utm_source=contact_form&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=L02072-s1
 
 Not for you? Reply "no thanks" and I won't email you again.

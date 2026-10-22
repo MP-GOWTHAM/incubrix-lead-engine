@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "Advertising Doesn’t Cause Sales, This Does | James Hurman" (2026-10-13); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~68-min episodes; no TikTok clip channel linked in the feed
 - **Commercial signal:** Course/product: "ur ideal market on podcasts. Sign up to our workshop 👉 pwrfully.com/workshop Academyex Go to the next level with" (episode '$500K in 11 Weeks: The AI Brain That Runs His Business') (https://podcasters.spotify.com/pod/show/notesfromtheexecutive/episodes/500K-in-11-Weeks-The-AI-Brain-That-Runs-His-Business-e3os66n)
-- **Checked:** 2026-10-20
+- **Checked:** 2026-10-22
 
 ## Step 1 · Email · day 0
 **Subject:** "Advertising Doesn’t Cause Sales, This Does |…" as clips?
@@ -21,8 +21,8 @@ IncuBrix is a creator studio that turns one recording into captioned clips, quot
 
 If it helps, I can run "Advertising Doesn’t Cause Sales, This Does |…" through it and send you three ready-to-post clips. No call and no card needed. Would that be useful?
 
-[Sender name]
-Creator Partnerships, IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
+Gowtham M P
+Growth Engineer candidate for IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
 https://incubrix.com/?utm_source=email&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=L02003-s1
 
 Not for you? Reply "no thanks" and I won't email you again.
@@ -36,7 +36,7 @@ Hi Mina, a quick follow-up on my note about "Advertising Doesn’t Cause Sales, 
 
 Happy to send the three sample clips. Just reply "yes".
 
-[Sender name], IncuBrix
+Gowtham M P (for IncuBrix)
 https://incubrix.com/?utm_source=email&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=L02003-s2
 
 Not for you? Reply "no thanks" and I won't email you again.
@@ -50,7 +50,7 @@ Hi Mina, last note from me. If clipping and captioning Notes From The Executive 
 
 Thanks for making the show.
 
-[Sender name], IncuBrix
+Gowtham M P (for IncuBrix)
 
 Not for you? Reply "no thanks" and I won't email you again.
 ```
@@ -58,5 +58,5 @@ Not for you? Reply "no thanks" and I won't email you again.
 ## Step 4 · LinkedIn · day 14
 
 ```text
-Hi Mina, I came across "Advertising Doesn’t Cause Sales, This Does |…" from Notes From The Executive. I work on IncuBrix, which turns one episode into captioned clips and posts for every platform. Would be glad to connect. - [Sender name]
+Hi Mina, I came across "Advertising Doesn’t Cause Sales, This Does |…" from Notes From The Executive. I'm helping launch IncuBrix, which turns one episode into captioned clips and posts for every platform. Would be glad to connect. - Gowtham M P
 ```

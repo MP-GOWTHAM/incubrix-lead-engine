@@ -7,12 +7,12 @@
 - **Hook:** Latest episode "The Good, Bad, & Ugly BTS of My $40K Launch" (2026-10-14); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~25-min episodes; no YouTube/TikTok clip channel linked in the feed; Stated workflow need: episode notes say "Repurpos"
 - **Commercial signal:** Sponsorship: "Hannah Montana IG post This episode is sponsored by Alma , the financially rewarding way to go in-network I rec" (episode 'The Good, Bad, & Ugly BTS of My $40K Launch') (https://businessoftherapy.com/podcast-shownotes/ep-115)
-- **Checked:** 2026-10-20
+- **Checked:** 2026-10-22
 
 ## Step 1 · Instagram · day 0
 
 ```text
-Hi Kelly! Just found "The Good, Bad, & Ugly BTS of My $40K Launch" from Business of Therapy. Your show notes mention "Repurpos", which is exactly the work IncuBrix takes off a creator's plate. I'm [Sender name] from IncuBrix: we turn one recording into captioned, ready-to-post clips. Want me to send 3 free sample clips from that episode? If it's not relevant, just say so and I won't message again.
+Hi Kelly! Just found "The Good, Bad, & Ugly BTS of My $40K Launch" from Business of Therapy. Your show notes mention "Repurpos", which is exactly the work IncuBrix takes off a creator's plate. I'm Gowtham M P. I'm helping launch IncuBrix, which turns one recording into captioned, ready-to-post clips. Want me to send 3 free sample clips from that episode? If it's not relevant, just say so and I won't message again.
 ```
 
 ## Step 2 · Instagram · day 4
@@ -24,7 +24,7 @@ Thanks, Kelly. Here's what I meant: IncuBrix finds the best moments in "The Good
 ## Step 3 · Instagram · day 10
 
 ```text
-Last nudge from me, Kelly. If sample clips from Business of Therapy would ever be useful, just reply and I'll send them. Otherwise, all the best with the show! - [Sender name], IncuBrix
+Last nudge from me, Kelly. If sample clips from Business of Therapy would ever be useful, just reply and I'll send them. Otherwise, all the best with the show! - Gowtham M P (for IncuBrix)
 ```
 
 ## Step 4 · Contact form · day 14
@@ -39,8 +39,8 @@ IncuBrix is a creator studio that turns one recording into captioned clips, quot
 
 If it helps, I can run "The Good, Bad, & Ugly BTS of My $40K Launch" through it and send you three ready-to-post clips. No call and no card needed. Would that be useful?
 
-[Sender name]
-Creator Partnerships, IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
+Gowtham M P
+Growth Engineer candidate for IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
 https://incubrix.com/?utm_source=contact_form&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=L01005-s1
 
 Not for you? Reply "no thanks" and I won't email you again.

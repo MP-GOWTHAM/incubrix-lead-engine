@@ -7,12 +7,12 @@
 - **Hook:** Latest episode "From 90 to 600+ Kids: One BIG Business Journey" (2026-10-15); Repurposing into clips
 - **Why IncuBrix:** Repurposing into clips: ~44-min episodes; no YouTube/Instagram/TikTok clip channel linked in the feed
 - **Commercial signal:** Course/product: "t our career coaching services here Buy my book ‘FLEX’ here Boost your career with Investing in Women's Car" (episode 'CVs & Interview Prep: Stand Out and Get Hired') (https://rss.buzzsprout.com/2046830.rss)
-- **Checked:** 2026-10-20
+- **Checked:** 2026-10-22
 
 ## Step 1 · LinkedIn · day 0
 
 ```text
-Hi Elizabeth, I came across "From 90 to 600+ Kids: One BIG Business Journey" from Work It Like A Mum. I work on IncuBrix, which turns one episode into captioned clips and posts for every platform. Would be glad to connect. - [Sender name]
+Hi Elizabeth, I came across "From 90 to 600+ Kids: One BIG Business Journey" from Work It Like A Mum. I'm helping launch IncuBrix, which turns one episode into captioned clips and posts for every platform. Would be glad to connect. - Gowtham M P
 ```
 
 ## Step 2 · LinkedIn · day 4
@@ -24,7 +24,7 @@ Thanks, Elizabeth. Here's what I meant: IncuBrix finds the best moments in "From
 ## Step 3 · LinkedIn · day 10
 
 ```text
-Last nudge from me, Elizabeth. If sample clips from Work It Like A Mum would ever be useful, just reply and I'll send them. Otherwise, all the best with the show! - [Sender name], IncuBrix
+Last nudge from me, Elizabeth. If sample clips from Work It Like A Mum would ever be useful, just reply and I'll send them. Otherwise, all the best with the show! - Gowtham M P (for IncuBrix)
 ```
 
 ## Step 4 · Contact form · day 14
@@ -39,8 +39,8 @@ IncuBrix is a creator studio that turns one recording into captioned clips, quot
 
 If it helps, I can run "From 90 to 600+ Kids: One BIG Business Journey" through it and send you three ready-to-post clips. No call and no card needed. Would that be useful?
 
-[Sender name]
-Creator Partnerships, IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
+Gowtham M P
+Growth Engineer candidate for IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
 https://incubrix.com/?utm_source=contact_form&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=L00677-s1
 
 Not for you? Reply "no thanks" and I won't email you again.

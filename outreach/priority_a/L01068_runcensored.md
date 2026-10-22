@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "EP87 - Kendal Mountain Festival: 20+ Years Behind the Scenes with Steve Scott" (2026-10-19); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~63-min episodes; no YouTube/TikTok clip channel linked in the feed; Publishing consistency: gap of 29 days between episodes vs a usual 7-day rhythm
 - **Commercial signal:** Sponsorship: "the Kilian deal. RUNcensored is proudly sponsored by SportsShoes.com. Hosts: Ben Mounsey (solo this week) + Gary" (episode 'EP87 - Kendal Mountain Festival: 20+ Years Behind the Scenes with Stev') (https://shows.acast.com/runcensored/episodes/ep87-kendal-mountain-festival-20-years-behind-the-scenes-wit)
-- **Checked:** 2026-10-20
+- **Checked:** 2026-10-22
 
 ## Step 1 · Email · day 0
 **Subject:** "Kendal Mountain Festival: 20+ Years Behind the…" as clips?
@@ -21,8 +21,8 @@ IncuBrix is a creator studio that turns one recording into captioned clips, quot
 
 If it helps, I can run "Kendal Mountain Festival: 20+ Years Behind the…" through it and send you three ready-to-post clips. No call and no card needed. Would that be useful?
 
-[Sender name]
-Creator Partnerships, IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
+Gowtham M P
+Growth Engineer candidate for IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
 https://incubrix.com/?utm_source=email&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=L01068-s1
 
 Not for you? Reply "no thanks" and I won't email you again.
@@ -36,7 +36,7 @@ Hi Gary, a quick follow-up on my note about "Kendal Mountain Festival: 20+ Years
 
 Happy to send the three sample clips. Just reply "yes".
 
-[Sender name], IncuBrix
+Gowtham M P (for IncuBrix)
 https://incubrix.com/?utm_source=email&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=L01068-s2
 
 Not for you? Reply "no thanks" and I won't email you again.
@@ -50,7 +50,7 @@ Hi Gary, last note from me. If clipping and captioning RUNcensored isn't a prior
 
 Thanks for making the show.
 
-[Sender name], IncuBrix
+Gowtham M P (for IncuBrix)
 
 Not for you? Reply "no thanks" and I won't email you again.
 ```
@@ -58,5 +58,5 @@ Not for you? Reply "no thanks" and I won't email you again.
 ## Step 4 · Instagram · day 14
 
 ```text
-Hi Gary! Just found "Kendal Mountain Festival: 20+ Years Behind the…" from RUNcensored. At ~63 minutes per episode, there are easily ten clips in each one, and I didn't see a YouTube Shorts or TikTok channel linked from the show. I'm [Sender name] from IncuBrix: we turn one recording into captioned, ready-to-post clips. Want me to send 3 free sample clips from that episode? If it's not relevant, just say so and I won't message again.
+Hi Gary! Just found "Kendal Mountain Festival: 20+ Years Behind the…" from RUNcensored. At ~63 minutes per episode, there are easily ten clips in each one, and I didn't see a YouTube Shorts or TikTok channel linked from the show. I'm Gowtham M P. I'm helping launch IncuBrix, which turns one recording into captioned, ready-to-post clips. Want me to send 3 free sample clips from that episode? If it's not relevant, just say so and I won't message again.
 ```

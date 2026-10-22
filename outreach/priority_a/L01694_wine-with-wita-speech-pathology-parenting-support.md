@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "I Thought He Was Swearing At Me | A Speech Pathologist on Understanding Your Child" (2026-10-15); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~46-min episodes; no TikTok clip channel linked in the feed
 - **Commercial signal:** Sponsorship: ".com/09e84e6753 This episode is proudly sponsored by Dom Panino, Leichhardt. https://www.dompanino.com.au/ Wine" (episode 'They Told Me I Had A Perfect Baby | Raising Australia's Only Child Wit') (https://podcasters.spotify.com/pod/show/wine-with-wita/episodes/They-Told-Me-I-Had-A-Perfect-Baby--Raising-Australias-Only-Child-With-This-Rare-Condition-e3p13ee)
-- **Checked:** 2026-10-20
+- **Checked:** 2026-10-22
 
 ## Step 1 · Email · day 0
 **Subject:** "I Thought He Was Swearing At Me | A Speech…" as clips?
@@ -21,8 +21,8 @@ IncuBrix is a creator studio that turns one recording into captioned clips, quot
 
 If it helps, I can run "I Thought He Was Swearing At Me | A Speech…" through it and send you three ready-to-post clips. No call and no card needed. Would that be useful?
 
-[Sender name]
-Creator Partnerships, IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
+Gowtham M P
+Growth Engineer candidate for IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
 https://incubrix.com/?utm_source=email&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=L01694-s1
 
 Not for you? Reply "no thanks" and I won't email you again.
@@ -36,7 +36,7 @@ Hi Rita, a quick follow-up on my note about "I Thought He Was Swearing At Me | A
 
 Happy to send the three sample clips. Just reply "yes".
 
-[Sender name], IncuBrix
+Gowtham M P (for IncuBrix)
 https://incubrix.com/?utm_source=email&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=L01694-s2
 
 Not for you? Reply "no thanks" and I won't email you again.
@@ -50,7 +50,7 @@ Hi Rita, last note from me. If clipping and captioning Wine with Wita isn't a pr
 
 Thanks for making the show.
 
-[Sender name], IncuBrix
+Gowtham M P (for IncuBrix)
 
 Not for you? Reply "no thanks" and I won't email you again.
 ```
@@ -58,5 +58,5 @@ Not for you? Reply "no thanks" and I won't email you again.
 ## Step 4 · Instagram · day 14
 
 ```text
-Hi Rita! Just found "I Thought He Was Swearing At Me | A Speech…" from Wine with Wita. At ~46 minutes per episode, there are easily ten clips in each one, and I didn't see a TikTok channel linked from the show. I'm [Sender name] from IncuBrix: we turn one recording into captioned, ready-to-post clips. Want me to send 3 free sample clips from that episode? If it's not relevant, just say so and I won't message again.
+Hi Rita! Just found "I Thought He Was Swearing At Me | A Speech…" from Wine with Wita. At ~46 minutes per episode, there are easily ten clips in each one, and I didn't see a TikTok channel linked from the show. I'm Gowtham M P. I'm helping launch IncuBrix, which turns one recording into captioned, ready-to-post clips. Want me to send 3 free sample clips from that episode? If it's not relevant, just say so and I won't message again.
 ```

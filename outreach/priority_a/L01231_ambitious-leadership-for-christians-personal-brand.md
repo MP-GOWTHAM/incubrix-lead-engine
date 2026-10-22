@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "20| Is Your Personal Brand Getting Lost in the Noise?" (2026-10-17); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~21-min episodes; no YouTube/TikTok clip channel linked in the feed
 - **Commercial signal:** Service (coaching/consulting): "and nonprofit leaders often miss out on speaking engagements, media interviews, board appointments, and other high-impac" (episode '6| Why You're Being Overlooked: The Leadership Brand Every Ambitious C') (https://NicolePridePodcast.podbean.com/e/why-high-performing-executives-get-overlooked-and-what-theyre-missing/)
-- **Checked:** 2026-10-20
+- **Checked:** 2026-10-22
 
 ## Step 1 · Email · day 0
 **Subject:** "20| Is Your Personal Brand Getting Lost in the…" as clips?
@@ -21,8 +21,8 @@ IncuBrix is a creator studio that turns one recording into captioned clips, quot
 
 If it helps, I can run "20| Is Your Personal Brand Getting Lost in the…" through it and send you three ready-to-post clips. No call and no card needed. Would that be useful?
 
-[Sender name]
-Creator Partnerships, IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
+Gowtham M P
+Growth Engineer candidate for IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
 https://incubrix.com/?utm_source=email&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=L01231-s1
 
 Not for you? Reply "no thanks" and I won't email you again.
@@ -36,7 +36,7 @@ Hi Nicole, a quick follow-up on my note about "20| Is Your Personal Brand Gettin
 
 Happy to send the three sample clips. Just reply "yes".
 
-[Sender name], IncuBrix
+Gowtham M P (for IncuBrix)
 https://incubrix.com/?utm_source=email&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=L01231-s2
 
 Not for you? Reply "no thanks" and I won't email you again.
@@ -50,7 +50,7 @@ Hi Nicole, last note from me. If clipping and captioning Ambitious Leadership fo
 
 Thanks for making the show.
 
-[Sender name], IncuBrix
+Gowtham M P (for IncuBrix)
 
 Not for you? Reply "no thanks" and I won't email you again.
 ```
@@ -58,5 +58,5 @@ Not for you? Reply "no thanks" and I won't email you again.
 ## Step 4 · LinkedIn · day 14
 
 ```text
-Hi Nicole, I came across "20| Is Your Personal Brand Getting Lost in the…" from Ambitious Leadership for Christians. I work on IncuBrix, which turns one episode into captioned clips and posts for every platform. Would be glad to connect. - [Sender name]
+Hi Nicole, I came across "20| Is Your Personal Brand Getting Lost in the…" from Ambitious Leadership for Christians. I'm helping launch IncuBrix, which turns one episode into captioned clips and posts for every platform. Would be glad to connect. - Gowtham M P
 ```

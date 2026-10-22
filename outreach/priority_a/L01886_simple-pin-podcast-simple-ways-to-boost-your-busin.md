@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "Pinterest Wins: Photography that connect" (2026-10-14); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~23-min episodes; no YouTube/TikTok clip channel linked in the feed; Stated workflow need: episode notes say "repurpos"
 - **Commercial signal:** Service (coaching/consulting): "list of the services we offer . Book a discovery call with our team. 🎬 New to Pinterest → get started here with 4" (episode 'Pinterest Wins: Photography that connect') (https://rss.buzzsprout.com/2233901.rss)
-- **Checked:** 2026-10-20
+- **Checked:** 2026-10-22
 
 ## Step 1 · Email · day 0
 **Subject:** "Pinterest Wins: Photography that connect" as clips?
@@ -21,8 +21,8 @@ IncuBrix is a creator studio that turns one recording into captioned clips, quot
 
 If it helps, I can run "Pinterest Wins: Photography that connect" through it and send you three ready-to-post clips. No call and no card needed. Would that be useful?
 
-[Sender name]
-Creator Partnerships, IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
+Gowtham M P
+Growth Engineer candidate for IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
 https://incubrix.com/?utm_source=email&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=L01886-s1
 
 Not for you? Reply "no thanks" and I won't email you again.
@@ -36,7 +36,7 @@ Hi Kate, a quick follow-up on my note about "Pinterest Wins: Photography that co
 
 Happy to send the three sample clips. Just reply "yes".
 
-[Sender name], IncuBrix
+Gowtham M P (for IncuBrix)
 https://incubrix.com/?utm_source=email&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=L01886-s2
 
 Not for you? Reply "no thanks" and I won't email you again.
@@ -50,7 +50,7 @@ Hi Kate, last note from me. If clipping and captioning Simple Pin Podcast isn't 
 
 Thanks for making the show.
 
-[Sender name], IncuBrix
+Gowtham M P (for IncuBrix)
 
 Not for you? Reply "no thanks" and I won't email you again.
 ```
@@ -58,5 +58,5 @@ Not for you? Reply "no thanks" and I won't email you again.
 ## Step 4 · Instagram · day 14
 
 ```text
-Hi Kate! Just found "Pinterest Wins: Photography that connect" from Simple Pin Podcast. Your show notes mention "repurpos", which is exactly the work IncuBrix takes off a creator's plate. I'm [Sender name] from IncuBrix: we turn one recording into captioned, ready-to-post clips. Want me to send 3 free sample clips from that episode? If it's not relevant, just say so and I won't message again.
+Hi Kate! Just found "Pinterest Wins: Photography that connect" from Simple Pin Podcast. Your show notes mention "repurpos", which is exactly the work IncuBrix takes off a creator's plate. I'm Gowtham M P. I'm helping launch IncuBrix, which turns one recording into captioned, ready-to-post clips. Want me to send 3 free sample clips from that episode? If it's not relevant, just say so and I won't message again.
 ```

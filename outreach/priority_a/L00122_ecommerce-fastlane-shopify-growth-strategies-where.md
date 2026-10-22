@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "Your Black Friday Popup Discount Is Probably Too Big" (2026-10-15); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~41-min episodes; no YouTube/TikTok clip channel linked in the feed
 - **Commercial signal:** Sponsorship: "ment How to build first-party data from discount codes, newsletters, and purchases so prospecting keeps working a" (episode 'The Cheap Ad Inventory Everyone's Ignoring While They Fight Over TikTo') (https://ecommercefastlane.com/podcast/episode-487/)
-- **Checked:** 2026-10-20
+- **Checked:** 2026-10-22
 
 ## Step 1 · Email · day 0
 **Subject:** "Your Black Friday Popup Discount Is Probably…" as clips?
@@ -21,8 +21,8 @@ IncuBrix is a creator studio that turns one recording into captioned clips, quot
 
 If it helps, I can run "Your Black Friday Popup Discount Is Probably…" through it and send you three ready-to-post clips. No call and no card needed. Would that be useful?
 
-[Sender name]
-Creator Partnerships, IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
+Gowtham M P
+Growth Engineer candidate for IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
 https://incubrix.com/?utm_source=email&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=L00122-s1
 
 Not for you? Reply "no thanks" and I won't email you again.
@@ -36,7 +36,7 @@ Hi Steve, a quick follow-up on my note about "Your Black Friday Popup Discount I
 
 Happy to send the three sample clips. Just reply "yes".
 
-[Sender name], IncuBrix
+Gowtham M P (for IncuBrix)
 https://incubrix.com/?utm_source=email&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=L00122-s2
 
 Not for you? Reply "no thanks" and I won't email you again.
@@ -50,7 +50,7 @@ Hi Steve, last note from me. If clipping and captioning eCommerce Fastlane isn't
 
 Thanks for making the show.
 
-[Sender name], IncuBrix
+Gowtham M P (for IncuBrix)
 
 Not for you? Reply "no thanks" and I won't email you again.
 ```
@@ -58,5 +58,5 @@ Not for you? Reply "no thanks" and I won't email you again.
 ## Step 4 · LinkedIn · day 14
 
 ```text
-Hi Steve, I came across "Your Black Friday Popup Discount Is Probably…" from eCommerce Fastlane. I work on IncuBrix, which turns one episode into captioned clips and posts for every platform. Would be glad to connect. - [Sender name]
+Hi Steve, I came across "Your Black Friday Popup Discount Is Probably…" from eCommerce Fastlane. I'm helping launch IncuBrix, which turns one episode into captioned clips and posts for every platform. Would be glad to connect. - Gowtham M P
 ```

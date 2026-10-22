@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "Hidden Sugars, Insulin Resistance, & Fat Loss After 50: Our 5-Day Sugar Detox" (2026-10-19); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Stated workflow need: episode notes say "Repurpos"
 - **Commercial signal:** Sponsorship: "👉 JOIN THE NEW ERA BEGINNING OCTOBER 5 (Use code FOUNDER for the $79/mo rate): https://www.fasterway.com?aid" (episode '241. The NEW ERA of FASTer Way: More Personalization, Better Workouts,') (https://fatlossschool.podbean.com/e/the-new-era-of-faster-way-more-personalization-better-workouts-smarter-macros-for-fat-loss-after-50/)
-- **Checked:** 2026-10-20
+- **Checked:** 2026-10-22
 
 ## Step 1 · Email · day 0
 **Subject:** "Hidden Sugars, Insulin Resistance, & Fat Loss…" as clips?
@@ -21,8 +21,8 @@ IncuBrix is a creator studio that turns one recording into captioned clips, quot
 
 If it helps, I can run "Hidden Sugars, Insulin Resistance, & Fat Loss…" through it and send you three ready-to-post clips. No call and no card needed. Would that be useful?
 
-[Sender name]
-Creator Partnerships, IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
+Gowtham M P
+Growth Engineer candidate for IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
 https://incubrix.com/?utm_source=email&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=L00888-s1
 
 Not for you? Reply "no thanks" and I won't email you again.
@@ -36,7 +36,7 @@ Hi Amy, a quick follow-up on my note about "Hidden Sugars, Insulin Resistance, &
 
 Happy to send the three sample clips. Just reply "yes".
 
-[Sender name], IncuBrix
+Gowtham M P (for IncuBrix)
 https://incubrix.com/?utm_source=email&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=L00888-s2
 
 Not for you? Reply "no thanks" and I won't email you again.
@@ -50,7 +50,7 @@ Hi Amy, last note from me. If clipping and captioning Fat Loss School for Women 
 
 Thanks for making the show.
 
-[Sender name], IncuBrix
+Gowtham M P (for IncuBrix)
 
 Not for you? Reply "no thanks" and I won't email you again.
 ```

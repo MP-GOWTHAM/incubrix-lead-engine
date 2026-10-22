@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "Your prompts are stuck in 2025. Here are 5 fixes" (2026-10-18); Repurposing into clips
 - **Why IncuBrix:** Repurposing into clips: ~23-min episodes; no YouTube/TikTok clip channel linked in the feed
 - **Commercial signal:** Affiliate: "now. You can order a copy here: https://amzn.to/48ID29M Connect with me on the socials: Linkedin ( https://" (episode 'Your prompts are stuck in 2025. Here are 5 fixes') (https://omny.fm/shows/how-i-work/prompting-tips-for-2026-2026-10-final)
-- **Checked:** 2026-10-20
+- **Checked:** 2026-10-22
 
 ## Step 1 · Email · day 0
 **Subject:** "Your prompts are stuck in 2025. Here are 5 fixes" as clips?
@@ -21,8 +21,8 @@ IncuBrix is a creator studio that turns one recording into captioned clips, quot
 
 If it helps, I can run "Your prompts are stuck in 2025. Here are 5 fixes" through it and send you three ready-to-post clips. No call and no card needed. Would that be useful?
 
-[Sender name]
-Creator Partnerships, IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
+Gowtham M P
+Growth Engineer candidate for IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
 https://incubrix.com/?utm_source=email&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=L00141-s1
 
 Not for you? Reply "no thanks" and I won't email you again.
@@ -36,7 +36,7 @@ Hi Amantha, a quick follow-up on my note about "Your prompts are stuck in 2025. 
 
 Happy to send the three sample clips. Just reply "yes".
 
-[Sender name], IncuBrix
+Gowtham M P (for IncuBrix)
 https://incubrix.com/?utm_source=email&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=L00141-s2
 
 Not for you? Reply "no thanks" and I won't email you again.
@@ -50,7 +50,7 @@ Hi Amantha, last note from me. If clipping and captioning How I Work isn't a pri
 
 Thanks for making the show.
 
-[Sender name], IncuBrix
+Gowtham M P (for IncuBrix)
 
 Not for you? Reply "no thanks" and I won't email you again.
 ```
@@ -58,5 +58,5 @@ Not for you? Reply "no thanks" and I won't email you again.
 ## Step 4 · LinkedIn · day 14
 
 ```text
-Hi Amantha, I came across "Your prompts are stuck in 2025. Here are 5 fixes" from How I Work. I work on IncuBrix, which turns one episode into captioned clips and posts for every platform. Would be glad to connect. - [Sender name]
+Hi Amantha, I came across "Your prompts are stuck in 2025. Here are 5 fixes" from How I Work. I'm helping launch IncuBrix, which turns one episode into captioned clips and posts for every platform. Would be glad to connect. - Gowtham M P
 ```

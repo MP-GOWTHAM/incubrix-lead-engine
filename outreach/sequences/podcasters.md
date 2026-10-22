@@ -28,8 +28,8 @@ IncuBrix is a creator studio that turns one recording into captioned clips, quot
 
 If it helps, I can run "{latest_episode_title}" through it and send you three ready-to-post clips. No call and no card needed. Would that be useful?
 
-[Sender name]
-Creator Partnerships, IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
+Gowtham M P
+Growth Engineer candidate for IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
 https://incubrix.com/?utm_source=email&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=%7Blead_id%7D-s1
 
 Not for you? Reply "no thanks" and I won't email you again.
@@ -43,7 +43,7 @@ Hi {first_name}, a quick follow-up on my note about "{latest_episode_title}". Yo
 
 Happy to send the three sample clips. Just reply "yes".
 
-[Sender name], IncuBrix
+Gowtham M P (for IncuBrix)
 https://incubrix.com/?utm_source=email&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=%7Blead_id%7D-s2
 
 Not for you? Reply "no thanks" and I won't email you again.
@@ -57,7 +57,7 @@ Hi {first_name}, last note from me. If clipping and captioning {show_name} isn't
 
 Thanks for making the show.
 
-[Sender name], IncuBrix
+Gowtham M P (for IncuBrix)
 
 Not for you? Reply "no thanks" and I won't email you again.
 ```
@@ -69,7 +69,7 @@ _Manual DM from the IncuBrix business account. No bulk or automated DMs (Meta Pl
 ### Step 1 · day 0
 
 ```text
-Hi {first_name}! Just found "{latest_episode_title}" from {show_name}. At ~{avg_minutes} minutes per episode, there are easily ten clips in each one, and I didn't see a YouTube Shorts or Instagram Reels channel linked from the show. I'm [Sender name] from IncuBrix: we turn one recording into captioned, ready-to-post clips. Want me to send 3 free sample clips from that episode? If it's not relevant, just say so and I won't message again.
+Hi {first_name}! Just found "{latest_episode_title}" from {show_name}. At ~{avg_minutes} minutes per episode, there are easily ten clips in each one, and I didn't see a YouTube Shorts or Instagram Reels channel linked from the show. I'm Gowtham M P. I'm helping launch IncuBrix, which turns one recording into captioned, ready-to-post clips. Want me to send 3 free sample clips from that episode? If it's not relevant, just say so and I won't message again.
 ```
 
 ### Step 2 · day 4
@@ -81,7 +81,7 @@ Thanks, {first_name}. Here's what I meant: IncuBrix finds the best moments in "{
 ### Step 3 · day 10
 
 ```text
-Last nudge from me, {first_name}. If sample clips from {show_name} would ever be useful, just reply and I'll send them. Otherwise, all the best with the show! - [Sender name], IncuBrix
+Last nudge from me, {first_name}. If sample clips from {show_name} would ever be useful, just reply and I'll send them. Otherwise, all the best with the show! - Gowtham M P (for IncuBrix)
 ```
 
 ## X
@@ -91,7 +91,7 @@ _Manual DM only where their DMs are open; otherwise a public reply to their late
 ### Step 1 · day 0
 
 ```text
-Hi {first_name}! Just found "{latest_episode_title}" from {show_name}. At ~{avg_minutes} minutes per episode, there are easily ten clips in each one, and I didn't see a YouTube Shorts or Instagram Reels channel linked from the show. I'm [Sender name] from IncuBrix: we turn one recording into captioned, ready-to-post clips. Want me to send 3 free sample clips from that episode? If it's not relevant, just say so and I won't message again.
+Hi {first_name}! Just found "{latest_episode_title}" from {show_name}. At ~{avg_minutes} minutes per episode, there are easily ten clips in each one, and I didn't see a YouTube Shorts or Instagram Reels channel linked from the show. I'm Gowtham M P. I'm helping launch IncuBrix, which turns one recording into captioned, ready-to-post clips. Want me to send 3 free sample clips from that episode? If it's not relevant, just say so and I won't message again.
 ```
 
 ### Step 2 · day 4
@@ -103,7 +103,7 @@ Thanks, {first_name}. Here's what I meant: IncuBrix finds the best moments in "{
 ### Step 3 · day 10
 
 ```text
-Last nudge from me, {first_name}. If sample clips from {show_name} would ever be useful, just reply and I'll send them. Otherwise, all the best with the show! - [Sender name], IncuBrix
+Last nudge from me, {first_name}. If sample clips from {show_name} would ever be useful, just reply and I'll send them. Otherwise, all the best with the show! - Gowtham M P (for IncuBrix)
 ```
 
 ## LinkedIn
@@ -113,7 +113,7 @@ _Manual only: connection request with the note (300-char limit), then steps 2-3 
 ### Step 1 · day 0
 
 ```text
-Hi {first_name}, I came across "{latest_episode_title}" from {show_name}. I work on IncuBrix, which turns one episode into captioned clips and posts for every platform. Would be glad to connect. - [Sender name]
+Hi {first_name}, I came across "{latest_episode_title}" from {show_name}. I'm helping launch IncuBrix, which turns one episode into captioned clips and posts for every platform. Would be glad to connect. - Gowtham M P
 ```
 
 ### Step 2 · day 4
@@ -125,7 +125,7 @@ Thanks, {first_name}. Here's what I meant: IncuBrix finds the best moments in "{
 ### Step 3 · day 10
 
 ```text
-Last nudge from me, {first_name}. If sample clips from {show_name} would ever be useful, just reply and I'll send them. Otherwise, all the best with the show! - [Sender name], IncuBrix
+Last nudge from me, {first_name}. If sample clips from {show_name} would ever be useful, just reply and I'll send them. Otherwise, all the best with the show! - Gowtham M P (for IncuBrix)
 ```
 
 ## Podcast guest pitch
@@ -138,15 +138,15 @@ _Email to the published show contact, from the person who would be the guest. Ma
 ```text
 Hi {first_name},
 
-I enjoyed seeing "{latest_episode_title}" come through the {show_name} feed. I'd like to suggest [IncuBrix founder or creator lead] from IncuBrix as a guest. Possible angles for your listeners:
+I enjoyed seeing "{latest_episode_title}" come through the {show_name} feed. I'd like to suggest someone from the IncuBrix team as a guest. Possible angles for your listeners:
 1. How solo creators turn one recording into 10+ short clips without an editor
 2. What actually gets reach on Shorts, Reels and LinkedIn for long-form shows in 2026
 3. Captions, transcripts and voice-cloned fixes: where AI saves creators hours, and where it doesn't
 
 Happy to fit your format and schedule.
 
-[Sender name]
-Creator Partnerships, IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
+Gowtham M P
+Growth Engineer candidate for IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
 https://incubrix.com/?utm_source=podcast_guest_pitch&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=%7Blead_id%7D-s1
 
 Not for you? Reply "no thanks" and I won't email you again.
@@ -158,7 +158,7 @@ Not for you? Reply "no thanks" and I won't email you again.
 ```text
 Hi {first_name}, following up on the guest idea. If a different angle would fit {show_name} better, I'm glad to shape it around your audience.
 
-[Sender name], IncuBrix
+Gowtham M P (for IncuBrix)
 
 Not for you? Reply "no thanks" and I won't email you again.
 ```
@@ -169,7 +169,7 @@ Not for you? Reply "no thanks" and I won't email you again.
 ```text
 Hi {first_name}, I'll leave it here. If you ever want a guest on content workflow or repurposing, the offer stands.
 
-[Sender name], IncuBrix
+Gowtham M P (for IncuBrix)
 
 Not for you? Reply "no thanks" and I won't email you again.
 ```
@@ -190,8 +190,8 @@ IncuBrix is a creator studio that turns one recording into captioned clips, quot
 
 If it helps, I can run "{latest_episode_title}" through it and send you three ready-to-post clips. No call and no card needed. Would that be useful?
 
-[Sender name]
-Creator Partnerships, IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
+Gowtham M P
+Growth Engineer candidate for IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
 https://incubrix.com/?utm_source=contact_form&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=%7Blead_id%7D-s1
 
 Not for you? Reply "no thanks" and I won't email you again.
@@ -205,7 +205,7 @@ Hi {first_name}, a quick follow-up on my note about "{latest_episode_title}". Yo
 
 Happy to send the three sample clips. Just reply "yes".
 
-[Sender name], IncuBrix
+Gowtham M P (for IncuBrix)
 https://incubrix.com/?utm_source=contact_form&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=%7Blead_id%7D-s2
 
 Not for you? Reply "no thanks" and I won't email you again.
@@ -219,7 +219,7 @@ Hi {first_name}, last note from me. If clipping and captioning {show_name} isn't
 
 Thanks for making the show.
 
-[Sender name], IncuBrix
+Gowtham M P (for IncuBrix)
 
 Not for you? Reply "no thanks" and I won't email you again.
 ```

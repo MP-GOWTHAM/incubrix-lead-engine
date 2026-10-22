@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "Starting a Golf Apparel Brand at 14 Years Old with Kate Korngold of Featherie" (2026-10-13); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~43-min episodes; no YouTube/Instagram/TikTok clip channel linked in the feed; Stated workflow need: episode notes say "hiring an editor"
 - **Commercial signal:** Service (coaching/consulting): "wner of Grace Space Christian Coaching! Apply to work together through a clarity call Growth Without Burnout Sign" (episode 'September Book Club: Guide to Fall Reading') (https://rss.buzzsprout.com/1998854.rss)
-- **Checked:** 2026-10-20
+- **Checked:** 2026-10-22
 
 ## Step 1 · Email · day 0
 **Subject:** "Starting a Golf Apparel Brand at 14 Years Old…" as clips?
@@ -21,8 +21,8 @@ IncuBrix is a creator studio that turns one recording into captioned clips, quot
 
 If it helps, I can run "Starting a Golf Apparel Brand at 14 Years Old…" through it and send you three ready-to-post clips. No call and no card needed. Would that be useful?
 
-[Sender name]
-Creator Partnerships, IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
+Gowtham M P
+Growth Engineer candidate for IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
 https://incubrix.com/?utm_source=email&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=L02033-s1
 
 Not for you? Reply "no thanks" and I won't email you again.
@@ -36,7 +36,7 @@ Hi Lauren, a quick follow-up on my note about "Starting a Golf Apparel Brand at 
 
 Happy to send the three sample clips. Just reply "yes".
 
-[Sender name], IncuBrix
+Gowtham M P (for IncuBrix)
 https://incubrix.com/?utm_source=email&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=L02033-s2
 
 Not for you? Reply "no thanks" and I won't email you again.
@@ -50,7 +50,7 @@ Hi Lauren, last note from me. If clipping and captioning So Can I isn't a priori
 
 Thanks for making the show.
 
-[Sender name], IncuBrix
+Gowtham M P (for IncuBrix)
 
 Not for you? Reply "no thanks" and I won't email you again.
 ```

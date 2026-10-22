@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "How To Stop Anticipatory Anxiety and Calm Your Inner C-3PO" (2026-10-12); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~22-min episodes; no YouTube/Instagram/TikTok clip channel linked in the feed; Publishing consistency: gap of 1624 days between episodes vs a usual 14-day rhythm
 - **Commercial signal:** Sponsorship: "eally is something worth worrying about Episode Sponsor: BetterHelp This episode of The Men's Self-Help Podcast is" (episode 'How To Stop Anticipatory Anxiety and Calm Your Inner C-3PO') (https://guycounselingradio.libsyn.com/have-you-been-living-like-c-3po)
-- **Checked:** 2026-10-20
+- **Checked:** 2026-10-22
 
 ## Step 1 · Email · day 0
 **Subject:** "How To Stop Anticipatory Anxiety and Calm Your…" as clips?
@@ -21,8 +21,8 @@ IncuBrix is a creator studio that turns one recording into captioned clips, quot
 
 If it helps, I can run "How To Stop Anticipatory Anxiety and Calm Your…" through it and send you three ready-to-post clips. No call and no card needed. Would that be useful?
 
-[Sender name]
-Creator Partnerships, IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
+Gowtham M P
+Growth Engineer candidate for IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
 https://incubrix.com/?utm_source=email&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=L02208-s1
 
 Not for you? Reply "no thanks" and I won't email you again.
@@ -36,7 +36,7 @@ Hi Dr Moore, a quick follow-up on my note about "How To Stop Anticipatory Anxiet
 
 Happy to send the three sample clips. Just reply "yes".
 
-[Sender name], IncuBrix
+Gowtham M P (for IncuBrix)
 https://incubrix.com/?utm_source=email&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=L02208-s2
 
 Not for you? Reply "no thanks" and I won't email you again.
@@ -50,7 +50,7 @@ Hi Dr Moore, last note from me. If clipping and captioning THE MEN'S SELF HELP P
 
 Thanks for making the show.
 
-[Sender name], IncuBrix
+Gowtham M P (for IncuBrix)
 
 Not for you? Reply "no thanks" and I won't email you again.
 ```
@@ -67,8 +67,8 @@ IncuBrix is a creator studio that turns one recording into captioned clips, quot
 
 If it helps, I can run "How To Stop Anticipatory Anxiety and Calm Your…" through it and send you three ready-to-post clips. No call and no card needed. Would that be useful?
 
-[Sender name]
-Creator Partnerships, IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
+Gowtham M P
+Growth Engineer candidate for IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
 https://incubrix.com/?utm_source=contact_form&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=L02208-s1
 
 Not for you? Reply "no thanks" and I won't email you again.

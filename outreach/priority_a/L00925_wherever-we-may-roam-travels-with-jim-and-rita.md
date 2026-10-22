@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "Across Africa In A Volkswagen Bus" (2026-10-14); Repurposing into clips
 - **Why IncuBrix:** Repurposing into clips: ~35-min episodes; no TikTok clip channel linked in the feed
 - **Commercial signal:** Membership/subscription: "bscribe to our Mailing List https://www.buzzsprout.com/2292506/supporters/new http://jimsantos.net https://www.instagram" (episode 'Across Africa In A Volkswagen Bus') (https://rss.buzzsprout.com/2292506.rss)
-- **Checked:** 2026-10-20
+- **Checked:** 2026-10-22
 
 ## Step 1 · Email · day 0
 **Subject:** "Across Africa In A Volkswagen Bus" as clips?
@@ -21,8 +21,8 @@ IncuBrix is a creator studio that turns one recording into captioned clips, quot
 
 If it helps, I can run "Across Africa In A Volkswagen Bus" through it and send you three ready-to-post clips. No call and no card needed. Would that be useful?
 
-[Sender name]
-Creator Partnerships, IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
+Gowtham M P
+Growth Engineer candidate for IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
 https://incubrix.com/?utm_source=email&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=L00925-s1
 
 Not for you? Reply "no thanks" and I won't email you again.
@@ -36,7 +36,7 @@ Hi Jim, a quick follow-up on my note about "Across Africa In A Volkswagen Bus". 
 
 Happy to send the three sample clips. Just reply "yes".
 
-[Sender name], IncuBrix
+Gowtham M P (for IncuBrix)
 https://incubrix.com/?utm_source=email&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=L00925-s2
 
 Not for you? Reply "no thanks" and I won't email you again.
@@ -50,7 +50,7 @@ Hi Jim, last note from me. If clipping and captioning Wherever We May Roam isn't
 
 Thanks for making the show.
 
-[Sender name], IncuBrix
+Gowtham M P (for IncuBrix)
 
 Not for you? Reply "no thanks" and I won't email you again.
 ```
@@ -58,5 +58,5 @@ Not for you? Reply "no thanks" and I won't email you again.
 ## Step 4 · Instagram · day 14
 
 ```text
-Hi Jim! Just found "Across Africa In A Volkswagen Bus" from Wherever We May Roam. At ~35 minutes per episode, there are easily ten clips in each one, and I didn't see a TikTok channel linked from the show. I'm [Sender name] from IncuBrix: we turn one recording into captioned, ready-to-post clips. Want me to send 3 free sample clips from that episode? If it's not relevant, just say so and I won't message again.
+Hi Jim! Just found "Across Africa In A Volkswagen Bus" from Wherever We May Roam. At ~35 minutes per episode, there are easily ten clips in each one, and I didn't see a TikTok channel linked from the show. I'm Gowtham M P. I'm helping launch IncuBrix, which turns one recording into captioned, ready-to-post clips. Want me to send 3 free sample clips from that episode? If it's not relevant, just say so and I won't message again.
 ```

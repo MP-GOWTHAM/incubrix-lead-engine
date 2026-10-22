@@ -7,12 +7,12 @@
 - **Hook:** Latest episode "102. How to Get a Raise at Work: 3 Ways to Make More Money" (2026-10-20); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~34-min episodes; no YouTube/TikTok clip channel linked in the feed
 - **Commercial signal:** Course/product: "📖 My book, The Career You Crave , is out now! Buy your copy here: US:" (episode '102. How to Get a Raise at Work: 3 Ways to Make More Money') (https://rss.buzzsprout.com/2436666.rss)
-- **Checked:** 2026-10-20
+- **Checked:** 2026-10-22
 
 ## Step 1 · LinkedIn · day 0
 
 ```text
-Hi Irina, I came across "102. How to Get a Raise at Work: 3 Ways to…" from Career Cravings. I work on IncuBrix, which turns one episode into captioned clips and posts for every platform. Would be glad to connect. - [Sender name]
+Hi Irina, I came across "102. How to Get a Raise at Work: 3 Ways to…" from Career Cravings. I'm helping launch IncuBrix, which turns one episode into captioned clips and posts for every platform. Would be glad to connect. - Gowtham M P
 ```
 
 ## Step 2 · LinkedIn · day 4
@@ -24,11 +24,11 @@ Thanks, Irina. Here's what I meant: IncuBrix finds the best moments in "102. How
 ## Step 3 · LinkedIn · day 10
 
 ```text
-Last nudge from me, Irina. If sample clips from Career Cravings would ever be useful, just reply and I'll send them. Otherwise, all the best with the show! - [Sender name], IncuBrix
+Last nudge from me, Irina. If sample clips from Career Cravings would ever be useful, just reply and I'll send them. Otherwise, all the best with the show! - Gowtham M P (for IncuBrix)
 ```
 
 ## Step 4 · Instagram · day 14
 
 ```text
-Hi Irina! Just found "102. How to Get a Raise at Work: 3 Ways to…" from Career Cravings. At ~34 minutes per episode, there are easily ten clips in each one, and I didn't see a YouTube Shorts or TikTok channel linked from the show. I'm [Sender name] from IncuBrix: we turn one recording into captioned, ready-to-post clips. Want me to send 3 free sample clips from that episode? If it's not relevant, just say so and I won't message again.
+Hi Irina! Just found "102. How to Get a Raise at Work: 3 Ways to…" from Career Cravings. At ~34 minutes per episode, there are easily ten clips in each one, and I didn't see a YouTube Shorts or TikTok channel linked from the show. I'm Gowtham M P. I'm helping launch IncuBrix, which turns one recording into captioned, ready-to-post clips. Want me to send 3 free sample clips from that episode? If it's not relevant, just say so and I won't message again.
 ```

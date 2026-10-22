@@ -1,33 +1,33 @@
 {
-  "run_at": "2026-10-20T10:45:52+00:00",
-  "runtime_min": 7.57,
+  "run_at": "2026-10-22T14:06:07+00:00",
+  "runtime_min": 7.9,
   "direct_cost_usd": 0.0,
   "input_size": 0,
   "searches": 0,
   "searches_from_cache": 0,
   "new_candidates": 0,
   "duplicates_removed": 43,
-  "feeds_fetched": 0,
+  "feeds_fetched": 19,
   "feeds_from_cache": 20017,
-  "feed_errors": 149,
+  "feed_errors": 130,
   "evaluated": 20166,
-  "qualified": 1044,
-  "rejected": 19037,
-  "reserve_country_cap": 85,
+  "qualified": 1042,
+  "rejected": 19042,
+  "reserve_country_cap": 82,
   "priority": {
     "A": 250,
-    "B": 417,
-    "C": 377
+    "B": 416,
+    "C": 376
   },
   "segments": {
-    "Expert-Led Creator": 448,
-    "Podcaster/Video Podcaster": 596
+    "Expert-Led Creator": 443,
+    "Podcaster/Video Podcaster": 599
   },
   "countries": {
     "CA": 78,
-    "US": 574,
+    "US": 573,
     "IE": 22,
-    "AU": 144,
+    "AU": 143,
     "GB": 203,
     "NZ": 22,
     "SG": 1
@@ -35,34 +35,34 @@
   "country_max_share": 0.55,
   "best_channels": {
     "Email": 743,
-    "Instagram": 220,
+    "Instagram": 218,
     "LinkedIn": 68,
     "TikTok": 1,
     "X": 12
   },
   "backup_channels": {
-    "Instagram": 276,
-    "Contact form": 394,
+    "Instagram": 277,
+    "Contact form": 393,
     "LinkedIn": 77,
     "Podcast guest pitch": 92,
-    "(none)": 114,
+    "(none)": 113,
     "Email": 22,
     "TikTok": 27,
-    "X": 42
+    "X": 41
   },
   "top_rejection_reasons": {
-    "Country not verified as approved market": 11939,
-    "No public monetisation evidence": 11454,
-    "No identifiable individual creator": 9115,
-    "No verifiable public business contact channel": 6709,
-    "Organisation/network/publication, not an individual creator": 3570,
-    "Not active enough": 2865,
-    "Listed author not confirmed as a person by any second source": 2106,
-    "Recent content not mainly English": 2098,
+    "Country not verified as approved market": 11950,
+    "No public monetisation evidence": 11465,
+    "No identifiable individual creator": 9122,
+    "No verifiable public business contact channel": 6720,
+    "Organisation/network/publication, not an individual creator": 3572,
+    "Not active enough": 2960,
+    "Listed author not confirmed as a person by any second source": 2108,
+    "Recent content not mainly English": 2099,
     "No evidence of a content-workflow need": 721,
     "Contact belongs to an agency/management firm": 346,
-    "Held in reserve: US would exceed 55% country cap": 85,
-    "Contact channel not shown active in last 60 days": 58
+    "Held in reserve: US would exceed 55% country cap": 82,
+    "Contact channel not shown active in last 60 days": 75
   },
   "duplicates_in_export": 0,
   "incomplete_in_export": 0

@@ -7,12 +7,12 @@
 - **Hook:** Latest episode "Women in Golf Awards (Nicole Wheatley) & St Croix National GC (Kristine Botelho) - GCTUK…" (2026-10-17); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~59-min episodes; no YouTube/TikTok clip channel linked in the feed
 - **Commercial signal:** Sponsorship: "nkedin.com/in/leighton-walker-2708b627/ Thanks to our partners Toro – Click here for more information Himalayas Golf – C" (episode 'Women in Golf Awards (Nicole Wheatley) & St Croix National GC (Kristin') (https://golfclubtalkuk.libsyn.com/women-in-golf-awards-nicole-wheatley-st-croix-national-gc-kristine-botelho-gctuk-163)
-- **Checked:** 2026-10-20
+- **Checked:** 2026-10-22
 
 ## Step 1 · LinkedIn · day 0
 
 ```text
-Hi Leighton, I came across "Women in Golf Awards (Nicole Wheatley) & St…" from Golf Club Talk UK. I work on IncuBrix, which turns one episode into captioned clips and posts for every platform. Would be glad to connect. - [Sender name]
+Hi Leighton, I came across "Women in Golf Awards (Nicole Wheatley) & St…" from Golf Club Talk UK. I'm helping launch IncuBrix, which turns one episode into captioned clips and posts for every platform. Would be glad to connect. - Gowtham M P
 ```
 
 ## Step 2 · LinkedIn · day 4
@@ -24,7 +24,7 @@ Thanks, Leighton. Here's what I meant: IncuBrix finds the best moments in "Women
 ## Step 3 · LinkedIn · day 10
 
 ```text
-Last nudge from me, Leighton. If sample clips from Golf Club Talk UK would ever be useful, just reply and I'll send them. Otherwise, all the best with the show! - [Sender name], IncuBrix
+Last nudge from me, Leighton. If sample clips from Golf Club Talk UK would ever be useful, just reply and I'll send them. Otherwise, all the best with the show! - Gowtham M P (for IncuBrix)
 ```
 
 ## Step 4 · Email · day 14
@@ -39,8 +39,8 @@ IncuBrix is a creator studio that turns one recording into captioned clips, quot
 
 If it helps, I can run "Women in Golf Awards (Nicole Wheatley) & St…" through it and send you three ready-to-post clips. No call and no card needed. Would that be useful?
 
-[Sender name]
-Creator Partnerships, IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
+Gowtham M P
+Growth Engineer candidate for IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
 https://incubrix.com/?utm_source=email&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=L01536-s1
 
 Not for you? Reply "no thanks" and I won't email you again.

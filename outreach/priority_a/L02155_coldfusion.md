@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "Galaxy Note II October 10 Release? I've Ordered Mine!" (2026-10-20); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript
 - **Commercial signal:** Membership/subscription: "ibing! I'm also on Patreon: https://www.patreon.com/ColdFusion_TV Bitcoin address: 13SjyCXPB9o3iN4LitYQ2wYKeqYT" (episode '6 People Who Predicted the Future With Stunning Accuracy') (https://feeds.megaphone.fm/VG2478209260)
-- **Checked:** 2026-10-20
+- **Checked:** 2026-10-22
 
 ## Step 1 · Email · day 0
 **Subject:** "Galaxy Note II October 10 Release? I've…" as clips?
@@ -21,8 +21,8 @@ IncuBrix is a creator studio that turns one recording into captioned clips, quot
 
 If it helps, I can run "Galaxy Note II October 10 Release? I've…" through it and send you three ready-to-post clips. No call and no card needed. Would that be useful?
 
-[Sender name]
-Creator Partnerships, IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
+Gowtham M P
+Growth Engineer candidate for IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
 https://incubrix.com/?utm_source=email&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=L02155-s1
 
 Not for you? Reply "no thanks" and I won't email you again.
@@ -36,7 +36,7 @@ Hi Dagogo, a quick follow-up on my note about "Galaxy Note II October 10 Release
 
 Happy to send the three sample clips. Just reply "yes".
 
-[Sender name], IncuBrix
+Gowtham M P (for IncuBrix)
 https://incubrix.com/?utm_source=email&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=L02155-s2
 
 Not for you? Reply "no thanks" and I won't email you again.
@@ -50,7 +50,7 @@ Hi Dagogo, last note from me. If clipping and captioning ColdFusion isn't a prio
 
 Thanks for making the show.
 
-[Sender name], IncuBrix
+Gowtham M P (for IncuBrix)
 
 Not for you? Reply "no thanks" and I won't email you again.
 ```
@@ -58,5 +58,5 @@ Not for you? Reply "no thanks" and I won't email you again.
 ## Step 4 · Instagram · day 14
 
 ```text
-Hi Dagogo! Just found "Galaxy Note II October 10 Release? I've…" from ColdFusion. I couldn't find a transcript or captioned cut of it, which is usually the easiest reach a show leaves on the table. I'm [Sender name] from IncuBrix: we turn one recording into captioned, ready-to-post clips. Want me to send 3 free sample clips from that episode? If it's not relevant, just say so and I won't message again.
+Hi Dagogo! Just found "Galaxy Note II October 10 Release? I've…" from ColdFusion. I couldn't find a transcript or captioned cut of it, which is usually the easiest reach a show leaves on the table. I'm Gowtham M P. I'm helping launch IncuBrix, which turns one recording into captioned, ready-to-post clips. Want me to send 3 free sample clips from that episode? If it's not relevant, just say so and I won't message again.
 ```

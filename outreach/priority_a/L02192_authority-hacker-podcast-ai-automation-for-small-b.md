@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "ChatGPT's Dots Finally Feels Like a Virtual Employee" (2026-10-08); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Publishing consistency: gap of 41 days between episodes vs a usual 7-day rhythm
 - **Commercial signal:** Course/product: "The new Authority Hacker MCP that plugs our membership into your AI agent The watermark is real. Most of the fear" (episode 'Google Can Now Accurately Detect Your AI Content') (https://rss.buzzsprout.com/1885879.rss)
-- **Checked:** 2026-10-20
+- **Checked:** 2026-10-22
 
 ## Step 1 · Email · day 0
 **Subject:** "ChatGPT's Dots Finally Feels Like a Virtual…" as clips?
@@ -21,8 +21,8 @@ IncuBrix is a creator studio that turns one recording into captioned clips, quot
 
 If it helps, I can run "ChatGPT's Dots Finally Feels Like a Virtual…" through it and send you three ready-to-post clips. No call and no card needed. Would that be useful?
 
-[Sender name]
-Creator Partnerships, IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
+Gowtham M P
+Growth Engineer candidate for IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
 https://incubrix.com/?utm_source=email&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=L02192-s1
 
 Not for you? Reply "no thanks" and I won't email you again.
@@ -36,7 +36,7 @@ Hi Gael, a quick follow-up on my note about "ChatGPT's Dots Finally Feels Like a
 
 Happy to send the three sample clips. Just reply "yes".
 
-[Sender name], IncuBrix
+Gowtham M P (for IncuBrix)
 https://incubrix.com/?utm_source=email&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=L02192-s2
 
 Not for you? Reply "no thanks" and I won't email you again.
@@ -50,7 +50,7 @@ Hi Gael, last note from me. If clipping and captioning Authority Hacker Podcast 
 
 Thanks for making the show.
 
-[Sender name], IncuBrix
+Gowtham M P (for IncuBrix)
 
 Not for you? Reply "no thanks" and I won't email you again.
 ```
@@ -58,5 +58,5 @@ Not for you? Reply "no thanks" and I won't email you again.
 ## Step 4 · Instagram · day 14
 
 ```text
-Hi Gael! Just found "ChatGPT's Dots Finally Feels Like a Virtual…" from Authority Hacker Podcast. I noticed a few longer gaps in the feed, and a bank of ready-made clips is a simple way to keep channels moving through busy weeks. I'm [Sender name] from IncuBrix: we turn one recording into captioned, ready-to-post clips. Want me to send 3 free sample clips from that episode? If it's not relevant, just say so and I won't message again.
+Hi Gael! Just found "ChatGPT's Dots Finally Feels Like a Virtual…" from Authority Hacker Podcast. I noticed a few longer gaps in the feed, and a bank of ready-made clips is a simple way to keep channels moving through busy weeks. I'm Gowtham M P. I'm helping launch IncuBrix, which turns one recording into captioned, ready-to-post clips. Want me to send 3 free sample clips from that episode? If it's not relevant, just say so and I won't message again.
 ```

@@ -7,12 +7,12 @@
 - **Hook:** Latest episode "Your Experience Is Not Your Value: How to Explain What You Really Bring" (2026-10-06); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~41-min episodes; no TikTok clip channel linked in the feed
 - **Commercial signal:** Service (coaching/consulting): "episode: Reset Your Career TalentPredix Book a consultation with me Episode 23 - Adapting to Volatility, Uncertain" (episode '7 Strategies to Navigate Career Uncertainty') (https://www.renatabernarde.com/7-strategies-to-navigate-career-uncertainty)
-- **Checked:** 2026-10-20
+- **Checked:** 2026-10-22
 
 ## Step 1 · LinkedIn · day 0
 
 ```text
-Hi Renata, I came across "Your Experience Is Not Your Value: How to…" from The Job Hunting Podcast. I work on IncuBrix, which turns one episode into captioned clips and posts for every platform. Would be glad to connect. - [Sender name]
+Hi Renata, I came across "Your Experience Is Not Your Value: How to…" from The Job Hunting Podcast. I'm helping launch IncuBrix, which turns one episode into captioned clips and posts for every platform. Would be glad to connect. - Gowtham M P
 ```
 
 ## Step 2 · LinkedIn · day 4
@@ -24,11 +24,11 @@ Thanks, Renata. Here's what I meant: IncuBrix finds the best moments in "Your Ex
 ## Step 3 · LinkedIn · day 10
 
 ```text
-Last nudge from me, Renata. If sample clips from The Job Hunting Podcast would ever be useful, just reply and I'll send them. Otherwise, all the best with the show! - [Sender name], IncuBrix
+Last nudge from me, Renata. If sample clips from The Job Hunting Podcast would ever be useful, just reply and I'll send them. Otherwise, all the best with the show! - Gowtham M P (for IncuBrix)
 ```
 
 ## Step 4 · Instagram · day 14
 
 ```text
-Hi Renata! Just found "Your Experience Is Not Your Value: How to…" from The Job Hunting Podcast. At ~41 minutes per episode, there are easily ten clips in each one, and I didn't see a TikTok channel linked from the show. I'm [Sender name] from IncuBrix: we turn one recording into captioned, ready-to-post clips. Want me to send 3 free sample clips from that episode? If it's not relevant, just say so and I won't message again.
+Hi Renata! Just found "Your Experience Is Not Your Value: How to…" from The Job Hunting Podcast. At ~41 minutes per episode, there are easily ten clips in each one, and I didn't see a TikTok channel linked from the show. I'm Gowtham M P. I'm helping launch IncuBrix, which turns one recording into captioned, ready-to-post clips. Want me to send 3 free sample clips from that episode? If it's not relevant, just say so and I won't message again.
 ```

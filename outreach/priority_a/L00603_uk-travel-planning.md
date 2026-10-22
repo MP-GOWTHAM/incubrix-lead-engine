@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "Beamish Museum: North East England’s Living Museum" (2026-10-13); Repurposing into clips
 - **Why IncuBrix:** Repurposing into clips: ~42-min episodes; no YouTube/Instagram/TikTok clip channel linked in the feed
 - **Commercial signal:** Membership/subscription: "travelplanning.com/episode-222/ https://ko-fi.com/uktravelplanning https://uktravelplanning.com/roadmap  http" (episode 'Beamish Museum: North East England’s Living Museum') (https://rss.buzzsprout.com/1927707.rss)
-- **Checked:** 2026-10-20
+- **Checked:** 2026-10-22
 
 ## Step 1 · Email · day 0
 **Subject:** "Beamish Museum: North East England’s Living…" as clips?
@@ -21,8 +21,8 @@ IncuBrix is a creator studio that turns one recording into captioned clips, quot
 
 If it helps, I can run "Beamish Museum: North East England’s Living…" through it and send you three ready-to-post clips. No call and no card needed. Would that be useful?
 
-[Sender name]
-Creator Partnerships, IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
+Gowtham M P
+Growth Engineer candidate for IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
 https://incubrix.com/?utm_source=email&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=L00603-s1
 
 Not for you? Reply "no thanks" and I won't email you again.
@@ -36,7 +36,7 @@ Hi Tracy, a quick follow-up on my note about "Beamish Museum: North East England
 
 Happy to send the three sample clips. Just reply "yes".
 
-[Sender name], IncuBrix
+Gowtham M P (for IncuBrix)
 https://incubrix.com/?utm_source=email&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=L00603-s2
 
 Not for you? Reply "no thanks" and I won't email you again.
@@ -50,7 +50,7 @@ Hi Tracy, last note from me. If clipping and captioning UK Travel Planning isn't
 
 Thanks for making the show.
 
-[Sender name], IncuBrix
+Gowtham M P (for IncuBrix)
 
 Not for you? Reply "no thanks" and I won't email you again.
 ```
@@ -61,15 +61,15 @@ Not for you? Reply "no thanks" and I won't email you again.
 ```text
 Hi Tracy,
 
-I enjoyed seeing "Beamish Museum: North East England’s Living Museum" come through the UK Travel Planning feed. I'd like to suggest [IncuBrix founder or creator lead] from IncuBrix as a guest. Possible angles for your listeners:
+I enjoyed seeing "Beamish Museum: North East England’s Living Museum" come through the UK Travel Planning feed. I'd like to suggest someone from the IncuBrix team as a guest. Possible angles for your listeners:
 1. How solo creators turn one recording into 10+ short clips without an editor
 2. What actually gets reach on Shorts, Reels and LinkedIn for long-form shows in 2026
 3. Captions, transcripts and voice-cloned fixes: where AI saves creators hours, and where it doesn't
 
 Happy to fit your format and schedule.
 
-[Sender name]
-Creator Partnerships, IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
+Gowtham M P
+Growth Engineer candidate for IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
 https://incubrix.com/?utm_source=podcast_guest_pitch&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=L00603-s1
 
 Not for you? Reply "no thanks" and I won't email you again.

@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "81. Is Trying to Fix Your Body Breaking it? Let Me Help You Stop Chasing Symptoms &…" (2026-10-19); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~44-min episodes; no YouTube/TikTok clip channel linked in the feed; Publishing consistency: gap of 55 days between episodes vs a usual 6.5-day rhythm
 - **Commercial signal:** Service (coaching/consulting): "on Instagram hello@drheatherrhodes.com Book A Free Consult Call Sign Up for My Weekly Newsletter Thank you so much for" (episode '78. Sneaky Blood Sugar Things That Are Messing With Your Hormones') (https://hormonehappyhourwithdrheatherrhodes.podbean.com/e/78-sneaky-blood-sugar-things-that-are-messing-with-your-hormones/)
-- **Checked:** 2026-10-20
+- **Checked:** 2026-10-22
 
 ## Step 1 · Email · day 0
 **Subject:** "81. Is Trying to Fix Your Body Breaking it?…" as clips?
@@ -21,8 +21,8 @@ IncuBrix is a creator studio that turns one recording into captioned clips, quot
 
 If it helps, I can run "81. Is Trying to Fix Your Body Breaking it?…" through it and send you three ready-to-post clips. No call and no card needed. Would that be useful?
 
-[Sender name]
-Creator Partnerships, IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
+Gowtham M P
+Growth Engineer candidate for IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
 https://incubrix.com/?utm_source=email&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=L01729-s1
 
 Not for you? Reply "no thanks" and I won't email you again.
@@ -36,7 +36,7 @@ Hi Dr Rhodes, a quick follow-up on my note about "81. Is Trying to Fix Your Body
 
 Happy to send the three sample clips. Just reply "yes".
 
-[Sender name], IncuBrix
+Gowtham M P (for IncuBrix)
 https://incubrix.com/?utm_source=email&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=L01729-s2
 
 Not for you? Reply "no thanks" and I won't email you again.
@@ -50,7 +50,7 @@ Hi Dr Rhodes, last note from me. If clipping and captioning Hormone Happy Hour w
 
 Thanks for making the show.
 
-[Sender name], IncuBrix
+Gowtham M P (for IncuBrix)
 
 Not for you? Reply "no thanks" and I won't email you again.
 ```
@@ -58,5 +58,5 @@ Not for you? Reply "no thanks" and I won't email you again.
 ## Step 4 · Instagram · day 14
 
 ```text
-Hi Dr Rhodes! Just found "81. Is Trying to Fix Your Body Breaking it?…" from Hormone Happy Hour with Dr. Heather Rhodes. At ~44 minutes per episode, there are easily ten clips in each one, and I didn't see a YouTube Shorts or TikTok channel linked from the show. I'm [Sender name] from IncuBrix: we turn one recording into captioned, ready-to-post clips. Want me to send 3 free sample clips from that episode? If it's not relevant, just say so and I won't message again.
+Hi Dr Rhodes! Just found "81. Is Trying to Fix Your Body Breaking it?…" from Hormone Happy Hour with Dr. Heather Rhodes. At ~44 minutes per episode, there are easily ten clips in each one, and I didn't see a YouTube Shorts or TikTok channel linked from the show. I'm Gowtham M P. I'm helping launch IncuBrix, which turns one recording into captioned, ready-to-post clips. Want me to send 3 free sample clips from that episode? If it's not relevant, just say so and I won't message again.
 ```

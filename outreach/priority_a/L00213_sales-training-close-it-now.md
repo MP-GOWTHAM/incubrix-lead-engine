@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "From Addiction to Top 5% Sales Rep: Kenny Long’s Recovery Story" (2026-10-09); Repurposing into clips
 - **Why IncuBrix:** Repurposing into clips: ~66-min episodes; no TikTok clip channel linked in the feed; Publishing consistency: gap of 25 days between episodes vs a usual 7-day rhythm
 - **Commercial signal:** Service (coaching/consulting): ". Your team, your market, your systems. Book a call with Sam: calendar.app.google/KZH1j2Q1MAXTKbT38 Leave a rev" (episode 'From 412 Pounds to the Bodybuilding Stage and $21M | Discipline, Busin') (http://closeitnow.net/blog/hvac-owner-weight-loss-discipline-business-ruben-sanchez-colair)
-- **Checked:** 2026-10-20
+- **Checked:** 2026-10-22
 
 ## Step 1 · Email · day 0
 **Subject:** "From Addiction to Top 5% Sales Rep: Kenny…" as clips?
@@ -21,8 +21,8 @@ IncuBrix is a creator studio that turns one recording into captioned clips, quot
 
 If it helps, I can run "From Addiction to Top 5% Sales Rep: Kenny…" through it and send you three ready-to-post clips. No call and no card needed. Would that be useful?
 
-[Sender name]
-Creator Partnerships, IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
+Gowtham M P
+Growth Engineer candidate for IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
 https://incubrix.com/?utm_source=email&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=L00213-s1
 
 Not for you? Reply "no thanks" and I won't email you again.
@@ -36,7 +36,7 @@ Hi Sam, a quick follow-up on my note about "From Addiction to Top 5% Sales Rep: 
 
 Happy to send the three sample clips. Just reply "yes".
 
-[Sender name], IncuBrix
+Gowtham M P (for IncuBrix)
 https://incubrix.com/?utm_source=email&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=L00213-s2
 
 Not for you? Reply "no thanks" and I won't email you again.
@@ -50,7 +50,7 @@ Hi Sam, last note from me. If clipping and captioning Sales Training. Close It N
 
 Thanks for making the show.
 
-[Sender name], IncuBrix
+Gowtham M P (for IncuBrix)
 
 Not for you? Reply "no thanks" and I won't email you again.
 ```
@@ -58,5 +58,5 @@ Not for you? Reply "no thanks" and I won't email you again.
 ## Step 4 · Instagram · day 14
 
 ```text
-Hi Sam! Just found "From Addiction to Top 5% Sales Rep: Kenny…" from Sales Training. Close It Now!. At ~66 minutes per episode, there are easily ten clips in each one, and I didn't see a TikTok channel linked from the show. I'm [Sender name] from IncuBrix: we turn one recording into captioned, ready-to-post clips. Want me to send 3 free sample clips from that episode? If it's not relevant, just say so and I won't message again.
+Hi Sam! Just found "From Addiction to Top 5% Sales Rep: Kenny…" from Sales Training. Close It Now!. At ~66 minutes per episode, there are easily ten clips in each one, and I didn't see a TikTok channel linked from the show. I'm Gowtham M P. I'm helping launch IncuBrix, which turns one recording into captioned, ready-to-post clips. Want me to send 3 free sample clips from that episode? If it's not relevant, just say so and I won't message again.
 ```

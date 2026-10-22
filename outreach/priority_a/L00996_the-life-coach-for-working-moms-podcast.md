@@ -7,12 +7,12 @@
 - **Hook:** Latest episode "130 - How to Get Ready for the Holidays Before They Take Over" (2026-10-13); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~33-min episodes; no YouTube/Instagram/TikTok clip channel linked in the feed
 - **Commercial signal:** Service (coaching/consulting): "Ali's podcast "Love Each Other Better" Book a call with Ali - https://www.alimillercoaching.com/ Get the GROK" (episode '129 - How to Ask Your Partner for Help Without Starting a Fight') (https://www.themothernurture.com/podcast/how-to-ask-your-partner-for-help-ali-miller)
-- **Checked:** 2026-10-20
+- **Checked:** 2026-10-22
 
 ## Step 1 · LinkedIn · day 0
 
 ```text
-Hi Katelyn, I came across "130 - How to Get Ready for the Holidays Before…" from The Life Coach for Working Moms Podcast. I work on IncuBrix, which turns one episode into captioned clips and posts for every platform. Would be glad to connect. - [Sender name]
+Hi Katelyn, I came across "130 - How to Get Ready for the Holidays Before…" from The Life Coach for Working Moms Podcast. I'm helping launch IncuBrix, which turns one episode into captioned clips and posts for every platform. Would be glad to connect. - Gowtham M P
 ```
 
 ## Step 2 · LinkedIn · day 4
@@ -24,7 +24,7 @@ Thanks, Katelyn. Here's what I meant: IncuBrix finds the best moments in "130 - 
 ## Step 3 · LinkedIn · day 10
 
 ```text
-Last nudge from me, Katelyn. If sample clips from The Life Coach for Working Moms Podcast would ever be useful, just reply and I'll send them. Otherwise, all the best with the show! - [Sender name], IncuBrix
+Last nudge from me, Katelyn. If sample clips from The Life Coach for Working Moms Podcast would ever be useful, just reply and I'll send them. Otherwise, all the best with the show! - Gowtham M P (for IncuBrix)
 ```
 
 ## Step 4 · Contact form · day 14
@@ -39,8 +39,8 @@ IncuBrix is a creator studio that turns one recording into captioned clips, quot
 
 If it helps, I can run "130 - How to Get Ready for the Holidays Before…" through it and send you three ready-to-post clips. No call and no card needed. Would that be useful?
 
-[Sender name]
-Creator Partnerships, IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
+Gowtham M P
+Growth Engineer candidate for IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
 https://incubrix.com/?utm_source=contact_form&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=L00996-s1
 
 Not for you? Reply "no thanks" and I won't email you again.

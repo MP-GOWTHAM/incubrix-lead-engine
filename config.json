@@ -312,11 +312,13 @@
     "b_share": 0.4
   },
   "sender": {
-    "name": "[Sender name]",
-    "role": "Creator Partnerships",
+    "name": "Gowtham M P",
+    "role": "Growth Engineer candidate",
+    "affiliation": "for IncuBrix",
+    "intro": "I'm helping launch IncuBrix",
     "company_legal": "IncuBrix Pte. Ltd.",
     "address": "4 Tampines Street 73, Singapore 528824",
-    "guest_name": "[IncuBrix founder or creator lead]"
+    "guest_name": ""
   },
   "tracking": {
     "base_url": "https://incubrix.com/",

@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "From Hiding After Mistakes to Playing for Latvia in 9 Months" (2026-10-16); Repurposing into clips
 - **Why IncuBrix:** Repurposing into clips: ~67-min episodes; no YouTube/Instagram/TikTok clip channel linked in the feed; Publishing consistency: gap of 1395 days between episodes vs a usual 8.5-day rhythm
 - **Commercial signal:** Service (coaching/consulting): "your game, this is the one to watch. 🏆 APPLY TO WORK WITH ROB & LUKE Elite XI is our inner-game programme for fo" (episode 'How to Stop One Mistake Ruining Your Whole Game') (https://rss.buzzsprout.com/2307856.rss)
-- **Checked:** 2026-10-20
+- **Checked:** 2026-10-22
 
 ## Step 1 · Email · day 0
 **Subject:** "From Hiding After Mistakes to Playing for…" as clips?
@@ -21,8 +21,8 @@ IncuBrix is a creator studio that turns one recording into captioned clips, quot
 
 If it helps, I can run "From Hiding After Mistakes to Playing for…" through it and send you three ready-to-post clips. No call and no card needed. Would that be useful?
 
-[Sender name]
-Creator Partnerships, IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
+Gowtham M P
+Growth Engineer candidate for IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
 https://incubrix.com/?utm_source=email&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=L00212-s1
 
 Not for you? Reply "no thanks" and I won't email you again.
@@ -36,7 +36,7 @@ Hi Rob, a quick follow-up on my note about "From Hiding After Mistakes to Playin
 
 Happy to send the three sample clips. Just reply "yes".
 
-[Sender name], IncuBrix
+Gowtham M P (for IncuBrix)
 https://incubrix.com/?utm_source=email&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=L00212-s2
 
 Not for you? Reply "no thanks" and I won't email you again.
@@ -50,7 +50,7 @@ Hi Rob, last note from me. If clipping and captioning The Footballers Mindset is
 
 Thanks for making the show.
 
-[Sender name], IncuBrix
+Gowtham M P (for IncuBrix)
 
 Not for you? Reply "no thanks" and I won't email you again.
 ```
@@ -61,15 +61,15 @@ Not for you? Reply "no thanks" and I won't email you again.
 ```text
 Hi Rob,
 
-I enjoyed seeing "From Hiding After Mistakes to Playing for Latvia in 9 Months" come through the The Footballers Mindset feed. I'd like to suggest [IncuBrix founder or creator lead] from IncuBrix as a guest. Possible angles for your listeners:
+I enjoyed seeing "From Hiding After Mistakes to Playing for Latvia in 9 Months" come through the The Footballers Mindset feed. I'd like to suggest someone from the IncuBrix team as a guest. Possible angles for your listeners:
 1. How solo creators turn one recording into 10+ short clips without an editor
 2. What actually gets reach on Shorts, Reels and LinkedIn for long-form shows in 2026
 3. Captions, transcripts and voice-cloned fixes: where AI saves creators hours, and where it doesn't
 
 Happy to fit your format and schedule.
 
-[Sender name]
-Creator Partnerships, IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
+Gowtham M P
+Growth Engineer candidate for IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
 https://incubrix.com/?utm_source=podcast_guest_pitch&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=L00212-s1
 
 Not for you? Reply "no thanks" and I won't email you again.

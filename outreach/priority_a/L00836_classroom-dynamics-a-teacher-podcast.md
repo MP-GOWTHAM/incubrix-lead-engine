@@ -7,12 +7,12 @@
 - **Hook:** Latest episode "Are We Taking Care of the People Who Take Care of Our Students?" (2026-10-20); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Publishing consistency: gap of 63 days between episodes vs a usual 7-day rhythm
 - **Commercial signal:** Sponsorship: "of technology in schools! Interested in advertising on our podcast? Join other edtech companies in helping to ... https:" (episode 'Are We Taking Care of the People Who Take Care of Our Students?') (https://rss.buzzsprout.com/2227162.rss)
-- **Checked:** 2026-10-20
+- **Checked:** 2026-10-22
 
 ## Step 1 · Instagram · day 0
 
 ```text
-Hi Adam! Just found "Are We Taking Care of the People Who Take Care…" from Classroom Dynamics. I noticed a few longer gaps in the feed, and a bank of ready-made clips is a simple way to keep channels moving through busy weeks. I'm [Sender name] from IncuBrix: we turn one recording into captioned, ready-to-post clips. Want me to send 3 free sample clips from that episode? If it's not relevant, just say so and I won't message again.
+Hi Adam! Just found "Are We Taking Care of the People Who Take Care…" from Classroom Dynamics. I noticed a few longer gaps in the feed, and a bank of ready-made clips is a simple way to keep channels moving through busy weeks. I'm Gowtham M P. I'm helping launch IncuBrix, which turns one recording into captioned, ready-to-post clips. Want me to send 3 free sample clips from that episode? If it's not relevant, just say so and I won't message again.
 ```
 
 ## Step 2 · Instagram · day 4
@@ -24,11 +24,11 @@ Thanks, Adam. Here's what I meant: IncuBrix finds the best moments in "Are We Ta
 ## Step 3 · Instagram · day 10
 
 ```text
-Last nudge from me, Adam. If sample clips from Classroom Dynamics would ever be useful, just reply and I'll send them. Otherwise, all the best with the show! - [Sender name], IncuBrix
+Last nudge from me, Adam. If sample clips from Classroom Dynamics would ever be useful, just reply and I'll send them. Otherwise, all the best with the show! - Gowtham M P (for IncuBrix)
 ```
 
 ## Step 4 · TikTok · day 14
 
 ```text
-Hi Adam! Just found "Are We Taking Care of the People Who Take Care…" from Classroom Dynamics. I noticed a few longer gaps in the feed, and a bank of ready-made clips is a simple way to keep channels moving through busy weeks. I'm [Sender name] from IncuBrix: we turn one recording into captioned, ready-to-post clips. Want me to send 3 free sample clips from that episode? If it's not relevant, just say so and I won't message again.
+Hi Adam! Just found "Are We Taking Care of the People Who Take Care…" from Classroom Dynamics. I noticed a few longer gaps in the feed, and a bank of ready-made clips is a simple way to keep channels moving through busy weeks. I'm Gowtham M P. I'm helping launch IncuBrix, which turns one recording into captioned, ready-to-post clips. Want me to send 3 free sample clips from that episode? If it's not relevant, just say so and I won't message again.
 ```

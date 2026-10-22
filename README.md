@@ -66,7 +66,7 @@ A **seed file** is `.txt` (one entry per line) or `.csv` (column `url` or `name`
 
 ## Configuration (`config.json`)
 
-- `sender.*`: **set the sender name, role and guest name before any real send.** They appear in every message.
+- `sender.*`: who signs every message. It is currently set for the assessment as *Gowtham M P, Growth Engineer candidate for IncuBrix*, because the brief forbids presenting the candidate as an IncuBrix employee. At launch, IncuBrix sets `name`, `role` (e.g. "Creator Partnerships"), `affiliation` (e.g. "at IncuBrix"), `intro` and `guest_name`, then reruns. No code changes are needed.
 - `apple.terms` / `apple.local_terms`: search terms. Add niches here to grow the list.
 - `qualify.*`: activity and freshness thresholds from the brief.
 - `countries.max_share`, `priority.a_count`, `priority.b_share`.

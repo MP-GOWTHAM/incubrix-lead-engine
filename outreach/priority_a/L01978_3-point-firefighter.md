@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "What Nobody Tells You About Being Fire Chief | Mike Kennedy, Part 1" (2026-10-19); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~33-min episodes; no YouTube/Instagram/TikTok clip channel linked in the feed; Publishing consistency: gap of 106 days between episodes vs a usual 19-day rhythm
 - **Commercial signal:** Sponsorship: "adult language. 3 Point Firefighter is sponsored by Fire Facilities. Email me at 3pointFirefighter@Gmail.Com Ch" (episode 'Stop Blaming the Chief: Leadership from the Bottom Up | Dr. Candace As') (https://rss.buzzsprout.com/1412497.rss)
-- **Checked:** 2026-10-20
+- **Checked:** 2026-10-22
 
 ## Step 1 · Email · day 0
 **Subject:** "What Nobody Tells You About Being Fire Chief |…" as clips?
@@ -21,8 +21,8 @@ IncuBrix is a creator studio that turns one recording into captioned clips, quot
 
 If it helps, I can run "What Nobody Tells You About Being Fire Chief |…" through it and send you three ready-to-post clips. No call and no card needed. Would that be useful?
 
-[Sender name]
-Creator Partnerships, IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
+Gowtham M P
+Growth Engineer candidate for IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
 https://incubrix.com/?utm_source=email&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=L01978-s1
 
 Not for you? Reply "no thanks" and I won't email you again.
@@ -36,7 +36,7 @@ Hi Jake, a quick follow-up on my note about "What Nobody Tells You About Being F
 
 Happy to send the three sample clips. Just reply "yes".
 
-[Sender name], IncuBrix
+Gowtham M P (for IncuBrix)
 https://incubrix.com/?utm_source=email&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=L01978-s2
 
 Not for you? Reply "no thanks" and I won't email you again.
@@ -50,7 +50,7 @@ Hi Jake, last note from me. If clipping and captioning 3 Point Firefighter isn't
 
 Thanks for making the show.
 
-[Sender name], IncuBrix
+Gowtham M P (for IncuBrix)
 
 Not for you? Reply "no thanks" and I won't email you again.
 ```
@@ -61,15 +61,15 @@ Not for you? Reply "no thanks" and I won't email you again.
 ```text
 Hi Jake,
 
-I enjoyed seeing "What Nobody Tells You About Being Fire Chief | Mike Kennedy, Part 1" come through the 3 Point Firefighter feed. I'd like to suggest [IncuBrix founder or creator lead] from IncuBrix as a guest. Possible angles for your listeners:
+I enjoyed seeing "What Nobody Tells You About Being Fire Chief | Mike Kennedy, Part 1" come through the 3 Point Firefighter feed. I'd like to suggest someone from the IncuBrix team as a guest. Possible angles for your listeners:
 1. How solo creators turn one recording into 10+ short clips without an editor
 2. What actually gets reach on Shorts, Reels and LinkedIn for long-form shows in 2026
 3. Captions, transcripts and voice-cloned fixes: where AI saves creators hours, and where it doesn't
 
 Happy to fit your format and schedule.
 
-[Sender name]
-Creator Partnerships, IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
+Gowtham M P
+Growth Engineer candidate for IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
 https://incubrix.com/?utm_source=podcast_guest_pitch&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=L01978-s1
 
 Not for you? Reply "no thanks" and I won't email you again.

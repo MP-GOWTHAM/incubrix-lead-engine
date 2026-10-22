@@ -79,8 +79,22 @@ def need_line(lead):
 
 
 def signature(cfg):
+    """Full sign-off. Role/affiliation come from config so nobody is presented as staff they aren't."""
     s = cfg["sender"]
-    return f"{s['name']}\n{s['role']}, IncuBrix ({s['company_legal']}, {s['address']})"
+    return f"{s['name']}\n{s['role']} {s.get('affiliation', 'for IncuBrix')} ({s['company_legal']}, {s['address']})"
+
+
+def short_sign(cfg):
+    s = cfg["sender"]
+    return f"{s['name']} ({s.get('affiliation', 'for IncuBrix')})"
+
+
+def intro(cfg):
+    return cfg["sender"].get("intro", "I'm helping launch IncuBrix")
+
+
+def guest(cfg):
+    return cfg["sender"].get("guest_name") or "someone from the IncuBrix team"
 
 
 def optout_email():
@@ -102,7 +116,9 @@ def _ctx(lead, cfg):
         "need": need_line(lead),
         "seg": SEGMENT_LINE.get(lead["creator_segment"], SEGMENT_LINE["Podcaster/Video Podcaster"]),
         "noun": AUDIENCE_NOUN.get(lead["creator_segment"], "episode"),
-        "sender": cfg["sender"]["name"],
+        "sender": short_sign(cfg),
+        "name": cfg["sender"]["name"],
+        "intro": intro(cfg),
         "sig": signature(cfg),
     }
 
@@ -126,11 +142,11 @@ def email_steps(lead, cfg, channel="Email"):
           f"IncuBrix picks out the strongest moments, adds word-by-word captions in your own fonts and colours, "
           f"and lets you fix a flubbed line by editing the transcript instead of re-recording.\n\n"
           f"Happy to send the three sample clips. Just reply \"yes\".\n\n"
-          f"{c['sender']}, IncuBrix\n{tracking_link(cfg, lead, channel, 2)}\n\n{optout_email()}")
+          f"{c['sender']}\n{tracking_link(cfg, lead, channel, 2)}\n\n{optout_email()}")
     s3 = (f"Closing the loop, {c['show']}",
           f"Hi {c['first']}, last note from me. If clipping and captioning {c['show']} isn't a priority right now, "
           f"no problem at all. If it becomes one, you can start free (no card) here: "
-          f"{tracking_link(cfg, lead, channel, 3)}\n\nThanks for making the show.\n\n{c['sender']}, IncuBrix\n\n"
+          f"{tracking_link(cfg, lead, channel, 3)}\n\nThanks for making the show.\n\n{c['sender']}\n\n"
           f"{optout_email()}")
     return [s1, s2, s3]
 
@@ -139,27 +155,27 @@ def dm_steps(lead, cfg, platform):
     c = _ctx(lead, cfg)
     link = tracking_link(cfg, lead, platform, 1)
     if platform == "LinkedIn":
-        s1 = (f'Hi {c["first"]}, I came across "{c["ep_short"]}" from {c["show"]}. I work on IncuBrix, which turns '
+        s1 = (f'Hi {c["first"]}, I came across "{c["ep_short"]}" from {c["show"]}. {c["intro"]}, which turns '
               f"one episode into captioned clips and posts for every platform. Would be glad to connect. "
-              f"- {c['sender']}")
+              f"- {c['name']}")
     else:
         s1 = (f'Hi {c["first"]}! Just found "{c["ep_short"]}" from {c["show"]}. {c["need"]} '
-              f"I'm {c['sender']} from IncuBrix: we turn one recording into captioned, ready-to-post clips. "
+              f"I'm {c['name']}. {c['intro']}, which turns one recording into captioned, ready-to-post clips. "
               f"Want me to send 3 free sample clips from that {c['noun']}? {optout_dm()}")
     s2 = (f"Thanks, {c['first']}. Here's what I meant: IncuBrix finds the best moments in "
           f'"{c["ep_short"]}", adds captions in your style, and schedules them to YouTube, Instagram, '
           f"LinkedIn and Spotify from one screen. Free to start: {link} {optout_dm()}")
     s3 = (f"Last nudge from me, {c['first']}. If sample clips from {c['show']} would ever be useful, "
-          f"just reply and I'll send them. Otherwise, all the best with the show! - {c['sender']}, IncuBrix")
+          f"just reply and I'll send them. Otherwise, all the best with the show! - {c['sender']}")
     return [(None, _fit(s, DM_LIMITS.get(platform, 1000))) for s in (s1, s2, s3)]
 
 
 def guest_pitch_steps(lead, cfg):
     c = _ctx(lead, cfg)
-    g = cfg["sender"]["guest_name"]
+    g = guest(cfg)
     s1 = (f"Guest idea for {c['show']}: one episode, a week of content",
           f'Hi {c["first"]},\n\nI enjoyed seeing "{c["ep"]}" come through the {c["show"]} feed. '
-          f"I'd like to suggest {g} from IncuBrix as a guest. Possible angles for your listeners:\n"
+          f"I'd like to suggest {g} as a guest. Possible angles for your listeners:\n"
           f"1. How solo creators turn one recording into 10+ short clips without an editor\n"
           f"2. What actually gets reach on Shorts, Reels and LinkedIn for long-form shows in 2026\n"
           f"3. Captions, transcripts and voice-cloned fixes: where AI saves creators hours, and where it doesn't\n\n"
@@ -167,10 +183,10 @@ def guest_pitch_steps(lead, cfg):
           f"\n\n{optout_email()}")
     s2 = (f"Re: Guest idea for {c['show']}",
           f"Hi {c['first']}, following up on the guest idea. If a different angle would fit {c['show']} better, "
-          f"I'm glad to shape it around your audience.\n\n{c['sender']}, IncuBrix\n\n{optout_email()}")
+          f"I'm glad to shape it around your audience.\n\n{c['sender']}\n\n{optout_email()}")
     s3 = (f"Re: Guest idea for {c['show']}",
           f"Hi {c['first']}, I'll leave it here. If you ever want a guest on content workflow or repurposing, "
-          f"the offer stands.\n\n{c['sender']}, IncuBrix\n\n{optout_email()}")
+          f"the offer stands.\n\n{c['sender']}\n\n{optout_email()}")
     return [s1, s2, s3]
 
 

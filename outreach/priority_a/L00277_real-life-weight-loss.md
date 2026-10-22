@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "Your Guide to Finding the Right Gym and Getting Started Even If You Feel Intimidated and…" (2026-10-13); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~40-min episodes; no YouTube/Instagram/TikTok clip channel linked in the feed
 - **Commercial signal:** Course/product: "ersion at home — even if you never join my program. Because I don't want to give you a fish. I want to teach y" (episode 'The System I Use To Coach My Clients and How You Can Use It In Your Li') (https://coreylittlecoaching.com/captivate-podcast/the-system-i-use-to-coach-my-clients-and-how-you-can-use-it-in-your-life)
-- **Checked:** 2026-10-20
+- **Checked:** 2026-10-22
 
 ## Step 1 · Email · day 0
 **Subject:** "Your Guide to Finding the Right Gym and…" as clips?
@@ -21,8 +21,8 @@ IncuBrix is a creator studio that turns one recording into captioned clips, quot
 
 If it helps, I can run "Your Guide to Finding the Right Gym and…" through it and send you three ready-to-post clips. No call and no card needed. Would that be useful?
 
-[Sender name]
-Creator Partnerships, IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
+Gowtham M P
+Growth Engineer candidate for IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
 https://incubrix.com/?utm_source=email&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=L00277-s1
 
 Not for you? Reply "no thanks" and I won't email you again.
@@ -36,7 +36,7 @@ Hi Corey, a quick follow-up on my note about "Your Guide to Finding the Right Gy
 
 Happy to send the three sample clips. Just reply "yes".
 
-[Sender name], IncuBrix
+Gowtham M P (for IncuBrix)
 https://incubrix.com/?utm_source=email&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=L00277-s2
 
 Not for you? Reply "no thanks" and I won't email you again.
@@ -50,7 +50,7 @@ Hi Corey, last note from me. If clipping and captioning Real Life Weight Loss is
 
 Thanks for making the show.
 
-[Sender name], IncuBrix
+Gowtham M P (for IncuBrix)
 
 Not for you? Reply "no thanks" and I won't email you again.
 ```

@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "#206: Why Do Innovative Teachers Go Back to Traditional Instruction? Bob Lenz on PBL and…" (2026-10-18); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~27-min episodes; no YouTube/TikTok clip channel linked in the feed; Publishing consistency: gap of 27 days between episodes vs a usual 7-day rhythm
 - **Commercial signal:** Affiliate: "g Get The Resistance Solution : https://amzn.to/4pRCaa5 Lead your team through it with Book Study Facilitat" (episode '#206: Why Do Innovative Teachers Go Back to Traditional Instruction? B') (https://rss.buzzsprout.com/1936274.rss)
-- **Checked:** 2026-10-20
+- **Checked:** 2026-10-22
 
 ## Step 1 · Email · day 0
 **Subject:** "Why Do Innovative Teachers Go Back to…" as clips?
@@ -21,8 +21,8 @@ IncuBrix is a creator studio that turns one recording into captioned clips, quot
 
 If it helps, I can run "Why Do Innovative Teachers Go Back to…" through it and send you three ready-to-post clips. No call and no card needed. Would that be useful?
 
-[Sender name]
-Creator Partnerships, IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
+Gowtham M P
+Growth Engineer candidate for IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
 https://incubrix.com/?utm_source=email&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=L00610-s1
 
 Not for you? Reply "no thanks" and I won't email you again.
@@ -36,7 +36,7 @@ Hi Becca, a quick follow-up on my note about "Why Do Innovative Teachers Go Back
 
 Happy to send the three sample clips. Just reply "yes".
 
-[Sender name], IncuBrix
+Gowtham M P (for IncuBrix)
 https://incubrix.com/?utm_source=email&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=L00610-s2
 
 Not for you? Reply "no thanks" and I won't email you again.
@@ -50,7 +50,7 @@ Hi Becca, last note from me. If clipping and captioning Coaching the Whole Educa
 
 Thanks for making the show.
 
-[Sender name], IncuBrix
+Gowtham M P (for IncuBrix)
 
 Not for you? Reply "no thanks" and I won't email you again.
 ```
@@ -58,5 +58,5 @@ Not for you? Reply "no thanks" and I won't email you again.
 ## Step 4 · LinkedIn · day 14
 
 ```text
-Hi Becca, I came across "Why Do Innovative Teachers Go Back to…" from Coaching the Whole Educator. I work on IncuBrix, which turns one episode into captioned clips and posts for every platform. Would be glad to connect. - [Sender name]
+Hi Becca, I came across "Why Do Innovative Teachers Go Back to…" from Coaching the Whole Educator. I'm helping launch IncuBrix, which turns one episode into captioned clips and posts for every platform. Would be glad to connect. - Gowtham M P
 ```

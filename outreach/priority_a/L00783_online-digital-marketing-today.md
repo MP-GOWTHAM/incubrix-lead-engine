@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "Stop Chasing Everyone: The Smallest Viable Market Strategy That's Printing Money For…" (2026-10-02); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~24-min episodes; no YouTube/Instagram/TikTok clip channel linked in the feed; Publishing consistency: gap of 38 days between episodes vs a usual 3.5-day rhythm
 - **Commercial signal:** Service (coaching/consulting): "your online goals by offering a no-cost discovery call to answers your questions. Schedule that call NOW at https:" (episode 'Stop Chasing Everyone: The Smallest Viable Market Strategy That's Prin') (https://rss.buzzsprout.com/2158913.rss)
-- **Checked:** 2026-10-20
+- **Checked:** 2026-10-22
 
 ## Step 1 · Email · day 0
 **Subject:** "Stop Chasing Everyone: The Smallest Viable…" as clips?
@@ -21,8 +21,8 @@ IncuBrix is a creator studio that turns one recording into captioned clips, quot
 
 If it helps, I can run "Stop Chasing Everyone: The Smallest Viable…" through it and send you three ready-to-post clips. No call and no card needed. Would that be useful?
 
-[Sender name]
-Creator Partnerships, IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
+Gowtham M P
+Growth Engineer candidate for IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
 https://incubrix.com/?utm_source=email&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=L00783-s1
 
 Not for you? Reply "no thanks" and I won't email you again.
@@ -36,7 +36,7 @@ Hi Marvin, a quick follow-up on my note about "Stop Chasing Everyone: The Smalle
 
 Happy to send the three sample clips. Just reply "yes".
 
-[Sender name], IncuBrix
+Gowtham M P (for IncuBrix)
 https://incubrix.com/?utm_source=email&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=L00783-s2
 
 Not for you? Reply "no thanks" and I won't email you again.
@@ -50,7 +50,7 @@ Hi Marvin, last note from me. If clipping and captioning Online Digital Marketin
 
 Thanks for making the show.
 
-[Sender name], IncuBrix
+Gowtham M P (for IncuBrix)
 
 Not for you? Reply "no thanks" and I won't email you again.
 ```

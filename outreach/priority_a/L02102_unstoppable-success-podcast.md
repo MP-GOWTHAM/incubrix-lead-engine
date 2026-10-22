@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "Write a Book That Builds Authority (and Avoid the Scams) | Kevin Anderson" (2026-10-15); Repurposing into clips
 - **Why IncuBrix:** Repurposing into clips: ~40-min episodes; no YouTube/Instagram/TikTok clip channel linked in the feed
 - **Commercial signal:** Membership/subscription: "tact-ghostwriting-services/ https://www.buzzsprout.com/2614235/support https://www.buzzsprout.com/2614235/supporters/new" (episode 'Write a Book That Builds Authority (and Avoid the Scams) | Kevin Ander') (https://rss.buzzsprout.com/2614235.rss)
-- **Checked:** 2026-10-20
+- **Checked:** 2026-10-22
 
 ## Step 1 · Email · day 0
 **Subject:** "Write a Book That Builds Authority (and Avoid…" as clips?
@@ -21,8 +21,8 @@ IncuBrix is a creator studio that turns one recording into captioned clips, quot
 
 If it helps, I can run "Write a Book That Builds Authority (and Avoid…" through it and send you three ready-to-post clips. No call and no card needed. Would that be useful?
 
-[Sender name]
-Creator Partnerships, IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
+Gowtham M P
+Growth Engineer candidate for IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
 https://incubrix.com/?utm_source=email&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=L02102-s1
 
 Not for you? Reply "no thanks" and I won't email you again.
@@ -36,7 +36,7 @@ Hi Jaclyn, a quick follow-up on my note about "Write a Book That Builds Authorit
 
 Happy to send the three sample clips. Just reply "yes".
 
-[Sender name], IncuBrix
+Gowtham M P (for IncuBrix)
 https://incubrix.com/?utm_source=email&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=L02102-s2
 
 Not for you? Reply "no thanks" and I won't email you again.
@@ -50,7 +50,7 @@ Hi Jaclyn, last note from me. If clipping and captioning Unstoppable Success Pod
 
 Thanks for making the show.
 
-[Sender name], IncuBrix
+Gowtham M P (for IncuBrix)
 
 Not for you? Reply "no thanks" and I won't email you again.
 ```
@@ -58,5 +58,5 @@ Not for you? Reply "no thanks" and I won't email you again.
 ## Step 4 · LinkedIn · day 14
 
 ```text
-Hi Jaclyn, I came across "Write a Book That Builds Authority (and Avoid…" from Unstoppable Success Podcast. I work on IncuBrix, which turns one episode into captioned clips and posts for every platform. Would be glad to connect. - [Sender name]
+Hi Jaclyn, I came across "Write a Book That Builds Authority (and Avoid…" from Unstoppable Success Podcast. I'm helping launch IncuBrix, which turns one episode into captioned clips and posts for every platform. Would be glad to connect. - Gowtham M P
 ```

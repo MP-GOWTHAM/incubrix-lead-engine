@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "Rebecca's discussion on Gem Drop Fridays" (2026-10-12); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~56-min episodes; no TikTok clip channel linked in the feed
 - **Commercial signal:** Service (coaching/consulting): "Reset 15 min free coaching call https://calendly.com/rebeccaelizabethwhitman/touch-base-call 💫Help me plan my ne" (episode 'Rebecca's discussion on Gem Drop Fridays') (http://www.rebeccaelizabethwhitman.com)
-- **Checked:** 2026-10-20
+- **Checked:** 2026-10-22
 
 ## Step 1 · Email · day 0
 **Subject:** "Rebecca's discussion on Gem Drop Fridays" as clips?
@@ -21,8 +21,8 @@ IncuBrix is a creator studio that turns one recording into captioned clips, quot
 
 If it helps, I can run "Rebecca's discussion on Gem Drop Fridays" through it and send you three ready-to-post clips. No call and no card needed. Would that be useful?
 
-[Sender name]
-Creator Partnerships, IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
+Gowtham M P
+Growth Engineer candidate for IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
 https://incubrix.com/?utm_source=email&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=L00332-s1
 
 Not for you? Reply "no thanks" and I won't email you again.
@@ -36,7 +36,7 @@ Hi Rebecca, a quick follow-up on my note about "Rebecca's discussion on Gem Drop
 
 Happy to send the three sample clips. Just reply "yes".
 
-[Sender name], IncuBrix
+Gowtham M P (for IncuBrix)
 https://incubrix.com/?utm_source=email&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=L00332-s2
 
 Not for you? Reply "no thanks" and I won't email you again.
@@ -50,7 +50,7 @@ Hi Rebecca, last note from me. If clipping and captioning The Balanced, Beautifu
 
 Thanks for making the show.
 
-[Sender name], IncuBrix
+Gowtham M P (for IncuBrix)
 
 Not for you? Reply "no thanks" and I won't email you again.
 ```
@@ -58,5 +58,5 @@ Not for you? Reply "no thanks" and I won't email you again.
 ## Step 4 · LinkedIn · day 14
 
 ```text
-Hi Rebecca, I came across "Rebecca's discussion on Gem Drop Fridays" from The Balanced, Beautiful and Abundant Show. I work on IncuBrix, which turns one episode into captioned clips and posts for every platform. Would be glad to connect. - [Sender name]
+Hi Rebecca, I came across "Rebecca's discussion on Gem Drop Fridays" from The Balanced, Beautiful and Abundant Show. I'm helping launch IncuBrix, which turns one episode into captioned clips and posts for every platform. Would be glad to connect. - Gowtham M P
 ```

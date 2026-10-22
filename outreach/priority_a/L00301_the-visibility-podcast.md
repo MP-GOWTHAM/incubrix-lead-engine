@@ -7,12 +7,12 @@
 - **Hook:** Latest episode "Small Business, BIG Opportunity: What's Next for Main Street with Jacqueline Snyder" (2026-10-19); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~28-min episodes; no YouTube/TikTok clip channel linked in the feed
 - **Commercial signal:** Service (coaching/consulting): "business owners dial in! Learn more or book a call at MsMelissaRose.com/deals . 🎧 If you missed last week's ep" (episode 'People Are Finding Your Business. Here's Why They Might Not Choose You') (https://share.transistor.fm/s/17f4ff9e)
-- **Checked:** 2026-10-20
+- **Checked:** 2026-10-22
 
 ## Step 1 · Instagram · day 0
 
 ```text
-Hi Melissa! Just found "Small Business, BIG Opportunity: What's Next…" from The Visibility Podcast. At ~28 minutes per episode, there are easily ten clips in each one, and I didn't see a YouTube Shorts or TikTok channel linked from the show. I'm [Sender name] from IncuBrix: we turn one recording into captioned, ready-to-post clips. Want me to send 3 free sample clips from that episode? If it's not relevant, just say so and I won't message again.
+Hi Melissa! Just found "Small Business, BIG Opportunity: What's Next…" from The Visibility Podcast. At ~28 minutes per episode, there are easily ten clips in each one, and I didn't see a YouTube Shorts or TikTok channel linked from the show. I'm Gowtham M P. I'm helping launch IncuBrix, which turns one recording into captioned, ready-to-post clips. Want me to send 3 free sample clips from that episode? If it's not relevant, just say so and I won't message again.
 ```
 
 ## Step 2 · Instagram · day 4
@@ -24,7 +24,7 @@ Thanks, Melissa. Here's what I meant: IncuBrix finds the best moments in "Small 
 ## Step 3 · Instagram · day 10
 
 ```text
-Last nudge from me, Melissa. If sample clips from The Visibility Podcast would ever be useful, just reply and I'll send them. Otherwise, all the best with the show! - [Sender name], IncuBrix
+Last nudge from me, Melissa. If sample clips from The Visibility Podcast would ever be useful, just reply and I'll send them. Otherwise, all the best with the show! - Gowtham M P (for IncuBrix)
 ```
 
 ## Step 4 · Contact form · day 14
@@ -39,8 +39,8 @@ IncuBrix is a creator studio that turns one recording into captioned clips, quot
 
 If it helps, I can run "Small Business, BIG Opportunity: What's Next…" through it and send you three ready-to-post clips. No call and no card needed. Would that be useful?
 
-[Sender name]
-Creator Partnerships, IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
+Gowtham M P
+Growth Engineer candidate for IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
 https://incubrix.com/?utm_source=contact_form&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=L00301-s1
 
 Not for you? Reply "no thanks" and I won't email you again.

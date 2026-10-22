@@ -1,13 +1,13 @@
 # L01406 · Krystal Worst · Luxury Health Coaching
 
-- **Segment:** Expert-Led Creator · **Country:** US · **Score:** 71
+- **Segment:** Expert-Led Creator · **Country:** US · **Score:** 68
 - **Profile:** https://podcasts.apple.com/sg/podcast/luxury-health-coaching/id6790115305
 - **Best channel:** Email → `krystal@luxuryofthesunwv.com` (evidence: https://rss.com/podcasts/luxury-health-coaching/3055991)
 - **Backup channel:** — → ``
 - **Hook:** Latest episode "The hardest way possible" (2026-10-18); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 9 episodes publish a transcript; Repurposing into clips: ~21-min episodes; no YouTube/Instagram/TikTok clip channel linked in the feed
 - **Commercial signal:** Membership/subscription: "time or recurring donation at: https://buymeacoffee.com/luxuryofthesun_wv Interested in starting Sermorelin the" (episode '6-3-1') (https://rss.com/podcasts/luxury-health-coaching/3167198)
-- **Checked:** 2026-10-20
+- **Checked:** 2026-10-22
 
 ## Step 1 · Email · day 0
 **Subject:** "The hardest way possible" as clips?
@@ -21,8 +21,8 @@ IncuBrix is a creator studio that turns one recording into captioned clips, quot
 
 If it helps, I can run "The hardest way possible" through it and send you three ready-to-post clips. No call and no card needed. Would that be useful?
 
-[Sender name]
-Creator Partnerships, IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
+Gowtham M P
+Growth Engineer candidate for IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
 https://incubrix.com/?utm_source=email&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=L01406-s1
 
 Not for you? Reply "no thanks" and I won't email you again.
@@ -36,7 +36,7 @@ Hi Krystal, a quick follow-up on my note about "The hardest way possible". Your 
 
 Happy to send the three sample clips. Just reply "yes".
 
-[Sender name], IncuBrix
+Gowtham M P (for IncuBrix)
 https://incubrix.com/?utm_source=email&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=L01406-s2
 
 Not for you? Reply "no thanks" and I won't email you again.
@@ -50,7 +50,7 @@ Hi Krystal, last note from me. If clipping and captioning Luxury Health Coaching
 
 Thanks for making the show.
 
-[Sender name], IncuBrix
+Gowtham M P (for IncuBrix)
 
 Not for you? Reply "no thanks" and I won't email you again.
 ```

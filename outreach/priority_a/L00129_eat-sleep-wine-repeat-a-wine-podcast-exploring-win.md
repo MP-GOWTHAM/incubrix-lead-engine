@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "Ep 279 – Biodynamic Wine Explained: Olivier Humbrecht MW of Zind-Humbrecht" (2026-10-19); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~60-min episodes; no YouTube/Instagram/TikTok clip channel linked in the feed; Publishing consistency: gap of 42 days between episodes vs a usual 7-day rhythm
 - **Commercial signal:** Sponsorship: "lliant place to start. This episode was sponsored by Pago Finca Elez . Their Wines available in the UK through F" (episode 'Ep 275 - Spanish Wine Beyond Rioja: Vino de Pago, New Jerez, Bobal & M') (https://eatsleepwinerepeat.podbean.com/e/ep-275-spanish-wine-beyond-rioja-vino-de-pago-new-jerez-bobal-more-with-sarah-jane-evans-mw/)
-- **Checked:** 2026-10-20
+- **Checked:** 2026-10-22
 
 ## Step 1 · Email · day 0
 **Subject:** "Biodynamic Wine Explained: Olivier Humbrecht…" as clips?
@@ -21,8 +21,8 @@ IncuBrix is a creator studio that turns one recording into captioned clips, quot
 
 If it helps, I can run "Biodynamic Wine Explained: Olivier Humbrecht…" through it and send you three ready-to-post clips. No call and no card needed. Would that be useful?
 
-[Sender name]
-Creator Partnerships, IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
+Gowtham M P
+Growth Engineer candidate for IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
 https://incubrix.com/?utm_source=email&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=L00129-s1
 
 Not for you? Reply "no thanks" and I won't email you again.
@@ -36,7 +36,7 @@ Hi Janina, a quick follow-up on my note about "Biodynamic Wine Explained: Olivie
 
 Happy to send the three sample clips. Just reply "yes".
 
-[Sender name], IncuBrix
+Gowtham M P (for IncuBrix)
 https://incubrix.com/?utm_source=email&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=L00129-s2
 
 Not for you? Reply "no thanks" and I won't email you again.
@@ -50,7 +50,7 @@ Hi Janina, last note from me. If clipping and captioning EAT SLEEP WINE REPEAT i
 
 Thanks for making the show.
 
-[Sender name], IncuBrix
+Gowtham M P (for IncuBrix)
 
 Not for you? Reply "no thanks" and I won't email you again.
 ```
@@ -61,15 +61,15 @@ Not for you? Reply "no thanks" and I won't email you again.
 ```text
 Hi Janina,
 
-I enjoyed seeing "Biodynamic Wine Explained: Olivier Humbrecht MW of Zind-Humbrecht" come through the EAT SLEEP WINE REPEAT feed. I'd like to suggest [IncuBrix founder or creator lead] from IncuBrix as a guest. Possible angles for your listeners:
+I enjoyed seeing "Biodynamic Wine Explained: Olivier Humbrecht MW of Zind-Humbrecht" come through the EAT SLEEP WINE REPEAT feed. I'd like to suggest someone from the IncuBrix team as a guest. Possible angles for your listeners:
 1. How solo creators turn one recording into 10+ short clips without an editor
 2. What actually gets reach on Shorts, Reels and LinkedIn for long-form shows in 2026
 3. Captions, transcripts and voice-cloned fixes: where AI saves creators hours, and where it doesn't
 
 Happy to fit your format and schedule.
 
-[Sender name]
-Creator Partnerships, IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
+Gowtham M P
+Growth Engineer candidate for IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
 https://incubrix.com/?utm_source=podcast_guest_pitch&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=L00129-s1
 
 Not for you? Reply "no thanks" and I won't email you again.

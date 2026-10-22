@@ -1,13 +1,13 @@
 # L00642 · Kate Brownfield · The ADHD Kids Can Thrive Podcast
 
-- **Segment:** Expert-Led Creator · **Country:** US · **Score:** 71
+- **Segment:** Expert-Led Creator · **Country:** US · **Score:** 69
 - **Profile:** https://podcasts.apple.com/sg/podcast/the-adhd-kids-can-thrive-podcast/id1622483350
 - **Best channel:** Email → `adhdkidscanthrive@yahoo.com` (evidence: https://adhdkidscanthrive.podbean.com/e/transitioning-young-adults-with-adhd-to-independence-without-them-feeling-lost-with-greg-burnham/)
 - **Backup channel:** LinkedIn → `https://www.linkedin.com/in/kate-wedlock-brownfield-b0b139/`
 - **Hook:** Latest episode "ADHD, Trauma, and Emotional Overwhelm in Kids | Dr. Aimie Apigian" (2026-10-19); Repurposing into clips
 - **Why IncuBrix:** Repurposing into clips: ~30-min episodes; no Instagram/TikTok clip channel linked in the feed; Publishing consistency: gap of 133 days between episodes vs a usual 10.5-day rhythm
 - **Commercial signal:** Course/product: "e Download: Get the first 3 chapters of my book—free— https://lp.constantcontactpages.com/sl/On1ABRH/first3" (episode 'No One Else I'd Rather Be: A Mother's Memoir of Raising a Daughter wit') (https://adhdkidscanthrive.podbean.com/e/no-one-else-id-rather-be-a-mothers-memoir-of-raising-a-daughter-with-adhd/)
-- **Checked:** 2026-10-20
+- **Checked:** 2026-10-22
 
 ## Step 1 · Email · day 0
 **Subject:** "ADHD, Trauma, and Emotional Overwhelm in Kids…" as clips?
@@ -21,8 +21,8 @@ IncuBrix is a creator studio that turns one recording into captioned clips, quot
 
 If it helps, I can run "ADHD, Trauma, and Emotional Overwhelm in Kids…" through it and send you three ready-to-post clips. No call and no card needed. Would that be useful?
 
-[Sender name]
-Creator Partnerships, IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
+Gowtham M P
+Growth Engineer candidate for IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
 https://incubrix.com/?utm_source=email&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=L00642-s1
 
 Not for you? Reply "no thanks" and I won't email you again.
@@ -36,7 +36,7 @@ Hi Kate, a quick follow-up on my note about "ADHD, Trauma, and Emotional Overwhe
 
 Happy to send the three sample clips. Just reply "yes".
 
-[Sender name], IncuBrix
+Gowtham M P (for IncuBrix)
 https://incubrix.com/?utm_source=email&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=L00642-s2
 
 Not for you? Reply "no thanks" and I won't email you again.
@@ -50,7 +50,7 @@ Hi Kate, last note from me. If clipping and captioning The ADHD Kids Can Thrive 
 
 Thanks for making the show.
 
-[Sender name], IncuBrix
+Gowtham M P (for IncuBrix)
 
 Not for you? Reply "no thanks" and I won't email you again.
 ```
@@ -58,5 +58,5 @@ Not for you? Reply "no thanks" and I won't email you again.
 ## Step 4 · LinkedIn · day 14
 
 ```text
-Hi Kate, I came across "ADHD, Trauma, and Emotional Overwhelm in Kids…" from The ADHD Kids Can Thrive Podcast. I work on IncuBrix, which turns one episode into captioned clips and posts for every platform. Would be glad to connect. - [Sender name]
+Hi Kate, I came across "ADHD, Trauma, and Emotional Overwhelm in Kids…" from The ADHD Kids Can Thrive Podcast. I'm helping launch IncuBrix, which turns one episode into captioned clips and posts for every platform. Would be glad to connect. - Gowtham M P
 ```

@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "Mastering Workplace Negotiations | How to Ace Interviews with Dave Wolovsky" (2026-10-18); Repurposing into clips
 - **Why IncuBrix:** Repurposing into clips: ~37-min episodes; no YouTube/Instagram/TikTok clip channel linked in the feed
 - **Commercial signal:** Affiliate: "ses https://self-compassion.org https://amzn.to/4ydngh1 https://amzn.to/4yNJV4T https://www.linkedin.com/in" (episode 'Burnout Is a Mismatch, Not a Personal Failure') (https://rss.buzzsprout.com/2299802.rss)
-- **Checked:** 2026-10-20
+- **Checked:** 2026-10-22
 
 ## Step 1 · Email · day 0
 **Subject:** "Mastering Workplace Negotiations | How to Ace…" as clips?
@@ -21,8 +21,8 @@ IncuBrix is a creator studio that turns one recording into captioned clips, quot
 
 If it helps, I can run "Mastering Workplace Negotiations | How to Ace…" through it and send you three ready-to-post clips. No call and no card needed. Would that be useful?
 
-[Sender name]
-Creator Partnerships, IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
+Gowtham M P
+Growth Engineer candidate for IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
 https://incubrix.com/?utm_source=email&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=L00921-s1
 
 Not for you? Reply "no thanks" and I won't email you again.
@@ -36,7 +36,7 @@ Hi Aesha, a quick follow-up on my note about "Mastering Workplace Negotiations |
 
 Happy to send the three sample clips. Just reply "yes".
 
-[Sender name], IncuBrix
+Gowtham M P (for IncuBrix)
 https://incubrix.com/?utm_source=email&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=L00921-s2
 
 Not for you? Reply "no thanks" and I won't email you again.
@@ -50,7 +50,7 @@ Hi Aesha, last note from me. If clipping and captioning 9 to 5 Wellness isn't a 
 
 Thanks for making the show.
 
-[Sender name], IncuBrix
+Gowtham M P (for IncuBrix)
 
 Not for you? Reply "no thanks" and I won't email you again.
 ```
@@ -58,5 +58,5 @@ Not for you? Reply "no thanks" and I won't email you again.
 ## Step 4 · LinkedIn · day 14
 
 ```text
-Hi Aesha, I came across "Mastering Workplace Negotiations | How to Ace…" from 9 to 5 Wellness. I work on IncuBrix, which turns one episode into captioned clips and posts for every platform. Would be glad to connect. - [Sender name]
+Hi Aesha, I came across "Mastering Workplace Negotiations | How to Ace…" from 9 to 5 Wellness. I'm helping launch IncuBrix, which turns one episode into captioned clips and posts for every platform. Would be glad to connect. - Gowtham M P
 ```

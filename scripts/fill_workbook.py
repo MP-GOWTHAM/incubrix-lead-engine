@@ -167,7 +167,7 @@ def main():
 
     # 03 section C: launch kit summary
     launch = [
-        "1,044 verified independent podcasters (596) and expert-led creators (448) in US/GB/AU/CA/IE/NZ/SG; "
+        "1,042 verified independent podcasters (599) and expert-led creators (443) in US/GB/AU/CA/IE/NZ/SG; "
         "Priority A (250) first. See launch_kit/LAUNCH_KIT.md §1",
         "Email (best for 743): published business contacts. Instagram/LinkedIn/X DMs by hand (best for ~300 incl. "
         "UK/IE personal mailboxes, PECR). Podcast guest pitches for distribution. Contact form as backup",
@@ -189,6 +189,9 @@ def main():
 
     # 00_START: disclosures (candidate must review)
     st = wb["00_START"]
+    cfg = json.load(open(os.path.join(ROOT, "config.json"), encoding="utf-8-sig"))
+    if cfg["sender"].get("name") and not cfg["sender"]["name"].startswith("["):
+        st["B6"] = cfg["sender"]["name"]
     st["B16"] = ("Claude Code (Anthropic) assisted with writing the engine, tests, message templates and "
                  "documents. Data: Apple Podcasts Search/Lookup API (public, keyless) and creators' public RSS "
                  "feeds. Python 3 standard library; openpyxl for this workbook. No paid tools.")

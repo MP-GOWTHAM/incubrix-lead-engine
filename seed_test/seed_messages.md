@@ -17,8 +17,8 @@ IncuBrix is a creator studio that turns one recording into captioned clips, quot
 
 If it helps, I can run "From STRs to Roth IRAs: A Pilot’s Wealth…" through it and send you three ready-to-post clips. No call and no card needed. Would that be useful?
 
-[Sender name]
-Creator Partnerships, IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
+Gowtham M P
+Growth Engineer candidate for IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
 https://incubrix.com/?utm_source=email&utm_medium=outreach&utm_campaign=seed_test&utm_content=L02051-s1
 
 Not for you? Reply "no thanks" and I won't email you again.
@@ -32,7 +32,7 @@ Hi Tait, a quick follow-up on my note about "From STRs to Roth IRAs: A Pilot’s
 
 Happy to send the three sample clips. Just reply "yes".
 
-[Sender name], IncuBrix
+Gowtham M P (for IncuBrix)
 https://incubrix.com/?utm_source=email&utm_medium=outreach&utm_campaign=seed_test&utm_content=L02051-s2
 
 Not for you? Reply "no thanks" and I won't email you again.
@@ -46,7 +46,7 @@ Hi Tait, last note from me. If clipping and captioning Passive Income Pilots isn
 
 Thanks for making the show.
 
-[Sender name], IncuBrix
+Gowtham M P (for IncuBrix)
 
 Not for you? Reply "no thanks" and I won't email you again.
 ```
@@ -58,7 +58,7 @@ Wording generated for L01893 (Aircrew Interview).
 
 
 ```text
-Hi Mike! Just found "AI # 445 : F-14A vs Tornado F3: A RIO & Navs…" from Aircrew Interview. At ~37 minutes per episode, there are easily ten clips in each one, and I didn't see a YouTube Shorts or TikTok channel linked from the show. I'm [Sender name] from IncuBrix: we turn one recording into captioned, ready-to-post clips. Want me to send 3 free sample clips from that episode? If it's not relevant, just say so and I won't message again.
+Hi Mike! Just found "AI # 445 : F-14A vs Tornado F3: A RIO & Navs…" from Aircrew Interview. At ~37 minutes per episode, there are easily ten clips in each one, and I didn't see a YouTube Shorts or TikTok channel linked from the show. I'm Gowtham M P. I'm helping launch IncuBrix, which turns one recording into captioned, ready-to-post clips. Want me to send 3 free sample clips from that episode? If it's not relevant, just say so and I won't message again.
 ```
 
 ### S05 · step 2 · send day 4
@@ -72,7 +72,7 @@ Thanks, Mike. Here's what I meant: IncuBrix finds the best moments in "AI # 445 
 
 
 ```text
-Last nudge from me, Mike. If sample clips from Aircrew Interview would ever be useful, just reply and I'll send them. Otherwise, all the best with the show! - [Sender name], IncuBrix
+Last nudge from me, Mike. If sample clips from Aircrew Interview would ever be useful, just reply and I'll send them. Otherwise, all the best with the show! - Gowtham M P (for IncuBrix)
 ```
 
 ## X: `@your_test_account` → `@your_second_test_account`
@@ -82,7 +82,7 @@ Wording generated for L00905 (Storytime for Grownups).
 
 
 ```text
-Hi Faith! Just found "The Phantom of the Opera: Chapter 20" from Storytime for Grownups. At ~57 minutes per episode, there are easily ten clips in each one, and I didn't see a YouTube Shorts or Instagram Reels channel linked from the show. I'm [Sender name] from IncuBrix: we turn one recording into captioned, ready-to-post clips. Want me to send 3 free sample clips from that episode? If it's not relevant, just say so and I won't message again.
+Hi Faith! Just found "The Phantom of the Opera: Chapter 20" from Storytime for Grownups. At ~57 minutes per episode, there are easily ten clips in each one, and I didn't see a YouTube Shorts or Instagram Reels channel linked from the show. I'm Gowtham M P. I'm helping launch IncuBrix, which turns one recording into captioned, ready-to-post clips. Want me to send 3 free sample clips from that episode? If it's not relevant, just say so and I won't message again.
 ```
 
 ### S08 · step 2 · send day 4
@@ -96,5 +96,5 @@ Thanks, Faith. Here's what I meant: IncuBrix finds the best moments in "The Phan
 
 
 ```text
-Last nudge from me, Faith. If sample clips from Storytime for Grownups would ever be useful, just reply and I'll send them. Otherwise, all the best with the show! - [Sender name], IncuBrix
+Last nudge from me, Faith. If sample clips from Storytime for Grownups would ever be useful, just reply and I'll send them. Otherwise, all the best with the show! - Gowtham M P (for IncuBrix)
 ```

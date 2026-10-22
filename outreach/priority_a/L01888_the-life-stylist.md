@@ -7,12 +7,12 @@
 - **Hook:** Latest episode "From Abuse to Addiction to Awakening - Luke as Guest on Kyle Kingsbury Podcast" (2026-10-18); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~87-min episodes; no TikTok clip channel linked in the feed
 - **Commercial signal:** Course/product: "ation about the life experiences behind my new book, A Horse Named Lonesome. We trace my journey from childhood" (episode 'From Abuse to Addiction to Awakening - Luke as Guest on Kyle Kingsbury') (https://LukeStorey.com/lifestylistpodcast)
-- **Checked:** 2026-10-20
+- **Checked:** 2026-10-22
 
 ## Step 1 · LinkedIn · day 0
 
 ```text
-Hi Luke, I came across "From Abuse to Addiction to Awakening - Luke as…" from The Life Stylist. I work on IncuBrix, which turns one episode into captioned clips and posts for every platform. Would be glad to connect. - [Sender name]
+Hi Luke, I came across "From Abuse to Addiction to Awakening - Luke as…" from The Life Stylist. I'm helping launch IncuBrix, which turns one episode into captioned clips and posts for every platform. Would be glad to connect. - Gowtham M P
 ```
 
 ## Step 2 · LinkedIn · day 4
@@ -24,11 +24,11 @@ Thanks, Luke. Here's what I meant: IncuBrix finds the best moments in "From Abus
 ## Step 3 · LinkedIn · day 10
 
 ```text
-Last nudge from me, Luke. If sample clips from The Life Stylist would ever be useful, just reply and I'll send them. Otherwise, all the best with the show! - [Sender name], IncuBrix
+Last nudge from me, Luke. If sample clips from The Life Stylist would ever be useful, just reply and I'll send them. Otherwise, all the best with the show! - Gowtham M P (for IncuBrix)
 ```
 
 ## Step 4 · Instagram · day 14
 
 ```text
-Hi Luke! Just found "From Abuse to Addiction to Awakening - Luke as…" from The Life Stylist. At ~87 minutes per episode, there are easily ten clips in each one, and I didn't see a TikTok channel linked from the show. I'm [Sender name] from IncuBrix: we turn one recording into captioned, ready-to-post clips. Want me to send 3 free sample clips from that episode? If it's not relevant, just say so and I won't message again.
+Hi Luke! Just found "From Abuse to Addiction to Awakening - Luke as…" from The Life Stylist. At ~87 minutes per episode, there are easily ten clips in each one, and I didn't see a TikTok channel linked from the show. I'm Gowtham M P. I'm helping launch IncuBrix, which turns one recording into captioned, ready-to-post clips. Want me to send 3 free sample clips from that episode? If it's not relevant, just say so and I won't message again.
 ```

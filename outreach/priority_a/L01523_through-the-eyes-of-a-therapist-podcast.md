@@ -7,12 +7,12 @@
 - **Hook:** Latest episode "Why Do We Love Being Scared? Therapists React to Horror Movies" (2026-10-16); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Publishing consistency: gap of 485 days between episodes vs a usual 14-day rhythm
 - **Commercial signal:** Membership/subscription: "ng as little as $3 a month: https://www.patreon.com/c/Therapistcristal Follow me on Instagram: https://www.inst" (episode 'Ain't No Rest for the Empathetic - The Burnout Trap') (https://Throughtheeyesofatherapist.podbean.com/e/aint-no-rest-for-the-empathetic-the-burnout-trap/)
-- **Checked:** 2026-10-20
+- **Checked:** 2026-10-22
 
 ## Step 1 · Instagram · day 0
 
 ```text
-Hi Cristal! Just found "Why Do We Love Being Scared? Therapists React…" from Through the Eyes of a Therapist Podcast. I noticed a few longer gaps in the feed, and a bank of ready-made clips is a simple way to keep channels moving through busy weeks. I'm [Sender name] from IncuBrix: we turn one recording into captioned, ready-to-post clips. Want me to send 3 free sample clips from that episode? If it's not relevant, just say so and I won't message again.
+Hi Cristal! Just found "Why Do We Love Being Scared? Therapists React…" from Through the Eyes of a Therapist Podcast. I noticed a few longer gaps in the feed, and a bank of ready-made clips is a simple way to keep channels moving through busy weeks. I'm Gowtham M P. I'm helping launch IncuBrix, which turns one recording into captioned, ready-to-post clips. Want me to send 3 free sample clips from that episode? If it's not relevant, just say so and I won't message again.
 ```
 
 ## Step 2 · Instagram · day 4
@@ -24,11 +24,11 @@ Thanks, Cristal. Here's what I meant: IncuBrix finds the best moments in "Why Do
 ## Step 3 · Instagram · day 10
 
 ```text
-Last nudge from me, Cristal. If sample clips from Through the Eyes of a Therapist Podcast would ever be useful, just reply and I'll send them. Otherwise, all the best with the show! - [Sender name], IncuBrix
+Last nudge from me, Cristal. If sample clips from Through the Eyes of a Therapist Podcast would ever be useful, just reply and I'll send them. Otherwise, all the best with the show! - Gowtham M P (for IncuBrix)
 ```
 
 ## Step 4 · TikTok · day 14
 
 ```text
-Hi Cristal! Just found "Why Do We Love Being Scared? Therapists React…" from Through the Eyes of a Therapist Podcast. I noticed a few longer gaps in the feed, and a bank of ready-made clips is a simple way to keep channels moving through busy weeks. I'm [Sender name] from IncuBrix: we turn one recording into captioned, ready-to-post clips. Want me to send 3 free sample clips from that episode? If it's not relevant, just say so and I won't message again.
+Hi Cristal! Just found "Why Do We Love Being Scared? Therapists React…" from Through the Eyes of a Therapist Podcast. I noticed a few longer gaps in the feed, and a bank of ready-made clips is a simple way to keep channels moving through busy weeks. I'm Gowtham M P. I'm helping launch IncuBrix, which turns one recording into captioned, ready-to-post clips. Want me to send 3 free sample clips from that episode? If it's not relevant, just say so and I won't message again.
 ```

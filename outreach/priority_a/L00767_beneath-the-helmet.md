@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "Presence, Ambiguous Loss & the Mental Mayday | CJ Dickinson" (2026-10-07); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript
 - **Commercial signal:** Affiliate: "ng Stress and Surviving Burnout https://amzn.to/4dYuJt3 https://link.amazon/B09iKU9gU" (episode 'Presence, Ambiguous Loss & the Mental Mayday | CJ Dickinson') (https://podcasters.spotify.com/pod/show/arjuna-george/episodes/Presence--Ambiguous-Loss--the-Mental-Mayday--CJ-Dickinson-e3q1amt)
-- **Checked:** 2026-10-20
+- **Checked:** 2026-10-22
 
 ## Step 1 · Email · day 0
 **Subject:** "Presence, Ambiguous Loss & the Mental Mayday |…" as clips?
@@ -21,8 +21,8 @@ IncuBrix is a creator studio that turns one recording into captioned clips, quot
 
 If it helps, I can run "Presence, Ambiguous Loss & the Mental Mayday |…" through it and send you three ready-to-post clips. No call and no card needed. Would that be useful?
 
-[Sender name]
-Creator Partnerships, IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
+Gowtham M P
+Growth Engineer candidate for IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
 https://incubrix.com/?utm_source=email&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=L00767-s1
 
 Not for you? Reply "no thanks" and I won't email you again.
@@ -36,7 +36,7 @@ Hi Arjuna, a quick follow-up on my note about "Presence, Ambiguous Loss & the Me
 
 Happy to send the three sample clips. Just reply "yes".
 
-[Sender name], IncuBrix
+Gowtham M P (for IncuBrix)
 https://incubrix.com/?utm_source=email&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=L00767-s2
 
 Not for you? Reply "no thanks" and I won't email you again.
@@ -50,7 +50,7 @@ Hi Arjuna, last note from me. If clipping and captioning Beneath The Helmet isn'
 
 Thanks for making the show.
 
-[Sender name], IncuBrix
+Gowtham M P (for IncuBrix)
 
 Not for you? Reply "no thanks" and I won't email you again.
 ```
@@ -58,5 +58,5 @@ Not for you? Reply "no thanks" and I won't email you again.
 ## Step 4 · Instagram · day 14
 
 ```text
-Hi Arjuna! Just found "Presence, Ambiguous Loss & the Mental Mayday |…" from Beneath The Helmet. I couldn't find a transcript or captioned cut of it, which is usually the easiest reach a show leaves on the table. I'm [Sender name] from IncuBrix: we turn one recording into captioned, ready-to-post clips. Want me to send 3 free sample clips from that episode? If it's not relevant, just say so and I won't message again.
+Hi Arjuna! Just found "Presence, Ambiguous Loss & the Mental Mayday |…" from Beneath The Helmet. I couldn't find a transcript or captioned cut of it, which is usually the easiest reach a show leaves on the table. I'm Gowtham M P. I'm helping launch IncuBrix, which turns one recording into captioned, ready-to-post clips. Want me to send 3 free sample clips from that episode? If it's not relevant, just say so and I won't message again.
 ```

@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "Fit Kisto (feat. STAR WARS: Galactic Racer, Sovereign Tower, Dragon's Dogma 2, and more!)" (2026-10-14); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~141-min episodes; no YouTube/Instagram/TikTok clip channel linked in the feed; Publishing consistency: gap of 21 days between episodes vs a usual 7-day rhythm
 - **Commercial signal:** Membership/subscription: "st.online Join the Patreon: https://www.patreon.com/intothecast --- Follow Stephen Hilger: https://bsky.app/pro" (episode 'Fit Kisto (feat. STAR WARS: Galactic Racer, Sovereign Tower, Dragon's ') (https://intothecast.transistor.fm/episodes/shades-frenemy-fit-kisto)
-- **Checked:** 2026-10-20
+- **Checked:** 2026-10-22
 
 ## Step 1 · Email · day 0
 **Subject:** "Fit Kisto (feat. STAR WARS: Galactic Racer,…" as clips?
@@ -21,8 +21,8 @@ IncuBrix is a creator studio that turns one recording into captioned clips, quot
 
 If it helps, I can run "Fit Kisto (feat. STAR WARS: Galactic Racer,…" through it and send you three ready-to-post clips. No call and no card needed. Would that be useful?
 
-[Sender name]
-Creator Partnerships, IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
+Gowtham M P
+Growth Engineer candidate for IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
 https://incubrix.com/?utm_source=email&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=L00143-s1
 
 Not for you? Reply "no thanks" and I won't email you again.
@@ -36,7 +36,7 @@ Hi Stephen, a quick follow-up on my note about "Fit Kisto (feat. STAR WARS: Gala
 
 Happy to send the three sample clips. Just reply "yes".
 
-[Sender name], IncuBrix
+Gowtham M P (for IncuBrix)
 https://incubrix.com/?utm_source=email&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=L00143-s2
 
 Not for you? Reply "no thanks" and I won't email you again.
@@ -50,7 +50,7 @@ Hi Stephen, last note from me. If clipping and captioning Into the Aether isn't 
 
 Thanks for making the show.
 
-[Sender name], IncuBrix
+Gowtham M P (for IncuBrix)
 
 Not for you? Reply "no thanks" and I won't email you again.
 ```
@@ -67,8 +67,8 @@ IncuBrix is a creator studio that turns one recording into captioned clips, quot
 
 If it helps, I can run "Fit Kisto (feat. STAR WARS: Galactic Racer,…" through it and send you three ready-to-post clips. No call and no card needed. Would that be useful?
 
-[Sender name]
-Creator Partnerships, IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
+Gowtham M P
+Growth Engineer candidate for IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
 https://incubrix.com/?utm_source=contact_form&utm_medium=outreach&utm_campaign=creator_outreach_launch&utm_content=L00143-s1
 
 Not for you? Reply "no thanks" and I won't email you again.
