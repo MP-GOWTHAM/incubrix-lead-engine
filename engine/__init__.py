@@ -1,0 +1,3 @@
+"""IncuBrix multi-channel creator lead engine."""
+
+__version__ = "1.0.0"

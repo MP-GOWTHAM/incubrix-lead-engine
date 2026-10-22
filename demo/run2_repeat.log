@@ -1,0 +1,559 @@
+﻿16:06:23 INFO    engine: search 'coaching' done: 20068 candidates so far
+16:06:23 INFO    engine: search 'business coach' done: 20068 candidates so far
+16:06:23 INFO    engine: search 'life coach' done: 20068 candidates so far
+16:06:23 INFO    engine: search 'health coach' done: 20068 candidates so far
+16:06:23 INFO    engine: search 'fitness coach' done: 20068 candidates so far
+16:06:23 INFO    engine: search 'nutrition' done: 20068 candidates so far
+16:06:23 INFO    engine: search 'mindset' done: 20068 candidates so far
+16:06:23 INFO    engine: search 'leadership' done: 20068 candidates so far
+16:06:23 INFO    engine: search 'entrepreneur' done: 20068 candidates so far
+16:06:23 INFO    engine: search 'small business' done: 20068 candidates so far
+16:06:23 INFO    engine: search 'marketing' done: 20068 candidates so far
+16:06:23 INFO    engine: search 'content marketing' done: 20068 candidates so far
+16:06:23 INFO    engine: search 'social media marketing' done: 20068 candidates so far
+16:06:23 INFO    engine: search 'personal branding' done: 20068 candidates so far
+16:06:23 INFO    engine: search 'copywriting' done: 20068 candidates so far
+16:06:23 INFO    engine: search 'sales' done: 20068 candidates so far
+16:06:23 INFO    engine: search 'online business' done: 20068 candidates so far
+16:06:23 INFO    engine: search 'creator economy' done: 20068 candidates so far
+16:06:23 INFO    engine: search 'youtube growth' done: 20068 candidates so far
+16:06:23 INFO    engine: search 'podcasting tips' done: 20068 candidates so far
+16:06:23 INFO    engine: search 'freelance' done: 20068 candidates so far
+16:06:23 INFO    engine: search 'real estate investing' done: 20068 candidates so far
+16:06:23 INFO    engine: search 'personal finance' done: 20068 candidates so far
+16:06:23 INFO    engine: search 'money' done: 20068 candidates so far
+16:06:23 INFO    engine: search 'investing' done: 20068 candidates so far
+16:06:23 INFO    engine: search 'career' done: 20068 candidates so far
+16:06:23 INFO    engine: search 'productivity' done: 20068 candidates so far
+16:06:23 INFO    engine: search 'parenting' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'relationships' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'dating advice' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'wellness' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'yoga' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'mental health' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'self improvement' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'spirituality coach' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'nonprofit leadership' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'ecommerce' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'startup' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'ai tools' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'photography' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'writing' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'authors' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'design' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'consulting' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'speaker' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'education' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'teacher' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'fitness' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'running' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'travel' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'food' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'comedy' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'true crime' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'film' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'gaming' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'interviews' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'video podcast' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'therapist' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'dietitian' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'pilates' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'strength training' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'marathon' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'golf' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'fishing' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'homesteading' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'gardening' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'interior design' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'wedding business' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'photography business' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'real estate agent' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'mortgage' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'financial advisor' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'tax tips' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'bookkeeping' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'shopify' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'amazon fba' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'etsy' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'affiliate marketing' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'email marketing' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'seo' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'instagram growth' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'tiktok growth' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'video marketing' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'linkedin marketing' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'b2b sales' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'saas founder' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'product management' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'ux design' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'web development' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'data science' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'stock market' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'retirement' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'debt free' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'frugal living' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'christian business' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'midlife women' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'menopause' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'fertility' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'postpartum' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'adhd' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'anxiety' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'sleep' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'longevity' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'biohacking' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'plant based' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'cooking' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'wine' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'coffee' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'crafts' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'knitting' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'screenwriting' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'acting' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'music business' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'songwriting' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'art business' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'comics' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'anime' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'movie review' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'tv recap' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'book club' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'history podcast' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'science podcast' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'space' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'dog training' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'horses' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'hr leadership' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'teacher burnout' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'homeschool' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'nurse' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'physician' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'dentist' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'chiropractor' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'veterinary' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'lawyer' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'architect' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'construction business' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'trades business' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'restaurant business' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'salon business' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'speaker coach' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'public speaking' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'uk podcast' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'british' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'london' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'manchester' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'scotland' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'australia' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'australian' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'sydney' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'melbourne' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'brisbane' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'canada' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'canadian' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'toronto' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'vancouver' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'ireland' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'irish' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'dublin' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'new zealand' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'auckland' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'singapore' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'uk business' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'australian business' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'canadian business' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'uk coach' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'australian coach' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'business uk' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'business australia' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'business canada' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'coach uk' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'coach australia' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'coach canada' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'fitness uk' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'fitness australia' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'fitness canada' done: 20068 candidates so far
+16:06:24 INFO    engine: search 'health uk' done: 20068 candidates so far
+16:06:25 INFO    engine: search 'health australia' done: 20068 candidates so far
+16:06:25 INFO    engine: search 'health canada' done: 20068 candidates so far
+16:06:25 INFO    engine: search 'money uk' done: 20068 candidates so far
+16:06:25 INFO    engine: search 'money australia' done: 20068 candidates so far
+16:06:25 INFO    engine: search 'money canada' done: 20068 candidates so far
+16:06:25 INFO    engine: search 'marketing uk' done: 20068 candidates so far
+16:06:25 INFO    engine: search 'marketing australia' done: 20068 candidates so far
+16:06:25 INFO    engine: search 'marketing canada' done: 20068 candidates so far
+16:06:25 INFO    engine: search 'parenting uk' done: 20068 candidates so far
+16:06:25 INFO    engine: search 'parenting australia' done: 20068 candidates so far
+16:06:25 INFO    engine: search 'parenting canada' done: 20068 candidates so far
+16:06:25 INFO    engine: search 'wellness uk' done: 20068 candidates so far
+16:06:25 INFO    engine: search 'wellness australia' done: 20068 candidates so far
+16:06:25 INFO    engine: search 'wellness canada' done: 20068 candidates so far
+16:06:25 INFO    engine: search 'mindset uk' done: 20068 candidates so far
+16:06:25 INFO    engine: search 'mindset australia' done: 20068 candidates so far
+16:06:25 INFO    engine: search 'mindset canada' done: 20068 candidates so far
+16:06:25 INFO    engine: search 'property uk' done: 20068 candidates so far
+16:06:25 INFO    engine: search 'property australia' done: 20068 candidates so far
+16:06:25 INFO    engine: search 'property canada' done: 20068 candidates so far
+16:06:25 INFO    engine: search 'entrepreneur uk' done: 20068 candidates so far
+16:06:25 INFO    engine: search 'entrepreneur australia' done: 20068 candidates so far
+16:06:25 INFO    engine: search 'entrepreneur canada' done: 20068 candidates so far
+16:06:25 INFO    engine: search 'comedy uk' done: 20068 candidates so far
+16:06:25 INFO    engine: search 'comedy australia' done: 20068 candidates so far
+16:06:25 INFO    engine: search 'comedy canada' done: 20068 candidates so far
+16:06:25 INFO    engine: search 'sport uk' done: 20068 candidates so far
+16:06:25 INFO    engine: search 'sport australia' done: 20068 candidates so far
+16:06:25 INFO    engine: search 'sport canada' done: 20068 candidates so far
+16:06:25 INFO    engine: search 'food uk' done: 20068 candidates so far
+16:06:25 INFO    engine: search 'food australia' done: 20068 candidates so far
+16:06:25 INFO    engine: search 'food canada' done: 20068 candidates so far
+16:06:25 INFO    engine: search 'business ireland' done: 20068 candidates so far
+16:06:25 INFO    engine: search 'health ireland' done: 20068 candidates so far
+16:06:25 INFO    engine: search 'comedy ireland' done: 20068 candidates so far
+16:06:25 INFO    engine: search 'sport ireland' done: 20068 candidates so far
+16:06:25 INFO    engine: search 'business new zealand' done: 20068 candidates so far
+16:06:25 INFO    engine: search 'health new zealand' done: 20068 candidates so far
+16:06:25 INFO    engine: search 'comedy new zealand' done: 20068 candidates so far
+16:06:25 INFO    engine: search 'sport new zealand' done: 20068 candidates so far
+16:06:25 INFO    engine: search 'aussie' done: 20068 candidates so far
+16:06:25 INFO    engine: search 'kiwi' done: 20068 candidates so far
+16:06:25 INFO    engine: search 'british comedy' done: 20068 candidates so far
+16:06:25 INFO    engine: search 'premier league' done: 20068 candidates so far
+16:06:25 INFO    engine: search 'cricket' done: 20068 candidates so far
+16:06:25 INFO    engine: search 'rugby' done: 20068 candidates so far
+16:06:25 INFO    engine: search 'afl' done: 20068 candidates so far
+16:06:25 INFO    engine: search 'nrl' done: 20068 candidates so far
+16:06:25 INFO    engine: search 'hockey canada' done: 20068 candidates so far
+16:06:25 INFO    engine: search 'glasgow' done: 20068 candidates so far
+16:06:25 INFO    engine: search 'birmingham uk' done: 20068 candidates so far
+16:06:25 INFO    engine: search 'leeds' done: 20068 candidates so far
+16:06:25 INFO    engine: search 'bristol' done: 20068 candidates so far
+16:06:25 INFO    engine: search 'perth australia' done: 20068 candidates so far
+16:06:25 INFO    engine: search 'adelaide' done: 20068 candidates so far
+16:06:25 INFO    engine: search 'calgary' done: 20068 candidates so far
+16:06:25 INFO    engine: search 'montreal' done: 20068 candidates so far
+16:06:25 INFO    engine: search 'ottawa' done: 20068 candidates so far
+16:06:25 INFO    engine: search 'cork' done: 20068 candidates so far
+16:06:25 INFO    engine: search 'wellington nz' done: 20068 candidates so far
+16:06:25 INFO    engine: charts 'gb' done: 20068 candidates so far
+16:06:25 INFO    engine: charts 'au' done: 20068 candidates so far
+16:06:25 INFO    engine: charts 'ca' done: 20068 candidates so far
+16:06:25 INFO    engine: charts 'ie' done: 20068 candidates so far
+16:06:25 INFO    engine: charts 'nz' done: 20068 candidates so far
+16:06:25 INFO    engine: charts 'sg' done: 20068 candidates so far
+16:06:26 INFO    engine: charts 'us' done: 20068 candidates so far
+16:06:28 INFO    engine: fetching 149 feeds (19919 already fresh in cache)
+16:06:29 WARNING engine: feed error for https://rss.buzzsprout.com/2415185.rss: HTTP 404 for https://rss.buzzsprout.com/2415185.rss
+16:06:29 WARNING engine: feed error for https://rss.buzzsprout.com/2415185.rss: HTTP 404 for https://rss.buzzsprout.com/2415185.rss
+16:06:29 WARNING engine: feed error for https://feeds.alitu.com/99461777: HTTP 403 for https://feeds.alitu.com/99461777
+16:06:29 WARNING engine: feed error for https://feeds.alitu.com/99461777: HTTP 403 for https://feeds.alitu.com/99461777
+16:06:29 WARNING engine: feed error for http://peopleshistory.com.au/index.php/feed/podcast/: Bad XML in http://peopleshistory.com.au/index.php/feed/podcast/: not well-formed (invalid token): line 1, column 141
+16:06:29 WARNING engine: feed error for http://peopleshistory.com.au/index.php/feed/podcast/: Bad XML in http://peopleshistory.com.au/index.php/feed/podcast/: not well-formed (invalid token): line 1, column 141
+16:06:29 WARNING engine: feed error for https://feeds.alitu.com/65751004: HTTP 403 for https://feeds.alitu.com/65751004
+16:06:29 WARNING engine: feed error for https://feeds.alitu.com/65751004: HTTP 403 for https://feeds.alitu.com/65751004
+16:06:29 WARNING engine: feed error for https://feeds.alitu.com/2149136: HTTP 403 for https://feeds.alitu.com/2149136
+16:06:29 WARNING engine: feed error for https://feeds.alitu.com/2149136: HTTP 403 for https://feeds.alitu.com/2149136
+16:06:29 WARNING engine: feed error for https://addictedtothemouse.com/feed/podcast/: Bad XML in https://addictedtothemouse.com/feed/podcast/: not well-formed (invalid token): line 1, column 129
+16:06:29 WARNING engine: feed error for https://addictedtothemouse.com/feed/podcast/: Bad XML in https://addictedtothemouse.com/feed/podcast/: not well-formed (invalid token): line 1, column 129
+16:06:29 WARNING engine: feed error for https://www.startupcan.ca/category/startuppodcast/feed/: HTTP 403 for https://www.startupcan.ca/category/startuppodcast/feed/
+16:06:29 WARNING engine: feed error for https://www.startupcan.ca/category/startuppodcast/feed/: HTTP 403 for https://www.startupcan.ca/category/startuppodcast/feed/
+16:06:29 WARNING engine: feed error for http://pod.ssenhosting.com/rss/pb_32465/pbchannel_46141.xml: HTTP 404 for http://pod.ssenhosting.com/rss/pb_32465/pbchannel_46141.xml
+16:06:29 WARNING engine: feed error for http://pod.ssenhosting.com/rss/pb_32465/pbchannel_46141.xml: HTTP 404 for http://pod.ssenhosting.com/rss/pb_32465/pbchannel_46141.xml
+16:06:29 WARNING engine: feed error for https://www.melissawest.com/feed/namaste-yoga-video/: Bad XML in https://www.melissawest.com/feed/namaste-yoga-video/: not well-formed (invalid token): line 1, column 140
+16:06:29 WARNING engine: feed error for https://www.melissawest.com/feed/namaste-yoga-video/: Bad XML in https://www.melissawest.com/feed/namaste-yoga-video/: not well-formed (invalid token): line 1, column 140
+16:06:29 WARNING engine: feed error for https://feeds.alitu.com/45652170: HTTP 403 for https://feeds.alitu.com/45652170
+16:06:29 WARNING engine: feed error for https://feeds.alitu.com/45652170: HTTP 403 for https://feeds.alitu.com/45652170
+16:06:29 WARNING engine: feed error for https://www.ibo-ad.com/my_rss.php?sid=2089&sbid=20286: Bad XML in https://www.ibo-ad.com/my_rss.php?sid=2089&sbid=20286: not well-formed (invalid token): line 1, column 1216
+16:06:29 WARNING engine: feed error for https://www.ibo-ad.com/my_rss.php?sid=2089&sbid=20286: Bad XML in https://www.ibo-ad.com/my_rss.php?sid=2089&sbid=20286: not well-formed (invalid token): line 1, column 1216
+16:06:29 WARNING engine: feed error for https://anchor.fm/s/114e05154/podcast/rss: HTTP 404 for https://anchor.fm/s/114e05154/podcast/rss
+16:06:29 WARNING engine: feed error for https://anchor.fm/s/114e05154/podcast/rss: HTTP 404 for https://anchor.fm/s/114e05154/podcast/rss
+16:06:29 WARNING engine: feed error for https://www.chiro.org.au/feed/podcasts: HTTP 403 for https://www.chiro.org.au/feed/podcasts
+16:06:29 WARNING engine: feed error for https://www.chiro.org.au/feed/podcasts: HTTP 403 for https://www.chiro.org.au/feed/podcasts
+16:06:29 WARNING engine: feed error for https://www.startupcan.ca/feed/podcast/: HTTP 403 for https://www.startupcan.ca/feed/podcast/
+16:06:29 WARNING engine: feed error for https://www.startupcan.ca/feed/podcast/: HTTP 403 for https://www.startupcan.ca/feed/podcast/
+16:06:29 WARNING engine: feed error for https://feeds.alitu.com/64690715: HTTP 403 for https://feeds.alitu.com/64690715
+16:06:29 WARNING engine: feed error for https://feeds.alitu.com/64690715: HTTP 403 for https://feeds.alitu.com/64690715
+16:06:29 WARNING engine: feed error for https://anchor.fm/s/116a6211c/podcast/rss: HTTP 404 for https://anchor.fm/s/116a6211c/podcast/rss
+16:06:29 WARNING engine: feed error for https://anchor.fm/s/116a6211c/podcast/rss: HTTP 404 for https://anchor.fm/s/116a6211c/podcast/rss
+16:06:29 WARNING engine: feed error for https://feeds.alitu.com/64689631: HTTP 403 for https://feeds.alitu.com/64689631
+16:06:29 WARNING engine: feed error for https://feeds.alitu.com/64689631: HTTP 403 for https://feeds.alitu.com/64689631
+16:06:29 WARNING engine: feed error for https://feeds.transistor.fm/ai-for-australian-business-field-notes: HTTP 404 for https://feeds.transistor.fm/ai-for-australian-business-field-notes
+16:06:29 WARNING engine: feed error for https://feeds.transistor.fm/ai-for-australian-business-field-notes: HTTP 404 for https://feeds.transistor.fm/ai-for-australian-business-field-notes
+16:06:29 WARNING engine: feed error for https://markethuddle.com/feed/podcast/: Bad XML in https://markethuddle.com/feed/podcast/: not well-formed (invalid token): line 1, column 129
+16:06:29 WARNING engine: feed error for https://markethuddle.com/feed/podcast/: Bad XML in https://markethuddle.com/feed/podcast/: not well-formed (invalid token): line 1, column 129
+16:06:29 WARNING engine: feed error for https://media.rss.com/brisbane-first-home-buyer-loan/feed.xml: HTTP 404 for https://media.rss.com/brisbane-first-home-buyer-loan/feed.xml
+16:06:29 WARNING engine: feed error for https://media.rss.com/brisbane-first-home-buyer-loan/feed.xml: HTTP 404 for https://media.rss.com/brisbane-first-home-buyer-loan/feed.xml
+16:06:30 WARNING engine: feed error for http://rangedtouch.com/category/shelved-by-genre/feed/: Bad XML in http://rangedtouch.com/category/shelved-by-genre/feed/: mismatched tag: line 100, column 6
+16:06:30 WARNING engine: feed error for http://rangedtouch.com/category/shelved-by-genre/feed/: Bad XML in http://rangedtouch.com/category/shelved-by-genre/feed/: mismatched tag: line 100, column 6
+16:06:30 WARNING engine: feed error for https://www.spreaker.com/show/7289305/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7289305/episodes/feed
+16:06:30 WARNING engine: feed error for https://www.spreaker.com/show/7289305/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7289305/episodes/feed
+16:06:30 WARNING engine: feed error for https://www.thefishow.com/feed/podcast/: Bad XML in https://www.thefishow.com/feed/podcast/: not well-formed (invalid token): line 1, column 129
+16:06:30 WARNING engine: feed error for https://www.thefishow.com/feed/podcast/: Bad XML in https://www.thefishow.com/feed/podcast/: not well-formed (invalid token): line 1, column 129
+16:06:30 WARNING engine: feed error for https://ericrobertsfitness.com/feed/podcast/: Bad XML in https://ericrobertsfitness.com/feed/podcast/: not well-formed (invalid token): line 1, column 129
+16:06:30 WARNING engine: feed error for https://ericrobertsfitness.com/feed/podcast/: Bad XML in https://ericrobertsfitness.com/feed/podcast/: not well-formed (invalid token): line 1, column 129
+16:06:30 WARNING engine: feed error for https://media.rss.com/first-home-loan-broker-brisbane/feed.xml: HTTP 404 for https://media.rss.com/first-home-loan-broker-brisbane/feed.xml
+16:06:30 WARNING engine: feed error for https://media.rss.com/first-home-loan-broker-brisbane/feed.xml: HTTP 404 for https://media.rss.com/first-home-loan-broker-brisbane/feed.xml
+16:06:30 WARNING engine: feed error for https://www.timpeter.com/blog/feed/podcast/: Bad XML in https://www.timpeter.com/blog/feed/podcast/: not well-formed (invalid token): line 1, column 136
+16:06:30 WARNING engine: feed error for https://www.timpeter.com/blog/feed/podcast/: Bad XML in https://www.timpeter.com/blog/feed/podcast/: not well-formed (invalid token): line 1, column 136
+16:06:30 WARNING engine: feed error for https://podcasts.apple.com/gb/podcast/parent-unplugged/id1812910824: Bad XML in https://podcasts.apple.com/gb/podcast/parent-unplugged/id1812910824: not well-formed (invalid token): line 39, column 27
+16:06:30 WARNING engine: feed error for https://podcasts.apple.com/gb/podcast/parent-unplugged/id1812910824: Bad XML in https://podcasts.apple.com/gb/podcast/parent-unplugged/id1812910824: not well-formed (invalid token): line 39, column 27
+16:06:30 WARNING engine: feed error for https://media.rss.com/home-loan-broker-brisbane/feed.xml: HTTP 404 for https://media.rss.com/home-loan-broker-brisbane/feed.xml
+16:06:30 WARNING engine: feed error for https://media.rss.com/home-loan-broker-brisbane/feed.xml: HTTP 404 for https://media.rss.com/home-loan-broker-brisbane/feed.xml
+16:06:30 WARNING engine: feed error for https://www.spreaker.com/show/7315553/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7315553/episodes/feed
+16:06:30 WARNING engine: feed error for https://www.spreaker.com/show/7315553/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7315553/episodes/feed
+16:06:30 WARNING engine: feed error for https://media.rss.com/oval-lab-grown-diamonds-brisbane/feed.xml: HTTP 404 for https://media.rss.com/oval-lab-grown-diamonds-brisbane/feed.xml
+16:06:30 WARNING engine: feed error for https://media.rss.com/oval-lab-grown-diamonds-brisbane/feed.xml: HTTP 404 for https://media.rss.com/oval-lab-grown-diamonds-brisbane/feed.xml
+16:06:30 WARNING engine: feed error for https://www.bnipodcast.com/feed/podcast/: HTTP 403 for https://www.bnipodcast.com/feed/podcast/
+16:06:30 WARNING engine: feed error for https://www.bnipodcast.com/feed/podcast/: HTTP 403 for https://www.bnipodcast.com/feed/podcast/
+16:06:30 WARNING engine: feed error for https://www.spreaker.com/show/7373486/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7373486/episodes/feed
+16:06:30 WARNING engine: feed error for https://www.spreaker.com/show/7373486/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7373486/episodes/feed
+16:06:30 WARNING engine: feed error for https://rss.buzzsprout.com/2657692.rss: HTTP 404 for https://rss.buzzsprout.com/2657692.rss
+16:06:30 WARNING engine: feed error for https://rss.buzzsprout.com/2657692.rss: HTTP 404 for https://rss.buzzsprout.com/2657692.rss
+16:06:30 WARNING engine: feed error for https://media.rss.com/solar-panel-bird-proofing-brisbane/feed.xml: HTTP 404 for https://media.rss.com/solar-panel-bird-proofing-brisbane/feed.xml
+16:06:30 WARNING engine: feed error for https://media.rss.com/solar-panel-bird-proofing-brisbane/feed.xml: HTTP 404 for https://media.rss.com/solar-panel-bird-proofing-brisbane/feed.xml
+16:06:30 WARNING engine: feed error for https://www.spreaker.com/show/7375808/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7375808/episodes/feed
+16:06:30 WARNING engine: feed error for https://www.spreaker.com/show/7375808/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7375808/episodes/feed
+16:06:30 WARNING engine: feed error for https://podcast.lifterlms.com/category/episodes/feed/: HTTP 403 for https://podcast.lifterlms.com/category/episodes/feed/
+16:06:30 WARNING engine: feed error for https://podcast.lifterlms.com/category/episodes/feed/: HTTP 403 for https://podcast.lifterlms.com/category/episodes/feed/
+16:06:30 WARNING engine: feed error for https://media.rss.com/bird-removal-brisbane-pod1/feed.xml: HTTP 404 for https://media.rss.com/bird-removal-brisbane-pod1/feed.xml
+16:06:30 WARNING engine: feed error for https://media.rss.com/bird-removal-brisbane-pod1/feed.xml: HTTP 404 for https://media.rss.com/bird-removal-brisbane-pod1/feed.xml
+16:06:30 WARNING engine: feed error for https://www.spreaker.com/show/7387329/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7387329/episodes/feed
+16:06:30 WARNING engine: feed error for https://www.spreaker.com/show/7387329/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7387329/episodes/feed
+16:06:30 WARNING engine: feed error for https://media.rss.com/capcut-pro-mod-apk-features-editing-tools/feed.xml: HTTP 404 for https://media.rss.com/capcut-pro-mod-apk-features-editing-tools/feed.xml
+16:06:30 WARNING engine: feed error for https://media.rss.com/capcut-pro-mod-apk-features-editing-tools/feed.xml: HTTP 404 for https://media.rss.com/capcut-pro-mod-apk-features-editing-tools/feed.xml
+16:06:30 WARNING engine: feed error for https://engineeringmanagementinstitute.org/category/tecc-podcast/feed/: HTTP 403 for https://engineeringmanagementinstitute.org/category/tecc-podcast/feed/
+16:06:30 WARNING engine: feed error for https://engineeringmanagementinstitute.org/category/tecc-podcast/feed/: HTTP 403 for https://engineeringmanagementinstitute.org/category/tecc-podcast/feed/
+16:06:30 WARNING engine: feed error for https://www.spreaker.com/show/7389028/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7389028/episodes/feed
+16:06:30 WARNING engine: feed error for https://www.spreaker.com/show/7389028/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7389028/episodes/feed
+16:06:31 WARNING engine: feed error for https://streetphotographymagazine.com/feed/podcast: Bad XML in https://streetphotographymagazine.com/feed/podcast: not well-formed (invalid token): line 1, column 126
+16:06:31 WARNING engine: feed error for https://streetphotographymagazine.com/feed/podcast: Bad XML in https://streetphotographymagazine.com/feed/podcast: not well-formed (invalid token): line 1, column 126
+16:06:31 WARNING engine: feed error for https://media.rss.com/from-the-oasthouse/feed.xml: HTTP 404 for https://media.rss.com/from-the-oasthouse/feed.xml
+16:06:31 WARNING engine: feed error for https://media.rss.com/from-the-oasthouse/feed.xml: HTTP 404 for https://media.rss.com/from-the-oasthouse/feed.xml
+16:06:31 WARNING engine: feed error for https://www.spreaker.com/show/7419127/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7419127/episodes/feed
+16:06:31 WARNING engine: feed error for https://www.spreaker.com/show/7419127/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7419127/episodes/feed
+16:06:31 WARNING engine: feed error for https://media.rss.com/engagement-rings-brisbane-under-1000/feed.xml: HTTP 404 for https://media.rss.com/engagement-rings-brisbane-under-1000/feed.xml
+16:06:31 WARNING engine: feed error for https://media.rss.com/engagement-rings-brisbane-under-1000/feed.xml: HTTP 404 for https://media.rss.com/engagement-rings-brisbane-under-1000/feed.xml
+16:06:31 WARNING engine: feed error for https://www.retirementwisdom.com/podcasts/feed/retirement-wisdom-podcast-feed/: HTTP 403 for https://www.retirementwisdom.com/podcasts/feed/retirement-wisdom-podcast-feed/
+16:06:31 WARNING engine: feed error for https://www.retirementwisdom.com/podcasts/feed/retirement-wisdom-podcast-feed/: HTTP 403 for https://www.retirementwisdom.com/podcasts/feed/retirement-wisdom-podcast-feed/
+16:06:31 WARNING engine: feed error for https://www.kuttinconsultinggroup.com/feed/podcast/: HTTP 403 for https://www.kuttinconsultinggroup.com/feed/podcast/
+16:06:31 WARNING engine: feed error for https://www.kuttinconsultinggroup.com/feed/podcast/: HTTP 403 for https://www.kuttinconsultinggroup.com/feed/podcast/
+16:06:31 WARNING engine: feed error for https://www.spreaker.com/show/7419135/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7419135/episodes/feed
+16:06:31 WARNING engine: feed error for https://www.spreaker.com/show/7419135/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7419135/episodes/feed
+16:06:31 WARNING engine: feed error for https://media.rss.com/engagement-rings-brisbane-under-1000/feed.xml: HTTP 404 for https://media.rss.com/engagement-rings-brisbane-under-1000/feed.xml
+16:06:31 WARNING engine: feed error for https://media.rss.com/engagement-rings-brisbane-under-1000/feed.xml: HTTP 404 for https://media.rss.com/engagement-rings-brisbane-under-1000/feed.xml
+16:06:31 WARNING engine: feed error for https://www.spreaker.com/show/7459845/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7459845/episodes/feed
+16:06:31 WARNING engine: feed error for https://www.spreaker.com/show/7459845/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7459845/episodes/feed
+16:06:31 WARNING engine: feed error for https://www.diamond-consultants.com/feed/podcast/: HTTP 403 for https://www.diamond-consultants.com/feed/podcast/
+16:06:31 WARNING engine: feed error for https://www.diamond-consultants.com/feed/podcast/: HTTP 403 for https://www.diamond-consultants.com/feed/podcast/
+16:06:31 WARNING engine: feed error for https://www.spreaker.com/show/7459961/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7459961/episodes/feed
+16:06:31 WARNING engine: feed error for https://www.spreaker.com/show/7459961/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7459961/episodes/feed
+16:06:31 WARNING engine: feed error for https://www.spreaker.com/show/7459964/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7459964/episodes/feed
+16:06:31 WARNING engine: feed error for https://www.spreaker.com/show/7459964/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7459964/episodes/feed
+16:06:31 WARNING engine: feed error for https://feeds.alitu.com/47510860: HTTP 403 for https://feeds.alitu.com/47510860
+16:06:31 WARNING engine: feed error for https://feeds.alitu.com/47510860: HTTP 403 for https://feeds.alitu.com/47510860
+16:06:31 WARNING engine: feed error for https://www.spreaker.com/show/7440279/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7440279/episodes/feed
+16:06:31 WARNING engine: feed error for https://www.spreaker.com/show/7440279/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7440279/episodes/feed
+16:06:31 WARNING engine: feed error for https://ultimateradioshow.com/category/shows/homeschool-highschool/feed/: Bad XML in https://ultimateradioshow.com/category/shows/homeschool-highschool/feed/: not well-formed (invalid token): line 1, column 162
+16:06:31 WARNING engine: feed error for https://ultimateradioshow.com/category/shows/homeschool-highschool/feed/: Bad XML in https://ultimateradioshow.com/category/shows/homeschool-highschool/feed/: not well-formed (invalid token): line 1, column 162
+16:06:31 WARNING engine: feed error for https://feeds.alitu.com/58613582: HTTP 403 for https://feeds.alitu.com/58613582
+16:06:31 WARNING engine: feed error for https://feeds.alitu.com/58613582: HTTP 403 for https://feeds.alitu.com/58613582
+16:06:31 WARNING engine: feed error for https://checkyourthread.com/feed/podcast/: Bad XML in https://checkyourthread.com/feed/podcast/: not well-formed (invalid token): line 1, column 129
+16:06:31 WARNING engine: feed error for https://checkyourthread.com/feed/podcast/: Bad XML in https://checkyourthread.com/feed/podcast/: not well-formed (invalid token): line 1, column 129
+16:06:31 WARNING engine: feed error for https://adoctorsperspective.net/feed/podcast/: Bad XML in https://adoctorsperspective.net/feed/podcast/: undefined entity: line 7, column 18
+16:06:31 WARNING engine: feed error for https://adoctorsperspective.net/feed/podcast/: Bad XML in https://adoctorsperspective.net/feed/podcast/: undefined entity: line 7, column 18
+16:06:32 WARNING engine: feed error for https://wheelingwineandwhiskey.com/feed/podcast: Bad XML in https://wheelingwineandwhiskey.com/feed/podcast: not well-formed (invalid token): line 1, column 126
+16:06:32 WARNING engine: feed error for https://wheelingwineandwhiskey.com/feed/podcast: Bad XML in https://wheelingwineandwhiskey.com/feed/podcast: not well-formed (invalid token): line 1, column 126
+16:06:32 WARNING engine: feed error for https://rss.buzzsprout.com/2568664.rss: HTTP 404 for https://rss.buzzsprout.com/2568664.rss
+16:06:32 WARNING engine: feed error for https://rss.buzzsprout.com/2568664.rss: HTTP 404 for https://rss.buzzsprout.com/2568664.rss
+16:06:32 WARNING engine: feed error for https://feeds.transistor.fm/boozy-browsing: HTTP 404 for https://feeds.transistor.fm/boozy-browsing
+16:06:32 WARNING engine: feed error for https://feeds.transistor.fm/boozy-browsing: HTTP 404 for https://feeds.transistor.fm/boozy-browsing
+16:06:32 WARNING engine: feed error for https://feeds.alitu.com/24675362: HTTP 403 for https://feeds.alitu.com/24675362
+16:06:32 WARNING engine: feed error for https://feeds.alitu.com/24675362: HTTP 403 for https://feeds.alitu.com/24675362
+16:06:32 WARNING engine: feed error for https://ultimateradioshow.com/category/shows/homeschooling-with-technology/feed/: Bad XML in https://ultimateradioshow.com/category/shows/homeschooling-with-technology/feed/: not well-formed (invalid token): line 1, column 170
+16:06:32 WARNING engine: feed error for https://ultimateradioshow.com/category/shows/homeschooling-with-technology/feed/: Bad XML in https://ultimateradioshow.com/category/shows/homeschooling-with-technology/feed/: not well-formed (invalid token): line 1, column 170
+16:06:32 WARNING engine: feed error for https://rss.buzzsprout.com/2627349.rss: HTTP 404 for https://rss.buzzsprout.com/2627349.rss
+16:06:32 WARNING engine: feed error for https://rss.buzzsprout.com/2627349.rss: HTTP 404 for https://rss.buzzsprout.com/2627349.rss
+16:06:32 WARNING engine: feed error for https://feeds.alitu.com/30535078: HTTP 403 for https://feeds.alitu.com/30535078
+16:06:32 WARNING engine: feed error for https://feeds.alitu.com/30535078: HTTP 403 for https://feeds.alitu.com/30535078
+16:06:32 WARNING engine: feed error for https://feeds.async.com/fd3b80f9-6170-4406-80b0-63ce40f7fca0.rss: HTTP 404 for https://feeds.async.com/fd3b80f9-6170-4406-80b0-63ce40f7fca0.rss
+16:06:32 WARNING engine: feed error for https://feeds.async.com/fd3b80f9-6170-4406-80b0-63ce40f7fca0.rss: HTTP 404 for https://feeds.async.com/fd3b80f9-6170-4406-80b0-63ce40f7fca0.rss
+16:06:32 WARNING engine: feed error for https://ultimateradioshow.com/category/shows/creation-science-podcast/feed/: Bad XML in https://ultimateradioshow.com/category/shows/creation-science-podcast/feed/: not well-formed (invalid token): line 1, column 165
+16:06:32 WARNING engine: feed error for https://ultimateradioshow.com/category/shows/creation-science-podcast/feed/: Bad XML in https://ultimateradioshow.com/category/shows/creation-science-podcast/feed/: not well-formed (invalid token): line 1, column 165
+16:06:32 WARNING engine: feed error for https://rss.buzzsprout.com/2646560.rss: HTTP 404 for https://rss.buzzsprout.com/2646560.rss
+16:06:32 WARNING engine: feed error for https://rss.buzzsprout.com/2646560.rss: HTTP 404 for https://rss.buzzsprout.com/2646560.rss
+16:06:32 WARNING engine: feed error for https://feeds.alitu.com/58624138: HTTP 403 for https://feeds.alitu.com/58624138
+16:06:32 WARNING engine: feed error for https://feeds.alitu.com/58624138: HTTP 403 for https://feeds.alitu.com/58624138
+16:06:32 WARNING engine: feed error for https://microdoseu.com/feed/podcast: Bad XML in https://microdoseu.com/feed/podcast: not well-formed (invalid token): line 1, column 126
+16:06:32 WARNING engine: feed error for https://microdoseu.com/feed/podcast: Bad XML in https://microdoseu.com/feed/podcast: not well-formed (invalid token): line 1, column 126
+16:06:32 WARNING engine: feed error for https://rss.buzzsprout.com/2656772.rss: HTTP 404 for https://rss.buzzsprout.com/2656772.rss
+16:06:32 WARNING engine: feed error for https://rss.buzzsprout.com/2656772.rss: HTTP 404 for https://rss.buzzsprout.com/2656772.rss
+16:06:32 WARNING engine: feed error for https://feeds.alitu.com/58624138: HTTP 403 for https://feeds.alitu.com/58624138
+16:06:32 WARNING engine: feed error for https://feeds.alitu.com/58624138: HTTP 403 for https://feeds.alitu.com/58624138
+16:06:32 WARNING engine: feed error for https://app.kajabi.com/podcasts/2148103390/feed: HTTP 404 for https://app.kajabi.com/podcasts/2148103390/feed
+16:06:32 WARNING engine: feed error for https://app.kajabi.com/podcasts/2148103390/feed: HTTP 404 for https://app.kajabi.com/podcasts/2148103390/feed
+16:06:32 WARNING engine: feed error for https://austincodemonkey.com/feed/podcast/: HTTP 403 for https://austincodemonkey.com/feed/podcast/
+16:06:32 WARNING engine: feed error for https://austincodemonkey.com/feed/podcast/: HTTP 403 for https://austincodemonkey.com/feed/podcast/
+16:06:32 WARNING engine: feed error for https://www.spreaker.com/show/7230191/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7230191/episodes/feed
+16:06:32 WARNING engine: feed error for https://www.spreaker.com/show/7230191/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7230191/episodes/feed
+16:06:32 WARNING engine: feed error for https://www.spreaker.com/show/7329398/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7329398/episodes/feed
+16:06:32 WARNING engine: feed error for https://www.spreaker.com/show/7329398/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7329398/episodes/feed
+16:06:32 WARNING engine: feed error for https://www.spreaker.com/show/7350162/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7350162/episodes/feed
+16:06:32 WARNING engine: feed error for https://www.spreaker.com/show/7350162/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7350162/episodes/feed
+16:06:32 WARNING engine: feed error for https://feeds.acast.com/public/shows/6aa14df68ff451bb22f87f47: HTTP 404 for https://feeds.acast.com/public/shows/6aa14df68ff451bb22f87f47
+16:06:32 WARNING engine: feed error for https://feeds.acast.com/public/shows/6aa14df68ff451bb22f87f47: HTTP 404 for https://feeds.acast.com/public/shows/6aa14df68ff451bb22f87f47
+16:06:33 WARNING engine: feed error for https://ultimateradioshow.com/category/shows/homeschool-curious-podcast/feed/podcast/: Bad XML in https://ultimateradioshow.com/category/shows/homeschool-curious-podcast/feed/podcast/: not well-formed (invalid token): line 1, column 177
+16:06:33 WARNING engine: feed error for https://ultimateradioshow.com/category/shows/homeschool-curious-podcast/feed/podcast/: Bad XML in https://ultimateradioshow.com/category/shows/homeschool-curious-podcast/feed/podcast/: not well-formed (invalid token): line 1, column 177
+16:06:33 WARNING engine: feed error for https://collavia.com/feed/podcast/: HTTP 403 for https://collavia.com/feed/podcast/
+16:06:33 WARNING engine: feed error for https://collavia.com/feed/podcast/: HTTP 403 for https://collavia.com/feed/podcast/
+16:06:33 WARNING engine: feed error for https://www.spreaker.com/show/7361042/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7361042/episodes/feed
+16:06:33 WARNING engine: feed error for https://www.spreaker.com/show/7361042/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7361042/episodes/feed
+16:06:33 WARNING engine: feed error for https://feeds.alitu.com/78207189: HTTP 403 for https://feeds.alitu.com/78207189
+16:06:33 WARNING engine: feed error for https://feeds.alitu.com/78207189: HTTP 403 for https://feeds.alitu.com/78207189
+16:06:33 WARNING engine: feed error for https://feeds.captivate.fm/the-womens-lawyer/: HTTP 404 for https://feeds.captivate.fm/the-womens-lawyer/
+16:06:33 WARNING engine: feed error for https://feeds.captivate.fm/the-womens-lawyer/: HTTP 404 for https://feeds.captivate.fm/the-womens-lawyer/
+16:06:33 WARNING engine: feed error for https://feeds.alitu.com/74492899: HTTP 403 for https://feeds.alitu.com/74492899
+16:06:33 WARNING engine: feed error for https://feeds.alitu.com/74492899: HTTP 403 for https://feeds.alitu.com/74492899
+16:06:33 WARNING engine: feed error for http://decadesofhorror.com/feed/podcast/: Bad XML in http://decadesofhorror.com/feed/podcast/: not well-formed (invalid token): line 1, column 129
+16:06:33 WARNING engine: feed error for http://decadesofhorror.com/feed/podcast/: Bad XML in http://decadesofhorror.com/feed/podcast/: not well-formed (invalid token): line 1, column 129
+16:06:33 WARNING engine: feed error for https://feeds.alitu.com/24981354: HTTP 403 for https://feeds.alitu.com/24981354
+16:06:33 WARNING engine: feed error for https://feeds.alitu.com/24981354: HTTP 403 for https://feeds.alitu.com/24981354
+16:06:33 WARNING engine: feed error for https://pinecast.com/feed/powering-tomorrow-conversation: HTTP 410 for https://pinecast.com/feed/powering-tomorrow-conversation
+16:06:33 WARNING engine: feed error for https://pinecast.com/feed/powering-tomorrow-conversation: HTTP 410 for https://pinecast.com/feed/powering-tomorrow-conversation
+16:06:33 WARNING engine: feed error for https://etfprime.com/category/etf-radio-show/feed/podcast: HTTP 403 for https://etfprime.com/category/etf-radio-show/feed/podcast
+16:06:33 WARNING engine: feed error for https://etfprime.com/category/etf-radio-show/feed/podcast: HTTP 403 for https://etfprime.com/category/etf-radio-show/feed/podcast
+16:06:33 WARNING engine: feed error for https://ultimateradioshow.com/category/ultimate-homeschool-radio-show/feed/: Bad XML in https://ultimateradioshow.com/category/ultimate-homeschool-radio-show/feed/: not well-formed (invalid token): line 1, column 163
+16:06:33 WARNING engine: feed error for https://ultimateradioshow.com/category/ultimate-homeschool-radio-show/feed/: Bad XML in https://ultimateradioshow.com/category/ultimate-homeschool-radio-show/feed/: not well-formed (invalid token): line 1, column 163
+16:06:33 WARNING engine: feed error for https://ultimateradioshow.com/category/the-homeschool-sanity-show/feed/: Bad XML in https://ultimateradioshow.com/category/the-homeschool-sanity-show/feed/: not well-formed (invalid token): line 1, column 159
+16:06:33 WARNING engine: feed error for https://ultimateradioshow.com/category/the-homeschool-sanity-show/feed/: Bad XML in https://ultimateradioshow.com/category/the-homeschool-sanity-show/feed/: not well-formed (invalid token): line 1, column 159
+16:06:33 WARNING engine: feed error for https://tiffanyparson.com/feed/podcast/: Bad XML in https://tiffanyparson.com/feed/podcast/: not well-formed (invalid token): line 1, column 129
+16:06:33 WARNING engine: feed error for https://tiffanyparson.com/feed/podcast/: Bad XML in https://tiffanyparson.com/feed/podcast/: not well-formed (invalid token): line 1, column 129
+16:06:33 WARNING engine: feed error for https://media.rss.com/pizza-trailer-for-sale-australia/feed.xml: HTTP 404 for https://media.rss.com/pizza-trailer-for-sale-australia/feed.xml
+16:06:33 WARNING engine: feed error for https://media.rss.com/pizza-trailer-for-sale-australia/feed.xml: HTTP 404 for https://media.rss.com/pizza-trailer-for-sale-australia/feed.xml
+16:06:33 WARNING engine: feed error for https://ultimateradioshow.com/category/homeschooling-irl/feed/: Bad XML in https://ultimateradioshow.com/category/homeschooling-irl/feed/: not well-formed (invalid token): line 1, column 150
+16:06:33 WARNING engine: feed error for https://ultimateradioshow.com/category/homeschooling-irl/feed/: Bad XML in https://ultimateradioshow.com/category/homeschooling-irl/feed/: not well-formed (invalid token): line 1, column 150
+16:06:34 WARNING engine: feed error for https://physicsworld.com/feed/podcast-weekly/: HTTP 403 for https://physicsworld.com/feed/podcast-weekly/
+16:06:34 WARNING engine: feed error for https://physicsworld.com/feed/podcast-weekly/: HTTP 403 for https://physicsworld.com/feed/podcast-weekly/
+16:06:34 WARNING engine: feed error for https://microdoseu.com/feed/podcast: Bad XML in https://microdoseu.com/feed/podcast: not well-formed (invalid token): line 1, column 126
+16:06:34 WARNING engine: feed error for https://microdoseu.com/feed/podcast: Bad XML in https://microdoseu.com/feed/podcast: not well-formed (invalid token): line 1, column 126
+16:06:34 WARNING engine: feed error for https://productmasterynow.com/feed/podcast/: Bad XML in https://productmasterynow.com/feed/podcast/: not well-formed (invalid token): line 1, column 129
+16:06:34 WARNING engine: feed error for https://productmasterynow.com/feed/podcast/: Bad XML in https://productmasterynow.com/feed/podcast/: not well-formed (invalid token): line 1, column 129
+16:06:34 WARNING engine: feed error for https://ultimateradioshow.com/category/vintage-homeschool-moms/feed/: Bad XML in https://ultimateradioshow.com/category/vintage-homeschool-moms/feed/: not well-formed (invalid token): line 1, column 156
+16:06:34 WARNING engine: feed error for https://ultimateradioshow.com/category/vintage-homeschool-moms/feed/: Bad XML in https://ultimateradioshow.com/category/vintage-homeschool-moms/feed/: not well-formed (invalid token): line 1, column 156
+16:06:34 WARNING engine: feed error for https://www.hoyhablamos.com/category/podcast/feed/: Bad XML in https://www.hoyhablamos.com/category/podcast/feed/: not well-formed (invalid token): line 1, column 140
+16:06:34 WARNING engine: feed error for https://www.hoyhablamos.com/category/podcast/feed/: Bad XML in https://www.hoyhablamos.com/category/podcast/feed/: not well-formed (invalid token): line 1, column 140
+16:06:34 WARNING engine: feed error for https://joshbraun.com/feed/podcast/: Bad XML in https://joshbraun.com/feed/podcast/: not well-formed (invalid token): line 1, column 129
+16:06:34 WARNING engine: feed error for https://joshbraun.com/feed/podcast/: Bad XML in https://joshbraun.com/feed/podcast/: not well-formed (invalid token): line 1, column 129
+16:06:34 INFO    engine: feeds: 100/149
+16:06:35 WARNING engine: feed error for http://rangedtouch.com/category/just-king-things/feed/: Bad XML in http://rangedtouch.com/category/just-king-things/feed/: mismatched tag: line 100, column 6
+16:06:35 WARNING engine: feed error for http://rangedtouch.com/category/just-king-things/feed/: Bad XML in http://rangedtouch.com/category/just-king-things/feed/: mismatched tag: line 100, column 6
+16:06:38 WARNING engine: feed error for https://lochhead.com/feed/lochheadonmarketing/: Gave up on https://lochhead.com/feed/lochheadonmarketing/: HTTP Error 503: Service Temporarily Unavailable
+16:06:38 WARNING engine: feed error for https://lochhead.com/feed/lochheadonmarketing/: Gave up on https://lochhead.com/feed/lochheadonmarketing/: HTTP Error 503: Service Temporarily Unavailable
+16:06:38 WARNING engine: feed error for https://robhasawebsite.com/feed/traitors-podcast/?test-1: HTTP 403 for https://robhasawebsite.com/feed/traitors-podcast/?test-1
+16:06:38 WARNING engine: feed error for https://robhasawebsite.com/feed/traitors-podcast/?test-1: HTTP 403 for https://robhasawebsite.com/feed/traitors-podcast/?test-1
+16:06:39 WARNING engine: feed error for https://www.hoyhablamos.com/feed/podcast-basico/: Bad XML in https://www.hoyhablamos.com/feed/podcast-basico/: not well-formed (invalid token): line 1, column 136
+16:06:39 WARNING engine: feed error for https://www.hoyhablamos.com/feed/podcast-basico/: Bad XML in https://www.hoyhablamos.com/feed/podcast-basico/: not well-formed (invalid token): line 1, column 136
+16:06:40 WARNING engine: feed error for https://www.diwinetaste.com/podcast.php?c=1: Gave up on https://www.diwinetaste.com/podcast.php?c=1: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)>
+16:06:40 WARNING engine: feed error for https://www.diwinetaste.com/podcast.php?c=1: Gave up on https://www.diwinetaste.com/podcast.php?c=1: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)>
+16:06:41 WARNING engine: feed error for https://www.askaboutflyfishing.com/feed/podcast/: Gave up on https://www.askaboutflyfishing.com/feed/podcast/: HTTP Error 503: Service Unavailable
+16:06:41 WARNING engine: feed error for https://www.askaboutflyfishing.com/feed/podcast/: Gave up on https://www.askaboutflyfishing.com/feed/podcast/: HTTP Error 503: Service Unavailable
+16:06:41 WARNING engine: feed error for https://www.music-zone.es/PodcastNBI/NassauIbiza.xml: Gave up on https://www.music-zone.es/PodcastNBI/NassauIbiza.xml: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)>
+16:06:41 WARNING engine: feed error for https://www.music-zone.es/PodcastNBI/NassauIbiza.xml: Gave up on https://www.music-zone.es/PodcastNBI/NassauIbiza.xml: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)>
+16:06:41 WARNING engine: feed error for https://feeds.transistor.fm/the-daily-habit-guided-japanese-learning-for-beginners: HTTP 404 for https://feeds.transistor.fm/the-daily-habit-guided-japanese-learning-for-beginners
+16:06:41 WARNING engine: feed error for https://feeds.transistor.fm/the-daily-habit-guided-japanese-learning-for-beginners: HTTP 404 for https://feeds.transistor.fm/the-daily-habit-guided-japanese-learning-for-beginners
+16:06:42 WARNING engine: feed error for https://api.audioteca.rac1.cat/rss/tu-diras/: HTTP 403 for https://api.audioteca.rac1.cat/rss/tu-diras/
+16:06:42 WARNING engine: feed error for https://api.audioteca.rac1.cat/rss/tu-diras/: HTTP 403 for https://api.audioteca.rac1.cat/rss/tu-diras/
+16:06:42 WARNING engine: feed error for https://www.music-zone.es/PodcastDP/UrbanaRS.xml: Gave up on https://www.music-zone.es/PodcastDP/UrbanaRS.xml: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)>
+16:06:42 WARNING engine: feed error for https://www.music-zone.es/PodcastDP/UrbanaRS.xml: Gave up on https://www.music-zone.es/PodcastDP/UrbanaRS.xml: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)>
+16:06:47 WARNING engine: feed error for https://feed.mirrorvoice.com.tw/rss/pw.xml: Gave up on https://feed.mirrorvoice.com.tw/rss/pw.xml: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)>
+16:06:47 WARNING engine: feed error for https://feed.mirrorvoice.com.tw/rss/pw.xml: Gave up on https://feed.mirrorvoice.com.tw/rss/pw.xml: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)>
+16:06:59 WARNING engine: feed error for https://www.bizcast.in/feed/the-trade-show-podcast/: HTTP 522 for https://www.bizcast.in/feed/the-trade-show-podcast/
+16:06:59 WARNING engine: feed error for https://www.bizcast.in/feed/the-trade-show-podcast/: HTTP 522 for https://www.bizcast.in/feed/the-trade-show-podcast/
+16:06:59 WARNING engine: feed error for https://twogeeksandagit.com/tgaag.xml: Gave up on https://twogeeksandagit.com/tgaag.xml: <urlopen error [Errno 11001] getaddrinfo failed>
+16:06:59 WARNING engine: feed error for https://twogeeksandagit.com/tgaag.xml: Gave up on https://twogeeksandagit.com/tgaag.xml: <urlopen error [Errno 11001] getaddrinfo failed>
+16:07:00 WARNING engine: feed error for https://www.twogeeksandagit.com/tgaag.xml: Gave up on https://www.twogeeksandagit.com/tgaag.xml: <urlopen error [Errno 11001] getaddrinfo failed>
+16:07:00 WARNING engine: feed error for https://www.twogeeksandagit.com/tgaag.xml: Gave up on https://www.twogeeksandagit.com/tgaag.xml: <urlopen error [Errno 11001] getaddrinfo failed>
+16:07:00 WARNING engine: feed error for https://esl.culips.com/feed/podcast/: Bad XML in https://esl.culips.com/feed/podcast/: not well-formed (invalid token): line 1, column 129
+16:07:00 WARNING engine: feed error for https://esl.culips.com/feed/podcast/: Bad XML in https://esl.culips.com/feed/podcast/: not well-formed (invalid token): line 1, column 129
+16:07:01 WARNING engine: feed error for https://www.talkingdeadpodcast.com/feed/podcast: Bad XML in https://www.talkingdeadpodcast.com/feed/podcast: not well-formed (invalid token): line 1, column 126
+16:07:01 WARNING engine: feed error for https://www.talkingdeadpodcast.com/feed/podcast: Bad XML in https://www.talkingdeadpodcast.com/feed/podcast: not well-formed (invalid token): line 1, column 126
+16:07:02 WARNING engine: feed error for https://rss.pdrl.fm/118060/robhasawebsite.com/feed/big-brother/: HTTP 403 for https://rss.pdrl.fm/118060/robhasawebsite.com/feed/big-brother/
+16:07:02 WARNING engine: feed error for https://rss.pdrl.fm/118060/robhasawebsite.com/feed/big-brother/: HTTP 403 for https://rss.pdrl.fm/118060/robhasawebsite.com/feed/big-brother/
+16:07:03 WARNING engine: feed error for http://blasphemoustomes.com/category/podcast/feed/: Bad XML in http://blasphemoustomes.com/category/podcast/feed/: not well-formed (invalid token): line 1, column 140
+16:07:03 WARNING engine: feed error for http://blasphemoustomes.com/category/podcast/feed/: Bad XML in http://blasphemoustomes.com/category/podcast/feed/: not well-formed (invalid token): line 1, column 140
+16:07:03 WARNING engine: feed error for https://www.spreaker.com/show/7230429/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7230429/episodes/feed
+16:07:03 WARNING engine: feed error for https://www.spreaker.com/show/7230429/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7230429/episodes/feed
+16:07:04 WARNING engine: feed error for https://media.rss.com/audiobooks-pod6/feed.xml: HTTP 404 for https://media.rss.com/audiobooks-pod6/feed.xml
+16:07:04 WARNING engine: feed error for https://media.rss.com/audiobooks-pod6/feed.xml: HTTP 404 for https://media.rss.com/audiobooks-pod6/feed.xml
+16:07:04 WARNING engine: feed error for https://www.spreaker.com/show/7309938/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7309938/episodes/feed
+16:07:04 WARNING engine: feed error for https://www.spreaker.com/show/7309938/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7309938/episodes/feed
+16:07:05 WARNING engine: feed error for https://www.spreaker.com/show/7309953/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7309953/episodes/feed
+16:07:05 WARNING engine: feed error for https://www.spreaker.com/show/7309953/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7309953/episodes/feed
+16:07:05 WARNING engine: feed error for https://media.rss.com/audiobooks-pod6/feed.xml: HTTP 404 for https://media.rss.com/audiobooks-pod6/feed.xml
+16:07:05 WARNING engine: feed error for https://media.rss.com/audiobooks-pod6/feed.xml: HTTP 404 for https://media.rss.com/audiobooks-pod6/feed.xml
+16:07:06 WARNING engine: feed error for https://feeds.acast.com/public/shows/6ad103669fea6e0a642334b4: HTTP 404 for https://feeds.acast.com/public/shows/6ad103669fea6e0a642334b4
+16:07:06 WARNING engine: feed error for https://feeds.acast.com/public/shows/6ad103669fea6e0a642334b4: HTTP 404 for https://feeds.acast.com/public/shows/6ad103669fea6e0a642334b4
+16:07:06 WARNING engine: feed error for https://www.spreaker.com/show/7467009/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7467009/episodes/feed
+16:07:06 WARNING engine: feed error for https://www.spreaker.com/show/7467009/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7467009/episodes/feed
+16:07:07 WARNING engine: feed error for https://www.firpodcastnetwork.com/for-immediate-release/feed/: Bad XML in https://www.firpodcastnetwork.com/for-immediate-release/feed/: not well-formed (invalid token): line 1, column 143
+16:07:07 WARNING engine: feed error for https://www.firpodcastnetwork.com/for-immediate-release/feed/: Bad XML in https://www.firpodcastnetwork.com/for-immediate-release/feed/: not well-formed (invalid token): line 1, column 143
+16:07:10 WARNING engine: feed error for https://banzaibeat.com/rss/banzaibeat.xml: Gave up on https://banzaibeat.com/rss/banzaibeat.xml: <urlopen error [Errno 11001] getaddrinfo failed>
+16:07:10 WARNING engine: feed error for https://banzaibeat.com/rss/banzaibeat.xml: Gave up on https://banzaibeat.com/rss/banzaibeat.xml: <urlopen error [Errno 11001] getaddrinfo failed>
+16:07:39 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/becausenews.xml: Gave up on https://www.cbc.ca/podcasting/includes/becausenews.xml: [WinError 10054] An existing connection was forcibly closed by the remote host
+16:07:39 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/becausenews.xml: Gave up on https://www.cbc.ca/podcasting/includes/becausenews.xml: [WinError 10054] An existing connection was forcibly closed by the remote host
+16:07:39 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/uncover.xml: Gave up on https://www.cbc.ca/podcasting/includes/uncover.xml: The read operation timed out
+16:07:39 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/uncover.xml: Gave up on https://www.cbc.ca/podcasting/includes/uncover.xml: The read operation timed out
+16:07:39 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/thedose.xml: Gave up on https://www.cbc.ca/podcasting/includes/thedose.xml: [WinError 10054] An existing connection was forcibly closed by the remote host
+16:07:39 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/thedose.xml: Gave up on https://www.cbc.ca/podcasting/includes/thedose.xml: [WinError 10054] An existing connection was forcibly closed by the remote host
+16:07:40 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/laughoutloud.xml: Gave up on https://www.cbc.ca/podcasting/includes/laughoutloud.xml: [WinError 10054] An existing connection was forcibly closed by the remote host
+16:07:40 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/laughoutloud.xml: Gave up on https://www.cbc.ca/podcasting/includes/laughoutloud.xml: [WinError 10054] An existing connection was forcibly closed by the remote host
+16:07:40 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/theexpertwitness.xml: Gave up on https://www.cbc.ca/podcasting/includes/theexpertwitness.xml: The read operation timed out
+16:07:40 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/theexpertwitness.xml: Gave up on https://www.cbc.ca/podcasting/includes/theexpertwitness.xml: The read operation timed out
+16:07:43 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/sundayedition.xml: Gave up on https://www.cbc.ca/podcasting/includes/sundayedition.xml: [WinError 10054] An existing connection was forcibly closed by the remote host
+16:07:43 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/sundayedition.xml: Gave up on https://www.cbc.ca/podcasting/includes/sundayedition.xml: [WinError 10054] An existing connection was forcibly closed by the remote host
+16:07:45 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/runhiderepeat.xml: Gave up on https://www.cbc.ca/podcasting/includes/runhiderepeat.xml: [WinError 10054] An existing connection was forcibly closed by the remote host
+16:07:45 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/runhiderepeat.xml: Gave up on https://www.cbc.ca/podcasting/includes/runhiderepeat.xml: [WinError 10054] An existing connection was forcibly closed by the remote host
+16:07:45 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/debaters.xml: Gave up on https://www.cbc.ca/podcasting/includes/debaters.xml: The read operation timed out
+16:07:45 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/debaters.xml: Gave up on https://www.cbc.ca/podcasting/includes/debaters.xml: The read operation timed out
+16:07:45 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/dirtbagclimber.xml: Gave up on https://www.cbc.ca/podcasting/includes/dirtbagclimber.xml: The read operation timed out
+16:07:45 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/dirtbagclimber.xml: Gave up on https://www.cbc.ca/podcasting/includes/dirtbagclimber.xml: The read operation timed out
+16:07:49 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/missing.xml: Gave up on https://www.cbc.ca/podcasting/includes/missing.xml: The read operation timed out
+16:07:49 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/missing.xml: Gave up on https://www.cbc.ca/podcasting/includes/missing.xml: The read operation timed out
+16:07:50 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/costofliving.xml: Gave up on https://www.cbc.ca/podcasting/includes/costofliving.xml: [WinError 10054] An existing connection was forcibly closed by the remote host
+16:07:50 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/costofliving.xml: Gave up on https://www.cbc.ca/podcasting/includes/costofliving.xml: [WinError 10054] An existing connection was forcibly closed by the remote host
+16:07:50 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/ideas.xml: Gave up on https://www.cbc.ca/podcasting/includes/ideas.xml: The read operation timed out
+16:07:50 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/ideas.xml: Gave up on https://www.cbc.ca/podcasting/includes/ideas.xml: The read operation timed out
+16:07:51 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/nakedemperor.xml: Gave up on https://www.cbc.ca/podcasting/includes/nakedemperor.xml: The read operation timed out
+16:07:51 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/nakedemperor.xml: Gave up on https://www.cbc.ca/podcasting/includes/nakedemperor.xml: The read operation timed out
+16:07:52 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/writersandco.xml: Gave up on https://www.cbc.ca/podcasting/includes/writersandco.xml: The read operation timed out
+16:07:52 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/writersandco.xml: Gave up on https://www.cbc.ca/podcasting/includes/writersandco.xml: The read operation timed out
+16:07:56 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/quirksaio.xml: Gave up on https://www.cbc.ca/podcasting/includes/quirksaio.xml: The read operation timed out
+16:07:56 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/quirksaio.xml: Gave up on https://www.cbc.ca/podcasting/includes/quirksaio.xml: The read operation timed out
+16:07:56 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/commotion.xml: Gave up on https://www.cbc.ca/podcasting/includes/commotion.xml: The read operation timed out
+16:07:56 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/commotion.xml: Gave up on https://www.cbc.ca/podcasting/includes/commotion.xml: The read operation timed out
+16:07:56 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/outlawocean.xml: Gave up on https://www.cbc.ca/podcasting/includes/outlawocean.xml: The read operation timed out
+16:07:56 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/outlawocean.xml: Gave up on https://www.cbc.ca/podcasting/includes/outlawocean.xml: The read operation timed out
+16:07:58 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/whitecoat.xml: Gave up on https://www.cbc.ca/podcasting/includes/whitecoat.xml: [WinError 10054] An existing connection was forcibly closed by the remote host
+16:07:58 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/whitecoat.xml: Gave up on https://www.cbc.ca/podcasting/includes/whitecoat.xml: [WinError 10054] An existing connection was forcibly closed by the remote host
+16:07:58 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/qpodcast.xml: Gave up on https://www.cbc.ca/podcasting/includes/qpodcast.xml: The read operation timed out
+16:07:58 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/qpodcast.xml: Gave up on https://www.cbc.ca/podcasting/includes/qpodcast.xml: The read operation timed out
+16:08:03 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/seeyouincourt.xml: Gave up on https://www.cbc.ca/podcasting/includes/seeyouincourt.xml: The read operation timed out
+16:08:03 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/seeyouincourt.xml: Gave up on https://www.cbc.ca/podcasting/includes/seeyouincourt.xml: The read operation timed out
+16:08:10 WARNING engine: feed error for https://thestrangebrew.co.uk/?feed=podcast: Gave up on https://thestrangebrew.co.uk/?feed=podcast: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+16:08:10 WARNING engine: feed error for https://thestrangebrew.co.uk/?feed=podcast: Gave up on https://thestrangebrew.co.uk/?feed=podcast: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+16:08:16 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/nextchapter.xml: Gave up on https://www.cbc.ca/podcasting/includes/nextchapter.xml: The read operation timed out
+16:08:16 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/nextchapter.xml: Gave up on https://www.cbc.ca/podcasting/includes/nextchapter.xml: The read operation timed out
+16:13:56 INFO    engine: country enrichment: 947 creators fail only on country; fetching 0 websites
+16:13:58 INFO    engine: country enrichment: 95 creators verified via their website
+
+=== run summary ===
+             qualified: 1042
+              rejected: 18952
+   reserve_country_cap: 74
+    duplicates_removed: 77413
+           feed_errors: 149
+           runtime_min: 7.6
+       direct_cost_usd: 0.0
+             countries: {'CA': 78, 'US': 573, 'IE': 22, 'AU': 143, 'GB': 203, 'NZ': 22, 'SG': 1}
+              priority: {'A': 250, 'B': 416, 'C': 376}
+         best_channels: {'Email': 742, 'Instagram': 220, 'LinkedIn': 67, 'TikTok': 1, 'X': 12}
+
+Wrote output/leads.csv (1042 leads), output/run_report.json, outreach/

@@ -1,0 +1,25 @@
+# New input for the refresh demo: Apple Podcasts URLs not yet in the database
+https://podcasts.apple.com/gb/podcast/the-start-build-grow-show/id1383476000
+https://podcasts.apple.com/gb/podcast/the-start-build-grow-show/id1725027856
+https://podcasts.apple.com/gb/podcast/profit-tool-belt/id1473467565
+https://podcasts.apple.com/gb/podcast/futbol-americas/id1670741192
+https://podcasts.apple.com/gb/podcast/diamond-effect-strategies-to-build-a-service/id1576334650
+https://podcasts.apple.com/gb/podcast/podcast-profits-unleashed-business-authority-growth/id1649284553
+https://podcasts.apple.com/gb/podcast/the-authentic-man-podcast-with-david-chambers/id1447910686
+https://podcasts.apple.com/gb/podcast/come-talk-with-aimee-sex-intimacy-and-conversations/id1813112106
+https://podcasts.apple.com/gb/podcast/the-rise-to-intimacy-podcast-sex-therapy-couples/id1870979289
+https://podcasts.apple.com/gb/podcast/heart-work-after-betrayal-infidelity-marriage-forgiveness/id1868235071
+https://podcasts.apple.com/gb/podcast/lets-get-it-with-coach-los/id1800059353
+https://podcasts.apple.com/gb/podcast/relationship-coaching-group-podcast/id1873749136
+https://podcasts.apple.com/gb/podcast/the-traveling-therapist-podcast/id1602969849
+https://podcasts.apple.com/gb/podcast/keeping-it-real-with-zulma-the-swearing-therapist-podcast/id1801273382
+https://podcasts.apple.com/gb/podcast/the-christian-therapist-podcast/id1366007692
+https://podcasts.apple.com/gb/podcast/theotherapist-podcast/id1649534861
+https://podcasts.apple.com/gb/podcast/the-woo-woo-therapist-podcast/id1643972282
+https://podcasts.apple.com/gb/podcast/the-skip-the-therapist-podcast/id1784282564
+https://podcasts.apple.com/gb/podcast/fitness-education-online-podcast-i-for-personal-trainers/id1308096795
+https://podcasts.apple.com/gb/podcast/zelos-podcast/id1537401143
+https://podcasts.apple.com/gb/podcast/conversations-with-cornesy/id1221230851
+https://podcasts.apple.com/gb/podcast/fit-for-the-future/id262885905
+https://podcasts.apple.com/gb/podcast/fit-rich-life/id1623232391
+https://podcasts.apple.com/gb/podcast/work-at-home-rockstar-podcast/id1042289117

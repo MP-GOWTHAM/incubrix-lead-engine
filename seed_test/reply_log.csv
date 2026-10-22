@@ -1,0 +1,10 @@
+test_id,channel,from_account,to_test_account,lead_id,step,scheduled_for,sent_at,link_clicked_at,reply_received_at,reply_text,logged_in_crm_at,evidence_file
+S01,Email,your-sender-test@gmail.com,your-second-inbox@gmail.com,L02051,1,,,,,,,
+S02,Email,your-sender-test@gmail.com,your-second-inbox@gmail.com,L02051,2,,,,,,,
+S03,Email,your-sender-test@gmail.com,your-second-inbox@gmail.com,L02051,3,,,,,,,
+S04,Instagram,@your_test_business_account,@your_second_test_account,L01893,1,,,,,,,
+S05,Instagram,@your_test_business_account,@your_second_test_account,L01893,2,,,,,,,
+S06,Instagram,@your_test_business_account,@your_second_test_account,L01893,3,,,,,,,
+S07,X,@your_test_account,@your_second_test_account,L00905,1,,,,,,,
+S08,X,@your_test_account,@your_second_test_account,L00905,2,,,,,,,
+S09,X,@your_test_account,@your_second_test_account,L00905,3,,,,,,,

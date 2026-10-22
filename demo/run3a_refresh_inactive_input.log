@@ -1,0 +1,32 @@
+﻿16:14:12 INFO    engine: seed demo\new_input.txt: 12 entries -> 12 candidates, 0 unresolved
+16:14:12 INFO    engine: fetching 12 feeds (0 already fresh in cache)
+16:14:14 INFO    engine: country enrichment: 0 creators fail only on country; fetching 0 websites
+16:14:14 INFO    engine: country enrichment: 0 creators verified via their website
+
+=== run summary ===
+             qualified: 1042
+              rejected: 18964
+   reserve_country_cap: 74
+    duplicates_removed: 43
+           feed_errors: 0
+           runtime_min: 0.06
+       direct_cost_usd: 0.0
+             countries: {'CA': 78, 'US': 573, 'IE': 22, 'AU': 143, 'GB': 203, 'NZ': 22, 'SG': 1}
+              priority: {'A': 250, 'B': 416, 'C': 376}
+         best_channels: {'Email': 742, 'Instagram': 220, 'LinkedIn': 67, 'TikTok': 1, 'X': 12}
+
+seed results:
+  -       Rejected  Ocean Sailing Podcast                              Not active enough (0 items/30d, 0 long-form/60d); Country not verified as approved market 
+  -       Rejected  Beekeeping Made Simple                             Not active enough (0 items/30d, 0 long-form/60d); No public monetisation evidence; Contact
+  -       Rejected  Beekeeping - Short and Sweet                       Not active enough (4 items/30d, 0 long-form/60d); No verifiable public business contact ch
+  -       Rejected  Beekeeping For Newbees®                            Not active enough (0 items/30d, 0 long-form/60d); Listed author not confirmed as a person 
+  -       Rejected  Audio Chess                                        Not active enough (0 items/30d, 0 long-form/60d); Listed author not confirmed as a person 
+  -       Rejected  Chess Journeys: Tales of Adult Improvement         Country not verified as approved market (feed language 'en-us' is a common host default an
+  -       Rejected  The Gotham City Podcast                            No identifiable individual creator (possible brand); Not active enough (0 items/30d, 0 lon
+  -       Rejected  Old Man Sailing                                    Not active enough (0 items/30d, 0 long-form/60d); No public monetisation evidence; Country
+  -       Rejected  Masters and Matches: A History of Chess            Not active enough (0 items/30d, 0 long-form/60d); No public monetisation evidence; Country
+  -       Rejected  The Beekeeper's Corner Beekeeping Podcast          No public monetisation evidence; Country not verified as approved market (feed language 'e
+  -       Rejected  The Shooting The Breeze Sailing Podcast            Not active enough (1 items/30d, 0 long-form/60d); No public monetisation evidence; Country
+  -       Rejected  Sailing Alone Around the World by Joshua Slocum    No identifiable individual creator (possible brand); Not active enough (0 items/30d, 0 lon
+
+Wrote output/leads.csv (1042 leads), output/run_report.json, outreach/

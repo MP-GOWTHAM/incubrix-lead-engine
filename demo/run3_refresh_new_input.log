@@ -1,0 +1,75 @@
+﻿16:14:52 INFO    engine: seed demo\new_input.txt: 55 entries -> 55 candidates, 0 unresolved
+16:14:52 INFO    engine: fetching 54 feeds (1 already fresh in cache)
+16:14:58 INFO    engine: country enrichment: 3 creators fail only on country; fetching 3 websites
+16:15:05 INFO    engine: country enrichment: 1 creators verified via their website
+
+=== run summary ===
+             qualified: 1044
+              rejected: 19016
+   reserve_country_cap: 82
+    duplicates_removed: 43
+           feed_errors: 0
+           runtime_min: 0.24
+       direct_cost_usd: 0.0
+             countries: {'CA': 78, 'US': 574, 'IE': 22, 'AU': 144, 'GB': 203, 'NZ': 22, 'SG': 1}
+              priority: {'A': 250, 'B': 417, 'C': 377}
+         best_channels: {'Email': 743, 'Instagram': 220, 'LinkedIn': 68, 'TikTok': 1, 'X': 12}
+
+seed results:
+  -       Rejected  The Well Woman Show                                Not active enough (1 items/30d, 1 long-form/60d); Country not verified as approved market 
+  -       Rejected  Make It a Great One with Dr. Dan: #1 Podcast for I No public monetisation evidence; Country not verified as approved market (no creator-publi
+  -       Rejected  Search Results on SermonAudio                      Excluded genre (Christianity); No public monetisation evidence; Country not verified as ap
+  -       Rejected  JAMA Neurology Author Interviews                   Organisation/network/publication, not an individual creator; No identifiable individual cr
+  -       Rejected  JAMA Psychiatry Author Interviews                  Organisation/network/publication, not an individual creator; No identifiable individual cr
+  -       Rejected  Fitness Business University Podcast                Organisation/network/publication, not an individual creator (show name)
+  -       Rejected  Fitness Business Asia Podcast                      Country not verified as approved market (no creator-published country signal (feed languag
+  -       Rejected  Mad Dog Recovery AA Speakers                       Excluded genre (Religion & Spirituality); Listed author not confirmed as a person by any s
+  L02258  Qualified Leading You                                        
+  -       Rejected  The Real Estate Coaching Club Podcast              Not active enough (2 items/30d, 1 long-form/60d); No public monetisation evidence; Country
+  -       Rejected  1001 History's Best Storytellers- Author Interview Country not verified as approved market (no creator-published country signal (feed languag
+  L02259  Qualified The Mystic Millionaire Podcast                     
+  -       Rejected  Dyslexia Mom Life™ |  Education, Encouragement & R No verifiable public business contact channel
+  -       Rejected  Your Fitness Money Coach Podcast - Helping Gym Own No public monetisation evidence; Country not verified as approved market (no creator-publi
+  -       Rejected  Authority Builder Podcast | Client-Winning Strateg No verifiable public business contact channel
+  -       Rejected  Bookaholic | Author Interviews | Book Reviews | Bo Organisation/network/publication, not an individual creator (show name); Country not verif
+  -       Rejected  Beyond Yoga Teacher Training                       Not active enough (2 items/30d, 1 long-form/60d); Country not verified as approved market 
+  -       Rejected  Fitness Business mit Jannis Neumann                Recent content not mainly English (language 'de'); Not active enough (5 items/30d, 0 long-
+  -       Rejected  The Belonging Project                              Country not verified as approved market (no creator-published country signal (feed languag
+  -       Rejected  The Becky Beach Show - AI-Powered Scaling Strategi Not active enough (1 items/30d, 0 long-form/60d); No public monetisation evidence; Country
+  -       Rejected  Leaders Of Transformation                          No public monetisation evidence; Country not verified as approved market (feed language 'e
+  L02260  Qualified Bookish Flights: Themed Book Recommendations & Aut 
+  -       Rejected  Money Coach                                        No identifiable individual creator (possible brand); Recent content not mainly English (la
+  L02261  Qualified FINANCIAL PLANNING for Working Moms II Budgeting,  
+  L02262  Qualified Brand Confidence for Creatives - Get Clients With  
+  -       Rejected  The Fitness Business Life Podcast                  Not active enough (2 items/30d, 1 long-form/60d); No public monetisation evidence; No veri
+  -       Rejected  Minding My Creative Business Podcast               No identifiable individual creator (possible brand)
+  L02263  Qualified You Get to Decide: Mindset Coaching for Driven Wom 
+  -       Rejected  The Career Coach Mandy Podcast                     Country not verified as approved market (no creator-published country signal (feed languag
+  -       Rejected  Wife On The Rocks I  Gaslighting, Addiction, Codep No identifiable individual creator (possible brand)
+  L02264  Qualified Career Cravings                                    
+  -       Rejected  Your Trauma-Wise Career Guide                      Country not verified as approved market (no creator-published country signal (feed languag
+  -       Rejected  Creative Business Spark                            Not active enough (5 items/30d, 0 long-form/60d); Country not verified as approved market 
+  L02265  Qualified The Arise with Anita Podcast                       
+  -       Rejected  Wander Worldschool: Helping Families Plan & Fund S Excluded genre (Kids & Family)
+  L02267  Qualified Connect With Your Teens | Conversation Starters, P 
+  -       Rejected  Author Interviews                                  Organisation/network/publication, not an individual creator; Not active enough (2 items/30
+  -       Rejected  Peaceful Christian Parenting | Emotional Regulatio Not active enough (4 items/30d, 1 long-form/60d); No verifiable public business contact ch
+  -       Rejected  The Real Money Coach Podcast                       Organisation/network/publication, not an individual creator; Listed author not confirmed a
+  -       Rejected  The Creative Business Community Podcast            No public monetisation evidence; Country not verified as approved market (no creator-publi
+  -       Rejected  Manifest with Metty | Abundance and Spirituality P Excluded genre (Religion & Spirituality); No public monetisation evidence; Country not ver
+  -       Rejected  Firmly Planted | Restore Peace through Christian M Excluded genre (Christianity); No public monetisation evidence; No verifiable public busin
+  -       Rejected  Success Subtext                                    Not active enough (4 items/30d, 0 long-form/60d); No public monetisation evidence; Country
+  -       Rejected  Raising Boys with Purpose | Parenting, Teens, Fait No public monetisation evidence; No evidence of a content-workflow need
+  -       Rejected  Calm Money Coach                                   No public monetisation evidence; Country not verified as approved market (no creator-publi
+  -       Rejected  The Rising Parent Podcast                          No evidence of a content-workflow need; No verifiable public business contact channel
+  -       Rejected  Hot Habits with Dr. Tamsin                         No public monetisation evidence; Country not verified as approved market (no creator-publi
+  -       Rejected  More Than Just A Yoga Teacher                      Country not verified as approved market (no creator-published country signal (feed languag
+  -       Rejected  Building Confidence After Betrayal/ Betrayal, Heal Excluded genre (Christianity); No public monetisation evidence; No verifiable public busin
+  -       Rejected  Depression on SermonAudio                          Excluded genre (Christianity); No public monetisation evidence; Country not verified as ap
+  -       Rejected  Anxiety on SermonAudio                             Excluded genre (Christianity); No public monetisation evidence; Country not verified as ap
+  -       Rejected  Fasting on SermonAudio                             Excluded genre (Christianity); Country not verified as approved market (no creator-publish
+  -       Rejected  One Good Post: Local Marketing for Small Service B Not active enough (5 items/30d, 0 long-form/60d); No public monetisation evidence
+  -       Rejected  7 figure Attraction Agent                          No evidence of a content-workflow need
+  L02266  Qualified Beyond the Type:  An Enneagram-Inspired Podcast ab 
+
+Wrote output/leads.csv (1044 leads), output/run_report.json, outreach/

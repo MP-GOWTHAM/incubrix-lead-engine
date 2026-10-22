@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:podcast="https://podcastindex.org/namespace/1.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+  <title>The Test Coach Show</title>
+  <link>https://janetest.co.uk</link>
+  <language>en-gb</language>
+  <itunes:author>Jane Tester | Business Coach for Creatives</itunes:author>
+  <itunes:owner><itunes:name>Jane Tester</itunes:name><itunes:email>owner@janetest.co.uk</itunes:email></itunes:owner>
+  <description><![CDATA[<p>Weekly coaching for creative founders. Based in Leeds. For business enquiries email <a href="mailto:hello@janetest.co.uk">hello@janetest.co.uk</a>.
+  Follow on <a href="https://www.instagram.com/janetester/">Instagram</a>.</p>]]></description>
+  <itunes:category text="Business"><itunes:category text="Careers"/></itunes:category>
+  <item>
+    <title>How to price your first offer</title>
+    <link>https://janetest.co.uk/ep3</link>
+    <guid>ep3</guid>
+    <pubDate>Mon, 12 Oct 2026 07:00:00 +0100</pubDate>
+    <itunes:duration>00:42:10</itunes:duration>
+    <enclosure url="https://cdn.example/ep3.mp3" type="audio/mpeg" length="1"/>
+    <content:encoded><![CDATA[<p>This episode is sponsored by Notely, use code JANE for 20% off. Book a discovery call at https://calendly.com/janetester. Instagram: instagram.com/janetester</p>]]></content:encoded>
+  </item>
+  <item>
+    <title>Saying no to scope creep</title>
+    <link>https://janetest.co.uk/ep2</link>
+    <guid>ep2</guid>
+    <pubDate>Mon, 05 Oct 2026 07:00:00 +0100</pubDate>
+    <itunes:duration>2400</itunes:duration>
+    <enclosure url="https://cdn.example/ep2.mp3" type="audio/mpeg" length="1"/>
+    <description>Guest Sam Other (sam@guestmail.com). Join my coaching programme.</description>
+  </item>
+  <item>
+    <title>Why consistency beats intensity</title>
+    <link>https://janetest.co.uk/ep1</link>
+    <guid>ep1</guid>
+    <pubDate>Mon, 28 Sep 2026 07:00:00 +0100</pubDate>
+    <itunes:duration>38:00</itunes:duration>
+    <enclosure url="https://cdn.example/ep1.mp3" type="audio/mpeg" length="1"/>
+    <description>Solo episode. Find me on instagram.com/janetester.</description>
+  </item>
+</channel>
+</rss>

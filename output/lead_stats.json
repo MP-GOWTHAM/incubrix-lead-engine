@@ -1,0 +1,51 @@
+{
+  "qualified": 1044,
+  "countries": {
+    "US": 574,
+    "GB": 203,
+    "AU": 144,
+    "CA": 78,
+    "IE": 22,
+    "NZ": 22,
+    "SG": 1
+  },
+  "segments": {
+    "Expert-Led Creator": 448,
+    "Podcaster/Video Podcaster": 596
+  },
+  "priority": {
+    "A": 250,
+    "B": 417,
+    "C": 377
+  },
+  "best_channel": {
+    "Email": 743,
+    "Instagram": 220,
+    "LinkedIn": 68,
+    "X": 12,
+    "TikTok": 1
+  },
+  "backup_channel": {
+    "Contact form": 394,
+    "Instagram": 276,
+    "(none)": 114,
+    "Podcast guest pitch": 92,
+    "LinkedIn": 77,
+    "X": 42,
+    "TikTok": 27,
+    "Email": 22
+  },
+  "pct_no_transcripts": 72.7,
+  "pct_repurposing_gap": 85.5,
+  "pct_no_shortform_linked": 43.2,
+  "pct_publishing_gap": 24.2,
+  "pct_video": 1.0,
+  "median_episode_minutes": 40,
+  "pct_sponsorship": 45.1,
+  "pct_membership": 35.2,
+  "pct_course_product": 21.7,
+  "pct_service": 33.3,
+  "pct_affiliate": 22.0,
+  "median_items_30d": 4.0,
+  "email_best_pct": 71.2
+}

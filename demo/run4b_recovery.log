@@ -1,0 +1,44 @@
+﻿16:15:23 INFO    engine: seed demo\new_input_2.txt: 24 entries -> 24 candidates, 0 unresolved
+16:15:23 INFO    engine: fetching 19 feeds (5 already fresh in cache)
+16:15:27 INFO    engine: country enrichment: 3 creators fail only on country; fetching 3 websites
+16:15:31 INFO    engine: country enrichment: 0 creators verified via their website
+
+=== run summary ===
+             qualified: 1044
+              rejected: 19037
+   reserve_country_cap: 85
+    duplicates_removed: 67
+           feed_errors: 0
+           runtime_min: 0.15
+       direct_cost_usd: 0.0
+             countries: {'CA': 78, 'US': 574, 'IE': 22, 'AU': 144, 'GB': 203, 'NZ': 22, 'SG': 1}
+              priority: {'A': 250, 'B': 417, 'C': 377}
+         best_channels: {'Email': 743, 'Instagram': 220, 'LinkedIn': 68, 'TikTok': 1, 'X': 12}
+
+seed results:
+  -       Rejected  Work at Home RockStar Podcast                      Country not verified as approved market (no creator-published country signal (feed languag
+  -       Rejected  Conversations with Cornesy                         No identifiable individual creator (possible brand); No public monetisation evidence
+  -       Rejected  Fitness Education Online Podcast I For Personal Tr No identifiable individual creator (possible brand); No public monetisation evidence; No v
+  -       Rejected  The Christian Therapist Podcast                    No public monetisation evidence; Country not verified as approved market (no creator-publi
+  -       Rejected  The Start Build Grow Show                          No identifiable individual creator (possible brand); No public monetisation evidence; Coun
+  -       Rejected  The Authentic Man Podcast with David Chambers: Dat Country not verified as approved market (no creator-published country signal (feed languag
+  -       Rejected  Profit Tool Belt                                   No public monetisation evidence; Country not verified as approved market (no creator-publi
+  -       Rejected  Zelos Podcast                                      No public monetisation evidence; Country not verified as approved market (no creator-publi
+  L02268  Qualified Diamond Effect - Strategies to Build a Service Bus 
+  L02269  Qualified The Traveling Therapist Podcast                    
+  -       Rejected  Fit Rich Life                                      Country not verified as approved market (no creator-published country signal (feed languag
+  -       Rejected  The Woo Woo Therapist Podcast                      No public monetisation evidence
+  -       Rejected  Podcast Profits Unleashed | Business, Authority &  Country not verified as approved market (no creator-published country signal (feed languag
+  -       Rejected  TheoTherapist Podcast                              No identifiable individual creator (possible brand); No public monetisation evidence; Coun
+  -       Rejected  Futbol Americas                                    No identifiable individual creator (possible brand); No public monetisation evidence; Coun
+  -       Rejected  The Start Build Grow Show                          No identifiable individual creator (possible brand); No public monetisation evidence; Coun
+  -       Rejected  The Skip The Therapist Podcast                     No identifiable individual creator (possible brand); Not active enough (4 items/30d, 0 lon
+  -       Rejected  Let's Get It With Coach Los                        No identifiable individual creator (possible brand); No public monetisation evidence; Coun
+  -       Rejected  Keeping it Real with Zulma The Swearing Therapist  Not active enough (4 items/30d, 0 long-form/60d); No public monetisation evidence; Country
+  -       Rejected  Come Talk with Aimee: Sex, Intimacy, and Conversat Country not verified as approved market (no creator-published country signal (feed languag
+  L02270  Qualified Heart Work After Betrayal | Infidelity, Marriage,  
+  -       Rejected  The RISE to Intimacy Podcast | Sex Therapy, Couple No public monetisation evidence; No evidence of a content-workflow need; No verifiable pub
+  -       Rejected  Relationship Coaching Group Podcast                Organisation/network/publication, not an individual creator; No identifiable individual cr
+  -       Rejected  Fit For the Future                                 Not active enough (5 items/30d, 0 long-form/60d); Country not verified as approved market 
+
+Wrote output/leads.csv (1044 leads), output/run_report.json, outreach/

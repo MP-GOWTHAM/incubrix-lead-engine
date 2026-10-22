@@ -1,0 +1,5 @@
+{
+  "Email": {"from": "your-sender-test@gmail.com", "to": "your-second-inbox@gmail.com"},
+  "Instagram": {"from": "@your_test_business_account", "to": "@your_second_test_account"},
+  "X": {"from": "@your_test_account", "to": "@your_second_test_account"}
+}

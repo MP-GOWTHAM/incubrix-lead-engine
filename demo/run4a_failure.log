@@ -1,0 +1,7 @@
+﻿16:15:20 INFO    engine: seed demo\new_input_2.txt: 24 entries -> 24 candidates, 0 unresolved
+16:15:20 INFO    engine: fetching 24 feeds (0 already fresh in cache)
+16:15:23 ERROR   engine: simulated crash after 5 feeds (rerun to recover)
+16:15:23 ERROR   engine: simulated crash after 5 feeds (rerun to recover)
+
+Run stopped: simulated crash after 5 feeds (rerun to recover)
+Progress is saved in data/state.sqlite. Run the same command again to resume.
