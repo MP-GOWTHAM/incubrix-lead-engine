@@ -1,0 +1,18 @@
+# New input for the refresh demo: Apple Podcasts URLs not yet in the database
+https://podcasts.apple.com/gb/podcast/confessions-of-a-dog-trainer/id1839233691
+https://podcasts.apple.com/gb/podcast/zen-dog-training/id1738257650
+https://podcasts.apple.com/gb/podcast/training-without-conflict-dog-training-podcast/id1531824522
+https://podcasts.apple.com/gb/podcast/the-agricoach-podcast-by-the-financial-bloke/id1598835360
+https://podcasts.apple.com/gb/podcast/wealth-b-hers/id1524677523
+https://podcasts.apple.com/gb/podcast/money-rules-or-money-rules/id1650489113
+https://podcasts.apple.com/gb/podcast/the-jenesis-gems-podcast/id1606677389
+https://podcasts.apple.com/gb/podcast/hotspotting/id1254349622
+https://podcasts.apple.com/gb/podcast/flame-with-brad-hook/id1554818127
+https://podcasts.apple.com/gb/podcast/biotech-career-coach/id1723489809
+https://podcasts.apple.com/gb/podcast/career-coaching-with-fexingo-professional-coaches/id1896795483
+https://podcasts.apple.com/gb/podcast/biotech-career-coach/id1723402319
+https://podcasts.apple.com/gb/podcast/search-results-on-sermonaudio/id1186473673
+https://podcasts.apple.com/gb/podcast/sanctification-on-sermonaudio/id271120392
+https://podcasts.apple.com/gb/podcast/breeders-brew-the-dog-breeding-podcast/id1740835917
+https://podcasts.apple.com/gb/podcast/christian-womens-weight-loss-faith-food-fitness/id1727970575
+https://podcasts.apple.com/gb/podcast/the-creative-business-diaries-with-eryn-whalen/id1623502720

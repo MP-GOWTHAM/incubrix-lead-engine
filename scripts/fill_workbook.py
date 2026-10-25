@@ -194,7 +194,14 @@ def main():
     cfg = json.load(open(os.path.join(ROOT, "config.json"), encoding="utf-8-sig"))
     if cfg["sender"].get("name") and not cfg["sender"]["name"].startswith("["):
         st["B6"] = cfg["sender"]["name"]
-    st["B12"] = "https://github.com/MP-GOWTHAM/incubrix-lead-engine (private; grant IncuBrix reviewers access)"
+    st["B5"] = "25pb02"
+    st["B7"] = "gowthamrockerzzz@gmail.com"
+    st["B8"] = "PSG College of Technology"
+    st["B10"] = "25.10.2026"
+    repo = "https://github.com/MP-GOWTHAM/incubrix-lead-engine"
+    st["B11"] = f"{repo}/tree/main/output (leads.csv) and {repo}/tree/main/outreach"
+    st["B13"] = f"{repo}/blob/main/launch_kit/LAUNCH_KIT.md"
+    st["B12"] ="https://github.com/MP-GOWTHAM/incubrix-lead-engine (private; grant IncuBrix reviewers access)"
     st["B16"] = ("Claude Code (Anthropic) assisted with writing the engine, tests, message templates and "
                  "documents. Data: Apple Podcasts Search/Lookup API (public, keyless) and creators' public RSS "
                  "feeds. Python 3 standard library; openpyxl for this workbook. No paid tools.")

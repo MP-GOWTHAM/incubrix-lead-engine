@@ -1,0 +1,8 @@
+# New input for the refresh demo: Apple Podcasts URLs not yet in the database
+https://podcasts.apple.com/gb/podcast/the-kyle-hunt-show/id1146086687
+https://podcasts.apple.com/gb/podcast/respark-your-life/id1529026340
+https://podcasts.apple.com/gb/podcast/the-holvey-hour/id1771337856
+https://podcasts.apple.com/gb/podcast/we-are-listening/id1722030528
+https://podcasts.apple.com/gb/podcast/we-are-listening/id1803114599
+https://podcasts.apple.com/gb/podcast/the-starting-line-with-cole-taylor/id1660988291
+https://podcasts.apple.com/gb/podcast/digital-marketing-coach-with-chris-heidlebaugh/id1875135728
