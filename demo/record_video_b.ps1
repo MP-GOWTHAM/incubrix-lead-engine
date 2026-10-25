@@ -1,12 +1,13 @@
-﻿# Records ONLY the demo window (not the desktop) and stops the moment the demo finishes.
+# Records ONLY the demo window (not the desktop) and stops the moment the demo finishes.
 $env:Path = [Environment]::GetEnvironmentVariable("Path","Machine") + ";" + [Environment]::GetEnvironmentVariable("Path","User")
 $root = Split-Path $PSScriptRoot
-$flag = Join-Path $root "demo\.video_done"
+$token = [guid]::NewGuid().ToString("N").Substring(0,8)
+$flag = Join-Path $root "demo\.video_done_$token"
 $out = "C:\Users\ADMIN\Videos\IncuBrix_Video_B_technical_demo.mp4"
 $title = "IncuBrix Lead Engine - technical demo"
 Remove-Item $flag -ErrorAction SilentlyContinue
 
-Start-Process powershell -ArgumentList "-NoExit -ExecutionPolicy Bypass -File `"$root\demo\video_b_demo.ps1`"" -WindowStyle Maximized
+Start-Process powershell -ArgumentList "-NoExit -ExecutionPolicy Bypass -File `"$root\demo\video_b_demo.ps1`" -Token $token" -WindowStyle Maximized
 # wait until the window exists with its title
 for ($i = 0; $i -lt 40; $i++) {
     if (Get-Process powershell -ErrorAction SilentlyContinue | Where-Object MainWindowTitle -eq $title) { break }

@@ -277,6 +277,9 @@ def evaluate(cand, parsed, now, cfg, site_info=None):
     # Needs IncuBrix
     needs = S.need_signals(ch, items, socials, act)
     lead["need_types"] = [n[0] for n in needs]
+    # keep the creator's own words separately: the need summary is truncated to 3 items
+    stated = next((v for k, v in needs if k == "Stated workflow need"), "")
+    lead["need_quote"] = stated.split('notes say "', 1)[-1].rstrip('"') if stated else ""
     if needs:
         lead["incubrix_need"] = "; ".join(f"{k}: {v}" for k, v in needs[:3])
         lead["need_evidence_url"] = feed_url

@@ -1,6 +1,6 @@
 # L01714 · Arianna Banuelos · Fertile Window Lab with Arianna | Menstrual Cycle Phases, Ovulation, Period Tracking, Hormone Imbalance
 
-- **Segment:** Expert-Led Creator · **Country:** US · **Score:** 73
+- **Segment:** Expert-Led Creator · **Country:** US · **Score:** 71
 - **Profile:** https://podcasts.apple.com/au/podcast/fertile-window-lab-with-arianna-menstrual-cycle-phases/id1762898067
 - **Best channel:** Email → `arianna@fruitfulnwhole.com` (evidence: https://fruitfulnwholewitharianna.podbean.com/e/90-you-dont-have-an-ovulation-problem-it-could-be-an-inflammation-problem/)
 - **Backup channel:** — → ``

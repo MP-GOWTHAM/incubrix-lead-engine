@@ -60,8 +60,10 @@ def need_line(lead):
     socials = lead.get("socials") or {}
     mins = lead.get("avg_minutes")
     noun = AUDIENCE_NOUN.get(lead["creator_segment"], "episode")
-    if "Stated workflow need" in types:
+    quote = lead.get("need_quote") or ""
+    if not quote and 'notes say "' in (lead.get("incubrix_need") or ""):
         quote = lead["incubrix_need"].split('notes say "', 1)[-1].split('"', 1)[0]
+    if "Stated workflow need" in types and quote:
         return f'Your show notes mention "{quote}", which is exactly the work IncuBrix takes off a creator\'s plate.'
     if "Video clipping" in types:
         return f"Since you already record on video, the clips in each {noun} are basically shot; they just need cutting and captioning."

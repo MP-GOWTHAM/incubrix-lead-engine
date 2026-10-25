@@ -1,51 +1,51 @@
 {
-  "qualified": 1048,
+  "qualified": 1060,
   "countries": {
-    "US": 576,
-    "GB": 205,
-    "AU": 146,
+    "US": 583,
+    "GB": 210,
+    "AU": 145,
     "CA": 76,
+    "NZ": 23,
     "IE": 22,
-    "NZ": 22,
     "SG": 1
   },
   "segments": {
-    "Expert-Led Creator": 450,
-    "Podcaster/Video Podcaster": 598
+    "Expert-Led Creator": 459,
+    "Podcaster/Video Podcaster": 601
   },
   "priority": {
     "A": 250,
-    "B": 419,
-    "C": 379
+    "B": 424,
+    "C": 386
   },
   "best_channel": {
-    "Email": 743,
-    "Instagram": 226,
-    "LinkedIn": 66,
+    "Email": 754,
+    "Instagram": 225,
+    "LinkedIn": 68,
     "X": 12,
     "TikTok": 1
   },
   "backup_channel": {
-    "Contact form": 398,
-    "Instagram": 272,
-    "(none)": 114,
+    "Contact form": 400,
+    "Instagram": 277,
+    "(none)": 118,
     "Podcast guest pitch": 97,
-    "LinkedIn": 80,
-    "X": 42,
+    "LinkedIn": 82,
+    "X": 41,
     "TikTok": 26,
     "Email": 19
   },
-  "pct_no_transcripts": 71.8,
+  "pct_no_transcripts": 71.6,
   "pct_repurposing_gap": 85.2,
-  "pct_no_shortform_linked": 43.4,
-  "pct_publishing_gap": 24.0,
+  "pct_no_shortform_linked": 43.7,
+  "pct_publishing_gap": 24.3,
   "pct_video": 0.8,
   "median_episode_minutes": 40,
-  "pct_sponsorship": 44.6,
-  "pct_membership": 35.3,
-  "pct_course_product": 21.4,
-  "pct_service": 33.6,
-  "pct_affiliate": 22.5,
+  "pct_sponsorship": 44.5,
+  "pct_membership": 35.1,
+  "pct_course_product": 21.6,
+  "pct_service": 34.1,
+  "pct_affiliate": 22.6,
   "median_items_30d": 4.0,
-  "email_best_pct": 70.9
+  "email_best_pct": 71.1
 }

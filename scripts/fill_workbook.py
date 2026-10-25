@@ -169,9 +169,9 @@ def main():
 
     # 03 section C: launch kit summary
     launch = [
-        "1,048 verified independent podcasters (598) and expert-led creators (450) in US/GB/AU/CA/IE/NZ/SG; "
+        "1,060 verified independent podcasters (601) and expert-led creators (459) in US/GB/AU/CA/IE/NZ/SG; "
         "Priority A (250) first. See launch_kit/LAUNCH_KIT.md §1",
-        "Email (best for 743): published business contacts. Instagram/LinkedIn/X DMs by hand (best for ~300 incl. "
+        "Email (best for 754): published business contacts. Instagram/LinkedIn/X DMs by hand (best for ~300 incl. "
         "UK/IE personal mailboxes, PECR). Podcast guest pitches for distribution. Contact form as backup",
         "Mon: sending domain + 2 Workspace inboxes + warm-up (Growth Lead); engine run + HubSpot import; "
         "sample-clip turnaround test (Creator Success). Tue-Fri: 40 emails/day + 20 DMs/day on Priority A",
@@ -200,6 +200,8 @@ def main():
     st["B10"] = "25.10.2026"
     repo = "https://github.com/MP-GOWTHAM/incubrix-lead-engine"
     st["B11"] = f"{repo}/tree/main/output (leads.csv) and {repo}/tree/main/outreach"
+    st["B14"] = "https://drive.google.com/file/d/1qQfXyjnPku1mEwcuFU2AlfxdTrEucsPG/view?usp=sharing"
+    st["B15"] = "https://drive.google.com/file/d/1PCI74hNbdmwy8KMjqyCQ2va2nps5T5bo/view?usp=sharing"
     st["B13"] = f"{repo}/blob/main/launch_kit/LAUNCH_KIT.md"
     st["B12"] ="https://github.com/MP-GOWTHAM/incubrix-lead-engine (private; grant IncuBrix reviewers access)"
     st["B16"] = ("Claude Code (Anthropic) assisted with writing the engine, tests, message templates and "

@@ -1,6 +1,6 @@
 # L01658 · Erin Gerner · Powerhouse Lawyers
 
-- **Segment:** Expert-Led Creator · **Country:** US · **Score:** 71
+- **Segment:** Expert-Led Creator · **Country:** US · **Score:** 70
 - **Profile:** https://podcasts.apple.com/ie/podcast/powerhouse-lawyers/id1686603658
 - **Best channel:** LinkedIn → `https://www.linkedin.com/in/erin-gerner/` (evidence: https://share.transistor.fm/s/51a7396e)
 - **Backup channel:** Instagram → `https://www.instagram.com/eringerner/`

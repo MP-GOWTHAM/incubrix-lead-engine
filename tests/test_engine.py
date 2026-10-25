@@ -215,6 +215,15 @@ class Messaging(unittest.TestCase):
         self.assertIn("How to price your first offer", seq[0]["body"])
         self.assertIn(CFG["sender"]["address"], seq[0]["body"])
 
+    def test_stated_need_quote_survives_truncation(self):
+        lead = dict(self.lead, need_types=["Captions/transcripts", "Repurposing into clips", "Publishing consistency",
+                                           "Stated workflow need"],
+                    incubrix_need="Captions/transcripts: x; Repurposing into clips: y; Publishing consistency: z",
+                    need_quote="hiring an editor")
+        self.assertIn('mention "hiring an editor"', messages.need_line(lead))
+        lead["need_quote"] = ""
+        self.assertNotIn("Captions/transcripts", messages.need_line(lead))
+
     def test_dm_lengths(self):
         for plat, limit in messages.DM_LIMITS.items():
             for _, body in messages.dm_steps(self.lead, CFG, plat):

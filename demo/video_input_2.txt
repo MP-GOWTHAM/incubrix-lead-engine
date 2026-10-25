@@ -1,9 +1,7 @@
 # New input for the refresh demo: Apple Podcasts URLs not yet in the database
-https://podcasts.apple.com/gb/podcast/the-forensic-psychologist-podcast/id6814957644
-https://podcasts.apple.com/gb/podcast/the-business-of-psychology/id1503339622
-https://podcasts.apple.com/gb/podcast/grief-is-the-new-normal-podcast-with-dr-heather-taylor/id1734509245
-https://podcasts.apple.com/gb/podcast/whole-while-healing-podcast/id1740855944
-https://podcasts.apple.com/gb/podcast/the-psychologists-are-in-with-maggie-lawson/id1593693216
-https://podcasts.apple.com/gb/podcast/strength-coach-rants-with-coach-connor-lyons/id1565809102
-https://podcasts.apple.com/gb/podcast/samson-strength-coach-collective/id1522528277
-https://podcasts.apple.com/gb/podcast/finding-joy-for-family-photographers/id1804384350
+https://podcasts.apple.com/gb/podcast/the-breaking-up-with-anxiety-podcast/id1660472545
+https://podcasts.apple.com/gb/podcast/float-the-anxiety-podcast-with-dr-john-eaton-phd/id6803788224
+https://podcasts.apple.com/gb/podcast/float-the-anxiety-podcast-with-dr-john-eaton-phd/id1661274597
+https://podcasts.apple.com/gb/podcast/the-axe-anxiety-podcast/id1886025880
+https://podcasts.apple.com/gb/podcast/no-limits-map-to-triathlon-podcast/id1353300772
+https://podcasts.apple.com/gb/podcast/sales-leadership-with-jim-pancero/id6800056183

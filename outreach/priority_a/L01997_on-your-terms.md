@@ -12,7 +12,7 @@
 ## Step 1 · Instagram · day 0
 
 ```text
-Hi Sam! Just found "The 5 Legal Steps I Took Before Making $10M…" from On Your Terms. Your show notes mention "Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~26-min episodes; no TikTok clip channel linked in the feed; Publishing consistency: gap of 28 days between episodes vs a usual 7-day rhythm", which is exactly the work IncuBrix takes off a creator's plate. I'm Gowtham M P. I'm helping launch IncuBrix, which turns one recording into captioned, ready-to-post clips. Want me to send 3 free sample clips from that episode? If it's not relevant, just say so and I won't message again.
+Hi Sam! Just found "The 5 Legal Steps I Took Before Making $10M…" from On Your Terms. Your show notes mention "repurpos", which is exactly the work IncuBrix takes off a creator's plate. I'm Gowtham M P. I'm helping launch IncuBrix, which turns one recording into captioned, ready-to-post clips. Want me to send 3 free sample clips from that episode? If it's not relevant, just say so and I won't message again.
 ```
 
 ## Step 2 · Instagram · day 4
@@ -33,7 +33,7 @@ Last nudge from me, Sam. If sample clips from On Your Terms would ever be useful
 ```text
 Hi Sam,
 
-I came across "The 5 Legal Steps I Took Before Making $10M Online" from On Your Terms (Oct 19). Your show notes mention "Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~26-min episodes; no TikTok clip channel linked in the feed; Publishing consistency: gap of 28 days between episodes vs a usual 7-day rhythm", which is exactly the work IncuBrix takes off a creator's plate.
+I came across "The 5 Legal Steps I Took Before Making $10M Online" from On Your Terms (Oct 19). Your show notes mention "repurpos", which is exactly the work IncuBrix takes off a creator's plate.
 
 IncuBrix is a creator studio that turns one recording into captioned clips, quote posts and platform-sized versions, then schedules them to YouTube, Instagram, LinkedIn and Spotify from one screen. For coaches and educators it means every session insight becomes content that finds new clients.
 

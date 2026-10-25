@@ -15,7 +15,7 @@
 ```text
 Hi Teri,
 
-I came across "Mental Load; Why You're Always Exhausted" from Success In Mind; Motivation, and Inspiration for Entrepreneurs (Oct 18). Your show notes mention "Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~28-min episodes; no YouTube/TikTok clip channel linked in the feed; Publishing consistency: gap of 56 days between episodes vs a usual 13.5-day rhythm", which is exactly the work IncuBrix takes off a creator's plate.
+I came across "Mental Load; Why You're Always Exhausted" from Success In Mind; Motivation, and Inspiration for Entrepreneurs (Oct 18). Your show notes mention "repurpos", which is exactly the work IncuBrix takes off a creator's plate.
 
 IncuBrix is a creator studio that turns one recording into captioned clips, quote posts and platform-sized versions, then schedules them to YouTube, Instagram, LinkedIn and Spotify from one screen. For coaches and educators it means every session insight becomes content that finds new clients.
 
@@ -58,5 +58,5 @@ Not for you? Reply "no thanks" and I won't email you again.
 ## Step 4 · Instagram · day 14
 
 ```text
-Hi Teri! Just found "Mental Load; Why You're Always Exhausted" from Success In Mind; Motivation, and Inspiration for Entrepreneurs. Your show notes mention "Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~28-min episodes; no YouTube/TikTok clip channel linked in the feed; Publishing consistency: gap of 56 days between episodes vs a usual 13.5-day rhythm", which is exactly the work IncuBrix takes off a creator's plate. I'm Gowtham M P. I'm helping launch IncuBrix, which turns one recording into captioned, ready-to-post clips. Want me to send 3 free sample clips from that episode? If it's not relevant, just say so and I won't message again.
+Hi Teri! Just found "Mental Load; Why You're Always Exhausted" from Success In Mind; Motivation, and Inspiration for Entrepreneurs. Your show notes mention "repurpos", which is exactly the work IncuBrix takes off a creator's plate. I'm Gowtham M P. I'm helping launch IncuBrix, which turns one recording into captioned, ready-to-post clips. Want me to send 3 free sample clips from that episode? If it's not relevant, just say so and I won't message again.
 ```

@@ -1,0 +1,39 @@
+1
+00:00:00,500 --> 00:00:11,000
+IncuBrix creator lead engine: one command, python -m engine run. Python standard library only, no API keys, $0.
+
+2
+00:00:11,000 --> 00:00:23,500
+28 offline tests run in about a second, including a regression test for every audit error found while checking my own leads.
+
+3
+00:00:23,500 --> 00:00:36,000
+Normal run on a brand-new input: real, recently active podcasts the engine has never seen. It finds, verifies, dedupes, scores, picks a channel and drafts messages.
+
+4
+00:00:36,000 --> 00:00:54,000
+Run history: the full-scale run covered 20,000+ shows, gave 1,048 qualified creators and 0 duplicates, in minutes, at $0 cost.
+
+5
+00:00:54,000 --> 00:01:13,000
+One qualified lead: every claim (country, activity, sponsor or offer, need, contact) has a public evidence URL an auditor can open.
+
+6
+00:01:13,000 --> 00:01:41,000
+Refresh on another new input: new creators get new lead IDs, existing creators keep theirs, and the country cap re-balances automatically.
+
+7
+00:01:41,000 --> 00:02:04,000
+Failure test: a simulated crash after 5 feeds. Progress is saved, and the error is logged to output/errors.csv.
+
+8
+00:02:04,000 --> 00:02:17,000
+Recovery: the same command again reuses the 5 saved feeds and fetches only the rest. Nothing is duplicated.
+
+9
+00:02:17,000 --> 00:02:47,000
+Priority A outreach: a personalised first message about the creator's latest episode, 2 follow-ups and a backup-channel touch, each with sender identity, opt-out and a tracked link.
+
+10
+00:02:47,000 --> 00:03:01,000
+Launch kit: the step-by-step week-1 plan IncuBrix can start on Monday, with owners, tools and daily volumes.
