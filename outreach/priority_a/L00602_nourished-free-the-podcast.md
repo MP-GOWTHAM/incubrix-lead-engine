@@ -1,13 +1,13 @@
 # L00602 · Michelle Yates · Nourished & Free: The Podcast
 
-- **Segment:** Expert-Led Creator · **Country:** US · **Score:** 72
+- **Segment:** Expert-Led Creator · **Country:** US · **Score:** 69
 - **Profile:** https://podcasts.apple.com/gb/podcast/nourished-free-the-podcast/id1607397997
 - **Best channel:** Email → `michelle@yatesnutrition.com` (evidence: https://rss.buzzsprout.com/1928382.rss)
 - **Backup channel:** Instagram → `https://www.instagram.com/yatesnutrition/`
 - **Hook:** Latest episode "Inside Nourished & Free: How Our Clients Quiet Food Noise in Four Months" (2026-10-13); Repurposing into clips
 - **Why IncuBrix:** Repurposing into clips: ~22-min episodes; no YouTube/TikTok clip channel linked in the feed; Publishing consistency: gap of 146 days between episodes vs a usual 7-day rhythm
 - **Commercial signal:** Service (coaching/consulting): "suggest a future episode! LEARN MORE 🔥 Work with me in Nourished & Free ® 👀 Stalk me on Instagram 💻 Watch my FR" (episode 'Inside Nourished & Free: How Our Clients Quiet Food Noise in Four Mont') (https://rss.buzzsprout.com/1928382.rss)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Email · day 0
 **Subject:** "Inside Nourished & Free: How Our Clients Quiet…" as clips?

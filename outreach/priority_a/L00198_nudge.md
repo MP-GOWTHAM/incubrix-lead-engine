@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "Is the stock market just vibes?" (2026-10-19); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~28-min episodes; no YouTube/Instagram/TikTok clip channel linked in the feed
 - **Commercial signal:** Affiliate: "vaults Leslie’s book Revealing: https://amzn.to/3RkFTAq Leslie’s website: https://www.proflesliejohn.com/ J" (episode 'The worst mistake to make on Dragon’s Den / Shark Tank') (https://feeds.megaphone.fm/HS2038060283)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Email · day 0
 **Subject:** "Is the stock market just vibes?" as clips?

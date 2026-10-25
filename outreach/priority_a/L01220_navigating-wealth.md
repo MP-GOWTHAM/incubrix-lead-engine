@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "Buying Back Your Time With an AI Personal Assistant" (2026-10-16); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~41-min episodes; no TikTok clip channel linked in the feed
 - **Commercial signal:** Membership/subscription: "━━━━━━━━━━━━━━━━━━━ Resources & Links 👥 Become a Member: https://longangle.com/navigatingwealth 📤 Get Episode Relea" (episode 'Buying Back Your Time With an AI Personal Assistant') (https://share.transistor.fm/s/2ad736b0)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Email · day 0
 **Subject:** "Buying Back Your Time With an AI Personal…" as clips?

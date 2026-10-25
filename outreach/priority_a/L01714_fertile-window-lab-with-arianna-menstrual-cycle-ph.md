@@ -1,13 +1,13 @@
 # L01714 · Arianna Banuelos · Fertile Window Lab with Arianna | Menstrual Cycle Phases, Ovulation, Period Tracking, Hormone Imbalance
 
-- **Segment:** Expert-Led Creator · **Country:** US · **Score:** 76
+- **Segment:** Expert-Led Creator · **Country:** US · **Score:** 73
 - **Profile:** https://podcasts.apple.com/au/podcast/fertile-window-lab-with-arianna-menstrual-cycle-phases/id1762898067
 - **Best channel:** Email → `arianna@fruitfulnwhole.com` (evidence: https://fruitfulnwholewitharianna.podbean.com/e/90-you-dont-have-an-ovulation-problem-it-could-be-an-inflammation-problem/)
 - **Backup channel:** — → ``
 - **Hook:** Latest episode "98| Stop Putting Your Life on Hold for Pregnancy: Pursuing Hope Without Losing Yourself" (2026-10-14); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Publishing consistency: gap of 26 days between episodes vs a usual 7-day rhythm
 - **Commercial signal:** Service (coaching/consulting): "ge, and whole life in the conversation. Work with me / Book a Clarity Call Visit my website: https://fruitfuland" (episode '95| When Trying to Conceive Becomes Your Second Job: 3 Ways to Take Yo') (https://fruitfulnwholewitharianna.podbean.com/e/95-when-trying-to-conceive-becomes-your-second-job-3-ways-to-take-your-life-back/)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Email · day 0
 **Subject:** "98| Stop Putting Your Life on Hold for…" as clips?

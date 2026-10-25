@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "E447 | (IM)Perfect Relationships Pt 2: Types of Intimacy & What You Might Be Missing" (2026-10-19); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~35-min episodes; no YouTube/TikTok clip channel linked in the feed
 - **Commercial signal:** Course/product: "ntoring at artofcoaching.com/mentoring. My new book, The Anti-Hero Advantage, is for anyone tired of one-size-f" (episode 'E444 | How to Keep Going When Everything Feels Overwhelming') (https://artofcoaching.podbean.com/e/e444-how-to-keep-going-when-everything-feels-overwhelming/)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Email · day 0
 **Subject:** "E447 | (IM)Perfect Relationships Pt 2: Types…" as clips?

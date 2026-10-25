@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "What Nobody Tells You About Being Fire Chief | Mike Kennedy, Part 1" (2026-10-19); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~33-min episodes; no YouTube/Instagram/TikTok clip channel linked in the feed; Publishing consistency: gap of 106 days between episodes vs a usual 19-day rhythm
 - **Commercial signal:** Sponsorship: "adult language. 3 Point Firefighter is sponsored by Fire Facilities. Email me at 3pointFirefighter@Gmail.Com Ch" (episode 'Stop Blaming the Chief: Leadership from the Bottom Up | Dr. Candace As') (https://rss.buzzsprout.com/1412497.rss)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Email · day 0
 **Subject:** "What Nobody Tells You About Being Fire Chief |…" as clips?

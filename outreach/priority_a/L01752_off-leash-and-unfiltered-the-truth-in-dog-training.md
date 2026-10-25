@@ -4,22 +4,22 @@
 - **Profile:** https://podcasts.apple.com/sg/podcast/off-leash-and-unfiltered-the-truth-in-dog-training/id1835289970
 - **Best channel:** Email → `kati@diamondcanine.com` (evidence: https://rss.buzzsprout.com/2124912.rss)
 - **Backup channel:** — → ``
-- **Hook:** Latest episode "Relationship Is Often The "Route Cause" Of Your Dog's Crappy Behavior" (2026-10-15); Captions/transcripts
-- **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~39-min episodes; no Instagram/TikTok clip channel linked in the feed
-- **Commercial signal:** Membership/subscription: "low to subscribe or donate. https://www.buzzsprout.com/2124912/support I want to hear from you! Email me directly to ask" (episode 'Relationship Is Often The "Route Cause" Of Your Dog's Crappy Behavior') (https://rss.buzzsprout.com/2124912.rss)
-- **Checked:** 2026-10-22
+- **Hook:** Latest episode "Your Dog Should "Want" To Listen To You, Mmkaaaay?" (2026-10-23); Captions/transcripts
+- **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~41-min episodes; no Instagram/TikTok clip channel linked in the feed
+- **Commercial signal:** Membership/subscription: "low to subscribe or donate. https://www.buzzsprout.com/2124912/support I want to hear from you! Email me directly to ask" (episode 'Your Dog Should "Want" To Listen To You, Mmkaaaay?') (https://rss.buzzsprout.com/2124912.rss)
+- **Checked:** 2026-10-25
 
 ## Step 1 · Email · day 0
-**Subject:** "Relationship Is Often The "Route Cause" Of…" as clips?
+**Subject:** "Your Dog Should "Want" To Listen To You,…" as clips?
 
 ```text
 Hi Kati,
 
-I came across "Relationship Is Often The "Route Cause" Of Your Dog's Crappy Behavior" from Off Leash And Unfiltered (Oct 15). At ~39 minutes per episode, there are easily ten clips in each one, and I didn't see a Instagram Reels or TikTok channel linked from the show.
+I came across "Your Dog Should "Want" To Listen To You, Mmkaaaay?" from Off Leash And Unfiltered (Oct 23). At ~41 minutes per episode, there are easily ten clips in each one, and I didn't see a Instagram Reels or TikTok channel linked from the show.
 
 IncuBrix is a creator studio that turns one recording into captioned clips, quote posts and platform-sized versions, then schedules them to YouTube, Instagram, LinkedIn and Spotify from one screen. For coaches and educators it means every session insight becomes content that finds new clients.
 
-If it helps, I can run "Relationship Is Often The "Route Cause" Of…" through it and send you three ready-to-post clips. No call and no card needed. Would that be useful?
+If it helps, I can run "Your Dog Should "Want" To Listen To You,…" through it and send you three ready-to-post clips. No call and no card needed. Would that be useful?
 
 Gowtham M P
 Growth Engineer candidate for IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
@@ -29,10 +29,10 @@ Not for you? Reply "no thanks" and I won't email you again.
 ```
 
 ## Step 2 · Email · day 4
-**Subject:** Re: "Relationship Is Often The "Route Cause" Of…" as clips?
+**Subject:** Re: "Your Dog Should "Want" To Listen To You,…" as clips?
 
 ```text
-Hi Kati, a quick follow-up on my note about "Relationship Is Often The "Route Cause" Of…". Your earlier episode, "Dogs Behave Better When The Rules Exist All The Time—This Has…", would work just as well. IncuBrix picks out the strongest moments, adds word-by-word captions in your own fonts and colours, and lets you fix a flubbed line by editing the transcript instead of re-recording.
+Hi Kati, a quick follow-up on my note about "Your Dog Should "Want" To Listen To You,…". Your earlier episode, "How Does Age Factor Into Punishment In Dog Training?", would work just as well. IncuBrix picks out the strongest moments, adds word-by-word captions in your own fonts and colours, and lets you fix a flubbed line by editing the transcript instead of re-recording.
 
 Happy to send the three sample clips. Just reply "yes".
 

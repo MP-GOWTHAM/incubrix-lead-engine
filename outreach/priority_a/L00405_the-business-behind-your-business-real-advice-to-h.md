@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "Launch, Listen, Improve: A Smarter Way to Build a Product" (2026-10-19); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~35-min episodes; no YouTube/TikTok clip channel linked in the feed
 - **Commercial signal:** Service (coaching/consulting): "den assets How a book can open doors to speaking engagements, podcasts and referrals Why you only need to become well kn" (episode 'How to Turn Your Expertise Into Authority') (https://rss.buzzsprout.com/1170371.rss)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Instagram · day 0
 

@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "Why I Completely Redesigned Acupuncture Marketing School (And What's New!)" (2026-10-15); Repurposing into clips
 - **Why IncuBrix:** Repurposing into clips: ~33-min episodes; no YouTube/TikTok clip channel linked in the feed; Stated workflow need: episode notes say "repurpos"
 - **Commercial signal:** Membership/subscription: "upuncture-marketing-school/ https://www.buymeacoffee.com/michellegrasek https://michellegrasek.com/acupuncture-m" (episode 'Why I Completely Redesigned Acupuncture Marketing School (And What's N') (https://michellegrasek.com/acupuncture-marketing-in-the-age-of-ai)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Email · day 0
 **Subject:** "Why I Completely Redesigned Acupuncture…" as clips?

@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "DB Cooper: My Forced Education - Russell Colbert" (2026-10-20); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~104-min episodes; no YouTube/TikTok clip channel linked in the feed; Publishing consistency: gap of 333 days between episodes vs a usual 12-day rhythm
 - **Commercial signal:** Sponsorship: "show please leave us a review! Want to advertise on the show? Hit us up! https://twitter.com/DBCooperPodcast https://www" (episode 'DB Cooper: My Forced Education - Russell Colbert') (https://thecoopervortex.podbean.com/e/db-cooper-my-forced-education-russell-colbert/)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Email · day 0
 **Subject:** "DB Cooper: My Forced Education - Russell Colbert" as clips?

@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "257. How to Deal With Disrespect" (2026-10-19); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~27-min episodes; no YouTube/TikTok clip channel linked in the feed
 - **Commercial signal:** Sponsorship: "head here to check out Brennan's games (use code ROCKET for 20% off!) and grab Reaction Time, a free print &" (episode '243. Creating Competition, Teaching AP, and 18 Preps With Brennan Koch') (https://itsnotrocketscienceclassroom.com/episode243)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Email · day 0
 **Subject:** "257. How to Deal With Disrespect" as clips?

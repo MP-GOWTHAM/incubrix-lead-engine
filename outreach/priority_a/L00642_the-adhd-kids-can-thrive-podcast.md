@@ -1,13 +1,13 @@
 # L00642 · Kate Brownfield · The ADHD Kids Can Thrive Podcast
 
-- **Segment:** Expert-Led Creator · **Country:** US · **Score:** 69
+- **Segment:** Expert-Led Creator · **Country:** US · **Score:** 67
 - **Profile:** https://podcasts.apple.com/sg/podcast/the-adhd-kids-can-thrive-podcast/id1622483350
 - **Best channel:** Email → `adhdkidscanthrive@yahoo.com` (evidence: https://adhdkidscanthrive.podbean.com/e/transitioning-young-adults-with-adhd-to-independence-without-them-feeling-lost-with-greg-burnham/)
 - **Backup channel:** LinkedIn → `https://www.linkedin.com/in/kate-wedlock-brownfield-b0b139/`
 - **Hook:** Latest episode "ADHD, Trauma, and Emotional Overwhelm in Kids | Dr. Aimie Apigian" (2026-10-19); Repurposing into clips
 - **Why IncuBrix:** Repurposing into clips: ~30-min episodes; no Instagram/TikTok clip channel linked in the feed; Publishing consistency: gap of 133 days between episodes vs a usual 10.5-day rhythm
 - **Commercial signal:** Course/product: "e Download: Get the first 3 chapters of my book—free— https://lp.constantcontactpages.com/sl/On1ABRH/first3" (episode 'No One Else I'd Rather Be: A Mother's Memoir of Raising a Daughter wit') (https://adhdkidscanthrive.podbean.com/e/no-one-else-id-rather-be-a-mothers-memoir-of-raising-a-daughter-with-adhd/)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Email · day 0
 **Subject:** "ADHD, Trauma, and Emotional Overwhelm in Kids…" as clips?

@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "Your GLP-1 Journey Doesn't Have to Be Perfect to Be Successful" (2026-10-19); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~24-min episodes; no YouTube/TikTok clip channel linked in the feed
 - **Commercial signal:** Sponsorship: "e Book a one time consult with me here (Use code PODCAST for a discount) FREE: Labs to Request Annually Conn" (episode 'Your GLP-1 Journey Doesn't Have to Be Perfect to Be Successful') (https://rss.buzzsprout.com/2181241.rss)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Instagram · day 0
 

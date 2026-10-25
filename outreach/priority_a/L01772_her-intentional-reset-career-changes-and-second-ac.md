@@ -1,13 +1,13 @@
 # L01772 · Molly Wipperfurth · Her Intentional Reset: Career changes and second acts for women in midlife
 
-- **Segment:** Podcaster/Video Podcaster · **Country:** US · **Score:** 78
+- **Segment:** Podcaster/Video Podcaster · **Country:** US · **Score:** 74
 - **Profile:** https://podcasts.apple.com/ca/podcast/her-intentional-reset-career-changes-and-second-acts/id1881749992
 - **Best channel:** Email → `molly@herintentionalreset.com` (evidence: https://herintentionalreset.com/all-podcasts/career-reset-updates-using-your-existing-skills-for-your-second-act-molly-wipperfurth-replay-joanna-ehresman-fika-design-group)
 - **Backup channel:** Instagram → `https://www.instagram.com/herintentionalreset.co/`
 - **Hook:** Latest episode "RN to Realtor: the Career Pivot She Didn't Plan Turned Out to Be the One That Fit | Lisa…" (2026-10-20); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~53-min episodes; no TikTok clip channel linked in the feed
 - **Commercial signal:** Membership/subscription: "you can support the show here: https://ko-fi.com/herintentionalreset — no pressure, just making it easy for" (episode 'RN to Realtor: the Career Pivot She Didn't Plan Turned Out to Be the O') (https://herintentionalreset.com/all-podcasts/rn-to-realtor-the-career-pivot-she-didnt-plan-turned-out-to-be-the-one-that-fit-lisa-cole-the-cole-team)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Email · day 0
 **Subject:** "RN to Realtor: the Career Pivot She Didn't…" as clips?

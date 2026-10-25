@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "Ep 384: Why Do I Feel Guilty Setting Boundaries in Relationships - Even When I Know I…" (2026-10-19); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~30-min episodes; no YouTube/Instagram/TikTok clip channel linked in the feed
 - **Commercial signal:** Affiliate: "That Healing) Send us Fan Mail https://amzn.to/4hYPveS https://aliciamichelle.com/episode-374/ https://ali" (episode 'Ep 375: Emotional Avoidance: Learning to Lean into Hurt Instead of Run') (https://vibrantchristianliving.com/episode-375/)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Email · day 0
 **Subject:** "Why Do I Feel Guilty Setting Boundaries in…" as clips?

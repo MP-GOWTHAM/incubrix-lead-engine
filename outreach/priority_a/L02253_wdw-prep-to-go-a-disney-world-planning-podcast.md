@@ -4,22 +4,22 @@
 - **Profile:** https://podcasts.apple.com/gb/podcast/wdw-prep-to-go-a-disney-world-planning-podcast/id689854999
 - **Best channel:** Email → `shannon+albert@wdwprepschool.com` (evidence: https://rss.pdrl.fm/d3807b/wdwprepschool.libsyn.com/rss)
 - **Backup channel:** Instagram → `https://www.instagram.com/wdwprepschool/`
-- **Hook:** Latest episode "Denise's September WDW trip with DAS - PREP 535" (2026-10-13); Captions/transcripts
-- **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~133-min episodes; no TikTok clip channel linked in the feed
-- **Commercial signal:** Sponsorship: "mall World Vacations Designer Park Co - Use code "WDWPrep" to save 10% https://wdwprepschool.com/guide-to-di" (episode 'Denise's September WDW trip with DAS - PREP 535') (https://wdwprepschool.libsyn.com/denises-september-wdw-trip-with-das-prep-535)
-- **Checked:** 2026-10-22
+- **Hook:** Latest episode "Cory's October WDW trip w/Premier Pass - PREP 536" (2026-10-20); Captions/transcripts
+- **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~134-min episodes; no TikTok clip channel linked in the feed
+- **Commercial signal:** Sponsorship: "mall World Vacations Designer Park Co - Use code "WDWPrep" to save 10% https://www.smallworldvacations.com/a" (episode 'Cory's October WDW trip w/Premier Pass - PREP 536') (https://wdwprepschool.libsyn.com/corys-october-wdw-trip-wpremier-pass-prep-536)
+- **Checked:** 2026-10-25
 
 ## Step 1 · Email · day 0
-**Subject:** "Denise's September WDW trip with DAS - PREP 535" as clips?
+**Subject:** "Cory's October WDW trip w/Premier Pass - PREP…" as clips?
 
 ```text
 Hi Shannon,
 
-I came across "Denise's September WDW trip with DAS - PREP 535" from WDW Prep To Go (Oct 13). At ~133 minutes per episode, there are easily ten clips in each one, and I didn't see a TikTok channel linked from the show.
+I came across "Cory's October WDW trip w/Premier Pass - PREP 536" from WDW Prep To Go (Oct 20). At ~134 minutes per episode, there are easily ten clips in each one, and I didn't see a TikTok channel linked from the show.
 
 IncuBrix is a creator studio that turns one recording into captioned clips, quote posts and platform-sized versions, then schedules them to YouTube, Instagram, LinkedIn and Spotify from one screen. For podcasters it means one episode becomes a week of clips, quotes and posts.
 
-If it helps, I can run "Denise's September WDW trip with DAS - PREP 535" through it and send you three ready-to-post clips. No call and no card needed. Would that be useful?
+If it helps, I can run "Cory's October WDW trip w/Premier Pass - PREP…" through it and send you three ready-to-post clips. No call and no card needed. Would that be useful?
 
 Gowtham M P
 Growth Engineer candidate for IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
@@ -29,10 +29,10 @@ Not for you? Reply "no thanks" and I won't email you again.
 ```
 
 ## Step 2 · Email · day 4
-**Subject:** Re: "Denise's September WDW trip with DAS - PREP 535" as clips?
+**Subject:** Re: "Cory's October WDW trip w/Premier Pass - PREP…" as clips?
 
 ```text
-Hi Shannon, a quick follow-up on my note about "Denise's September WDW trip with DAS - PREP 535". Your earlier episode, "Charlotte's $2k Universal/WDW trip - PREP 534", would work just as well. IncuBrix picks out the strongest moments, adds word-by-word captions in your own fonts and colours, and lets you fix a flubbed line by editing the transcript instead of re-recording.
+Hi Shannon, a quick follow-up on my note about "Cory's October WDW trip w/Premier Pass - PREP…". Your earlier episode, "Denise's September WDW trip with DAS - PREP 535", would work just as well. IncuBrix picks out the strongest moments, adds word-by-word captions in your own fonts and colours, and lets you fix a flubbed line by editing the transcript instead of re-recording.
 
 Happy to send the three sample clips. Just reply "yes".
 
@@ -58,5 +58,5 @@ Not for you? Reply "no thanks" and I won't email you again.
 ## Step 4 · Instagram · day 14
 
 ```text
-Hi Shannon! Just found "Denise's September WDW trip with DAS - PREP 535" from WDW Prep To Go. At ~133 minutes per episode, there are easily ten clips in each one, and I didn't see a TikTok channel linked from the show. I'm Gowtham M P. I'm helping launch IncuBrix, which turns one recording into captioned, ready-to-post clips. Want me to send 3 free sample clips from that episode? If it's not relevant, just say so and I won't message again.
+Hi Shannon! Just found "Cory's October WDW trip w/Premier Pass - PREP…" from WDW Prep To Go. At ~134 minutes per episode, there are easily ten clips in each one, and I didn't see a TikTok channel linked from the show. I'm Gowtham M P. I'm helping launch IncuBrix, which turns one recording into captioned, ready-to-post clips. Want me to send 3 free sample clips from that episode? If it's not relevant, just say so and I won't message again.
 ```

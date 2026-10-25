@@ -1,13 +1,13 @@
 # L01911 · Kristen Cantrell · Moms in Real Estate
 
-- **Segment:** Expert-Led Creator · **Country:** US · **Score:** 76
+- **Segment:** Expert-Led Creator · **Country:** US · **Score:** 74
 - **Profile:** https://podcasts.apple.com/us/podcast/moms-in-real-estate/id1434458650
 - **Best channel:** Instagram → `https://www.instagram.com/heykristencantrell/` (evidence: https://share.transistor.fm/s/0872b64b)
 - **Backup channel:** Contact form → `https://podcast.show/momsinrealestate/`
 - **Hook:** Latest episode "S4Ep7: Stop Chasing Leads: How Community Can Grow Your Real Estate Business with Sarah…" (2026-10-15); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~28-min episodes; no YouTube/TikTok clip channel linked in the feed; Publishing consistency: gap of 84 days between episodes vs a usual 7-day rhythm
 - **Commercial signal:** Service (coaching/consulting): ") Become A Hello Culture Chapter Leader Apply Now To Get Into The Referral Room Resources & Links Join Our Fa" (episode 'S4E3: No Cold Calls, No CRM, No Problem — How Amy Miller Built a Six-F') (https://share.transistor.fm/s/3907c162)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Instagram · day 0
 

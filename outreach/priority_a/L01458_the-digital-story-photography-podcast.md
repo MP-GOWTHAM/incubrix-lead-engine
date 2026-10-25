@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "Beefed Up Photos App for macOS 27 Is Impressive - TDS Photo Podcast" (2026-10-20); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~32-min episodes; no YouTube/Instagram/TikTok clip channel linked in the feed
 - **Commercial signal:** Membership/subscription: "/derrickstory.substack.com/ https://www.patreon.com/thedigitalstory https://www.thenimblephotographer.com/conta" (episode 'Beefed Up Photos App for macOS 27 Is Impressive - TDS Photo Podcast') (https://www.thedigitalstory.com/feed/podcast.xml)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Email · day 0
 **Subject:** "Beefed Up Photos App for macOS 27 Is…" as clips?

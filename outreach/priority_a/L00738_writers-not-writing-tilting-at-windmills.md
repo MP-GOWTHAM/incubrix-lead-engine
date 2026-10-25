@@ -1,25 +1,25 @@
 # L00738 · Benjamin Gorman · Writers Not Writing / Tilting at Windmills
 
-- **Segment:** Podcaster/Video Podcaster · **Country:** US · **Score:** 68
+- **Segment:** Podcaster/Video Podcaster · **Country:** US · **Score:** 73
 - **Profile:** https://podcasts.apple.com/ie/podcast/writers-not-writing-tilting-at-windmills/id1665406847
 - **Best channel:** Email → `notapipepublishing@gmail.com` (evidence: https://www.notapipepublishing.com/writers-not-writing-show)
 - **Backup channel:** Contact form → `https://www.notapipepublishing.com/writers-not-writing-show`
-- **Hook:** Latest episode "Brick by Brick, Chapter 28: Sunny Sarasota" (2026-10-12); Captions/transcripts
-- **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~54-min episodes; no YouTube/Instagram/TikTok clip channel linked in the feed; Publishing consistency: gap of 35 days between episodes vs a usual 7.5-day rhythm
-- **Commercial signal:** Membership/subscription: "om/@benjamingorman Patreon: https://www.patreon.com/BenjaminGorman Want to get your own merch from WeStealFromO" (episode 'Brick by Brick, Chapter 28: Sunny Sarasota') (https://www.notapipepublishing.com/writers-not-writing-show)
-- **Checked:** 2026-10-22
+- **Hook:** Latest episode "Brick by Brick, Chapter 29: Failed Assistance, a Mediation, and an Ambush" (2026-10-25); Captions/transcripts
+- **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~59-min episodes; no YouTube/Instagram/TikTok clip channel linked in the feed; Publishing consistency: gap of 35 days between episodes vs a usual 9.5-day rhythm
+- **Commercial signal:** Sponsorship: "here: https://westealfromoldpeople.com/ Thanks to our sponsor, author Duncan Wilson, author of Twenty Four Seconds: A Sh" (episode 'Brick by Brick, Chapter 29: Failed Assistance, a Mediation, and an Amb') (https://www.notapipepublishing.com/writers-not-writing-show)
+- **Checked:** 2026-10-25
 
 ## Step 1 · Email · day 0
-**Subject:** "Brick by Brick, Chapter 28: Sunny Sarasota" as clips?
+**Subject:** "Brick by Brick, Chapter 29: Failed Assistance,…" as clips?
 
 ```text
 Hi Benjamin,
 
-I came across "Brick by Brick, Chapter 28: Sunny Sarasota" from Writers Not Writing / Tilting at Windmills (Oct 12). At ~54 minutes per episode, there are easily ten clips in each one, and I didn't see a YouTube Shorts or Instagram Reels channel linked from the show.
+I came across "Brick by Brick, Chapter 29: Failed Assistance, a Mediation, and an Ambush" from Writers Not Writing / Tilting at Windmills (Oct 25). At ~59 minutes per episode, there are easily ten clips in each one, and I didn't see a YouTube Shorts or Instagram Reels channel linked from the show.
 
 IncuBrix is a creator studio that turns one recording into captioned clips, quote posts and platform-sized versions, then schedules them to YouTube, Instagram, LinkedIn and Spotify from one screen. For podcasters it means one episode becomes a week of clips, quotes and posts.
 
-If it helps, I can run "Brick by Brick, Chapter 28: Sunny Sarasota" through it and send you three ready-to-post clips. No call and no card needed. Would that be useful?
+If it helps, I can run "Brick by Brick, Chapter 29: Failed Assistance,…" through it and send you three ready-to-post clips. No call and no card needed. Would that be useful?
 
 Gowtham M P
 Growth Engineer candidate for IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
@@ -29,10 +29,10 @@ Not for you? Reply "no thanks" and I won't email you again.
 ```
 
 ## Step 2 · Email · day 4
-**Subject:** Re: "Brick by Brick, Chapter 28: Sunny Sarasota" as clips?
+**Subject:** Re: "Brick by Brick, Chapter 29: Failed Assistance,…" as clips?
 
 ```text
-Hi Benjamin, a quick follow-up on my note about "Brick by Brick, Chapter 28: Sunny Sarasota". Your earlier episode, "Writers Not Writing LIVE, 9/6/26", would work just as well. IncuBrix picks out the strongest moments, adds word-by-word captions in your own fonts and colours, and lets you fix a flubbed line by editing the transcript instead of re-recording.
+Hi Benjamin, a quick follow-up on my note about "Brick by Brick, Chapter 29: Failed Assistance,…". Your earlier episode, "Brick by Brick, Chapter 28: Sunny Sarasota", would work just as well. IncuBrix picks out the strongest moments, adds word-by-word captions in your own fonts and colours, and lets you fix a flubbed line by editing the transcript instead of re-recording.
 
 Happy to send the three sample clips. Just reply "yes".
 
@@ -56,16 +56,16 @@ Not for you? Reply "no thanks" and I won't email you again.
 ```
 
 ## Step 4 · Contact form · day 14
-**Subject:** "Brick by Brick, Chapter 28: Sunny Sarasota" as clips?
+**Subject:** "Brick by Brick, Chapter 29: Failed Assistance,…" as clips?
 
 ```text
 Hi Benjamin,
 
-I came across "Brick by Brick, Chapter 28: Sunny Sarasota" from Writers Not Writing / Tilting at Windmills (Oct 12). At ~54 minutes per episode, there are easily ten clips in each one, and I didn't see a YouTube Shorts or Instagram Reels channel linked from the show.
+I came across "Brick by Brick, Chapter 29: Failed Assistance, a Mediation, and an Ambush" from Writers Not Writing / Tilting at Windmills (Oct 25). At ~59 minutes per episode, there are easily ten clips in each one, and I didn't see a YouTube Shorts or Instagram Reels channel linked from the show.
 
 IncuBrix is a creator studio that turns one recording into captioned clips, quote posts and platform-sized versions, then schedules them to YouTube, Instagram, LinkedIn and Spotify from one screen. For podcasters it means one episode becomes a week of clips, quotes and posts.
 
-If it helps, I can run "Brick by Brick, Chapter 28: Sunny Sarasota" through it and send you three ready-to-post clips. No call and no card needed. Would that be useful?
+If it helps, I can run "Brick by Brick, Chapter 29: Failed Assistance,…" through it and send you three ready-to-post clips. No call and no card needed. Would that be useful?
 
 Gowtham M P
 Growth Engineer candidate for IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)

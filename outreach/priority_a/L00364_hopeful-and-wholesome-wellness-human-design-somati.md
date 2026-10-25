@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "Your Purpose Is a Direction: Why Chasing a Fixed Destination Keeps You Stuck & How to…" (2026-10-19); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~31-min episodes; no YouTube/TikTok clip channel linked in the feed
 - **Commercial signal:** Service (coaching/consulting): "odcast The No BS Human Design Podcast , speaking engagements, in-person events, and intuitive mentorship — all while emb" (episode 'Why Human Design Isn't Working For You: The Missing Step to Actually E') (https://rss.buzzsprout.com/2117648.rss)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Email · day 0
 **Subject:** "Your Purpose Is a Direction: Why Chasing a…" as clips?

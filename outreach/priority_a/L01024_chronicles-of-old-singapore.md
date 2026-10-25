@@ -2,24 +2,24 @@
 
 - **Segment:** Podcaster/Video Podcaster · **Country:** SG · **Score:** 67
 - **Profile:** https://podcasts.apple.com/sg/podcast/chronicles-of-old-singapore/id1768545888
-- **Best channel:** Email → `lkshis@gmail.com` (evidence: https://podcasters.spotify.com/pod/show/loh-ks/episodes/Tong-Kok-Wing--110-Years-of-Chop-Wah-On-in-Chinatown-Part-1--Chronicles-of-Old-Singapore-e3qlrbm)
+- **Best channel:** Email → `lkshis@gmail.com` (evidence: https://podcasters.spotify.com/pod/show/loh-ks/episodes/Sukhdev-Singh-Gill--Sikhs--Jagas--Policemen-Part-4--Chronicles-of-Old-Singapore-e3r1k13)
 - **Backup channel:** Podcast guest pitch → `lkshis@gmail.com`
-- **Hook:** Latest episode "Tong Kok Wing – 110 Years of Chop Wah On in Chinatown Part 1 | Chronicles of Old Singapore" (2026-10-18); Captions/transcripts
-- **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~40-min episodes; no Instagram/TikTok clip channel linked in the feed
-- **Commercial signal:** Membership/subscription: "om/61551786759344 Patreon | https://www.patreon.com/ChroniclesofOldSingapore" (episode 'Tong Kok Wing – 110 Years of Chop Wah On in Chinatown Part 1 | Chronic') (https://podcasters.spotify.com/pod/show/loh-ks/episodes/Tong-Kok-Wing--110-Years-of-Chop-Wah-On-in-Chinatown-Part-1--Chronicles-of-Old-Singapore-e3qlrbm)
-- **Checked:** 2026-10-22
+- **Hook:** Latest episode "Sukhdev Singh Gill – Sikhs, Jagas & Policemen Part 4 | Chronicles of Old Singapore" (2026-10-25); Captions/transcripts
+- **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~37-min episodes; no Instagram/TikTok clip channel linked in the feed
+- **Commercial signal:** Membership/subscription: "om/61551786759344 Patreon | https://www.patreon.com/ChroniclesofOldSingapore" (episode 'Sukhdev Singh Gill – Sikhs, Jagas & Policemen Part 4 | Chronicles of O') (https://podcasters.spotify.com/pod/show/loh-ks/episodes/Sukhdev-Singh-Gill--Sikhs--Jagas--Policemen-Part-4--Chronicles-of-Old-Singapore-e3r1k13)
+- **Checked:** 2026-10-25
 
 ## Step 1 · Email · day 0
-**Subject:** "Tong Kok Wing – 110 Years of Chop Wah On in…" as clips?
+**Subject:** "Sukhdev Singh Gill – Sikhs, Jagas & Policemen…" as clips?
 
 ```text
 Hi Loh,
 
-I came across "Tong Kok Wing – 110 Years of Chop Wah On in Chinatown Part 1 | Chronicles of Old Singapore" from Chronicles of Old Singapore (Oct 18). At ~40 minutes per episode, there are easily ten clips in each one, and I didn't see a Instagram Reels or TikTok channel linked from the show.
+I came across "Sukhdev Singh Gill – Sikhs, Jagas & Policemen Part 4 | Chronicles of Old Singapore" from Chronicles of Old Singapore (Oct 25). At ~37 minutes per episode, there are easily ten clips in each one, and I didn't see a Instagram Reels or TikTok channel linked from the show.
 
 IncuBrix is a creator studio that turns one recording into captioned clips, quote posts and platform-sized versions, then schedules them to YouTube, Instagram, LinkedIn and Spotify from one screen. For podcasters it means one episode becomes a week of clips, quotes and posts.
 
-If it helps, I can run "Tong Kok Wing – 110 Years of Chop Wah On in…" through it and send you three ready-to-post clips. No call and no card needed. Would that be useful?
+If it helps, I can run "Sukhdev Singh Gill – Sikhs, Jagas & Policemen…" through it and send you three ready-to-post clips. No call and no card needed. Would that be useful?
 
 Gowtham M P
 Growth Engineer candidate for IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
@@ -29,10 +29,10 @@ Not for you? Reply "no thanks" and I won't email you again.
 ```
 
 ## Step 2 · Email · day 4
-**Subject:** Re: "Tong Kok Wing – 110 Years of Chop Wah On in…" as clips?
+**Subject:** Re: "Sukhdev Singh Gill – Sikhs, Jagas & Policemen…" as clips?
 
 ```text
-Hi Loh, a quick follow-up on my note about "Tong Kok Wing – 110 Years of Chop Wah On in…". Your earlier episode, "Loh Kah Seng – Shopkeepers of Chinatown Part 2: People’s History |…", would work just as well. IncuBrix picks out the strongest moments, adds word-by-word captions in your own fonts and colours, and lets you fix a flubbed line by editing the transcript instead of re-recording.
+Hi Loh, a quick follow-up on my note about "Sukhdev Singh Gill – Sikhs, Jagas & Policemen…". Your earlier episode, "Loh Kah Seng – The British Bases Part 3: End of an Era | Chronicles…", would work just as well. IncuBrix picks out the strongest moments, adds word-by-word captions in your own fonts and colours, and lets you fix a flubbed line by editing the transcript instead of re-recording.
 
 Happy to send the three sample clips. Just reply "yes".
 
@@ -61,7 +61,7 @@ Not for you? Reply "no thanks" and I won't email you again.
 ```text
 Hi Loh,
 
-I enjoyed seeing "Tong Kok Wing – 110 Years of Chop Wah On in Chinatown Part 1 | Chronicles of Old Singapore" come through the Chronicles of Old Singapore feed. I'd like to suggest someone from the IncuBrix team as a guest. Possible angles for your listeners:
+I enjoyed seeing "Sukhdev Singh Gill – Sikhs, Jagas & Policemen Part 4 | Chronicles of Old Singapore" come through the Chronicles of Old Singapore feed. I'd like to suggest someone from the IncuBrix team as a guest. Possible angles for your listeners:
 1. How solo creators turn one recording into 10+ short clips without an editor
 2. What actually gets reach on Shorts, Reels and LinkedIn for long-form shows in 2026
 3. Captions, transcripts and voice-cloned fixes: where AI saves creators hours, and where it doesn't

@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "Podcast #911-Amazing Spider-Man #1000 Backup Story Reviews" (2026-10-18); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~77-min episodes; no YouTube/TikTok clip channel linked in the feed
 - **Commercial signal:** Membership/subscription: "he site and get free stuff! https://www.patreon.com/crawlspace Be sure to visit our main page at: http://www.sp" (episode 'Podcast #911-Amazing Spider-Man #1000 Backup Story Reviews') (https://spidermancrawlspace.podbean.com/e/podcast-911-amazing-spider-man-1000-backup-story-reviews/)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Instagram · day 0
 

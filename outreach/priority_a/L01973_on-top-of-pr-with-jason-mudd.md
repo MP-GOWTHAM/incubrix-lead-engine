@@ -1,13 +1,13 @@
 # L01973 · Jason Mudd · On Top of PR with Jason Mudd
 
-- **Segment:** Expert-Led Creator · **Country:** US · **Score:** 87
+- **Segment:** Expert-Led Creator · **Country:** US · **Score:** 85
 - **Profile:** https://podcasts.apple.com/us/podcast/on-top-of-pr-with-jason-mudd/id1530395967
 - **Best channel:** LinkedIn → `https://www.linkedin.com/in/jasonmudd/` (evidence: https://rss.buzzsprout.com/593338.rss)
 - **Backup channel:** X → `https://x.com/jasonmudd9`
 - **Hook:** Latest episode "One brand, four generations: Why trust doesn't transfer" (2026-10-20); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~34-min episodes; no YouTube/Instagram/TikTok clip channel linked in the feed; Publishing consistency: gap of 28 days between episodes vs a usual 7-day rhythm
 - **Commercial signal:** Sponsorship: "rm for national brands. On Top of PR is sponsored by ReviewMaxer , the platform for monitoring, improving, and p" (episode 'One brand, four generations: Why trust doesn't transfer') (https://rss.buzzsprout.com/593338.rss)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · LinkedIn · day 0
 

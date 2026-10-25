@@ -1,13 +1,13 @@
 # L01710 · Tarinah Chin · Healing After Miscarriage: Support After Loss, God-led Infertility Help, How To Get Pregnant Naturally, Pregnancy Loss, TTC,
 
-- **Segment:** Expert-Led Creator · **Country:** US · **Score:** 75
+- **Segment:** Expert-Led Creator · **Country:** US · **Score:** 73
 - **Profile:** https://podcasts.apple.com/sg/podcast/healing-after-miscarriage-support-after-loss-god-led/id1759198914
 - **Best channel:** Email → `hello@miscarriagetomiracle.com` (evidence: https://miscarriagetomiracle.com/session)
 - **Backup channel:** — → ``
 - **Hook:** Latest episode "91 | A Prayer for Fear & Anxiety After Miscarriage: Trust God & Don't Give Up Hope" (2026-10-19); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~21-min episodes; no YouTube/Instagram/TikTok clip channel linked in the feed
 - **Commercial signal:** Service (coaching/consulting): "scarriagem, christian fertility https://calendly.com/tarinahchin/onehourcall https://faithfulhealing.thrivecart." (episode '91 | A Prayer for Fear & Anxiety After Miscarriage: Trust God & Don't ') (https://miscarriagetomiracle.com/session)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Email · day 0
 **Subject:** "91 | A Prayer for Fear & Anxiety After…" as clips?

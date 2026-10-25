@@ -1,13 +1,13 @@
 # L01969 · Megan Pustetto · So Dramatic! with Megan Pustetto
 
-- **Segment:** Podcaster/Video Podcaster · **Country:** AU · **Score:** 73
+- **Segment:** Podcaster/Video Podcaster · **Country:** AU · **Score:** 68
 - **Profile:** https://podcasts.apple.com/nz/podcast/so-dramatic-with-megan-pustetto/id1523979167
 - **Best channel:** Email → `hello@sodramaticmedia.com` (evidence: https://shows.acast.com/so-dramatic-with-megan-pustetto/episodes/interview-the-traitors-josh-packham-spills-bts-filming-secre)
 - **Backup channel:** Instagram → `https://www.instagram.com/meganpustetto/`
 - **Hook:** Latest episode "INTERVIEW: The Traitors’ Josh Packham Spills BTS Filming Secrets, Unseen Drama, Alex’s…" (2026-09-24); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Publishing consistency: gap of 55 days between episodes vs a usual 8-day rhythm
 - **Commercial signal:** Membership/subscription: "cmedia.com Want more drama? Sign up for bonus episodes on Patreon or Apple Podcast Subscription & follow us on Ins" (episode 'INTERVIEW: The Traitors’ Josh Packham Spills BTS Filming Secrets, Unse') (https://shows.acast.com/so-dramatic-with-megan-pustetto/episodes/interview-the-traitors-josh-packham-spills-bts-filming-secre)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Email · day 0
 **Subject:** "INTERVIEW: The Traitors’ Josh Packham Spills…" as clips?

@@ -1,25 +1,25 @@
 # L00280 · Kitty Blomfield · Weight Loss For Women: empowering health, strength and nourishment
 
-- **Segment:** Expert-Led Creator · **Country:** AU · **Score:** 68
+- **Segment:** Expert-Led Creator · **Country:** AU · **Score:** 73
 - **Profile:** https://podcasts.apple.com/au/podcast/weight-loss-for-women-empowering-health-strength-and/id1488713797
 - **Best channel:** Email → `kitty@winatlifeprogram.com.au` (evidence: https://feeds.redcircle.com/ee394603-85e0-4b06-85d3-34ac29ba86c7)
 - **Backup channel:** Instagram → `https://www.instagram.com/kittyblomfield/`
-- **Hook:** Latest episode "#403 - Eating Less Is Why Your Body Isn't Changing After 40 with Craig McDonald" (2026-10-14); Repurposing into clips
-- **Why IncuBrix:** Repurposing into clips: ~51-min episodes; no YouTube/TikTok clip channel linked in the feed; Publishing consistency: gap of 27 days between episodes vs a usual 7-day rhythm
-- **Commercial signal:** Sponsorship: "e Coaching options Saturée products use discount code KITTY20 for 20% off your first order. Pro-Metabolic Company" (episode '#403 - Eating Less Is Why Your Body Isn't Changing After 40 with Craig') (https://www.nustrength.com.au)
-- **Checked:** 2026-10-22
+- **Hook:** Latest episode "#404 - Single mum, 41, and 17 kgs down in 12 months with Sarah" (2026-10-21); Repurposing into clips
+- **Why IncuBrix:** Repurposing into clips: ~47-min episodes; no YouTube/TikTok clip channel linked in the feed; Publishing consistency: gap of 27 days between episodes vs a usual 7-day rhythm
+- **Commercial signal:** Sponsorship: "e Coaching options Saturée products use discount code KITTY20 for 20% off your first order. Pro-Metabolic Company" (episode '#404 - Single mum, 41, and 17 kgs down in 12 months with Sarah') (https://www.nustrength.com.au)
+- **Checked:** 2026-10-25
 
 ## Step 1 · Email · day 0
-**Subject:** "Eating Less Is Why Your Body Isn't Changing…" as clips?
+**Subject:** "Single mum, 41, and 17 kgs down in 12 months…" as clips?
 
 ```text
 Hi Kitty,
 
-I came across "Eating Less Is Why Your Body Isn't Changing After 40 with Craig McDonald" from Weight Loss For Women (Oct 14). At ~51 minutes per episode, there are easily ten clips in each one, and I didn't see a YouTube Shorts or TikTok channel linked from the show.
+I came across "Single mum, 41, and 17 kgs down in 12 months with Sarah" from Weight Loss For Women (Oct 21). At ~47 minutes per episode, there are easily ten clips in each one, and I didn't see a YouTube Shorts or TikTok channel linked from the show.
 
 IncuBrix is a creator studio that turns one recording into captioned clips, quote posts and platform-sized versions, then schedules them to YouTube, Instagram, LinkedIn and Spotify from one screen. For coaches and educators it means every session insight becomes content that finds new clients.
 
-If it helps, I can run "Eating Less Is Why Your Body Isn't Changing…" through it and send you three ready-to-post clips. No call and no card needed. Would that be useful?
+If it helps, I can run "Single mum, 41, and 17 kgs down in 12 months…" through it and send you three ready-to-post clips. No call and no card needed. Would that be useful?
 
 Gowtham M P
 Growth Engineer candidate for IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
@@ -29,10 +29,10 @@ Not for you? Reply "no thanks" and I won't email you again.
 ```
 
 ## Step 2 · Email · day 4
-**Subject:** Re: "Eating Less Is Why Your Body Isn't Changing…" as clips?
+**Subject:** Re: "Single mum, 41, and 17 kgs down in 12 months…" as clips?
 
 ```text
-Hi Kitty, a quick follow-up on my note about "Eating Less Is Why Your Body Isn't Changing…". Your earlier episode, "ADHD Is a Metabolic Issue, Not a Brain Disorder with Theresa Piela", would work just as well. IncuBrix picks out the strongest moments, adds word-by-word captions in your own fonts and colours, and lets you fix a flubbed line by editing the transcript instead of re-recording.
+Hi Kitty, a quick follow-up on my note about "Single mum, 41, and 17 kgs down in 12 months…". Your earlier episode, "Eating Less Is Why Your Body Isn't Changing After 40 with Craig…", would work just as well. IncuBrix picks out the strongest moments, adds word-by-word captions in your own fonts and colours, and lets you fix a flubbed line by editing the transcript instead of re-recording.
 
 Happy to send the three sample clips. Just reply "yes".
 
@@ -58,5 +58,5 @@ Not for you? Reply "no thanks" and I won't email you again.
 ## Step 4 · Instagram · day 14
 
 ```text
-Hi Kitty! Just found "Eating Less Is Why Your Body Isn't Changing…" from Weight Loss For Women. At ~51 minutes per episode, there are easily ten clips in each one, and I didn't see a YouTube Shorts or TikTok channel linked from the show. I'm Gowtham M P. I'm helping launch IncuBrix, which turns one recording into captioned, ready-to-post clips. Want me to send 3 free sample clips from that episode? If it's not relevant, just say so and I won't message again.
+Hi Kitty! Just found "Single mum, 41, and 17 kgs down in 12 months…" from Weight Loss For Women. At ~47 minutes per episode, there are easily ten clips in each one, and I didn't see a YouTube Shorts or TikTok channel linked from the show. I'm Gowtham M P. I'm helping launch IncuBrix, which turns one recording into captioned, ready-to-post clips. Want me to send 3 free sample clips from that episode? If it's not relevant, just say so and I won't message again.
 ```

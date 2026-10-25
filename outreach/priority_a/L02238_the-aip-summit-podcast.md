@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "54: Cold Weather & Autoimmune Disease" (2026-10-19); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~38-min episodes; no YouTube/TikTok clip channel linked in the feed
 - **Commercial signal:** Sponsorship: "featuring Lana Buettner Urban AIP (Use discount code PODCAST, plus during October get birthday month discounts o" (episode '54: Cold Weather & Autoimmune Disease') (https://www.aipsummit.com/podcasts/the-aip-summit-podcast/episodes/2149267995)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Email · day 0
 **Subject:** "54: Cold Weather & Autoimmune Disease" as clips?

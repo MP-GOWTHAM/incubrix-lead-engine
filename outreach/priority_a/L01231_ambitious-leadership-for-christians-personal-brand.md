@@ -4,22 +4,22 @@
 - **Profile:** https://podcasts.apple.com/sg/podcast/ambitious-leadership-for-christians-personal-branding/id1853059486
 - **Best channel:** Email → `nicole@nicolepride.com` (evidence: https://NicolePridePodcast.podbean.com/e/20-is-your-personal-brand-getting-lost-in-the-noise/)
 - **Backup channel:** LinkedIn → `https://www.linkedin.com/in/nicolepride/`
-- **Hook:** Latest episode "20| Is Your Personal Brand Getting Lost in the Noise?" (2026-10-17); Captions/transcripts
+- **Hook:** Latest episode "21| Is Your Personal Brand an Asset or Liability? Three Ways to Tell." (2026-10-24); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~21-min episodes; no YouTube/TikTok clip channel linked in the feed
 - **Commercial signal:** Service (coaching/consulting): "and nonprofit leaders often miss out on speaking engagements, media interviews, board appointments, and other high-impac" (episode '6| Why You're Being Overlooked: The Leadership Brand Every Ambitious C') (https://NicolePridePodcast.podbean.com/e/why-high-performing-executives-get-overlooked-and-what-theyre-missing/)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Email · day 0
-**Subject:** "20| Is Your Personal Brand Getting Lost in the…" as clips?
+**Subject:** "21| Is Your Personal Brand an Asset or…" as clips?
 
 ```text
 Hi Nicole,
 
-I came across "20| Is Your Personal Brand Getting Lost in the Noise?" from Ambitious Leadership for Christians (Oct 17). At ~21 minutes per episode, there are easily ten clips in each one, and I didn't see a YouTube Shorts or TikTok channel linked from the show.
+I came across "21| Is Your Personal Brand an Asset or Liability? Three Ways to Tell." from Ambitious Leadership for Christians (Oct 24). At ~21 minutes per episode, there are easily ten clips in each one, and I didn't see a YouTube Shorts or TikTok channel linked from the show.
 
 IncuBrix is a creator studio that turns one recording into captioned clips, quote posts and platform-sized versions, then schedules them to YouTube, Instagram, LinkedIn and Spotify from one screen. For coaches and educators it means every session insight becomes content that finds new clients.
 
-If it helps, I can run "20| Is Your Personal Brand Getting Lost in the…" through it and send you three ready-to-post clips. No call and no card needed. Would that be useful?
+If it helps, I can run "21| Is Your Personal Brand an Asset or…" through it and send you three ready-to-post clips. No call and no card needed. Would that be useful?
 
 Gowtham M P
 Growth Engineer candidate for IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
@@ -29,10 +29,10 @@ Not for you? Reply "no thanks" and I won't email you again.
 ```
 
 ## Step 2 · Email · day 4
-**Subject:** Re: "20| Is Your Personal Brand Getting Lost in the…" as clips?
+**Subject:** Re: "21| Is Your Personal Brand an Asset or…" as clips?
 
 ```text
-Hi Nicole, a quick follow-up on my note about "20| Is Your Personal Brand Getting Lost in the…". Your earlier episode, "19| Faith or Foolishness? The Messy Middle Tests Your Leadership and…", would work just as well. IncuBrix picks out the strongest moments, adds word-by-word captions in your own fonts and colours, and lets you fix a flubbed line by editing the transcript instead of re-recording.
+Hi Nicole, a quick follow-up on my note about "21| Is Your Personal Brand an Asset or…". Your earlier episode, "20| Is Your Personal Brand Getting Lost in the Noise?", would work just as well. IncuBrix picks out the strongest moments, adds word-by-word captions in your own fonts and colours, and lets you fix a flubbed line by editing the transcript instead of re-recording.
 
 Happy to send the three sample clips. Just reply "yes".
 
@@ -58,5 +58,5 @@ Not for you? Reply "no thanks" and I won't email you again.
 ## Step 4 · LinkedIn · day 14
 
 ```text
-Hi Nicole, I came across "20| Is Your Personal Brand Getting Lost in the…" from Ambitious Leadership for Christians. I'm helping launch IncuBrix, which turns one episode into captioned clips and posts for every platform. Would be glad to connect. - Gowtham M P
+Hi Nicole, I came across "21| Is Your Personal Brand an Asset or…" from Ambitious Leadership for Christians. I'm helping launch IncuBrix, which turns one episode into captioned clips and posts for every platform. Would be glad to connect. - Gowtham M P
 ```

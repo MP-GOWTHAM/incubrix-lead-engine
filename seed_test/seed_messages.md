@@ -2,7 +2,7 @@
 
 Real drafted sequences for real Priority A leads, re-addressed to test accounts the candidate owns. Links are tagged `utm_campaign=seed_test` so clicks never mix with launch data.
 
-## Email: `your-sender-test@gmail.com` → `your-second-inbox@gmail.com`
+## Email: `gowthamrockerzzz@gmail.com` → `25pb02@psgtech.ac.in`
 Wording generated for L02051 (Passive Income Pilots).
 
 ### S01 · step 1 · send day 0
@@ -51,7 +51,7 @@ Gowtham M P (for IncuBrix)
 Not for you? Reply "no thanks" and I won't email you again.
 ```
 
-## Instagram: `@your_test_business_account` → `@your_second_test_account`
+## Instagram: `@gowtham_clasher` → `@abishekkk`
 Wording generated for L01893 (Aircrew Interview).
 
 ### S04 · step 1 · send day 0
@@ -75,7 +75,7 @@ Thanks, Mike. Here's what I meant: IncuBrix finds the best moments in "AI # 445 
 Last nudge from me, Mike. If sample clips from Aircrew Interview would ever be useful, just reply and I'll send them. Otherwise, all the best with the show! - Gowtham M P (for IncuBrix)
 ```
 
-## X: `@your_test_account` → `@your_second_test_account`
+## X: `@gowthamabi` → `@bgsgowtham`
 Wording generated for L00905 (Storytime for Grownups).
 
 ### S07 · step 1 · send day 0

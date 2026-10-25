@@ -4,22 +4,22 @@
 - **Profile:** https://podcasts.apple.com/au/podcast/the-awakening-spaces-podcast-conscious-construction/id1828743364
 - **Best channel:** Email → `hello@awakeningspaces.com` (evidence: https://rss.buzzsprout.com/2470783.rss)
 - **Backup channel:** Instagram → `https://www.instagram.com/awakeningspaces/`
-- **Hook:** Latest episode "Soul-Led Architecture: Designing Healthy Homes from the Inside Out with Jo Gillies of…" (2026-10-15); Captions/transcripts
+- **Hook:** Latest episode "Dancing Raven: Building a Healthy Vacation Rental in the Sonoran Desert with Ray Clamons…" (2026-10-22); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript
 - **Commercial signal:** Sponsorship: "r (used by builders in Zara's programs) Use code: AS5 for 5% OFF Mitch Marchand, EMF specialist (referenced" (episode 'Mold Codes, Material Health, EMF Awareness, and Why Australia Is Leadi') (https://rss.buzzsprout.com/2470783.rss)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Email · day 0
-**Subject:** "Soul-Led Architecture: Designing Healthy Homes…" as clips?
+**Subject:** "Dancing Raven: Building a Healthy Vacation…" as clips?
 
 ```text
 Hi Ashley,
 
-I came across "Soul-Led Architecture: Designing Healthy Homes from the Inside Out with Jo Gillies of…" from The Awakening Spaces Podcast (Oct 15). I couldn't find a transcript or captioned cut of it, which is usually the easiest reach a show leaves on the table.
+I came across "Dancing Raven: Building a Healthy Vacation Rental in the Sonoran Desert with Ray Clamons…" from The Awakening Spaces Podcast (Oct 22). I couldn't find a transcript or captioned cut of it, which is usually the easiest reach a show leaves on the table.
 
 IncuBrix is a creator studio that turns one recording into captioned clips, quote posts and platform-sized versions, then schedules them to YouTube, Instagram, LinkedIn and Spotify from one screen. For podcasters it means one episode becomes a week of clips, quotes and posts.
 
-If it helps, I can run "Soul-Led Architecture: Designing Healthy Homes…" through it and send you three ready-to-post clips. No call and no card needed. Would that be useful?
+If it helps, I can run "Dancing Raven: Building a Healthy Vacation…" through it and send you three ready-to-post clips. No call and no card needed. Would that be useful?
 
 Gowtham M P
 Growth Engineer candidate for IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
@@ -29,10 +29,10 @@ Not for you? Reply "no thanks" and I won't email you again.
 ```
 
 ## Step 2 · Email · day 4
-**Subject:** Re: "Soul-Led Architecture: Designing Healthy Homes…" as clips?
+**Subject:** Re: "Dancing Raven: Building a Healthy Vacation…" as clips?
 
 ```text
-Hi Ashley, a quick follow-up on my note about "Soul-Led Architecture: Designing Healthy Homes…". Your earlier episode, "Better Buildings Start with People: Building Science and Industry…", would work just as well. IncuBrix picks out the strongest moments, adds word-by-word captions in your own fonts and colours, and lets you fix a flubbed line by editing the transcript instead of re-recording.
+Hi Ashley, a quick follow-up on my note about "Dancing Raven: Building a Healthy Vacation…". Your earlier episode, "Soul-Led Architecture: Designing Healthy Homes from the Inside Out…", would work just as well. IncuBrix picks out the strongest moments, adds word-by-word captions in your own fonts and colours, and lets you fix a flubbed line by editing the transcript instead of re-recording.
 
 Happy to send the three sample clips. Just reply "yes".
 
@@ -58,5 +58,5 @@ Not for you? Reply "no thanks" and I won't email you again.
 ## Step 4 · Instagram · day 14
 
 ```text
-Hi Ashley! Just found "Soul-Led Architecture: Designing Healthy Homes…" from The Awakening Spaces Podcast. I couldn't find a transcript or captioned cut of it, which is usually the easiest reach a show leaves on the table. I'm Gowtham M P. I'm helping launch IncuBrix, which turns one recording into captioned, ready-to-post clips. Want me to send 3 free sample clips from that episode? If it's not relevant, just say so and I won't message again.
+Hi Ashley! Just found "Dancing Raven: Building a Healthy Vacation…" from The Awakening Spaces Podcast. I couldn't find a transcript or captioned cut of it, which is usually the easiest reach a show leaves on the table. I'm Gowtham M P. I'm helping launch IncuBrix, which turns one recording into captioned, ready-to-post clips. Want me to send 3 free sample clips from that episode? If it's not relevant, just say so and I won't message again.
 ```

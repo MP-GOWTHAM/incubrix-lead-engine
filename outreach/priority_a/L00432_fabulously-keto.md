@@ -1,13 +1,13 @@
 # L00432 · Jackie Fletcher · Fabulously Keto
 
-- **Segment:** Podcaster/Video Podcaster · **Country:** GB · **Score:** 80
+- **Segment:** Podcaster/Video Podcaster · **Country:** GB · **Score:** 78
 - **Profile:** https://podcasts.apple.com/gb/podcast/fabulously-keto/id1534287036
 - **Best channel:** Email → `podcast@fabulouslyketo.com` (evidence: https://fabulouslyketo.com/feed/podcast/)
 - **Backup channel:** Instagram → `https://www.instagram.com/FabulouslyKeto1/`
 - **Hook:** Latest episode "275: Angela Lerro – The Meat Based Medium" (2026-10-15); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~77-min episodes; no TikTok clip channel linked in the feed
 - **Commercial signal:** Affiliate: "iZ https://meatbasedmedium.com/ https://amzn.to/3V3pCN4 https://www.instagram.com/fabulouslyketo1 https://t" (episode '275: Angela Lerro – The Meat Based Medium') (https://fabulouslyketo.com/podcast/275/?utm_source=rss&utm_medium=rss&utm_campaign=275)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Email · day 0
 **Subject:** "275: Angela Lerro – The Meat Based Medium" as clips?

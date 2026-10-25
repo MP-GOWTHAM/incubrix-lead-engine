@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "The hardest way possible" (2026-10-18); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 9 episodes publish a transcript; Repurposing into clips: ~21-min episodes; no YouTube/Instagram/TikTok clip channel linked in the feed
 - **Commercial signal:** Membership/subscription: "time or recurring donation at: https://buymeacoffee.com/luxuryofthesun_wv Interested in starting Sermorelin the" (episode '6-3-1') (https://rss.com/podcasts/luxury-health-coaching/3167198)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Email · day 0
 **Subject:** "The hardest way possible" as clips?

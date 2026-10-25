@@ -78,8 +78,8 @@ All of these were measured on a laptop over home broadband and are logged in `ou
 
 | Run | Input | Result | Runtime |
 |---|---|---|---|
-| Normal run (warm caches) | 154,699 search/chart hits → 20,000+ unique shows | 1,042 qualified, 0 duplicates | 7.7 min |
-| Repeat run, same input | same | identical 1,042, same lead_ids, 0 new duplicates | 7.6 min |
+| Normal run (warm caches) | 154,699 search/chart hits → 20,000+ unique shows | 1,048 qualified, 0 duplicates | 7.7 min |
+| Repeat run, same input | same | identical 1,048, same lead_ids, 0 new duplicates | 7.6 min |
 | Refresh on new input (`demo/new_input.txt`) | 55 shows never seen before | 10 new qualified (L02258–L02267); country cap re-balanced | 0.24 min |
 | Failure (`--simulate-failure 5`) + recovery | 24 new shows (`demo/new_input_2.txt`) | crash after 5 feeds; rerun reused those 5 and fetched only 19; 3 new qualified | 0.05 + 0.15 min |
 | First-ever run (cold caches) | ~236 search terms × 7 stores + 126 charts | ~20,000 feeds and ~1,000 creator websites fetched | ~2–2.5 h, measured across three discovery passes (bounded by Apple's ~20 calls/min) |

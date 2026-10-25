@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "MwM Member Spotlight: Annette Richmond & Smarter, Faster, Fun Video Bootcamp - Ep 228" (2026-10-02); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~25-min episodes; no YouTube/Instagram/TikTok clip channel linked in the feed; Stated workflow need: episode notes say "Repurpos"
 - **Commercial signal:** Membership/subscription: "in.com/in/elainebelsonlcsw/ https://www.buzzsprout.com/2162051/support https://www.mellermarketing.com/ https://www.link" (episode 'MwM Member Spotlight: Annette Richmond & Smarter, Faster, Fun Video Bo') (https://rss.buzzsprout.com/2162051.rss)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Email · day 0
 **Subject:** "MwM Member Spotlight: Annette Richmond &…" as clips?

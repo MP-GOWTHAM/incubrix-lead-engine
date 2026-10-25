@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "474: Revenue vs. Profit: Is Your Travel Business Actually Making Money? | October Series 2" (2026-10-19); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~30-min episodes; no YouTube/TikTok clip channel linked in the feed
 - **Commercial signal:** Service (coaching/consulting): "hy do some potential clients schedule a discovery call and book almost immediately, while others spend weeks askin" (episode '466: The Trust Formula: Why Clients Decide to Hire You Before They Eve') (https://pod.co/the-social-selling-sisterhood/466-the-trust-formula-why-clients-decide-to-hire-you-before-they-ever-talk-to-you-psychology-of-selling-travel-part-4)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Email · day 0
 **Subject:** "474: Revenue vs. Profit: Is Your Travel…" as clips?

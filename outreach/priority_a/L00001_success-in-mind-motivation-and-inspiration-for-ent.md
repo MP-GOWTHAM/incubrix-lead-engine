@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "Mental Load; Why You're Always Exhausted" (2026-10-18); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~28-min episodes; no YouTube/TikTok clip channel linked in the feed; Publishing consistency: gap of 56 days between episodes vs a usual 13.5-day rhythm
 - **Commercial signal:** Course/product: "Learn more: https://prospology.com/ TRY KAJABI FREE FOR 30 DAYS 🎙️ Turn your passion into an online busine" (episode 'Burnout and the Hidden Cost of Ambition with Sophie Ash') (https://teri.mykajabi.com/podcasts/success-in-mind-motivation-and-inspiration-for-entrepreneurs/episodes/2149260672)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Email · day 0
 **Subject:** "Mental Load; Why You're Always Exhausted" as clips?

@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "Why Customers Can't Explain Why They Buy (Cultural Anthropologist Explains) | Johanna…" (2026-10-11); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~78-min episodes; no Instagram/TikTok clip channel linked in the feed
 - **Commercial signal:** Affiliate: ". This description contains paid links. We may earn a commission at no extra cost to you. #BusinessAnthropology" (episode 'Why Customers Can't Explain Why They Buy (Cultural Anthropologist Expl') (https://podcasters.spotify.com/pod/show/ademola-odewade/episodes/Why-Customers-Cant-Explain-Why-They-Buy-Cultural-Anthropologist-Explains--Johanna-Faigelman-e3qajde)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Email · day 0
 **Subject:** "Why Customers Can't Explain Why They Buy…" as clips?

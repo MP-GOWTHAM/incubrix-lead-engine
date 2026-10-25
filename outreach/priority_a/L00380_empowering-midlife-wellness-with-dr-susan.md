@@ -1,13 +1,13 @@
 # L00380 · Dr. Susan Hardwick-Smith · Empowering Midlife Wellness with Dr. Susan
 
-- **Segment:** Expert-Led Creator · **Country:** US · **Score:** 70
+- **Segment:** Expert-Led Creator · **Country:** US · **Score:** 67
 - **Profile:** https://podcasts.apple.com/nz/podcast/empowering-midlife-wellness-with-dr-susan/id1519320996
 - **Best channel:** Email → `drsusan@drsusan.com` (evidence: https://anchor.fm/s/1138e5db4/podcast/rss)
 - **Backup channel:** Instagram → `https://www.instagram.com/drsusanofficial/`
 - **Hook:** Latest episode "Can You Take Hormone Therapy After Breast Cancer? Examining the Evidence" (2026-10-19); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript
 - **Commercial signal:** Affiliate: "t Sex Life in Midlife & Beyond: https://amzn.to/3rm47IU Pre-order Create Her: Aging Into the Healthiest Ver" (episode 'The Midlife Labs You Need—and What Your Numbers Really Mean') (https://podcasters.spotify.com/pod/show/empowering-midlife-wellne/episodes/The-Midlife-Labs-You-Needand-What-Your-Numbers-Really-Mean-e3pblub)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Email · day 0
 **Subject:** "Can You Take Hormone Therapy After Breast…" as clips?

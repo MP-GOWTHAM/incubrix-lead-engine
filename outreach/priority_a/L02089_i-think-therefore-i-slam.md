@@ -1,13 +1,13 @@
 # L02089 · Andrew Rogerson · I Think, Therefore I Slam
 
-- **Segment:** Podcaster/Video Podcaster · **Country:** AU · **Score:** 75
+- **Segment:** Podcaster/Video Podcaster · **Country:** AU · **Score:** 74
 - **Profile:** https://podcasts.apple.com/nz/podcast/i-think-therefore-i-slam/id1747139808
 - **Best channel:** Instagram → `https://www.instagram.com/ithinkthereforeislam/` (evidence: https://podcasters.spotify.com/pod/show/ittispod/episodes/Fleassy-Malay---Speaking-Mother-Tongue-e3oc3t1)
 - **Backup channel:** — → ``
 - **Hook:** Latest episode "Fleassy Malay - Speaking Mother Tongue" (2026-10-18); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~53-min episodes; no YouTube/TikTok clip channel linked in the feed
 - **Commercial signal:** Membership/subscription: "bonus content and more: ⁠⁠⁠⁠https://www.patreon.com/ittis⁠ Check out the I Think, Therefore I Slam Merch Store:" (episode 'Fleassy Malay - Speaking Mother Tongue') (https://podcasters.spotify.com/pod/show/ittispod/episodes/Fleassy-Malay---Speaking-Mother-Tongue-e3oc3t1)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Instagram · day 0
 

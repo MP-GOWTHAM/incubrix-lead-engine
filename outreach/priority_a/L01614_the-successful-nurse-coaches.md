@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "260: Coaching with an Integrative Team with Fedline Lysius" (2026-10-19); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~36-min episodes; no YouTube/TikTok clip channel linked in the feed
 - **Commercial signal:** Course/product: "urse coach certifications and what sets our program apart: heavy emphasis on live coaching practice, supervisio" (episode '259: Every Hospital Will Have a Nurse Coach Department Q&A (Part 2)') (https://the-successful-nurse-coaches.captivate.fm)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Instagram · day 0
 

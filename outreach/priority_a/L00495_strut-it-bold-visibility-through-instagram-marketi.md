@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "The Instagram-to-LinkedIn Strategy Every Business Owner Should Know with Michelle J…" (2026-10-19); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Stated workflow need: episode notes say "repurpos"
 - **Commercial signal:** Service (coaching/consulting): "IONED Talia’s Instagram Talia's website Apply to work with Talia DMs to Dollars Course Free DM Automation Guide +" (episode 'How to Find Your Niche as a Multi-Passionate Entrepreneur with Talia S') (https://rss.buzzsprout.com/1732443.rss)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Instagram · day 0
 

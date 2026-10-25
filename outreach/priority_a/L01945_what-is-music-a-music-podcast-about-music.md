@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "Björk's HjAARFwaydiohead Extravaganza!" (2026-10-19); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~93-min episodes; no YouTube/TikTok clip channel linked in the feed
 - **Commercial signal:** Membership/subscription: "to more shows, exclusive bonus content, ad-free episodes of this show, and more music discussion by subscribing to o" (episode 'Björk's HjAARFwaydiohead Extravaganza!') (https://rss.buzzsprout.com/813801.rss)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Instagram · day 0
 

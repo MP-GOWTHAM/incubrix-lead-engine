@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "96 \\ What is SEO, AEO and GEO and do I need all three? Why LLM SEO Isn't a New Strategy" (2026-10-14); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~25-min episodes; no TikTok clip channel linked in the feed
 - **Commercial signal:** Sponsorship: "signs.com/blog-vs-substack/ SEO on Tap (use code JULIEW for $50 off): https://duocollective.com/seo-on-tap P" (episode '88 \\ Why Substack Is Not the Answer (Blog vs Substack in 2026)') (https://pwplanners.podbean.com/e/88-why-substack-is-not-the-answer-blog-vs-substack-in-2026/)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Instagram · day 0
 

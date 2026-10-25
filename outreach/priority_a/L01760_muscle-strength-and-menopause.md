@@ -1,13 +1,13 @@
 # L01760 · Sara Frenza · Muscle, Strength and Menopause
 
-- **Segment:** Expert-Led Creator · **Country:** CA · **Score:** 73
+- **Segment:** Expert-Led Creator · **Country:** CA · **Score:** 71
 - **Profile:** https://podcasts.apple.com/ca/podcast/muscle-strength-and-menopause/id1851297313
 - **Best channel:** Email → `sara@sarafrenzafitness.com` (evidence: https://rss.com/podcasts/muscle-strength-and-menopause/3237395)
 - **Backup channel:** Instagram → `https://www.instagram.com/sara_frenza/`
 - **Hook:** Latest episode "#49: The 3 phases of your menopause transition and what you need to know about each phase" (2026-10-15); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~32-min episodes; no YouTube/TikTok clip channel linked in the feed
 - **Commercial signal:** Sponsorship: "Perfect Sports Nutrition Supplement Use discount code FRENZA20 Home | PERFECT Sports US The makers of DIESEL Prot" (episode '#49: The 3 phases of your menopause transition and what you need to kn') (https://rss.com/podcasts/muscle-strength-and-menopause/3237395)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Email · day 0
 **Subject:** "The 3 phases of your menopause transition and…" as clips?

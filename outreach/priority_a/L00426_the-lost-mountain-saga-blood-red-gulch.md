@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "Blood Red Gulch, Episode 3: Totally sane combat tactics" (2026-10-19); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~53-min episodes; no YouTube/TikTok clip channel linked in the feed; Publishing consistency: gap of 119 days between episodes vs a usual 6.5-day rhythm
 - **Commercial signal:** Membership/subscription: "the makers of Tales of the Old West! ⁠⁠patreon.com/lostmountainpod patreon.com/lostmountainpod" (episode 'Blood Red Gulch, Episode 2: This is gon' travel, worm') (https://podcasters.spotify.com/pod/show/thelostmountainsaga/episodes/Blood-Red-Gulch--Episode-2-This-is-gon-travel--worm-e3qbr98)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Email · day 0
 **Subject:** "Blood Red Gulch, Episode 3: Totally sane…" as clips?

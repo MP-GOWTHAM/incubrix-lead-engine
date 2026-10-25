@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "Colour Analysis 101: The Cheat Code to My Glow Up (with Colour Lab)" (2026-10-18); Repurposing into clips
 - **Why IncuBrix:** Repurposing into clips: ~30-min episodes; no TikTok clip channel linked in the feed
 - **Commercial signal:** Sponsorship: "ist ) Website: www.colourlabstylist.com Use the code STEPHINGUP to get 20% off Rach’s most popular colour analys" (episode 'Colour Analysis 101: The Cheat Code to My Glow Up (with Colour Lab)') (https://omny.fm/shows/stephing-up/colour-analysis-101-the-cheat-code-to-my-glow-up-with-colour-lab)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Email · day 0
 **Subject:** "Colour Analysis 101: The Cheat Code to My Glow…" as clips?

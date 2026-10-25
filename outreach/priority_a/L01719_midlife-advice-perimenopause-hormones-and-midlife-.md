@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "Does Collagen Actually Work? What a Pharmacist Wants You to Know About Skin Care" (2026-10-20); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~24-min episodes; no YouTube/TikTok clip channel linked in the feed; Publishing consistency: gap of 21 days between episodes vs a usual 7-day rhythm
 - **Commercial signal:** Course/product: "The behind-the-scenes work of building my new program, Hello, Next-Level You Why supporting other women in busine" (episode '🥳 It’s My Birthday! Let’s Reflect on Who We’re Becoming') (https://rss.buzzsprout.com/2411094.rss)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Instagram · day 0
 

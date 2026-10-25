@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "Small Business, BIG Opportunity: What's Next for Main Street with Jacqueline Snyder" (2026-10-19); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~28-min episodes; no YouTube/TikTok clip channel linked in the feed
 - **Commercial signal:** Service (coaching/consulting): "business owners dial in! Learn more or book a call at MsMelissaRose.com/deals . 🎧 If you missed last week's ep" (episode 'People Are Finding Your Business. Here's Why They Might Not Choose You') (https://share.transistor.fm/s/17f4ff9e)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Instagram · day 0
 

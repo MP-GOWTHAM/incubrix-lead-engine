@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "Matchmaker Lauren Hunter Reveals What Wealthy Men Really Want" (2026-10-20); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~51-min episodes; no YouTube/TikTok clip channel linked in the feed; Publishing consistency: gap of 56 days between episodes vs a usual 7-day rhythm
 - **Commercial signal:** Sponsorship: "r ultimate no-BS guide. This episode is sponsored by Baby Bunting for their June Storktake Sale. Shop babybuntin" (episode 'The Difference Between Choking and Gagging Every Parent Needs to Know!') (https://omny.fm/shows/the-ella-era/the-difference-between-choking-and-gagging-every-parent-needs-to-know)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Email · day 0
 **Subject:** "Matchmaker Lauren Hunter Reveals What Wealthy…" as clips?

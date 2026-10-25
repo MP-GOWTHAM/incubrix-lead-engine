@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "647 - What Actually Turns Freebie Subscribers Into Buyers" (2026-10-19); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~35-min episodes; no YouTube/TikTok clip channel linked in the feed; Stated workflow need: episode notes say "repurpos"
 - **Commercial signal:** Sponsorship: "ThrivecartProfitable Podcast Bootcamp - use code HOLLY Listen to Stephanie's previous podcast: 586 - Buildin" (episode '640 - Getting found in the AI Era: Using Your Podcast as a Discoverabi') (https://rss.buzzsprout.com/932428.rss)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Instagram · day 0
 

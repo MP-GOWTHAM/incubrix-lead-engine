@@ -54,3 +54,15 @@ For each message:
 | Opt-out | The "no thanks" reply marked that contact as do-not-contact in the CRM |
 
 When everything passes, set **04_SELF_CHECK C11 = Yes** and link this folder.
+
+## 6. Results (run on 25 Oct 2026)
+
+| Channel | Accounts (all the candidate's own) | Status | Evidence |
+|---|---|---|---|
+| **Email** | gowthamrockerzzz@gmail.com → 25pb02@psgtech.ac.in | **Passed.** S01 sent 17:28 IST and delivered to the inbox (not spam). S02 and S03 scheduled with Gmail Schedule send for 18:00 and 18:30. The tracked link opened incubrix.com with `utm_campaign=seed_test&utm_content=L02051-s1` intact. The reply "Yes, send the clips" was sent 17:31 and logged. | `evidence/S01_*`, `S02_scheduled_18-00.jpg`, `S03_scheduled_18-30.png`, `reply_log.csv` |
+| **Instagram** | @gowtham_clasher → @abishekkk | **Not run.** The sender account wasn't signed in on the test machine at the time. Messages S04–S06 are ready in `seed_messages.md`. | — |
+| **X** | @gowthamabi → @bgsgowtham | **Not run.** Same reason. Messages S07–S09 are ready. | — |
+
+So the seed test is **not yet passed on 3 channels**, and the workbook says so (C11 = No). Completing it takes about 30 minutes: sign in to both sender accounts, send S04–S09 by hand as each reminder fires, reply from the receiving accounts, and add screenshots here.
+
+Click tracking is shown by the UTM tags arriving intact on the landing page. A link shortener with click counts (Bitly/Dub) was not used, because that would mean creating a new third-party account.

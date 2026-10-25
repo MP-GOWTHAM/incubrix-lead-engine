@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "Ep 279 – Biodynamic Wine Explained: Olivier Humbrecht MW of Zind-Humbrecht" (2026-10-19); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~60-min episodes; no YouTube/Instagram/TikTok clip channel linked in the feed; Publishing consistency: gap of 42 days between episodes vs a usual 7-day rhythm
 - **Commercial signal:** Sponsorship: "lliant place to start. This episode was sponsored by Pago Finca Elez . Their Wines available in the UK through F" (episode 'Ep 275 - Spanish Wine Beyond Rioja: Vino de Pago, New Jerez, Bobal & M') (https://eatsleepwinerepeat.podbean.com/e/ep-275-spanish-wine-beyond-rioja-vino-de-pago-new-jerez-bobal-more-with-sarah-jane-evans-mw/)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Email · day 0
 **Subject:** "Biodynamic Wine Explained: Olivier Humbrecht…" as clips?

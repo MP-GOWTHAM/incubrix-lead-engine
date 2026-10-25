@@ -2,23 +2,23 @@
 
 - **Segment:** Expert-Led Creator · **Country:** US · **Score:** 73
 - **Profile:** https://podcasts.apple.com/us/podcast/the-entrepreneur-dna/id1723959859
-- **Best channel:** LinkedIn → `https://www.linkedin.com/in/justincolby/` (evidence: https://bleav.com/shows/the-entrepreneur-dna/episodes/how-the-rich-actually-stay-rich-family-office-secrets-kristian-mtetwa/)
+- **Best channel:** LinkedIn → `https://www.linkedin.com/in/justincolby/` (evidence: https://bleav.com/shows/the-entrepreneur-dna/episodes/from-navy-discipline-to-18m-entrepreneur-in-3-years-eric-winegard-3/)
 - **Backup channel:** Instagram → `https://www.instagram.com/thejustincolby/`
-- **Hook:** Latest episode "How the Rich Actually Stay Rich (Family Office Secrets) | Kristian Mtetwa" (2026-10-13); Captions/transcripts
+- **Hook:** Latest episode "From Navy Discipline to $18M Entrepreneur in 3 Years | Eric Winegard" (2026-10-24); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript
 - **Commercial signal:** Course/product: "rd lessons from 2024, what I learned in my mastermind about using lines of credit instead of long-term loans, and" (episode 'How the Rich Actually Stay Rich (Family Office Secrets) | Kristian Mte') (https://bleav.com/shows/the-entrepreneur-dna/episodes/how-the-rich-actually-stay-rich-family-office-secrets-kristian-mtetwa/)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · LinkedIn · day 0
 
 ```text
-Hi Justin, I came across "How the Rich Actually Stay Rich (Family Office…" from The Entrepreneur DNA. I'm helping launch IncuBrix, which turns one episode into captioned clips and posts for every platform. Would be glad to connect. - Gowtham M P
+Hi Justin, I came across "From Navy Discipline to $18M Entrepreneur in 3…" from The Entrepreneur DNA. I'm helping launch IncuBrix, which turns one episode into captioned clips and posts for every platform. Would be glad to connect. - Gowtham M P
 ```
 
 ## Step 2 · LinkedIn · day 4
 
 ```text
-Thanks, Justin. Here's what I meant: IncuBrix finds the best moments in "How the Rich Actually Stay Rich (Family Office…", adds captions in your style, and schedules them to YouTube, Instagram, LinkedIn and Spotify from one screen. Free to start:…
+Thanks, Justin. Here's what I meant: IncuBrix finds the best moments in "From Navy Discipline to $18M Entrepreneur in 3…", adds captions in your style, and schedules them to YouTube, Instagram, LinkedIn and Spotify from one screen. Free to start:…
 ```
 
 ## Step 3 · LinkedIn · day 10
@@ -30,5 +30,5 @@ Last nudge from me, Justin. If sample clips from The Entrepreneur DNA would ever
 ## Step 4 · Instagram · day 14
 
 ```text
-Hi Justin! Just found "How the Rich Actually Stay Rich (Family Office…" from The Entrepreneur DNA. I couldn't find a transcript or captioned cut of it, which is usually the easiest reach a show leaves on the table. I'm Gowtham M P. I'm helping launch IncuBrix, which turns one recording into captioned, ready-to-post clips. Want me to send 3 free sample clips from that episode? If it's not relevant, just say so and I won't message again.
+Hi Justin! Just found "From Navy Discipline to $18M Entrepreneur in 3…" from The Entrepreneur DNA. I couldn't find a transcript or captioned cut of it, which is usually the easiest reach a show leaves on the table. I'm Gowtham M P. I'm helping launch IncuBrix, which turns one recording into captioned, ready-to-post clips. Want me to send 3 free sample clips from that episode? If it's not relevant, just say so and I won't message again.
 ```

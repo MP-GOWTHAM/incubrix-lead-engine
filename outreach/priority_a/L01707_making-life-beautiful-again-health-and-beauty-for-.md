@@ -1,25 +1,25 @@
 # L01707 · Michelle Rose · Making Life Beautiful Again | Health and Beauty for Midlife Women
 
-- **Segment:** Expert-Led Creator · **Country:** US · **Score:** 71
+- **Segment:** Expert-Led Creator · **Country:** US · **Score:** 72
 - **Profile:** https://podcasts.apple.com/sg/podcast/making-life-beautiful-again-health-and-beauty-for/id1755919162
 - **Best channel:** Email → `michelle@michelledayrose.com` (evidence: https://feed.podbean.com/makinglifebeautifulagain/feed.xml)
 - **Backup channel:** — → ``
-- **Hook:** Latest episode "106 | Makeup Over 50: 5 Habits That May Be Working Against You" (2026-10-07); Repurposing into clips
-- **Why IncuBrix:** Repurposing into clips: ~25-min episodes; no Instagram/TikTok clip channel linked in the feed
+- **Hook:** Latest episode "107 | When Your Life Doesn’t Look Like You Thought It Would" (2026-10-21); Repurposing into clips
+- **Why IncuBrix:** Repurposing into clips: ~26-min episodes; no Instagram/TikTok clip channel linked in the feed
 - **Commercial signal:** Course/product: "d in Beauty This was originally part of my book launch celebration, so you're also getting a very real sist" (episode '105 | Beauty Is a Microphone: Cheryl on Pageantry, Purpose & Femininit') (https://makinglifebeautifulagain.podbean.com/e/105_beauty_is_a_microphone_cheryl_on_pageantry_purpose_femininity/)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Email · day 0
-**Subject:** "106 | Makeup Over 50: 5 Habits That May Be…" as clips?
+**Subject:** "107 | When Your Life Doesn’t Look Like You…" as clips?
 
 ```text
 Hi Michelle,
 
-I came across "106 | Makeup Over 50: 5 Habits That May Be Working Against You" from Making Life Beautiful Again (Oct 7). At ~25 minutes per episode, there are easily ten clips in each one, and I didn't see a Instagram Reels or TikTok channel linked from the show.
+I came across "107 | When Your Life Doesn’t Look Like You Thought It Would" from Making Life Beautiful Again (Oct 21). At ~26 minutes per episode, there are easily ten clips in each one, and I didn't see a Instagram Reels or TikTok channel linked from the show.
 
 IncuBrix is a creator studio that turns one recording into captioned clips, quote posts and platform-sized versions, then schedules them to YouTube, Instagram, LinkedIn and Spotify from one screen. For coaches and educators it means every session insight becomes content that finds new clients.
 
-If it helps, I can run "106 | Makeup Over 50: 5 Habits That May Be…" through it and send you three ready-to-post clips. No call and no card needed. Would that be useful?
+If it helps, I can run "107 | When Your Life Doesn’t Look Like You…" through it and send you three ready-to-post clips. No call and no card needed. Would that be useful?
 
 Gowtham M P
 Growth Engineer candidate for IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
@@ -29,10 +29,10 @@ Not for you? Reply "no thanks" and I won't email you again.
 ```
 
 ## Step 2 · Email · day 4
-**Subject:** Re: "106 | Makeup Over 50: 5 Habits That May Be…" as clips?
+**Subject:** Re: "107 | When Your Life Doesn’t Look Like You…" as clips?
 
 ```text
-Hi Michelle, a quick follow-up on my note about "106 | Makeup Over 50: 5 Habits That May Be…". Your earlier episode, "105 | Beauty Is a Microphone: Cheryl on Pageantry, Purpose &…", would work just as well. IncuBrix picks out the strongest moments, adds word-by-word captions in your own fonts and colours, and lets you fix a flubbed line by editing the transcript instead of re-recording.
+Hi Michelle, a quick follow-up on my note about "107 | When Your Life Doesn’t Look Like You…". Your earlier episode, "106 | Makeup Over 50: 5 Habits That May Be Working Against You", would work just as well. IncuBrix picks out the strongest moments, adds word-by-word captions in your own fonts and colours, and lets you fix a flubbed line by editing the transcript instead of re-recording.
 
 Happy to send the three sample clips. Just reply "yes".
 

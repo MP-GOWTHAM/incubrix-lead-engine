@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "Why Paulie Gee Stepped Off the Make Line" (2026-10-19); Repurposing into clips
 - **Why IncuBrix:** Repurposing into clips: ~34-min episodes; no Instagram/TikTok clip channel linked in the feed
 - **Commercial signal:** Sponsorship: "o come on the show? info@tyrellreed.com THIS EPISODE IS BROUGHT TO YOU BY: EDGE Pizza Ovens. Schedule a test bake: https" (episode 'Takeout Tips: We Set A Record, Then Lost A Whole Day') (https://rss.buzzsprout.com/2306999.rss)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Email · day 0
 **Subject:** "Why Paulie Gee Stepped Off the Make Line" as clips?

@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "Are We Taking Care of the People Who Take Care of Our Students?" (2026-10-20); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Publishing consistency: gap of 63 days between episodes vs a usual 7-day rhythm
 - **Commercial signal:** Sponsorship: "of technology in schools! Interested in advertising on our podcast? Join other edtech companies in helping to ... https:" (episode 'Are We Taking Care of the People Who Take Care of Our Students?') (https://rss.buzzsprout.com/2227162.rss)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Instagram · day 0
 

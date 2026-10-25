@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "Perimenopause, Perfectionism, and People-Pleasing: Why Midlife Feels So Overwhelming -…" (2026-10-20); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~48-min episodes; no YouTube/TikTok clip channel linked in the feed
 - **Commercial signal:** Course/product: "the marketing hamster wheel! 👉🏻https://stan.store/sue_willoughby/p/the-podcast-authority-blueprint-audio-cour" (episode 'ADHD and Money: Ditching Neurotypical Budgets with Jewlz the Budget Ne') (https://www.midlifebadasswomen.com/e/adhd-and-money-ditching-neurotypical-budgets-with-jewlz-the-budget-nerd/)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · LinkedIn · day 0
 

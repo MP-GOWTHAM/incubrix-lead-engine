@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "103. 6 Easy Ways to Create a Healthier Home and Healthier Family (Without the Overwhelm)" (2026-10-19); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~28-min episodes; no YouTube/TikTok clip channel linked in the feed
 - **Commercial signal:** Sponsorship: "ups/1092112296115850 Nutrimill website (Use code SARA20 to get $20 off): https://nutrimill.com/products/clas" (episode '100. My 5 Favorite Metabolic Hacks for Weight Loss and Better Energy') (https://improveenergytofeelamazing.podbean.com/e/100-my-5-favorite-metabolic-hacks-for-weight-loss-and-better-energy/)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Instagram · day 0
 

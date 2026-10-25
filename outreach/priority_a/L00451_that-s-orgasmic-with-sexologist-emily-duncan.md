@@ -1,13 +1,13 @@
 # L00451 · Emily Duncan · That's Orgasmic with Sexologist Emily Duncan
 
-- **Segment:** Expert-Led Creator · **Country:** AU · **Score:** 78
+- **Segment:** Expert-Led Creator · **Country:** AU · **Score:** 75
 - **Profile:** https://podcasts.apple.com/nz/podcast/thats-orgasmic-with-sexologist-emily-duncan/id1540459611
 - **Best channel:** Email → `emilyduncan@thatsorgasmic.com` (evidence: https://www.omnycontent.com/d/playlist/d3d56d8d-11c9-411a-aade-af8f001be4a7/4390d558-cb72-4931-81f3-af90003047e5/3d018628-235a-4bee-96ef-af90003047ef/podcast.rss)
 - **Backup channel:** Instagram → `https://www.instagram.com/thatsorgasmic/`
 - **Hook:** Latest episode "194 Exploring your dominant energy in the bedroom with Amanda Dames - The Kink Consultant" (2026-09-30); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~34-min episodes; no YouTube/TikTok clip channel linked in the feed
 - **Commercial signal:** Sponsorship: "ebooks!!) Want 10% off store products ? Use code thatsorgasmic10 Submit your anonymous question for the podc" (episode '194 Exploring your dominant energy in the bedroom with Amanda Dames - ') (https://omny.fm/shows/thats-orgasmic/194-exploring-your-dominant-energy-in-the-bedroom-with-amanda-dames-the-kink-consultant)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Email · day 0
 **Subject:** "194 Exploring your dominant energy in the…" as clips?

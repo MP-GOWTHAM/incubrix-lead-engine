@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "90: Is Google Hiding Your Best Offer? 5 Website Checks to Run This Week" (2026-10-19); Repurposing into clips
 - **Why IncuBrix:** Repurposing into clips: ~25-min episodes; no YouTube/TikTok clip channel linked in the feed
 - **Commercial signal:** Sponsorship: "n Membership 💵 Snag 25% off Flodesk, or use the code: THECREATIVEBODEGA Be sure to hit "Subscribe" or "Follow" s" (episode '90: Is Google Hiding Your Best Offer? 5 Website Checks to Run This Wee') (https://rss.buzzsprout.com/2422514.rss)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Email · day 0
 **Subject:** "90: Is Google Hiding Your Best Offer? 5…" as clips?

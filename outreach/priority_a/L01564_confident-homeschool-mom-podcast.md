@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "A Fall Homeschool Assessment, Then and Now: What I’d Ask 10 Years Later" (2026-10-19); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~22-min episodes; no YouTube/Instagram/TikTok clip channel linked in the feed
 - **Commercial signal:** Service (coaching/consulting): "e.com/homeschool-mama-coaching/ https://calendly.com/teresawiedrick/coaching-consultation https://calendly.com/t" (episode 'A Fall Homeschool Assessment, Then and Now: What I’d Ask 10 Years Late') (https://capturingthecharmedlife.com/a-fall-homeschool-assessment-our-updated-plans-for-the-rest-of-the-year/?utm_source=rss&utm_medium=rss&utm_campaign=a-fall-homeschool-assessment-our-updated-plans-for-the-rest-of-the-year)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Email · day 0
 **Subject:** "A Fall Homeschool Assessment, Then and Now:…" as clips?

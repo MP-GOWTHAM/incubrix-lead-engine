@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "102. How to Get a Raise at Work: 3 Ways to Make More Money" (2026-10-20); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~34-min episodes; no YouTube/TikTok clip channel linked in the feed
 - **Commercial signal:** Course/product: "📖 My book, The Career You Crave , is out now! Buy your copy here: US:" (episode '102. How to Get a Raise at Work: 3 Ways to Make More Money') (https://rss.buzzsprout.com/2436666.rss)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · LinkedIn · day 0
 

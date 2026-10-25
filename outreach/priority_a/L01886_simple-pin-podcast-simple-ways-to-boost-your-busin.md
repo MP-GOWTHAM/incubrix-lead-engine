@@ -4,22 +4,22 @@
 - **Profile:** https://podcasts.apple.com/us/podcast/simple-pin-podcast-simple-ways-to-boost-your-business/id1114667498
 - **Best channel:** Email → `hello@simplepinmedia.com` (evidence: https://rss.buzzsprout.com/2233901.rss)
 - **Backup channel:** Instagram → `https://www.instagram.com/simplepinmedia/`
-- **Hook:** Latest episode "Pinterest Wins: Photography that connect" (2026-10-14); Captions/transcripts
+- **Hook:** Latest episode "Kate's Take: Quick thoughts on Pinterest marketing #20 – The "Shoulds" of Marketing" (2026-10-21); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~23-min episodes; no YouTube/TikTok clip channel linked in the feed; Stated workflow need: episode notes say "repurpos"
-- **Commercial signal:** Service (coaching/consulting): "list of the services we offer . Book a discovery call with our team. 🎬 New to Pinterest → get started here with 4" (episode 'Pinterest Wins: Photography that connect') (https://rss.buzzsprout.com/2233901.rss)
-- **Checked:** 2026-10-22
+- **Commercial signal:** Service (coaching/consulting): "list of the services we offer . Book a discovery call with our team. 🎬 New to Pinterest → get started here with 4" (episode 'Kate's Take: Quick thoughts on Pinterest marketing #20 – The "Shoulds"') (https://rss.buzzsprout.com/2233901.rss)
+- **Checked:** 2026-10-25
 
 ## Step 1 · Email · day 0
-**Subject:** "Pinterest Wins: Photography that connect" as clips?
+**Subject:** "Kate's Take: Quick thoughts on Pinterest…" as clips?
 
 ```text
 Hi Kate,
 
-I came across "Pinterest Wins: Photography that connect" from Simple Pin Podcast (Oct 14). Your show notes mention "repurpos", which is exactly the work IncuBrix takes off a creator's plate.
+I came across "Kate's Take: Quick thoughts on Pinterest marketing #20 – The "Shoulds" of Marketing" from Simple Pin Podcast (Oct 21). Your show notes mention "repurpos", which is exactly the work IncuBrix takes off a creator's plate.
 
 IncuBrix is a creator studio that turns one recording into captioned clips, quote posts and platform-sized versions, then schedules them to YouTube, Instagram, LinkedIn and Spotify from one screen. For coaches and educators it means every session insight becomes content that finds new clients.
 
-If it helps, I can run "Pinterest Wins: Photography that connect" through it and send you three ready-to-post clips. No call and no card needed. Would that be useful?
+If it helps, I can run "Kate's Take: Quick thoughts on Pinterest…" through it and send you three ready-to-post clips. No call and no card needed. Would that be useful?
 
 Gowtham M P
 Growth Engineer candidate for IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
@@ -29,10 +29,10 @@ Not for you? Reply "no thanks" and I won't email you again.
 ```
 
 ## Step 2 · Email · day 4
-**Subject:** Re: "Pinterest Wins: Photography that connect" as clips?
+**Subject:** Re: "Kate's Take: Quick thoughts on Pinterest…" as clips?
 
 ```text
-Hi Kate, a quick follow-up on my note about "Pinterest Wins: Photography that connect". Your earlier episode, "Kate's Take: Quick thoughts on Pinterest marketing #19 - A life update", would work just as well. IncuBrix picks out the strongest moments, adds word-by-word captions in your own fonts and colours, and lets you fix a flubbed line by editing the transcript instead of re-recording.
+Hi Kate, a quick follow-up on my note about "Kate's Take: Quick thoughts on Pinterest…". Your earlier episode, "Pinterest Wins: Photography that connect", would work just as well. IncuBrix picks out the strongest moments, adds word-by-word captions in your own fonts and colours, and lets you fix a flubbed line by editing the transcript instead of re-recording.
 
 Happy to send the three sample clips. Just reply "yes".
 
@@ -58,5 +58,5 @@ Not for you? Reply "no thanks" and I won't email you again.
 ## Step 4 · Instagram · day 14
 
 ```text
-Hi Kate! Just found "Pinterest Wins: Photography that connect" from Simple Pin Podcast. Your show notes mention "repurpos", which is exactly the work IncuBrix takes off a creator's plate. I'm Gowtham M P. I'm helping launch IncuBrix, which turns one recording into captioned, ready-to-post clips. Want me to send 3 free sample clips from that episode? If it's not relevant, just say so and I won't message again.
+Hi Kate! Just found "Kate's Take: Quick thoughts on Pinterest…" from Simple Pin Podcast. Your show notes mention "repurpos", which is exactly the work IncuBrix takes off a creator's plate. I'm Gowtham M P. I'm helping launch IncuBrix, which turns one recording into captioned, ready-to-post clips. Want me to send 3 free sample clips from that episode? If it's not relevant, just say so and I won't message again.
 ```

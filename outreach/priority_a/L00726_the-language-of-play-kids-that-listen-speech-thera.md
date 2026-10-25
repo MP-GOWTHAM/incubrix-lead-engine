@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "288 She Screamed, Kicked and was Called a “Little Tyrant.”Now Shraddha Oza Explains What…" (2026-10-15); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~36-min episodes; no YouTube/Instagram/TikTok clip channel linked in the feed
 - **Commercial signal:** Service (coaching/consulting): "Play, schedule your call here: https://calendly.com/hello-play/discovery-session To DONATE to The Language Of P" (episode '288 She Screamed, Kicked and was Called a “Little Tyrant.”Now Shraddha') (https://thelanguageofplay.podbean.com/e/288-she-screamed-kicked-and-was-called-a-little-tyrant-now-shradda-oza-explains-what-she-needed/)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Email · day 0
 **Subject:** "288 She Screamed, Kicked and was Called a…" as clips?

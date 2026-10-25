@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "Alberta Referendum Vote, Kelowna Councilor Campaigns, & Pete Hegseth Robs MY Idea! | #018" (2026-10-15); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~59-min episodes; no YouTube/TikTok clip channel linked in the feed; Publishing consistency: gap of 45 days between episodes vs a usual 8-day rhythm
 - **Commercial signal:** Membership/subscription: "EXCLUSIVE PODCAST EPISODES patreon.com/dangercats69 Danger Cats Merch & Stand Up Tickets: 🎟 https:" (episode 'Alberta Referendum Vote, Kelowna Councilor Campaigns, & Pete Hegseth R') (https://dangercats69.podbean.com/e/alberta-referendum-vote-kelowna-councilor-campaigns-pete-hegseth-robs-my-idea-018/)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Instagram · day 0
 

@@ -1,13 +1,13 @@
 # L01096 · Liz Albanis · Yoga For Trauma: The Inner Fire of Yoga
 
-- **Segment:** Expert-Led Creator · **Country:** AU · **Score:** 73
+- **Segment:** Expert-Led Creator · **Country:** AU · **Score:** 70
 - **Profile:** https://podcasts.apple.com/sg/podcast/yoga-for-trauma-the-inner-fire-of-yoga/id1795863974
 - **Best channel:** Email → `info@lizalbaniswellness.com.au` (evidence: https://rss.buzzsprout.com/2448779.rss)
 - **Backup channel:** Instagram → `https://www.instagram.com/lizalbaniswellnessau/`
 - **Hook:** Latest episode "Your Body Remembers What Your Mind Cannot With Laurel LeMohn | Ep 44" (2026-10-20); Repurposing into clips
 - **Why IncuBrix:** Repurposing into clips: ~37-min episodes; no TikTok clip channel linked in the feed; Publishing consistency: gap of 49 days between episodes vs a usual 7-day rhythm
 - **Commercial signal:** Membership/subscription: "Supporting the show through promotion, bonus episodes, links, and useful extras (or 5 star reviews which was inad" (episode 'Announcement and Bonus: A Great Podcast Pitch Starts With Listening Fi') (https://rss.buzzsprout.com/2448779.rss)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Email · day 0
 **Subject:** "Your Body Remembers What Your Mind Cannot With…" as clips?

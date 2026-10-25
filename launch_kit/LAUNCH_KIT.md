@@ -4,20 +4,20 @@
 
 ## 0. The plan in one paragraph
 
-Start with the 1,042 verified creators in `leads.csv`: independent podcasters and expert-led creators (coaches, consultants, educators) in seven English-speaking markets. They publish long episodes regularly (median 40 minutes, about 4 in the last 30 days), every one already makes money from their show, and most leave reach on the table: 73% publish no transcripts, and 86% have long episodes with no clip channel linked. That is exactly the gap Creator Studio fills. Every first message offers **three free, ready-to-post clips from their latest episode**, so the creator sees the product working on their own content before being asked to sign up. Email does the volume. Instagram, X and LinkedIn DMs (sent by hand) cover the creators who live there and every UK/IE personal mailbox. Podcast guest pitches turn the best podcasters into distribution. The engine is rerun every Monday to add fresh creators and re-verify old ones.
+Start with the 1,048 verified creators in `leads.csv`: independent podcasters and expert-led creators (coaches, consultants, educators) in seven English-speaking markets. They publish long episodes regularly (median 40 minutes, about 4 in the last 30 days), every one already makes money from their show, and most leave reach on the table: 73% publish no transcripts, and 86% have long episodes with no clip channel linked. That is exactly the gap Creator Studio fills. Every first message offers **three free, ready-to-post clips from their latest episode**, so the creator sees the product working on their own content before being asked to sign up. Email does the volume. Instagram, X and LinkedIn DMs (sent by hand) cover the creators who live there and every UK/IE personal mailbox. Podcast guest pitches turn the best podcasters into distribution. The engine is rerun every Monday to add fresh creators and re-verify old ones.
 
 ## 1. Who we target first
 
 | Group | Creators | Why first |
 |---|---|---|
-| **Podcasters / video podcasters** | 599 | Long episodes (median 40 min) are the raw material for clips. 45% already carry sponsor reads, so more reach is directly worth money to them. |
-| **Expert-led creators** (coaches, consultants, educators who podcast) | 443 | They sell coaching, courses or services (33% have a booking or "work with me" offer), so content that finds clients pays for itself. This matches IncuBrix's "Coaches / Thought Leaders" positioning. |
+| **Podcasters / video podcasters** | 598 | Long episodes (median 40 min) are the raw material for clips. 45% already carry sponsor reads, so more reach is directly worth money to them. |
+| **Expert-led creators** (coaches, consultants, educators who podcast) | 450 | They sell coaching, courses or services (33% have a booking or "work with me" offer), so content that finds clients pays for itself. This matches IncuBrix's "Coaches / Thought Leaders" positioning. |
 
 | Country | US | GB | AU | CA | IE | NZ | SG |
 |---|---|---|---|---|---|---|---|
-| Creators | 573 (55%) | 203 | 143 | 78 | 22 | 22 | 1 |
+| Creators | 576 (55%) | 205 | 146 | 76 | 22 | 22 | 1 |
 
-All 1,042 pass every check in the brief, each with a public evidence URL. Rejected candidates are listed with their reasons in `output/rejected_and_reserve.csv`. A further 70+ US creators who qualify are held in reserve by the country cap. They can be released as non-US volume grows.
+All 1,048 pass every check in the brief, each with a public evidence URL. Rejected candidates are listed with their reasons in `output/rejected_and_reserve.csv`. A further 70+ US creators who qualify are held in reserve by the country cap. They can be released as non-US volume grows.
 
 **Sequence order:** Priority A first (the top 250 by score, each with a full hand-checkable sequence in `outreach/priority_a/`), then B, then C. Within each priority, the newest episode goes first, so the hook is always fresh.
 
@@ -26,7 +26,7 @@ All 1,042 pass every check in the brief, each with a public evidence URL. Reject
 | Channel | Used for | Why | Safe daily volume (per sender) |
 |---|---|---|---|
 | **Email** (best channel for 743 leads, 71%) | First touch plus 2 follow-ups | Every address is published by the creator in their own feed or show notes. Email is where podcasters receive sponsor and guest enquiries. | Week 1: 20 · Week 2: 30 · Weeks 3–4: 40 per inbox (2 inboxes) |
-| **Instagram DM** (best for 218; backup for ~280) | First touch where no business email exists, or for UK/IE personal mailboxes; backup touch on day 14 | Each handle is one the creator links from their own episode notes within the last 60 days | 20 new DMs/day, manual |
+| **Instagram DM** (best for 226; backup for ~280) | First touch where no business email exists, or for UK/IE personal mailboxes; backup touch on day 14 | Each handle is one the creator links from their own episode notes within the last 60 days | 20 new DMs/day, manual |
 | **X DM / reply** | Backup touch | Cheap, fast replies from tech, business and comedy podcasters | 20/day, manual |
 | **LinkedIn** | Backup for expert-led creators (coaches, consultants) | Their buyers, and their attention, are on LinkedIn | 15 connection requests/day (~80/week), manual |
 | **Podcast guest pitch** | Top 30 podcasters by score, from week 2 | One episode about repurposing reaches every listener who is a creator. This is a distribution win, not a single sale. | 5–10/day from the founder's inbox |
@@ -73,7 +73,7 @@ Prices are list prices as of October 2026. Check them at purchase. No tool is lo
 
 | Metric | Target | Reasoning |
 |---|---|---|
-| Creators contacted (first touch, all channels) | **~750** | Email ramp: 2 inboxes × (20×4 + 30×5 + 40×10 days) ≈ 1,260 send slots. Each email lead uses up to 3 sends, so that covers ~450 email first touches. Plus the ~300 DM-first leads (Instagram 218, LinkedIn 68, X 12) at 20/day by hand. |
+| Creators contacted (first touch, all channels) | **~750** | Email ramp: 2 inboxes × (20×4 + 30×5 + 40×10 days) ≈ 1,260 send slots. Each email lead uses up to 3 sends, so that covers ~450 email first touches. Plus the ~300 DM-first leads (Instagram 226, LinkedIn 66, X 12) at 20/day by hand. |
 | Reply rate (any reply), email | **6–9%** | Cold email to creators averages low single digits. These messages reference a specific recent episode and offer free work rather than a meeting, which typically lifts replies 2–3×. Validate on week 1's 160 sends. |
 | Reply rate, Instagram/X DM | **8–12%** | DMs to creators who actively link that account. Lower volume, higher intent. |
 | Positive replies ("yes, send clips") | **50% of replies** | The ask is low-friction: no call, no card. |

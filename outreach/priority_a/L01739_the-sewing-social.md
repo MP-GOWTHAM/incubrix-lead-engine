@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "Rosie Briscoe AKA The Linen Thief on Thrift Flips, Upcycling and Sustainable Sewing" (2026-10-14); Repurposing into clips
 - **Why IncuBrix:** Repurposing into clips: ~37-min episodes; no YouTube/Instagram/TikTok clip channel linked in the feed; Publishing consistency: gap of 35 days between episodes vs a usual 7-day rhythm
 - **Commercial signal:** Sponsorship: "ready Set Go - https://threadysetgo.com Discount code for your first month free - SEWINGSOCIALPOD Sew And Stow -" (episode 'Rosie Briscoe AKA The Linen Thief on Thrift Flips, Upcycling and Susta') (https://rss.buzzsprout.com/2499363.rss)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Email · day 0
 **Subject:** "Rosie Briscoe AKA The Linen Thief on Thrift…" as clips?

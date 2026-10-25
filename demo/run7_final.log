@@ -1,0 +1,588 @@
+﻿17:36:19 INFO    engine: fetching 20147 feeds (19 already fresh in cache)
+17:36:22 WARNING engine: feed error for https://www.startupcan.ca/category/startuppodcast/feed/: HTTP 403 for https://www.startupcan.ca/category/startuppodcast/feed/
+17:36:22 WARNING engine: feed error for https://www.startupcan.ca/category/startuppodcast/feed/: HTTP 403 for https://www.startupcan.ca/category/startuppodcast/feed/
+17:36:23 WARNING engine: feed error for https://audioboom.com/channels/4829841.rss: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:36:23 WARNING engine: feed error for https://audioboom.com/channels/4829841.rss: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:36:33 INFO    engine: feeds: 100/20147
+17:36:47 INFO    engine: feeds: 200/20147
+17:36:53 INFO    engine: feeds: 300/20147
+17:37:00 INFO    engine: feeds: 400/20147
+17:37:04 WARNING engine: feed error for https://addictedtothemouse.com/feed/podcast/: HTTP 403 for https://addictedtothemouse.com/feed/podcast/
+17:37:04 WARNING engine: feed error for https://addictedtothemouse.com/feed/podcast/: HTTP 403 for https://addictedtothemouse.com/feed/podcast/
+17:37:05 WARNING engine: feed error for https://www.chiro.org.au/feed/podcasts: HTTP 403 for https://www.chiro.org.au/feed/podcasts
+17:37:05 WARNING engine: feed error for https://www.chiro.org.au/feed/podcasts: HTTP 403 for https://www.chiro.org.au/feed/podcasts
+17:37:05 INFO    engine: feeds: 500/20147
+17:37:11 INFO    engine: feeds: 600/20147
+17:37:17 INFO    engine: feeds: 700/20147
+17:37:19 WARNING engine: feed error for https://audioboom.com/channels/5011925.rss: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:37:19 WARNING engine: feed error for https://audioboom.com/channels/5011925.rss: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:37:37 INFO    engine: feeds: 800/20147
+17:37:42 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/becausenews.xml: Gave up on https://www.cbc.ca/podcasting/includes/becausenews.xml: The read operation timed out
+17:37:42 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/becausenews.xml: Gave up on https://www.cbc.ca/podcasting/includes/becausenews.xml: The read operation timed out
+17:37:45 INFO    engine: feeds: 900/20147
+17:37:50 INFO    engine: feeds: 1000/20147
+17:37:54 WARNING engine: feed error for https://www.thefishow.com/feed/podcast/: HTTP 403 for https://www.thefishow.com/feed/podcast/
+17:37:54 WARNING engine: feed error for https://www.thefishow.com/feed/podcast/: HTTP 403 for https://www.thefishow.com/feed/podcast/
+17:37:56 INFO    engine: feeds: 1100/20147
+17:38:00 WARNING engine: feed error for https://markethuddle.com/feed/podcast/: HTTP 403 for https://markethuddle.com/feed/podcast/
+17:38:00 WARNING engine: feed error for https://markethuddle.com/feed/podcast/: HTTP 403 for https://markethuddle.com/feed/podcast/
+17:38:01 INFO    engine: feeds: 1200/20147
+17:38:07 INFO    engine: feeds: 1300/20147
+17:38:09 WARNING engine: feed error for https://feeds.ivoox.com/feed_fg_f1680499_filtro_1.xml: HTTP 451 for https://feeds.ivoox.com/feed_fg_f1680499_filtro_1.xml
+17:38:09 WARNING engine: feed error for https://feeds.ivoox.com/feed_fg_f1680499_filtro_1.xml: HTTP 451 for https://feeds.ivoox.com/feed_fg_f1680499_filtro_1.xml
+17:38:12 INFO    engine: feeds: 1400/20147
+17:38:16 WARNING engine: feed error for https://feeds.redcircle.com/e4c0db0a-98a4-47e6-a2b0-6a291469e1d6: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:38:16 WARNING engine: feed error for https://feeds.redcircle.com/e4c0db0a-98a4-47e6-a2b0-6a291469e1d6: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:38:37 INFO    engine: feeds: 1500/20147
+17:38:37 WARNING engine: feed error for https://ericrobertsfitness.com/feed/podcast/: HTTP 403 for https://ericrobertsfitness.com/feed/podcast/
+17:38:37 WARNING engine: feed error for https://ericrobertsfitness.com/feed/podcast/: HTTP 403 for https://ericrobertsfitness.com/feed/podcast/
+17:38:43 INFO    engine: feeds: 1600/20147
+17:38:48 INFO    engine: feeds: 1700/20147
+17:38:53 INFO    engine: feeds: 1800/20147
+17:38:59 INFO    engine: feeds: 1900/20147
+17:39:00 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/uncover.xml: Gave up on https://www.cbc.ca/podcasting/includes/uncover.xml: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:39:00 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/uncover.xml: Gave up on https://www.cbc.ca/podcasting/includes/uncover.xml: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:39:04 INFO    engine: feeds: 2000/20147
+17:39:09 INFO    engine: feeds: 2100/20147
+17:39:10 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/debaters.xml: Gave up on https://www.cbc.ca/podcasting/includes/debaters.xml: The read operation timed out
+17:39:10 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/debaters.xml: Gave up on https://www.cbc.ca/podcasting/includes/debaters.xml: The read operation timed out
+17:39:10 WARNING engine: feed error for https://feeds.ivoox.com/feed_fg_f154794_filtro_1.xml: HTTP 451 for https://feeds.ivoox.com/feed_fg_f154794_filtro_1.xml
+17:39:10 WARNING engine: feed error for https://feeds.ivoox.com/feed_fg_f154794_filtro_1.xml: HTTP 451 for https://feeds.ivoox.com/feed_fg_f154794_filtro_1.xml
+17:39:12 WARNING engine: feed error for https://feeds.ivoox.com/feed_fg_f1657622_filtro_1.xml: HTTP 451 for https://feeds.ivoox.com/feed_fg_f1657622_filtro_1.xml
+17:39:12 WARNING engine: feed error for https://feeds.ivoox.com/feed_fg_f1657622_filtro_1.xml: HTTP 451 for https://feeds.ivoox.com/feed_fg_f1657622_filtro_1.xml
+17:39:26 WARNING engine: feed error for https://rss.libsyn.com/shows/278054/destinations/2129654.xml: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:39:26 WARNING engine: feed error for https://rss.libsyn.com/shows/278054/destinations/2129654.xml: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:39:26 WARNING engine: feed error for https://anchor.fm/s/22d1c9b0/podcast/rss: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:39:26 WARNING engine: feed error for https://anchor.fm/s/22d1c9b0/podcast/rss: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:39:26 WARNING engine: feed error for https://feeds.captivate.fm/great-big-photography-world/: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:39:26 WARNING engine: feed error for https://feeds.captivate.fm/great-big-photography-world/: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:39:26 WARNING engine: feed error for https://anchor.fm/s/25eaeb18/podcast/rss: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:39:26 WARNING engine: feed error for https://anchor.fm/s/25eaeb18/podcast/rss: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:39:26 WARNING engine: feed error for https://rss.libsyn.com/shows/276722/destinations/2118326.xml: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:39:26 WARNING engine: feed error for https://rss.libsyn.com/shows/276722/destinations/2118326.xml: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:39:26 WARNING engine: feed error for https://feed.podbean.com/officialanythinggoes/feed.xml: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:39:26 WARNING engine: feed error for https://feed.podbean.com/officialanythinggoes/feed.xml: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:39:26 INFO    engine: feeds: 2200/20147
+17:39:26 WARNING engine: feed error for https://feeds.redcircle.com/b82554de-b5b1-49cf-b805-ff2738b3e071: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:39:26 WARNING engine: feed error for https://feeds.redcircle.com/b82554de-b5b1-49cf-b805-ff2738b3e071: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:39:26 WARNING engine: feed error for https://feeds.simplecast.com/sXf_AsM6: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:39:26 WARNING engine: feed error for https://feeds.simplecast.com/sXf_AsM6: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:39:26 WARNING engine: feed error for https://anchor.fm/s/fce00f4/podcast/rss: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:39:26 WARNING engine: feed error for https://anchor.fm/s/fce00f4/podcast/rss: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:39:26 WARNING engine: feed error for https://rss.libsyn.com/shows/269030/destinations/2050382.xml: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:39:26 WARNING engine: feed error for https://rss.libsyn.com/shows/269030/destinations/2050382.xml: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:39:26 WARNING engine: feed error for https://feeds.captivate.fm/practicedisrupted/: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:39:26 WARNING engine: feed error for https://feeds.captivate.fm/practicedisrupted/: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:39:26 WARNING engine: feed error for https://feeds.captivate.fm/parenting-todays-teen/: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:39:26 WARNING engine: feed error for https://feeds.captivate.fm/parenting-todays-teen/: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:39:26 WARNING engine: feed error for https://anchor.fm/s/2323ce90/podcast/rss: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:39:26 WARNING engine: feed error for https://anchor.fm/s/2323ce90/podcast/rss: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:39:31 INFO    engine: feeds: 2300/20147
+17:39:36 INFO    engine: feeds: 2400/20147
+17:39:41 INFO    engine: feeds: 2500/20147
+17:39:46 INFO    engine: feeds: 2600/20147
+17:39:51 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/thedose.xml: Gave up on https://www.cbc.ca/podcasting/includes/thedose.xml: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:39:51 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/thedose.xml: Gave up on https://www.cbc.ca/podcasting/includes/thedose.xml: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:39:51 INFO    engine: feeds: 2700/20147
+17:39:56 INFO    engine: feeds: 2800/20147
+17:40:00 INFO    engine: feeds: 2900/20147
+17:40:04 WARNING engine: feed error for https://feeds.danlirencomedy.com/xxlth.xml: Gave up on https://feeds.danlirencomedy.com/xxlth.xml: <urlopen error _ssl.c:1063: The handshake operation timed out>
+17:40:04 WARNING engine: feed error for https://feeds.danlirencomedy.com/xxlth.xml: Gave up on https://feeds.danlirencomedy.com/xxlth.xml: <urlopen error _ssl.c:1063: The handshake operation timed out>
+17:40:05 INFO    engine: feeds: 3000/20147
+17:40:07 WARNING engine: feed error for https://www.ibo-ad.com/my_rss.php?sid=2089&sbid=20286: Bad XML in https://www.ibo-ad.com/my_rss.php?sid=2089&sbid=20286: not well-formed (invalid token): line 1, column 1216
+17:40:07 WARNING engine: feed error for https://www.ibo-ad.com/my_rss.php?sid=2089&sbid=20286: Bad XML in https://www.ibo-ad.com/my_rss.php?sid=2089&sbid=20286: not well-formed (invalid token): line 1, column 1216
+17:40:10 INFO    engine: feeds: 3100/20147
+17:40:15 INFO    engine: feeds: 3200/20147
+17:40:19 INFO    engine: feeds: 3300/20147
+17:40:21 WARNING engine: feed error for https://rss.buzzsprout.com/2083113.rss: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:40:21 WARNING engine: feed error for https://rss.buzzsprout.com/2083113.rss: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:40:26 INFO    engine: feeds: 3400/20147
+17:40:33 WARNING engine: feed error for http://pod.ssenhosting.com/rss/pb_32465/pbchannel_46141.xml: HTTP 404 for http://pod.ssenhosting.com/rss/pb_32465/pbchannel_46141.xml
+17:40:33 WARNING engine: feed error for http://pod.ssenhosting.com/rss/pb_32465/pbchannel_46141.xml: HTTP 404 for http://pod.ssenhosting.com/rss/pb_32465/pbchannel_46141.xml
+17:40:33 INFO    engine: feeds: 3500/20147
+17:40:41 INFO    engine: feeds: 3600/20147
+17:40:46 INFO    engine: feeds: 3700/20147
+17:40:50 INFO    engine: feeds: 3800/20147
+17:40:55 INFO    engine: feeds: 3900/20147
+17:40:59 INFO    engine: feeds: 4000/20147
+17:41:03 INFO    engine: feeds: 4100/20147
+17:41:08 INFO    engine: feeds: 4200/20147
+17:41:12 INFO    engine: feeds: 4300/20147
+17:41:16 WARNING engine: feed error for https://app.kajabi.com/podcasts/2147493714/feed: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:41:16 WARNING engine: feed error for https://app.kajabi.com/podcasts/2147493714/feed: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:41:16 WARNING engine: feed error for https://rss.buzzsprout.com/2158913.rss: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:41:16 WARNING engine: feed error for https://rss.buzzsprout.com/2158913.rss: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:41:17 INFO    engine: feeds: 4400/20147
+17:41:26 INFO    engine: feeds: 4500/20147
+17:41:34 INFO    engine: feeds: 4600/20147
+17:41:39 INFO    engine: feeds: 4700/20147
+17:41:44 INFO    engine: feeds: 4800/20147
+17:41:48 INFO    engine: feeds: 4900/20147
+17:41:53 INFO    engine: feeds: 5000/20147
+17:41:57 INFO    engine: feeds: 5100/20147
+17:42:01 INFO    engine: feeds: 5200/20147
+17:42:06 INFO    engine: feeds: 5300/20147
+17:42:10 INFO    engine: feeds: 5400/20147
+17:42:12 WARNING engine: feed error for https://api.riverside.fm/hosting/MKUejF6V.rss: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:42:12 WARNING engine: feed error for https://api.riverside.fm/hosting/MKUejF6V.rss: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:42:17 INFO    engine: feeds: 5500/20147
+17:42:23 INFO    engine: feeds: 5600/20147
+17:42:29 INFO    engine: feeds: 5700/20147
+17:42:34 WARNING engine: feed error for https://rss.buzzsprout.com/2415185.rss: HTTP 404 for https://rss.buzzsprout.com/2415185.rss
+17:42:34 WARNING engine: feed error for https://rss.buzzsprout.com/2415185.rss: HTTP 404 for https://rss.buzzsprout.com/2415185.rss
+17:42:34 INFO    engine: feeds: 5800/20147
+17:42:35 WARNING engine: feed error for https://anchor.fm/s/db44f2c4/podcast/rss: Gave up on https://anchor.fm/s/db44f2c4/podcast/rss: The read operation timed out
+17:42:35 WARNING engine: feed error for https://anchor.fm/s/db44f2c4/podcast/rss: Gave up on https://anchor.fm/s/db44f2c4/podcast/rss: The read operation timed out
+17:42:38 INFO    engine: feeds: 5900/20147
+17:42:42 INFO    engine: feeds: 6000/20147
+17:42:46 INFO    engine: feeds: 6100/20147
+17:42:51 INFO    engine: feeds: 6200/20147
+17:42:52 WARNING engine: feed error for https://podcasts.apple.com/gb/podcast/parent-unplugged/id1812910824: Bad XML in https://podcasts.apple.com/gb/podcast/parent-unplugged/id1812910824: not well-formed (invalid token): line 39, column 27
+17:42:52 WARNING engine: feed error for https://podcasts.apple.com/gb/podcast/parent-unplugged/id1812910824: Bad XML in https://podcasts.apple.com/gb/podcast/parent-unplugged/id1812910824: not well-formed (invalid token): line 39, column 27
+17:42:55 INFO    engine: feeds: 6300/20147
+17:42:59 INFO    engine: feeds: 6400/20147
+17:43:03 INFO    engine: feeds: 6500/20147
+17:43:50 INFO    engine: feeds: 6600/20147
+17:43:55 INFO    engine: feeds: 6700/20147
+17:43:59 INFO    engine: feeds: 6800/20147
+17:44:03 INFO    engine: feeds: 6900/20147
+17:44:08 INFO    engine: feeds: 7000/20147
+17:44:13 INFO    engine: feeds: 7100/20147
+17:44:17 INFO    engine: feeds: 7200/20147
+17:44:21 INFO    engine: feeds: 7300/20147
+17:44:26 INFO    engine: feeds: 7400/20147
+17:44:38 INFO    engine: feeds: 7500/20147
+17:44:58 WARNING engine: feed error for https://www.bnipodcast.com/feed/podcast/: HTTP 403 for https://www.bnipodcast.com/feed/podcast/
+17:44:58 WARNING engine: feed error for https://www.bnipodcast.com/feed/podcast/: HTTP 403 for https://www.bnipodcast.com/feed/podcast/
+17:45:06 WARNING engine: feed error for https://feed.podbean.com/o35s/feed.xml: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:45:06 WARNING engine: feed error for https://feed.podbean.com/o35s/feed.xml: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:45:06 WARNING engine: feed error for https://feeds.simplecast.com/Cyw1tJ_z: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:45:06 WARNING engine: feed error for https://feeds.simplecast.com/Cyw1tJ_z: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:45:06 WARNING engine: feed error for https://rss.pdrl.fm/a9cb78/feeds.megaphone.fm/ignbeyond: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:45:06 WARNING engine: feed error for https://rss.pdrl.fm/a9cb78/feeds.megaphone.fm/ignbeyond: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:45:07 INFO    engine: feeds: 7600/20147
+17:45:07 WARNING engine: feed error for https://feed.podbean.com/beourguestpodcast/feed.xml: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:45:07 WARNING engine: feed error for https://feed.podbean.com/beourguestpodcast/feed.xml: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:45:07 WARNING engine: feed error for https://c.peerview.com/podcast/xml/nephrology_video.xml: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:45:07 WARNING engine: feed error for https://c.peerview.com/podcast/xml/nephrology_video.xml: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:45:07 WARNING engine: feed error for https://rss.buzzsprout.com/1807501.rss: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:45:07 WARNING engine: feed error for https://rss.buzzsprout.com/1807501.rss: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:45:07 WARNING engine: feed error for https://anchor.fm/s/1013a0ce4/podcast/rss: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:45:07 WARNING engine: feed error for https://anchor.fm/s/1013a0ce4/podcast/rss: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:45:07 WARNING engine: feed error for https://podcasts.files.bbci.co.uk/p02nrvyj.rss: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:45:07 WARNING engine: feed error for https://podcasts.files.bbci.co.uk/p02nrvyj.rss: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:45:07 WARNING engine: feed error for https://audioboom.com/channels/4997224.rss: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:45:07 WARNING engine: feed error for https://audioboom.com/channels/4997224.rss: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:45:07 WARNING engine: feed error for https://feeds.npr.org/510282/podcast.xml: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:45:07 WARNING engine: feed error for https://feeds.npr.org/510282/podcast.xml: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:45:07 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/dirtbagclimber.xml: Gave up on https://www.cbc.ca/podcasting/includes/dirtbagclimber.xml: The read operation timed out
+17:45:07 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/dirtbagclimber.xml: Gave up on https://www.cbc.ca/podcasting/includes/dirtbagclimber.xml: The read operation timed out
+17:45:11 WARNING engine: feed error for https://www.melissawest.com/feed/namaste-yoga-video/: HTTP 403 for https://www.melissawest.com/feed/namaste-yoga-video/
+17:45:11 WARNING engine: feed error for https://www.melissawest.com/feed/namaste-yoga-video/: HTTP 403 for https://www.melissawest.com/feed/namaste-yoga-video/
+17:45:12 INFO    engine: feeds: 7700/20147
+17:45:18 INFO    engine: feeds: 7800/20147
+17:45:18 WARNING engine: feed error for https://www.timpeter.com/blog/feed/podcast/: HTTP 403 for https://www.timpeter.com/blog/feed/podcast/
+17:45:18 WARNING engine: feed error for https://www.timpeter.com/blog/feed/podcast/: HTTP 403 for https://www.timpeter.com/blog/feed/podcast/
+17:45:23 INFO    engine: feeds: 7900/20147
+17:45:25 WARNING engine: feed error for https://www.startupcan.ca/feed/podcast/: HTTP 403 for https://www.startupcan.ca/feed/podcast/
+17:45:25 WARNING engine: feed error for https://www.startupcan.ca/feed/podcast/: HTTP 403 for https://www.startupcan.ca/feed/podcast/
+17:45:27 WARNING engine: feed error for https://anchor.fm/s/114e05154/podcast/rss: HTTP 404 for https://anchor.fm/s/114e05154/podcast/rss
+17:45:27 WARNING engine: feed error for https://anchor.fm/s/114e05154/podcast/rss: HTTP 404 for https://anchor.fm/s/114e05154/podcast/rss
+17:45:28 INFO    engine: feeds: 8000/20147
+17:45:29 WARNING engine: feed error for https://feeds.transistor.fm/ai-for-australian-business-field-notes: HTTP 404 for https://feeds.transistor.fm/ai-for-australian-business-field-notes
+17:45:29 WARNING engine: feed error for https://feeds.transistor.fm/ai-for-australian-business-field-notes: HTTP 404 for https://feeds.transistor.fm/ai-for-australian-business-field-notes
+17:45:32 INFO    engine: feeds: 8100/20147
+17:45:34 WARNING engine: feed error for https://www.spreaker.com/show/7289305/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7289305/episodes/feed
+17:45:34 WARNING engine: feed error for https://www.spreaker.com/show/7289305/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7289305/episodes/feed
+17:45:35 WARNING engine: feed error for https://anchor.fm/s/116a6211c/podcast/rss: HTTP 404 for https://anchor.fm/s/116a6211c/podcast/rss
+17:45:35 WARNING engine: feed error for https://anchor.fm/s/116a6211c/podcast/rss: HTTP 404 for https://anchor.fm/s/116a6211c/podcast/rss
+17:45:35 WARNING engine: feed error for https://media.rss.com/brisbane-first-home-buyer-loan/feed.xml: HTTP 404 for https://media.rss.com/brisbane-first-home-buyer-loan/feed.xml
+17:45:35 WARNING engine: feed error for https://media.rss.com/brisbane-first-home-buyer-loan/feed.xml: HTTP 404 for https://media.rss.com/brisbane-first-home-buyer-loan/feed.xml
+17:45:35 WARNING engine: feed error for https://media.rss.com/first-home-loan-broker-brisbane/feed.xml: HTTP 404 for https://media.rss.com/first-home-loan-broker-brisbane/feed.xml
+17:45:35 WARNING engine: feed error for https://media.rss.com/first-home-loan-broker-brisbane/feed.xml: HTTP 404 for https://media.rss.com/first-home-loan-broker-brisbane/feed.xml
+17:45:35 WARNING engine: feed error for https://media.rss.com/home-loan-broker-brisbane/feed.xml: HTTP 404 for https://media.rss.com/home-loan-broker-brisbane/feed.xml
+17:45:35 WARNING engine: feed error for https://media.rss.com/home-loan-broker-brisbane/feed.xml: HTTP 404 for https://media.rss.com/home-loan-broker-brisbane/feed.xml
+17:45:36 WARNING engine: feed error for https://media.rss.com/oval-lab-grown-diamonds-brisbane/feed.xml: HTTP 404 for https://media.rss.com/oval-lab-grown-diamonds-brisbane/feed.xml
+17:45:36 WARNING engine: feed error for https://media.rss.com/oval-lab-grown-diamonds-brisbane/feed.xml: HTTP 404 for https://media.rss.com/oval-lab-grown-diamonds-brisbane/feed.xml
+17:45:36 INFO    engine: feeds: 8200/20147
+17:45:36 WARNING engine: feed error for https://media.rss.com/solar-panel-bird-proofing-brisbane/feed.xml: HTTP 404 for https://media.rss.com/solar-panel-bird-proofing-brisbane/feed.xml
+17:45:36 WARNING engine: feed error for https://media.rss.com/solar-panel-bird-proofing-brisbane/feed.xml: HTTP 404 for https://media.rss.com/solar-panel-bird-proofing-brisbane/feed.xml
+17:45:36 WARNING engine: feed error for https://media.rss.com/bird-removal-brisbane-pod1/feed.xml: HTTP 404 for https://media.rss.com/bird-removal-brisbane-pod1/feed.xml
+17:45:36 WARNING engine: feed error for https://media.rss.com/bird-removal-brisbane-pod1/feed.xml: HTTP 404 for https://media.rss.com/bird-removal-brisbane-pod1/feed.xml
+17:45:36 WARNING engine: feed error for https://www.spreaker.com/show/7315553/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7315553/episodes/feed
+17:45:36 WARNING engine: feed error for https://www.spreaker.com/show/7315553/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7315553/episodes/feed
+17:45:37 WARNING engine: feed error for https://media.rss.com/capcut-pro-mod-apk-features-editing-tools/feed.xml: HTTP 404 for https://media.rss.com/capcut-pro-mod-apk-features-editing-tools/feed.xml
+17:45:37 WARNING engine: feed error for https://media.rss.com/capcut-pro-mod-apk-features-editing-tools/feed.xml: HTTP 404 for https://media.rss.com/capcut-pro-mod-apk-features-editing-tools/feed.xml
+17:45:40 WARNING engine: feed error for https://www.spreaker.com/show/7373486/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7373486/episodes/feed
+17:45:40 WARNING engine: feed error for https://www.spreaker.com/show/7373486/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7373486/episodes/feed
+17:45:40 INFO    engine: feeds: 8300/20147
+17:45:40 WARNING engine: feed error for https://www.spreaker.com/show/7375808/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7375808/episodes/feed
+17:45:40 WARNING engine: feed error for https://www.spreaker.com/show/7375808/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7375808/episodes/feed
+17:45:40 WARNING engine: feed error for https://media.rss.com/from-the-oasthouse/feed.xml: HTTP 404 for https://media.rss.com/from-the-oasthouse/feed.xml
+17:45:40 WARNING engine: feed error for https://media.rss.com/from-the-oasthouse/feed.xml: HTTP 404 for https://media.rss.com/from-the-oasthouse/feed.xml
+17:45:41 WARNING engine: feed error for https://www.spreaker.com/show/7387329/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7387329/episodes/feed
+17:45:41 WARNING engine: feed error for https://www.spreaker.com/show/7387329/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7387329/episodes/feed
+17:45:41 WARNING engine: feed error for https://www.spreaker.com/show/7389028/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7389028/episodes/feed
+17:45:41 WARNING engine: feed error for https://www.spreaker.com/show/7389028/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7389028/episodes/feed
+17:45:41 WARNING engine: feed error for https://media.rss.com/engagement-rings-brisbane-under-1000/feed.xml: HTTP 404 for https://media.rss.com/engagement-rings-brisbane-under-1000/feed.xml
+17:45:41 WARNING engine: feed error for https://media.rss.com/engagement-rings-brisbane-under-1000/feed.xml: HTTP 404 for https://media.rss.com/engagement-rings-brisbane-under-1000/feed.xml
+17:45:41 WARNING engine: feed error for https://media.rss.com/engagement-rings-brisbane-under-1000/feed.xml: HTTP 404 for https://media.rss.com/engagement-rings-brisbane-under-1000/feed.xml
+17:45:41 WARNING engine: feed error for https://media.rss.com/engagement-rings-brisbane-under-1000/feed.xml: HTTP 404 for https://media.rss.com/engagement-rings-brisbane-under-1000/feed.xml
+17:45:42 WARNING engine: feed error for https://www.spreaker.com/show/7419127/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7419127/episodes/feed
+17:45:42 WARNING engine: feed error for https://www.spreaker.com/show/7419127/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7419127/episodes/feed
+17:45:42 WARNING engine: feed error for https://www.spreaker.com/show/7419135/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7419135/episodes/feed
+17:45:42 WARNING engine: feed error for https://www.spreaker.com/show/7419135/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7419135/episodes/feed
+17:45:42 WARNING engine: feed error for https://www.spreaker.com/show/7424765/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7424765/episodes/feed
+17:45:42 WARNING engine: feed error for https://www.spreaker.com/show/7424765/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7424765/episodes/feed
+17:45:42 WARNING engine: feed error for https://www.spreaker.com/show/7424810/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7424810/episodes/feed
+17:45:42 WARNING engine: feed error for https://www.spreaker.com/show/7424810/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7424810/episodes/feed
+17:45:44 INFO    engine: feeds: 8400/20147
+17:45:47 WARNING engine: feed error for https://www.spreaker.com/show/7445478/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7445478/episodes/feed
+17:45:47 WARNING engine: feed error for https://www.spreaker.com/show/7445478/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7445478/episodes/feed
+17:45:48 WARNING engine: feed error for https://www.spreaker.com/show/7453696/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7453696/episodes/feed
+17:45:48 WARNING engine: feed error for https://www.spreaker.com/show/7453696/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7453696/episodes/feed
+17:45:48 WARNING engine: feed error for https://www.spreaker.com/show/7453701/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7453701/episodes/feed
+17:45:48 WARNING engine: feed error for https://www.spreaker.com/show/7453701/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7453701/episodes/feed
+17:45:48 WARNING engine: feed error for https://www.spreaker.com/show/7453862/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7453862/episodes/feed
+17:45:48 WARNING engine: feed error for https://www.spreaker.com/show/7453862/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7453862/episodes/feed
+17:45:49 WARNING engine: feed error for https://www.spreaker.com/show/7459845/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7459845/episodes/feed
+17:45:49 WARNING engine: feed error for https://www.spreaker.com/show/7459845/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7459845/episodes/feed
+17:45:49 INFO    engine: feeds: 8500/20147
+17:45:49 WARNING engine: feed error for https://www.spreaker.com/show/7459961/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7459961/episodes/feed
+17:45:49 WARNING engine: feed error for https://www.spreaker.com/show/7459961/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7459961/episodes/feed
+17:45:49 WARNING engine: feed error for https://www.spreaker.com/show/7459964/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7459964/episodes/feed
+17:45:49 WARNING engine: feed error for https://www.spreaker.com/show/7459964/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7459964/episodes/feed
+17:45:50 WARNING engine: feed error for https://rss.buzzsprout.com/2657692.rss: HTTP 404 for https://rss.buzzsprout.com/2657692.rss
+17:45:50 WARNING engine: feed error for https://rss.buzzsprout.com/2657692.rss: HTTP 404 for https://rss.buzzsprout.com/2657692.rss
+17:45:50 WARNING engine: feed error for https://www.spreaker.com/show/7440279/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7440279/episodes/feed
+17:45:50 WARNING engine: feed error for https://www.spreaker.com/show/7440279/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7440279/episodes/feed
+17:45:50 WARNING engine: feed error for https://anchor.fm/s/11437d038/podcast/rss: HTTP 404 for https://anchor.fm/s/11437d038/podcast/rss
+17:45:50 WARNING engine: feed error for https://anchor.fm/s/11437d038/podcast/rss: HTTP 404 for https://anchor.fm/s/11437d038/podcast/rss
+17:45:53 WARNING engine: feed error for https://engineeringmanagementinstitute.org/category/tecc-podcast/feed/: HTTP 403 for https://engineeringmanagementinstitute.org/category/tecc-podcast/feed/
+17:45:53 WARNING engine: feed error for https://engineeringmanagementinstitute.org/category/tecc-podcast/feed/: HTTP 403 for https://engineeringmanagementinstitute.org/category/tecc-podcast/feed/
+17:45:53 INFO    engine: feeds: 8600/20147
+17:45:59 INFO    engine: feeds: 8700/20147
+17:46:02 WARNING engine: feed error for https://relay.fm/penaddict/feed: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:46:02 WARNING engine: feed error for https://relay.fm/penaddict/feed: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:46:05 WARNING engine: feed error for https://podcast.lifterlms.com/category/episodes/feed/: HTTP 403 for https://podcast.lifterlms.com/category/episodes/feed/
+17:46:05 WARNING engine: feed error for https://podcast.lifterlms.com/category/episodes/feed/: HTTP 403 for https://podcast.lifterlms.com/category/episodes/feed/
+17:46:12 WARNING engine: feed error for https://streetphotographymagazine.com/feed/podcast: HTTP 403 for https://streetphotographymagazine.com/feed/podcast
+17:46:12 WARNING engine: feed error for https://streetphotographymagazine.com/feed/podcast: HTTP 403 for https://streetphotographymagazine.com/feed/podcast
+17:46:16 INFO    engine: feeds: 8800/20147
+17:46:26 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/laughoutloud.xml: Gave up on https://www.cbc.ca/podcasting/includes/laughoutloud.xml: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:46:26 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/laughoutloud.xml: Gave up on https://www.cbc.ca/podcasting/includes/laughoutloud.xml: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:46:28 INFO    engine: feeds: 8900/20147
+17:46:32 WARNING engine: feed error for https://ultimateradioshow.com/category/shows/homeschool-highschool/feed/: HTTP 403 for https://ultimateradioshow.com/category/shows/homeschool-highschool/feed/
+17:46:32 WARNING engine: feed error for https://ultimateradioshow.com/category/shows/homeschool-highschool/feed/: HTTP 403 for https://ultimateradioshow.com/category/shows/homeschool-highschool/feed/
+17:46:35 INFO    engine: feeds: 9000/20147
+17:46:42 INFO    engine: feeds: 9100/20147
+17:46:43 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/theexpertwitness.xml: Gave up on https://www.cbc.ca/podcasting/includes/theexpertwitness.xml: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:46:43 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/theexpertwitness.xml: Gave up on https://www.cbc.ca/podcasting/includes/theexpertwitness.xml: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:46:45 WARNING engine: feed error for https://www.diamond-consultants.com/feed/podcast/: HTTP 403 for https://www.diamond-consultants.com/feed/podcast/
+17:46:45 WARNING engine: feed error for https://www.diamond-consultants.com/feed/podcast/: HTTP 403 for https://www.diamond-consultants.com/feed/podcast/
+17:46:46 WARNING engine: feed error for https://www.retirementwisdom.com/podcasts/feed/retirement-wisdom-podcast-feed/: HTTP 403 for https://www.retirementwisdom.com/podcasts/feed/retirement-wisdom-podcast-feed/
+17:46:46 WARNING engine: feed error for https://www.retirementwisdom.com/podcasts/feed/retirement-wisdom-podcast-feed/: HTTP 403 for https://www.retirementwisdom.com/podcasts/feed/retirement-wisdom-podcast-feed/
+17:46:48 INFO    engine: feeds: 9200/20147
+17:46:52 WARNING engine: feed error for https://ultimateradioshow.com/category/shows/homeschooling-with-technology/feed/: HTTP 403 for https://ultimateradioshow.com/category/shows/homeschooling-with-technology/feed/
+17:46:52 WARNING engine: feed error for https://ultimateradioshow.com/category/shows/homeschooling-with-technology/feed/: HTTP 403 for https://ultimateradioshow.com/category/shows/homeschooling-with-technology/feed/
+17:46:54 INFO    engine: feeds: 9300/20147
+17:46:55 WARNING engine: feed error for https://ultimateradioshow.com/category/shows/creation-science-podcast/feed/: HTTP 403 for https://ultimateradioshow.com/category/shows/creation-science-podcast/feed/
+17:46:55 WARNING engine: feed error for https://ultimateradioshow.com/category/shows/creation-science-podcast/feed/: HTTP 403 for https://ultimateradioshow.com/category/shows/creation-science-podcast/feed/
+17:46:56 WARNING engine: feed error for https://www.askaboutflyfishing.com/feed/podcast/: Gave up on https://www.askaboutflyfishing.com/feed/podcast/: HTTP Error 503: Service Unavailable
+17:46:56 WARNING engine: feed error for https://www.askaboutflyfishing.com/feed/podcast/: Gave up on https://www.askaboutflyfishing.com/feed/podcast/: HTTP Error 503: Service Unavailable
+17:46:59 WARNING engine: feed error for https://wheelingwineandwhiskey.com/feed/podcast: HTTP 403 for https://wheelingwineandwhiskey.com/feed/podcast
+17:46:59 WARNING engine: feed error for https://wheelingwineandwhiskey.com/feed/podcast: HTTP 403 for https://wheelingwineandwhiskey.com/feed/podcast
+17:47:01 INFO    engine: feeds: 9400/20147
+17:47:10 INFO    engine: feeds: 9500/20147
+17:47:15 WARNING engine: feed error for https://twogeeksandagit.com/tgaag.xml: Gave up on https://twogeeksandagit.com/tgaag.xml: <urlopen error [Errno 11002] getaddrinfo failed>
+17:47:15 WARNING engine: feed error for https://twogeeksandagit.com/tgaag.xml: Gave up on https://twogeeksandagit.com/tgaag.xml: <urlopen error [Errno 11002] getaddrinfo failed>
+17:47:18 INFO    engine: feeds: 9600/20147
+17:47:22 INFO    engine: feeds: 9700/20147
+17:47:26 INFO    engine: feeds: 9800/20147
+17:47:27 WARNING engine: feed error for https://www.kuttinconsultinggroup.com/feed/podcast/: HTTP 403 for https://www.kuttinconsultinggroup.com/feed/podcast/
+17:47:27 WARNING engine: feed error for https://www.kuttinconsultinggroup.com/feed/podcast/: HTTP 403 for https://www.kuttinconsultinggroup.com/feed/podcast/
+17:47:30 INFO    engine: feeds: 9900/20147
+17:47:31 WARNING engine: feed error for https://feeds.ivoox.com/feed_fg_f11176956_filtro_1.xml: HTTP 451 for https://feeds.ivoox.com/feed_fg_f11176956_filtro_1.xml
+17:47:31 WARNING engine: feed error for https://feeds.ivoox.com/feed_fg_f11176956_filtro_1.xml: HTTP 451 for https://feeds.ivoox.com/feed_fg_f11176956_filtro_1.xml
+17:47:35 INFO    engine: feeds: 10000/20147
+17:47:37 WARNING engine: feed error for https://microdoseu.com/feed/podcast: HTTP 403 for https://microdoseu.com/feed/podcast
+17:47:37 WARNING engine: feed error for https://microdoseu.com/feed/podcast: HTTP 403 for https://microdoseu.com/feed/podcast
+17:47:38 WARNING engine: feed error for https://checkyourthread.com/feed/podcast/: HTTP 403 for https://checkyourthread.com/feed/podcast/
+17:47:38 WARNING engine: feed error for https://checkyourthread.com/feed/podcast/: HTTP 403 for https://checkyourthread.com/feed/podcast/
+17:47:39 INFO    engine: feeds: 10100/20147
+17:47:43 INFO    engine: feeds: 10200/20147
+17:47:47 INFO    engine: feeds: 10300/20147
+17:47:51 INFO    engine: feeds: 10400/20147
+17:47:56 INFO    engine: feeds: 10500/20147
+17:48:01 INFO    engine: feeds: 10600/20147
+17:48:06 INFO    engine: feeds: 10700/20147
+17:48:11 INFO    engine: feeds: 10800/20147
+17:48:15 INFO    engine: feeds: 10900/20147
+17:48:20 INFO    engine: feeds: 11000/20147
+17:48:22 WARNING engine: feed error for https://feeds.async.com/fd3b80f9-6170-4406-80b0-63ce40f7fca0.rss: HTTP 404 for https://feeds.async.com/fd3b80f9-6170-4406-80b0-63ce40f7fca0.rss
+17:48:22 WARNING engine: feed error for https://feeds.async.com/fd3b80f9-6170-4406-80b0-63ce40f7fca0.rss: HTTP 404 for https://feeds.async.com/fd3b80f9-6170-4406-80b0-63ce40f7fca0.rss
+17:48:24 INFO    engine: feeds: 11100/20147
+17:48:28 INFO    engine: feeds: 11200/20147
+17:48:32 INFO    engine: feeds: 11300/20147
+17:48:36 INFO    engine: feeds: 11400/20147
+17:48:39 WARNING engine: feed error for https://feeds.transistor.fm/boozy-browsing: HTTP 404 for https://feeds.transistor.fm/boozy-browsing
+17:48:39 WARNING engine: feed error for https://feeds.transistor.fm/boozy-browsing: HTTP 404 for https://feeds.transistor.fm/boozy-browsing
+17:48:40 INFO    engine: feeds: 11500/20147
+17:48:44 INFO    engine: feeds: 11600/20147
+17:48:48 WARNING engine: feed error for https://austincodemonkey.com/feed/podcast/: HTTP 403 for https://austincodemonkey.com/feed/podcast/
+17:48:48 WARNING engine: feed error for https://austincodemonkey.com/feed/podcast/: HTTP 403 for https://austincodemonkey.com/feed/podcast/
+17:48:49 WARNING engine: feed error for https://collavia.com/feed/podcast/: HTTP 403 for https://collavia.com/feed/podcast/
+17:48:49 WARNING engine: feed error for https://collavia.com/feed/podcast/: HTTP 403 for https://collavia.com/feed/podcast/
+17:48:49 INFO    engine: feeds: 11700/20147
+17:48:51 WARNING engine: feed error for https://ultimateradioshow.com/category/shows/homeschool-curious-podcast/feed/podcast/: HTTP 403 for https://ultimateradioshow.com/category/shows/homeschool-curious-podcast/feed/podcast/
+17:48:51 WARNING engine: feed error for https://ultimateradioshow.com/category/shows/homeschool-curious-podcast/feed/podcast/: HTTP 403 for https://ultimateradioshow.com/category/shows/homeschool-curious-podcast/feed/podcast/
+17:48:55 INFO    engine: feeds: 11800/20147
+17:49:00 INFO    engine: feeds: 11900/20147
+17:49:01 WARNING engine: feed error for https://rss.buzzsprout.com/2568664.rss: HTTP 404 for https://rss.buzzsprout.com/2568664.rss
+17:49:01 WARNING engine: feed error for https://rss.buzzsprout.com/2568664.rss: HTTP 404 for https://rss.buzzsprout.com/2568664.rss
+17:49:06 INFO    engine: feeds: 12000/20147
+17:49:06 WARNING engine: feed error for https://feed.podbean.com/fruitfulreader/feed.xml: HTTP 404 for https://feed.podbean.com/fruitfulreader/feed.xml
+17:49:06 WARNING engine: feed error for https://feed.podbean.com/fruitfulreader/feed.xml: HTTP 404 for https://feed.podbean.com/fruitfulreader/feed.xml
+17:49:10 INFO    engine: feeds: 12100/20147
+17:49:15 INFO    engine: feeds: 12200/20147
+17:49:21 INFO    engine: feeds: 12300/20147
+17:49:27 INFO    engine: feeds: 12400/20147
+17:49:32 INFO    engine: feeds: 12500/20147
+17:49:33 WARNING engine: feed error for https://www.spreaker.com/show/7230191/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7230191/episodes/feed
+17:49:33 WARNING engine: feed error for https://www.spreaker.com/show/7230191/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7230191/episodes/feed
+17:49:33 WARNING engine: feed error for https://rss.buzzsprout.com/2627349.rss: HTTP 404 for https://rss.buzzsprout.com/2627349.rss
+17:49:33 WARNING engine: feed error for https://rss.buzzsprout.com/2627349.rss: HTTP 404 for https://rss.buzzsprout.com/2627349.rss
+17:49:34 WARNING engine: feed error for https://www.diwinetaste.com/podcast.php?c=1: Gave up on https://www.diwinetaste.com/podcast.php?c=1: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)>
+17:49:34 WARNING engine: feed error for https://www.diwinetaste.com/podcast.php?c=1: Gave up on https://www.diwinetaste.com/podcast.php?c=1: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)>
+17:49:35 WARNING engine: feed error for https://app.kajabi.com/podcasts/2148103390/feed: HTTP 404 for https://app.kajabi.com/podcasts/2148103390/feed
+17:49:35 WARNING engine: feed error for https://app.kajabi.com/podcasts/2148103390/feed: HTTP 404 for https://app.kajabi.com/podcasts/2148103390/feed
+17:49:36 INFO    engine: feeds: 12600/20147
+17:49:36 WARNING engine: feed error for https://rss.buzzsprout.com/2646560.rss: HTTP 404 for https://rss.buzzsprout.com/2646560.rss
+17:49:36 WARNING engine: feed error for https://rss.buzzsprout.com/2646560.rss: HTTP 404 for https://rss.buzzsprout.com/2646560.rss
+17:49:36 WARNING engine: feed error for https://www.twogeeksandagit.com/tgaag.xml: Gave up on https://www.twogeeksandagit.com/tgaag.xml: <urlopen error [Errno 11001] getaddrinfo failed>
+17:49:36 WARNING engine: feed error for https://www.twogeeksandagit.com/tgaag.xml: Gave up on https://www.twogeeksandagit.com/tgaag.xml: <urlopen error [Errno 11001] getaddrinfo failed>
+17:49:37 WARNING engine: feed error for https://www.spreaker.com/show/7329398/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7329398/episodes/feed
+17:49:37 WARNING engine: feed error for https://www.spreaker.com/show/7329398/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7329398/episodes/feed
+17:49:37 WARNING engine: feed error for https://feeds.acast.com/public/shows/6aa14df68ff451bb22f87f47: HTTP 404 for https://feeds.acast.com/public/shows/6aa14df68ff451bb22f87f47
+17:49:37 WARNING engine: feed error for https://feeds.acast.com/public/shows/6aa14df68ff451bb22f87f47: HTTP 404 for https://feeds.acast.com/public/shows/6aa14df68ff451bb22f87f47
+17:49:38 WARNING engine: feed error for https://www.spreaker.com/show/7350162/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7350162/episodes/feed
+17:49:38 WARNING engine: feed error for https://www.spreaker.com/show/7350162/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7350162/episodes/feed
+17:49:39 WARNING engine: feed error for https://www.spreaker.com/show/7361042/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7361042/episodes/feed
+17:49:39 WARNING engine: feed error for https://www.spreaker.com/show/7361042/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7361042/episodes/feed
+17:49:39 INFO    engine: feeds: 12700/20147
+17:49:41 WARNING engine: feed error for https://www.spreaker.com/show/7441333/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7441333/episodes/feed
+17:49:41 WARNING engine: feed error for https://www.spreaker.com/show/7441333/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7441333/episodes/feed
+17:49:43 WARNING engine: feed error for https://rss.buzzsprout.com/2656772.rss: HTTP 404 for https://rss.buzzsprout.com/2656772.rss
+17:49:43 WARNING engine: feed error for https://rss.buzzsprout.com/2656772.rss: HTTP 404 for https://rss.buzzsprout.com/2656772.rss
+17:49:43 WARNING engine: feed error for https://www.spreaker.com/show/7453850/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7453850/episodes/feed
+17:49:43 WARNING engine: feed error for https://www.spreaker.com/show/7453850/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7453850/episodes/feed
+17:49:44 WARNING engine: feed error for https://feeds.captivate.fm/the-womens-lawyer/: HTTP 404 for https://feeds.captivate.fm/the-womens-lawyer/
+17:49:44 WARNING engine: feed error for https://feeds.captivate.fm/the-womens-lawyer/: HTTP 404 for https://feeds.captivate.fm/the-womens-lawyer/
+17:49:45 INFO    engine: feeds: 12800/20147
+17:49:47 WARNING engine: feed error for https://ultimateradioshow.com/category/the-homeschool-sanity-show/feed/: HTTP 403 for https://ultimateradioshow.com/category/the-homeschool-sanity-show/feed/
+17:49:47 WARNING engine: feed error for https://ultimateradioshow.com/category/the-homeschool-sanity-show/feed/: HTTP 403 for https://ultimateradioshow.com/category/the-homeschool-sanity-show/feed/
+17:49:47 WARNING engine: feed error for https://ultimateradioshow.com/category/ultimate-homeschool-radio-show/feed/: HTTP 403 for https://ultimateradioshow.com/category/ultimate-homeschool-radio-show/feed/
+17:49:47 WARNING engine: feed error for https://ultimateradioshow.com/category/ultimate-homeschool-radio-show/feed/: HTTP 403 for https://ultimateradioshow.com/category/ultimate-homeschool-radio-show/feed/
+17:49:47 WARNING engine: feed error for https://ultimateradioshow.com/category/vintage-homeschool-moms/feed/: HTTP 403 for https://ultimateradioshow.com/category/vintage-homeschool-moms/feed/
+17:49:47 WARNING engine: feed error for https://ultimateradioshow.com/category/vintage-homeschool-moms/feed/: HTTP 403 for https://ultimateradioshow.com/category/vintage-homeschool-moms/feed/
+17:49:47 WARNING engine: feed error for https://ultimateradioshow.com/category/homeschooling-irl/feed/: HTTP 403 for https://ultimateradioshow.com/category/homeschooling-irl/feed/
+17:49:47 WARNING engine: feed error for https://ultimateradioshow.com/category/homeschooling-irl/feed/: HTTP 403 for https://ultimateradioshow.com/category/homeschooling-irl/feed/
+17:49:47 WARNING engine: feed error for https://microdoseu.com/feed/podcast: HTTP 403 for https://microdoseu.com/feed/podcast
+17:49:47 WARNING engine: feed error for https://microdoseu.com/feed/podcast: HTTP 403 for https://microdoseu.com/feed/podcast
+17:49:47 WARNING engine: feed error for http://decadesofhorror.com/feed/podcast/: HTTP 403 for http://decadesofhorror.com/feed/podcast/
+17:49:47 WARNING engine: feed error for http://decadesofhorror.com/feed/podcast/: HTTP 403 for http://decadesofhorror.com/feed/podcast/
+17:49:48 WARNING engine: feed error for https://tiffanyparson.com/feed/podcast/: HTTP 403 for https://tiffanyparson.com/feed/podcast/
+17:49:48 WARNING engine: feed error for https://tiffanyparson.com/feed/podcast/: HTTP 403 for https://tiffanyparson.com/feed/podcast/
+17:49:51 WARNING engine: feed error for https://aiofinancial.com/feed/: HTTP 403 for https://aiofinancial.com/feed/
+17:49:51 WARNING engine: feed error for https://aiofinancial.com/feed/: HTTP 403 for https://aiofinancial.com/feed/
+17:49:51 WARNING engine: feed error for https://productmasterynow.com/feed/podcast/: HTTP 403 for https://productmasterynow.com/feed/podcast/
+17:49:51 WARNING engine: feed error for https://productmasterynow.com/feed/podcast/: HTTP 403 for https://productmasterynow.com/feed/podcast/
+17:49:52 INFO    engine: feeds: 12900/20147
+17:49:57 INFO    engine: feeds: 13000/20147
+17:50:00 WARNING engine: feed error for https://feeds.ivoox.com/feed_fg_f1644699_filtro_1.xml: HTTP 451 for https://feeds.ivoox.com/feed_fg_f1644699_filtro_1.xml
+17:50:00 WARNING engine: feed error for https://feeds.ivoox.com/feed_fg_f1644699_filtro_1.xml: HTTP 451 for https://feeds.ivoox.com/feed_fg_f1644699_filtro_1.xml
+17:50:03 INFO    engine: feeds: 13100/20147
+17:50:07 INFO    engine: feeds: 13200/20147
+17:50:08 WARNING engine: feed error for https://banzaibeat.com/rss/banzaibeat.xml: Gave up on https://banzaibeat.com/rss/banzaibeat.xml: <urlopen error [Errno 11002] getaddrinfo failed>
+17:50:08 WARNING engine: feed error for https://banzaibeat.com/rss/banzaibeat.xml: Gave up on https://banzaibeat.com/rss/banzaibeat.xml: <urlopen error [Errno 11002] getaddrinfo failed>
+17:50:12 INFO    engine: feeds: 13300/20147
+17:50:16 INFO    engine: feeds: 13400/20147
+17:50:20 INFO    engine: feeds: 13500/20147
+17:50:24 INFO    engine: feeds: 13600/20147
+17:50:28 INFO    engine: feeds: 13700/20147
+17:50:32 INFO    engine: feeds: 13800/20147
+17:50:32 WARNING engine: feed error for https://pinecast.com/feed/powering-tomorrow-conversation: HTTP 410 for https://pinecast.com/feed/powering-tomorrow-conversation
+17:50:32 WARNING engine: feed error for https://pinecast.com/feed/powering-tomorrow-conversation: HTTP 410 for https://pinecast.com/feed/powering-tomorrow-conversation
+17:50:33 WARNING engine: feed error for https://media.rss.com/pizza-trailer-for-sale-australia/feed.xml: HTTP 404 for https://media.rss.com/pizza-trailer-for-sale-australia/feed.xml
+17:50:33 WARNING engine: feed error for https://media.rss.com/pizza-trailer-for-sale-australia/feed.xml: HTTP 404 for https://media.rss.com/pizza-trailer-for-sale-australia/feed.xml
+17:50:37 INFO    engine: feeds: 13900/20147
+17:50:47 INFO    engine: feeds: 14000/20147
+17:50:53 WARNING engine: feed error for https://etfprime.com/category/etf-radio-show/feed/podcast: HTTP 403 for https://etfprime.com/category/etf-radio-show/feed/podcast
+17:50:53 WARNING engine: feed error for https://etfprime.com/category/etf-radio-show/feed/podcast: HTTP 403 for https://etfprime.com/category/etf-radio-show/feed/podcast
+17:50:59 INFO    engine: feeds: 14100/20147
+17:51:04 INFO    engine: feeds: 14200/20147
+17:51:06 WARNING engine: feed error for https://www.hoyhablamos.com/category/podcast/feed/: HTTP 403 for https://www.hoyhablamos.com/category/podcast/feed/
+17:51:06 WARNING engine: feed error for https://www.hoyhablamos.com/category/podcast/feed/: HTTP 403 for https://www.hoyhablamos.com/category/podcast/feed/
+17:51:09 WARNING engine: feed error for https://www.music-zone.es/PodcastNBI/NassauIbiza.xml: Gave up on https://www.music-zone.es/PodcastNBI/NassauIbiza.xml: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)>
+17:51:09 WARNING engine: feed error for https://www.music-zone.es/PodcastNBI/NassauIbiza.xml: Gave up on https://www.music-zone.es/PodcastNBI/NassauIbiza.xml: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)>
+17:51:10 INFO    engine: feeds: 14300/20147
+17:51:15 INFO    engine: feeds: 14400/20147
+17:51:17 WARNING engine: feed error for https://joshbraun.com/feed/podcast/: HTTP 403 for https://joshbraun.com/feed/podcast/
+17:51:17 WARNING engine: feed error for https://joshbraun.com/feed/podcast/: HTTP 403 for https://joshbraun.com/feed/podcast/
+17:51:21 INFO    engine: feeds: 14500/20147
+17:51:26 INFO    engine: feeds: 14600/20147
+17:51:28 WARNING engine: feed error for https://physicsworld.com/feed/podcast-weekly/: HTTP 403 for https://physicsworld.com/feed/podcast-weekly/
+17:51:28 WARNING engine: feed error for https://physicsworld.com/feed/podcast-weekly/: HTTP 403 for https://physicsworld.com/feed/podcast-weekly/
+17:51:32 INFO    engine: feeds: 14700/20147
+17:51:45 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/sundayedition.xml: Gave up on https://www.cbc.ca/podcasting/includes/sundayedition.xml: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:51:45 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/sundayedition.xml: Gave up on https://www.cbc.ca/podcasting/includes/sundayedition.xml: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:51:45 INFO    engine: feeds: 14800/20147
+17:51:55 INFO    engine: feeds: 14900/20147
+17:52:00 INFO    engine: feeds: 15000/20147
+17:52:05 WARNING engine: feed error for https://feeds.ivoox.com/feed_fg_f1757774_filtro_1.xml: HTTP 451 for https://feeds.ivoox.com/feed_fg_f1757774_filtro_1.xml
+17:52:05 WARNING engine: feed error for https://feeds.ivoox.com/feed_fg_f1757774_filtro_1.xml: HTTP 451 for https://feeds.ivoox.com/feed_fg_f1757774_filtro_1.xml
+17:52:05 INFO    engine: feeds: 15100/20147
+17:52:11 INFO    engine: feeds: 15200/20147
+17:52:15 INFO    engine: feeds: 15300/20147
+17:52:21 INFO    engine: feeds: 15400/20147
+17:52:23 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/missing.xml: Gave up on https://www.cbc.ca/podcasting/includes/missing.xml: The read operation timed out
+17:52:23 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/missing.xml: Gave up on https://www.cbc.ca/podcasting/includes/missing.xml: The read operation timed out
+17:52:26 INFO    engine: feeds: 15500/20147
+17:52:31 INFO    engine: feeds: 15600/20147
+17:52:37 INFO    engine: feeds: 15700/20147
+17:52:43 INFO    engine: feeds: 15800/20147
+17:52:43 WARNING engine: feed error for https://www.music-zone.es/PodcastDP/UrbanaRS.xml: Gave up on https://www.music-zone.es/PodcastDP/UrbanaRS.xml: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)>
+17:52:43 WARNING engine: feed error for https://www.music-zone.es/PodcastDP/UrbanaRS.xml: Gave up on https://www.music-zone.es/PodcastDP/UrbanaRS.xml: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)>
+17:52:49 INFO    engine: feeds: 15900/20147
+17:52:54 INFO    engine: feeds: 16000/20147
+17:52:59 INFO    engine: feeds: 16100/20147
+17:53:04 INFO    engine: feeds: 16200/20147
+17:53:09 INFO    engine: feeds: 16300/20147
+17:53:15 INFO    engine: feeds: 16400/20147
+17:53:20 INFO    engine: feeds: 16500/20147
+17:53:25 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/costofliving.xml: Gave up on https://www.cbc.ca/podcasting/includes/costofliving.xml: The read operation timed out
+17:53:25 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/costofliving.xml: Gave up on https://www.cbc.ca/podcasting/includes/costofliving.xml: The read operation timed out
+17:53:27 INFO    engine: feeds: 16600/20147
+17:53:34 INFO    engine: feeds: 16700/20147
+17:53:40 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/ideas.xml: Gave up on https://www.cbc.ca/podcasting/includes/ideas.xml: The read operation timed out
+17:53:40 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/ideas.xml: Gave up on https://www.cbc.ca/podcasting/includes/ideas.xml: The read operation timed out
+17:53:42 INFO    engine: feeds: 16800/20147
+17:53:46 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/quirksaio.xml: Gave up on https://www.cbc.ca/podcasting/includes/quirksaio.xml: The read operation timed out
+17:53:46 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/quirksaio.xml: Gave up on https://www.cbc.ca/podcasting/includes/quirksaio.xml: The read operation timed out
+17:53:47 INFO    engine: feeds: 16900/20147
+17:53:51 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/commotion.xml: Gave up on https://www.cbc.ca/podcasting/includes/commotion.xml: The read operation timed out
+17:53:51 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/commotion.xml: Gave up on https://www.cbc.ca/podcasting/includes/commotion.xml: The read operation timed out
+17:53:51 INFO    engine: feeds: 17000/20147
+17:53:55 WARNING engine: feed error for https://robhasawebsite.com/feed/traitors-podcast/?test-1: HTTP 403 for https://robhasawebsite.com/feed/traitors-podcast/?test-1
+17:53:55 WARNING engine: feed error for https://robhasawebsite.com/feed/traitors-podcast/?test-1: HTTP 403 for https://robhasawebsite.com/feed/traitors-podcast/?test-1
+17:53:56 INFO    engine: feeds: 17100/20147
+17:54:00 INFO    engine: feeds: 17200/20147
+17:54:05 INFO    engine: feeds: 17300/20147
+17:54:10 INFO    engine: feeds: 17400/20147
+17:54:15 WARNING engine: feed error for https://www.hoyhablamos.com/feed/podcast-basico/: Bad XML in https://www.hoyhablamos.com/feed/podcast-basico/: not well-formed (invalid token): line 1, column 136
+17:54:15 WARNING engine: feed error for https://www.hoyhablamos.com/feed/podcast-basico/: Bad XML in https://www.hoyhablamos.com/feed/podcast-basico/: not well-formed (invalid token): line 1, column 136
+17:54:15 INFO    engine: feeds: 17500/20147
+17:54:21 INFO    engine: feeds: 17600/20147
+17:54:28 INFO    engine: feeds: 17700/20147
+17:54:35 INFO    engine: feeds: 17800/20147
+17:54:37 WARNING engine: feed error for https://www.bizcast.in/feed/the-trade-show-podcast/: HTTP 522 for https://www.bizcast.in/feed/the-trade-show-podcast/
+17:54:37 WARNING engine: feed error for https://www.bizcast.in/feed/the-trade-show-podcast/: HTTP 522 for https://www.bizcast.in/feed/the-trade-show-podcast/
+17:54:39 INFO    engine: feeds: 17900/20147
+17:54:44 INFO    engine: feeds: 18000/20147
+17:54:47 WARNING engine: feed error for https://feeds.ivoox.com/feed_fg_f12597222_filtro_1.xml: HTTP 451 for https://feeds.ivoox.com/feed_fg_f12597222_filtro_1.xml
+17:54:47 WARNING engine: feed error for https://feeds.ivoox.com/feed_fg_f12597222_filtro_1.xml: HTTP 451 for https://feeds.ivoox.com/feed_fg_f12597222_filtro_1.xml
+17:54:49 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/outlawocean.xml: Gave up on https://www.cbc.ca/podcasting/includes/outlawocean.xml: The read operation timed out
+17:54:49 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/outlawocean.xml: Gave up on https://www.cbc.ca/podcasting/includes/outlawocean.xml: The read operation timed out
+17:54:49 INFO    engine: feeds: 18100/20147
+17:54:52 WARNING engine: feed error for https://feeds.ivoox.com/feed_fg_f12494259_filtro_1.xml: HTTP 451 for https://feeds.ivoox.com/feed_fg_f12494259_filtro_1.xml
+17:54:52 WARNING engine: feed error for https://feeds.ivoox.com/feed_fg_f12494259_filtro_1.xml: HTTP 451 for https://feeds.ivoox.com/feed_fg_f12494259_filtro_1.xml
+17:54:54 INFO    engine: feeds: 18200/20147
+17:54:55 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/runhiderepeat.xml: Gave up on https://www.cbc.ca/podcasting/includes/runhiderepeat.xml: The read operation timed out
+17:54:55 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/runhiderepeat.xml: Gave up on https://www.cbc.ca/podcasting/includes/runhiderepeat.xml: The read operation timed out
+17:54:55 WARNING engine: feed error for https://feed.mirrorvoice.com.tw/rss/pw.xml: Gave up on https://feed.mirrorvoice.com.tw/rss/pw.xml: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)>
+17:54:55 WARNING engine: feed error for https://feed.mirrorvoice.com.tw/rss/pw.xml: Gave up on https://feed.mirrorvoice.com.tw/rss/pw.xml: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)>
+17:54:58 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/nakedemperor.xml: Gave up on https://www.cbc.ca/podcasting/includes/nakedemperor.xml: The read operation timed out
+17:54:58 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/nakedemperor.xml: Gave up on https://www.cbc.ca/podcasting/includes/nakedemperor.xml: The read operation timed out
+17:54:59 INFO    engine: feeds: 18300/20147
+17:55:03 INFO    engine: feeds: 18400/20147
+17:55:08 INFO    engine: feeds: 18500/20147
+17:55:14 INFO    engine: feeds: 18600/20147
+17:55:20 INFO    engine: feeds: 18700/20147
+17:55:26 INFO    engine: feeds: 18800/20147
+17:55:28 WARNING engine: feed error for https://feeds.transistor.fm/the-daily-habit-guided-japanese-learning-for-beginners: HTTP 404 for https://feeds.transistor.fm/the-daily-habit-guided-japanese-learning-for-beginners
+17:55:28 WARNING engine: feed error for https://feeds.transistor.fm/the-daily-habit-guided-japanese-learning-for-beginners: HTTP 404 for https://feeds.transistor.fm/the-daily-habit-guided-japanese-learning-for-beginners
+17:55:31 INFO    engine: feeds: 18900/20147
+17:55:34 WARNING engine: feed error for https://api.audioteca.rac1.cat/rss/tu-diras/: HTTP 403 for https://api.audioteca.rac1.cat/rss/tu-diras/
+17:55:34 WARNING engine: feed error for https://api.audioteca.rac1.cat/rss/tu-diras/: HTTP 403 for https://api.audioteca.rac1.cat/rss/tu-diras/
+17:55:36 INFO    engine: feeds: 19000/20147
+17:55:38 WARNING engine: feed error for https://esl.culips.com/feed/podcast/: Bad XML in https://esl.culips.com/feed/podcast/: not well-formed (invalid token): line 1, column 129
+17:55:38 WARNING engine: feed error for https://esl.culips.com/feed/podcast/: Bad XML in https://esl.culips.com/feed/podcast/: not well-formed (invalid token): line 1, column 129
+17:55:42 INFO    engine: feeds: 19100/20147
+17:55:42 WARNING engine: feed error for https://www.talkingdeadpodcast.com/feed/podcast: Bad XML in https://www.talkingdeadpodcast.com/feed/podcast: not well-formed (invalid token): line 1, column 126
+17:55:42 WARNING engine: feed error for https://www.talkingdeadpodcast.com/feed/podcast: Bad XML in https://www.talkingdeadpodcast.com/feed/podcast: not well-formed (invalid token): line 1, column 126
+17:55:43 WARNING engine: feed error for https://thestrangebrew.co.uk/?feed=podcast: Bad XML in https://thestrangebrew.co.uk/?feed=podcast: not well-formed (invalid token): line 1, column 129
+17:55:43 WARNING engine: feed error for https://thestrangebrew.co.uk/?feed=podcast: Bad XML in https://thestrangebrew.co.uk/?feed=podcast: not well-formed (invalid token): line 1, column 129
+17:55:50 INFO    engine: feeds: 19200/20147
+17:55:56 INFO    engine: feeds: 19300/20147
+17:55:56 WARNING engine: feed error for https://rss.pdrl.fm/118060/robhasawebsite.com/feed/big-brother/: HTTP 403 for https://rss.pdrl.fm/118060/robhasawebsite.com/feed/big-brother/
+17:55:56 WARNING engine: feed error for https://rss.pdrl.fm/118060/robhasawebsite.com/feed/big-brother/: HTTP 403 for https://rss.pdrl.fm/118060/robhasawebsite.com/feed/big-brother/
+17:55:58 WARNING engine: feed error for http://blasphemoustomes.com/category/podcast/feed/: Bad XML in http://blasphemoustomes.com/category/podcast/feed/: not well-formed (invalid token): line 1, column 140
+17:55:58 WARNING engine: feed error for http://blasphemoustomes.com/category/podcast/feed/: Bad XML in http://blasphemoustomes.com/category/podcast/feed/: not well-formed (invalid token): line 1, column 140
+17:56:01 INFO    engine: feeds: 19400/20147
+17:56:03 WARNING engine: feed error for https://www.spreaker.com/show/7230429/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7230429/episodes/feed
+17:56:03 WARNING engine: feed error for https://www.spreaker.com/show/7230429/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7230429/episodes/feed
+17:56:07 INFO    engine: feeds: 19500/20147
+17:56:09 WARNING engine: feed error for https://media.rss.com/audiobooks-pod6/feed.xml: HTTP 404 for https://media.rss.com/audiobooks-pod6/feed.xml
+17:56:09 WARNING engine: feed error for https://media.rss.com/audiobooks-pod6/feed.xml: HTTP 404 for https://media.rss.com/audiobooks-pod6/feed.xml
+17:56:10 WARNING engine: feed error for https://www.spreaker.com/show/7309938/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7309938/episodes/feed
+17:56:10 WARNING engine: feed error for https://www.spreaker.com/show/7309938/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7309938/episodes/feed
+17:56:10 WARNING engine: feed error for https://www.spreaker.com/show/7309953/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7309953/episodes/feed
+17:56:10 WARNING engine: feed error for https://www.spreaker.com/show/7309953/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7309953/episodes/feed
+17:56:12 WARNING engine: feed error for https://media.rss.com/audiobooks-pod6/feed.xml: HTTP 404 for https://media.rss.com/audiobooks-pod6/feed.xml
+17:56:12 WARNING engine: feed error for https://media.rss.com/audiobooks-pod6/feed.xml: HTTP 404 for https://media.rss.com/audiobooks-pod6/feed.xml
+17:56:13 INFO    engine: feeds: 19600/20147
+17:56:13 WARNING engine: feed error for https://www.spreaker.com/show/7350155/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7350155/episodes/feed
+17:56:13 WARNING engine: feed error for https://www.spreaker.com/show/7350155/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7350155/episodes/feed
+17:56:15 WARNING engine: feed error for https://www.spreaker.com/show/7373683/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7373683/episodes/feed
+17:56:15 WARNING engine: feed error for https://www.spreaker.com/show/7373683/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7373683/episodes/feed
+17:56:15 WARNING engine: feed error for https://feeds.acast.com/public/shows/6ad103669fea6e0a642334b4: HTTP 404 for https://feeds.acast.com/public/shows/6ad103669fea6e0a642334b4
+17:56:15 WARNING engine: feed error for https://feeds.acast.com/public/shows/6ad103669fea6e0a642334b4: HTTP 404 for https://feeds.acast.com/public/shows/6ad103669fea6e0a642334b4
+17:56:19 WARNING engine: feed error for https://www.spreaker.com/show/7467009/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7467009/episodes/feed
+17:56:19 WARNING engine: feed error for https://www.spreaker.com/show/7467009/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7467009/episodes/feed
+17:56:20 INFO    engine: feeds: 19700/20147
+17:56:20 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/seeyouincourt.xml: Gave up on https://www.cbc.ca/podcasting/includes/seeyouincourt.xml: The read operation timed out
+17:56:20 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/seeyouincourt.xml: Gave up on https://www.cbc.ca/podcasting/includes/seeyouincourt.xml: The read operation timed out
+17:56:23 WARNING engine: feed error for https://www.spreaker.com/show/7453695/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7453695/episodes/feed
+17:56:23 WARNING engine: feed error for https://www.spreaker.com/show/7453695/episodes/feed: HTTP 404 for https://www.spreaker.com/show/7453695/episodes/feed
+17:56:26 INFO    engine: feeds: 19800/20147
+17:56:31 WARNING engine: feed error for https://www.firpodcastnetwork.com/for-immediate-release/feed/: Bad XML in https://www.firpodcastnetwork.com/for-immediate-release/feed/: not well-formed (invalid token): line 1, column 143
+17:56:31 WARNING engine: feed error for https://www.firpodcastnetwork.com/for-immediate-release/feed/: Bad XML in https://www.firpodcastnetwork.com/for-immediate-release/feed/: not well-formed (invalid token): line 1, column 143
+17:56:32 INFO    engine: feeds: 19900/20147
+17:56:39 INFO    engine: feeds: 20000/20147
+17:56:41 WARNING engine: feed error for https://feeds.ivoox.com/feed_fg_f1170563_filtro_1.xml: HTTP 451 for https://feeds.ivoox.com/feed_fg_f1170563_filtro_1.xml
+17:56:41 WARNING engine: feed error for https://feeds.ivoox.com/feed_fg_f1170563_filtro_1.xml: HTTP 451 for https://feeds.ivoox.com/feed_fg_f1170563_filtro_1.xml
+17:56:45 INFO    engine: feeds: 20100/20147
+17:56:45 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/qpodcast.xml: Gave up on https://www.cbc.ca/podcasting/includes/qpodcast.xml: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:56:45 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/qpodcast.xml: Gave up on https://www.cbc.ca/podcasting/includes/qpodcast.xml: [WinError 10054] An existing connection was forcibly closed by the remote host
+17:56:53 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/whitecoat.xml: Gave up on https://www.cbc.ca/podcasting/includes/whitecoat.xml: The read operation timed out
+17:56:53 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/whitecoat.xml: Gave up on https://www.cbc.ca/podcasting/includes/whitecoat.xml: The read operation timed out
+17:56:57 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/writersandco.xml: Gave up on https://www.cbc.ca/podcasting/includes/writersandco.xml: The read operation timed out
+17:56:57 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/writersandco.xml: Gave up on https://www.cbc.ca/podcasting/includes/writersandco.xml: The read operation timed out
+17:57:00 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/nextchapter.xml: Gave up on https://www.cbc.ca/podcasting/includes/nextchapter.xml: The read operation timed out
+17:57:00 WARNING engine: feed error for https://www.cbc.ca/podcasting/includes/nextchapter.xml: Gave up on https://www.cbc.ca/podcasting/includes/nextchapter.xml: The read operation timed out
+18:02:56 INFO    engine: country enrichment: 957 creators fail only on country; fetching 23 websites
+18:03:14 INFO    engine: country enrichment: 95 creators verified via their website
+
+=== run summary ===
+             qualified: 1048
+              rejected: 19045
+   reserve_country_cap: 73
+    duplicates_removed: 42
+           feed_errors: 185
+           runtime_min: 27.05
+       direct_cost_usd: 0.0
+             countries: {'CA': 76, 'US': 576, 'IE': 22, 'AU': 146, 'GB': 205, 'NZ': 22, 'SG': 1}
+              priority: {'A': 250, 'B': 419, 'C': 379}
+         best_channels: {'Email': 743, 'Instagram': 226, 'LinkedIn': 66, 'TikTok': 1, 'X': 12}
+
+Wrote output/leads.csv (1048 leads), output/run_report.json, outreach/

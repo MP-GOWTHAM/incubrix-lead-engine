@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "Dating Advice Men HATE: Stop Letting Them Set the Rules (feat. Canada's Dating Coach)" (2026-10-19); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript
 - **Commercial signal:** Membership/subscription: "hat channels just for you 👉 https://www.patreon.com/audacitea 🛍️ Shop The Audaci-Tea Merch Store https://audaci" (episode 'Dating Advice Men HATE: Stop Letting Them Set the Rules (feat. Canada'') (https://theaudacitea.podbean.com/e/dating-advice-men-hate-stop-letting-them-set-the-rules-feat-canadas-dating-coach/)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Email · day 0
 **Subject:** "Dating Advice Men HATE: Stop Letting Them Set…" as clips?

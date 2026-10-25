@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "Episode #113: Shopify vs GA4: Why Your Revenue Numbers Don't Match" (2026-10-06); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~28-min episodes; no YouTube/Instagram/TikTok clip channel linked in the feed; Publishing consistency: gap of 293 days between episodes vs a usual 45.5-day rhythm
 - **Commercial signal:** Service (coaching/consulting): "olio Keith on LinkedIn Milk Bottle Labs Work with Us All Podcast Episodes https://www.slideruleanalytics.com htt" (episode 'Episode #113: Shopify vs GA4: Why Your Revenue Numbers Don't Match') (https://podcast.milkbottlelabs.com/episodes/episode-113-shopify-vs-ga4-why-your-revenue-numbers-dont-match-st2hZmiv)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Email · day 0
 **Subject:** "Shopify vs GA4: Why Your Revenue Numbers Don't…" as clips?

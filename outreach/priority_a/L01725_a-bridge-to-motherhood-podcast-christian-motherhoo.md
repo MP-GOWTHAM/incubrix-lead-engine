@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "74. Your Baby’s Gut Microbiome and Why the First 1000 Days Matter with Dr. Savita…" (2026-10-20); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~31-min episodes; no YouTube/Instagram/TikTok clip channel linked in the feed; Publishing consistency: gap of 57 days between episodes vs a usual 7-day rhythm
 - **Commercial signal:** Membership/subscription: "tps://link.amazon/B09YqpQqb https://www.buzzsprout.com/2424609/support https://abridgetomotherhood.com/ http://www.abrid" (episode '74. Your Baby’s Gut Microbiome and Why the First 1000 Days Matter with') (https://www.abridgetomotherhood.com/podcast/103)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Email · day 0
 **Subject:** "74. Your Baby’s Gut Microbiome and Why the…" as clips?

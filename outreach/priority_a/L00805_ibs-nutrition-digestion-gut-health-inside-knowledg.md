@@ -1,25 +1,25 @@
 # L00805 · Anna Mapson · IBS Nutrition, Digestion & Gut Health: Inside Knowledge for people with IBS
 
-- **Segment:** Expert-Led Creator · **Country:** GB · **Score:** 82
+- **Segment:** Expert-Led Creator · **Country:** GB · **Score:** 88
 - **Profile:** https://podcasts.apple.com/gb/podcast/ibs-nutrition-digestion-gut-health-inside-knowledge/id1687954406
 - **Best channel:** Email → `info@goodnessme-nutrition.com` (evidence: https://www.goodnessme-nutrition.com/inside-knowledge-for-ibs/)
 - **Backup channel:** Instagram → `https://www.instagram.com/goodnessme_nutrition/`
-- **Hook:** Latest episode "Ep 168 - IBS constipation series: Diets for IBS-C sufferers" (2026-10-13); Captions/transcripts
-- **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~29-min episodes; no YouTube/TikTok clip channel linked in the feed; Publishing consistency: gap of 35 days between episodes vs a usual 7-day rhythm
-- **Commercial signal:** Course/product: "s/insideknowledgeforpeoplewithibs/ Read my book - Inside Knowledge for people with IBS & SIBO (find it on A" (episode 'Ep 168 - IBS constipation series: Diets for IBS-C sufferers') (https://www.goodnessme-nutrition.com/inside-knowledge-for-ibs/)
-- **Checked:** 2026-10-22
+- **Hook:** Latest episode "*Bonus* IBS constipation series - answering your FAQ" (2026-10-23); Captions/transcripts
+- **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~26-min episodes; no YouTube/TikTok clip channel linked in the feed; Publishing consistency: gap of 35 days between episodes vs a usual 7-day rhythm
+- **Commercial signal:** Course/product: ".com/product/low-fodmap-exit-plan/ Read my book - Inside Knowledge for people with IBS & SIBO (find it on A" (episode '*Bonus* IBS constipation series - answering your FAQ') (https://www.goodnessme-nutrition.com/inside-knowledge-for-ibs/)
+- **Checked:** 2026-10-25
 
 ## Step 1 · Email · day 0
-**Subject:** "IBS constipation series: Diets for IBS-C…" as clips?
+**Subject:** "*Bonus* IBS constipation series - answering…" as clips?
 
 ```text
 Hi Anna,
 
-I came across "IBS constipation series: Diets for IBS-C sufferers" from IBS Nutrition, Digestion & Gut Health (Oct 13). At ~29 minutes per episode, there are easily ten clips in each one, and I didn't see a YouTube Shorts or TikTok channel linked from the show.
+I came across "*Bonus* IBS constipation series - answering your FAQ" from IBS Nutrition, Digestion & Gut Health (Oct 23). At ~26 minutes per episode, there are easily ten clips in each one, and I didn't see a YouTube Shorts or TikTok channel linked from the show.
 
 IncuBrix is a creator studio that turns one recording into captioned clips, quote posts and platform-sized versions, then schedules them to YouTube, Instagram, LinkedIn and Spotify from one screen. For coaches and educators it means every session insight becomes content that finds new clients.
 
-If it helps, I can run "IBS constipation series: Diets for IBS-C…" through it and send you three ready-to-post clips. No call and no card needed. Would that be useful?
+If it helps, I can run "*Bonus* IBS constipation series - answering…" through it and send you three ready-to-post clips. No call and no card needed. Would that be useful?
 
 Gowtham M P
 Growth Engineer candidate for IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
@@ -29,10 +29,10 @@ Not for you? Reply "no thanks" and I won't email you again.
 ```
 
 ## Step 2 · Email · day 4
-**Subject:** Re: "IBS constipation series: Diets for IBS-C…" as clips?
+**Subject:** Re: "*Bonus* IBS constipation series - answering…" as clips?
 
 ```text
-Hi Anna, a quick follow-up on my note about "IBS constipation series: Diets for IBS-C…". Your earlier episode, "IBS constipation series: Causes of constipation", would work just as well. IncuBrix picks out the strongest moments, adds word-by-word captions in your own fonts and colours, and lets you fix a flubbed line by editing the transcript instead of re-recording.
+Hi Anna, a quick follow-up on my note about "*Bonus* IBS constipation series - answering…". Your earlier episode, "IBS constipation series: Morning routine to get things moving", would work just as well. IncuBrix picks out the strongest moments, adds word-by-word captions in your own fonts and colours, and lets you fix a flubbed line by editing the transcript instead of re-recording.
 
 Happy to send the three sample clips. Just reply "yes".
 
@@ -58,5 +58,5 @@ Not for you? Reply "no thanks" and I won't email you again.
 ## Step 4 · Instagram · day 14
 
 ```text
-Hi Anna! Just found "IBS constipation series: Diets for IBS-C…" from IBS Nutrition, Digestion & Gut Health. At ~29 minutes per episode, there are easily ten clips in each one, and I didn't see a YouTube Shorts or TikTok channel linked from the show. I'm Gowtham M P. I'm helping launch IncuBrix, which turns one recording into captioned, ready-to-post clips. Want me to send 3 free sample clips from that episode? If it's not relevant, just say so and I won't message again.
+Hi Anna! Just found "*Bonus* IBS constipation series - answering…" from IBS Nutrition, Digestion & Gut Health. At ~26 minutes per episode, there are easily ten clips in each one, and I didn't see a YouTube Shorts or TikTok channel linked from the show. I'm Gowtham M P. I'm helping launch IncuBrix, which turns one recording into captioned, ready-to-post clips. Want me to send 3 free sample clips from that episode? If it's not relevant, just say so and I won't message again.
 ```

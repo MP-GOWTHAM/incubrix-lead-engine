@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "Why Do We Love Being Scared? Therapists React to Horror Movies" (2026-10-16); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Publishing consistency: gap of 485 days between episodes vs a usual 14-day rhythm
 - **Commercial signal:** Membership/subscription: "ng as little as $3 a month: https://www.patreon.com/c/Therapistcristal Follow me on Instagram: https://www.inst" (episode 'Ain't No Rest for the Empathetic - The Burnout Trap') (https://Throughtheeyesofatherapist.podbean.com/e/aint-no-rest-for-the-empathetic-the-burnout-trap/)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Instagram · day 0
 

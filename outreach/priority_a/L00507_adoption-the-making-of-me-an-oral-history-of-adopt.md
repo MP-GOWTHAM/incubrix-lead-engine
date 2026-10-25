@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "Dana: The Truth Worth Finding" (2026-10-20); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~64-min episodes; no YouTube/TikTok clip channel linked in the feed
 - **Commercial signal:** Sponsorship: "rth it. Dana on YouTube This Episode Is Sponsored by Lovebug Probiotics We spend a lot of time on Adoption: The" (episode 'Dana: The Truth Worth Finding') (https://bleav.com/shows/adoption-the-making-of-me-an-oral-history-of-adoptee-stories/?post_type=gp_podcast_episode&p=254)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Email · day 0
 **Subject:** "Dana: The Truth Worth Finding" as clips?

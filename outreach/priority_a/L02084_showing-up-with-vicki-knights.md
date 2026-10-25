@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "66. What I've Learnt About Confidence, Visibility and Being Yourself" (2026-10-15); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~27-min episodes; no YouTube/TikTok clip channel linked in the feed; Publishing consistency: gap of 67 days between episodes vs a usual 15-day rhythm
 - **Commercial signal:** Sponsorship: "self-paced course, UNCOVER YOUR MAGIC (Use the code SHOWING UP for 10% off) https://vickiknights.co.uk/brave ht" (episode '66. What I've Learnt About Confidence, Visibility and Being Yourself') (https://vickiknights.co.uk//66-what-ive-learnt-about-confidence-visibility-and-being-yourself)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Instagram · day 0
 

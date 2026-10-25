@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "119. World Osteoporosis Day: Protecting Your Bones in Perimenopause and Menopause with…" (2026-10-19); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~52-min episodes; no YouTube/TikTok clip channel linked in the feed
 - **Commercial signal:** Sponsorship: "Spine Health Foundation. Listeners can use code SEENSTRONG at checkout for an extra 10% off a first purchas" (episode '119. World Osteoporosis Day: Protecting Your Bones in Perimenopause an') (https://www.womenmasteringmidlife.com)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Instagram · day 0
 

@@ -2,24 +2,24 @@
 
 - **Segment:** Podcaster/Video Podcaster · **Country:** US · **Score:** 69
 - **Profile:** https://podcasts.apple.com/sg/podcast/play-ready-golf-strokes-gained-for-the-9-to-5-golfer/id1865900190
-- **Best channel:** Email → `isaak@playready.golf` (evidence: https://rss.com/podcasts/play-ready-golf/3198526)
+- **Best channel:** Email → `isaak@playready.golf` (evidence: https://rss.com/podcasts/play-ready-golf/3244456)
 - **Backup channel:** Contact form → `https://playready.golf/`
-- **Hook:** Latest episode "Golf’s Most Useless Practice Is the Kind You’re Good At" (2026-10-16); Captions/transcripts
-- **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~51-min episodes; no YouTube/Instagram/TikTok clip channel linked in the feed
+- **Hook:** Latest episode "Golf’s Sneakiest Number Is Stamped on Your Wedge" (2026-10-23); Captions/transcripts
+- **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~50-min episodes; no YouTube/Instagram/TikTok clip channel linked in the feed
 - **Commercial signal:** Membership/subscription: "w drop every Friday. Guest episodes are bonus episodes early in the week. Isaak is a competitive mid-am who helps" (episode 'Golf’s Most Useless Practice Is the Kind You’re Good At') (https://rss.com/podcasts/play-ready-golf/3226527)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Email · day 0
-**Subject:** "Golf’s Most Useless Practice Is the Kind…" as clips?
+**Subject:** "Golf’s Sneakiest Number Is Stamped on Your Wedge" as clips?
 
 ```text
 Hi Isaak,
 
-I came across "Golf’s Most Useless Practice Is the Kind You’re Good At" from Play Ready Golf (Oct 16). At ~51 minutes per episode, there are easily ten clips in each one, and I didn't see a YouTube Shorts or Instagram Reels channel linked from the show.
+I came across "Golf’s Sneakiest Number Is Stamped on Your Wedge" from Play Ready Golf (Oct 23). At ~50 minutes per episode, there are easily ten clips in each one, and I didn't see a YouTube Shorts or Instagram Reels channel linked from the show.
 
 IncuBrix is a creator studio that turns one recording into captioned clips, quote posts and platform-sized versions, then schedules them to YouTube, Instagram, LinkedIn and Spotify from one screen. For podcasters it means one episode becomes a week of clips, quotes and posts.
 
-If it helps, I can run "Golf’s Most Useless Practice Is the Kind…" through it and send you three ready-to-post clips. No call and no card needed. Would that be useful?
+If it helps, I can run "Golf’s Sneakiest Number Is Stamped on Your Wedge" through it and send you three ready-to-post clips. No call and no card needed. Would that be useful?
 
 Gowtham M P
 Growth Engineer candidate for IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
@@ -29,10 +29,10 @@ Not for you? Reply "no thanks" and I won't email you again.
 ```
 
 ## Step 2 · Email · day 4
-**Subject:** Re: "Golf’s Most Useless Practice Is the Kind…" as clips?
+**Subject:** Re: "Golf’s Sneakiest Number Is Stamped on Your Wedge" as clips?
 
 ```text
-Hi Isaak, a quick follow-up on my note about "Golf’s Most Useless Practice Is the Kind…". Your earlier episode, "Why You Play Better When You Don't Care - Sam Jackson", would work just as well. IncuBrix picks out the strongest moments, adds word-by-word captions in your own fonts and colours, and lets you fix a flubbed line by editing the transcript instead of re-recording.
+Hi Isaak, a quick follow-up on my note about "Golf’s Sneakiest Number Is Stamped on Your Wedge". Your earlier episode, "He Barely Practices and Still Plays to a +5 - Kris Marshall (Ep. 43)", would work just as well. IncuBrix picks out the strongest moments, adds word-by-word captions in your own fonts and colours, and lets you fix a flubbed line by editing the transcript instead of re-recording.
 
 Happy to send the three sample clips. Just reply "yes".
 
@@ -56,16 +56,16 @@ Not for you? Reply "no thanks" and I won't email you again.
 ```
 
 ## Step 4 · Contact form · day 14
-**Subject:** "Golf’s Most Useless Practice Is the Kind…" as clips?
+**Subject:** "Golf’s Sneakiest Number Is Stamped on Your Wedge" as clips?
 
 ```text
 Hi Isaak,
 
-I came across "Golf’s Most Useless Practice Is the Kind You’re Good At" from Play Ready Golf (Oct 16). At ~51 minutes per episode, there are easily ten clips in each one, and I didn't see a YouTube Shorts or Instagram Reels channel linked from the show.
+I came across "Golf’s Sneakiest Number Is Stamped on Your Wedge" from Play Ready Golf (Oct 23). At ~50 minutes per episode, there are easily ten clips in each one, and I didn't see a YouTube Shorts or Instagram Reels channel linked from the show.
 
 IncuBrix is a creator studio that turns one recording into captioned clips, quote posts and platform-sized versions, then schedules them to YouTube, Instagram, LinkedIn and Spotify from one screen. For podcasters it means one episode becomes a week of clips, quotes and posts.
 
-If it helps, I can run "Golf’s Most Useless Practice Is the Kind…" through it and send you three ready-to-post clips. No call and no card needed. Would that be useful?
+If it helps, I can run "Golf’s Sneakiest Number Is Stamped on Your Wedge" through it and send you three ready-to-post clips. No call and no card needed. Would that be useful?
 
 Gowtham M P
 Growth Engineer candidate for IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)

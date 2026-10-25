@@ -1,13 +1,13 @@
 # L00691 · Megan Winter · Meta Ads: Under the Hood
 
-- **Segment:** Expert-Led Creator · **Country:** AU · **Score:** 75
+- **Segment:** Expert-Led Creator · **Country:** AU · **Score:** 73
 - **Profile:** https://podcasts.apple.com/nz/podcast/meta-ads-under-the-hood/id1650174655
 - **Best channel:** Email → `support@meganwinter.com.au` (evidence: https://rss.libsyn.com/shows/441627/destinations/3693189.xml)
 - **Backup channel:** Contact form → `https://meganwinter.com.au/`
 - **Hook:** Latest episode "Rejecting discount culture & navigating copycat brands with Denise Dunn" (2026-10-19); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~33-min episodes; no YouTube/Instagram/TikTok clip channel linked in the feed; Publishing consistency: gap of 42 days between episodes vs a usual 7-day rhythm
 - **Commercial signal:** Service (coaching/consulting): "un Meta ads like a pro is opening soon. Apply now . Hire me and my team to run your ads. Learn more . Learn h" (episode 'Rejecting discount culture & navigating copycat brands with Denise Dun') (https://meganwinter.com.au/podcast/rejecting-discount-culture-navigating-copycat-brands-with-denise-dunn)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Email · day 0
 **Subject:** "Rejecting discount culture & navigating…" as clips?

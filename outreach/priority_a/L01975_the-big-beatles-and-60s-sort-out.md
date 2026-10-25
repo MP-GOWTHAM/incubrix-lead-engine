@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "The Big 60s Sort Out USA! Ep 21 - 'Have you had your crooner mush?'" (2026-10-19); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~77-min episodes; no YouTube/Instagram/TikTok clip channel linked in the feed; Publishing consistency: gap of 44 days between episodes vs a usual 7-day rhythm
 - **Commercial signal:** Sponsorship: "on CD or Vinyl here and you can use the offer code WELCOME10 on your first purchase for 10% off! ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠" (episode 'The Big 60s Sort Out USA! Ep 21 - 'Have you had your crooner mush?'') (https://podcasters.spotify.com/pod/show/garry-abbott/episodes/The-Big-60s-Sort-Out-USA--Ep-21---Have-you-had-your-crooner-mush-e3qic4k)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Email · day 0
 **Subject:** "The Big 60s Sort Out USA! Ep 21 - 'Have you…" as clips?

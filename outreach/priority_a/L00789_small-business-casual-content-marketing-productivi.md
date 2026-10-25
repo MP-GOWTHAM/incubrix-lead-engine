@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "Balance is Boring (and that's ok)" (2026-10-20); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~28-min episodes; no YouTube/TikTok clip channel linked in the feed
 - **Commercial signal:** Sponsorship: "odcast Powerful Women Rising Community (use code: podcast for a free ticket!): https://powerfulwomenrising.c" (episode 'The Introvert's Guide to Networking (without the car salesman vibes) f') (https://rss.buzzsprout.com/2160062.rss)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Email · day 0
 **Subject:** "Balance is Boring (and that's ok)" as clips?

@@ -4,22 +4,22 @@
 - **Profile:** https://podcasts.apple.com/us/podcast/how-haunted-podcast-horrible-histories-real-life-ghost/id1639335870
 - **Best channel:** Email → `rob@how-haunted.com` (evidence: https://feeds.megaphone.fm/SGMKL4246817726)
 - **Backup channel:** Contact form → `https://how-haunted.com`
-- **Hook:** Latest episode "October Patreon Teaser - Elmwood House Alone Part 1" (2026-10-18); Captions/transcripts
-- **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~55-min episodes; no YouTube/Instagram/TikTok clip channel linked in the feed
-- **Commercial signal:** Membership/subscription: "the full episode at ⁠⁠⁠⁠⁠⁠⁠⁠https://www.patreon.com/howhauntedpod⁠⁠⁠⁠ .⁠⁠⁠⁠ If you don't wish to subscribe to P" (episode 'October Patreon Teaser - Elmwood House Alone Part 1') (https://feeds.megaphone.fm/SGMKL4246817726)
-- **Checked:** 2026-10-22
+- **Hook:** Latest episode "Bonus Episode 35 - Scaffold Hill Hospital EXTENDED EDITION Part 2" (2026-10-24); Captions/transcripts
+- **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~71-min episodes; no YouTube/Instagram/TikTok clip channel linked in the feed
+- **Commercial signal:** Membership/subscription: "day free trial, head on over to https://patreon.com/HowHauntedPod If you'd like to hear this episode, but not c" (episode 'Bonus Episode 35 - Scaffold Hill Hospital EXTENDED EDITION Part 2') (https://feeds.megaphone.fm/SGMKL4246817726)
+- **Checked:** 2026-10-25
 
 ## Step 1 · Email · day 0
-**Subject:** "October Patreon Teaser - Elmwood House Alone…" as clips?
+**Subject:** "Bonus Episode 35 - Scaffold Hill Hospital…" as clips?
 
 ```text
 Hi Rob,
 
-I came across "October Patreon Teaser - Elmwood House Alone Part 1" from How Haunted? Podcast (Oct 18). At ~55 minutes per episode, there are easily ten clips in each one, and I didn't see a YouTube Shorts or Instagram Reels channel linked from the show.
+I came across "Bonus Episode 35 - Scaffold Hill Hospital EXTENDED EDITION Part 2" from How Haunted? Podcast (Oct 24). At ~71 minutes per episode, there are easily ten clips in each one, and I didn't see a YouTube Shorts or Instagram Reels channel linked from the show.
 
 IncuBrix is a creator studio that turns one recording into captioned clips, quote posts and platform-sized versions, then schedules them to YouTube, Instagram, LinkedIn and Spotify from one screen. For podcasters it means one episode becomes a week of clips, quotes and posts.
 
-If it helps, I can run "October Patreon Teaser - Elmwood House Alone…" through it and send you three ready-to-post clips. No call and no card needed. Would that be useful?
+If it helps, I can run "Bonus Episode 35 - Scaffold Hill Hospital…" through it and send you three ready-to-post clips. No call and no card needed. Would that be useful?
 
 Gowtham M P
 Growth Engineer candidate for IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)
@@ -29,10 +29,10 @@ Not for you? Reply "no thanks" and I won't email you again.
 ```
 
 ## Step 2 · Email · day 4
-**Subject:** Re: "October Patreon Teaser - Elmwood House Alone…" as clips?
+**Subject:** Re: "Bonus Episode 35 - Scaffold Hill Hospital…" as clips?
 
 ```text
-Hi Rob, a quick follow-up on my note about "October Patreon Teaser - Elmwood House Alone…". Your earlier episode, "A Halloween Chat with Wayne from Eerie Edinburgh & Dr Icy Sedgwick", would work just as well. IncuBrix picks out the strongest moments, adds word-by-word captions in your own fonts and colours, and lets you fix a flubbed line by editing the transcript instead of re-recording.
+Hi Rob, a quick follow-up on my note about "Bonus Episode 35 - Scaffold Hill Hospital…". Your earlier episode, "Touched by the Dead: Heard from the Dead", would work just as well. IncuBrix picks out the strongest moments, adds word-by-word captions in your own fonts and colours, and lets you fix a flubbed line by editing the transcript instead of re-recording.
 
 Happy to send the three sample clips. Just reply "yes".
 
@@ -56,16 +56,16 @@ Not for you? Reply "no thanks" and I won't email you again.
 ```
 
 ## Step 4 · Contact form · day 14
-**Subject:** "October Patreon Teaser - Elmwood House Alone…" as clips?
+**Subject:** "Bonus Episode 35 - Scaffold Hill Hospital…" as clips?
 
 ```text
 Hi Rob,
 
-I came across "October Patreon Teaser - Elmwood House Alone Part 1" from How Haunted? Podcast (Oct 18). At ~55 minutes per episode, there are easily ten clips in each one, and I didn't see a YouTube Shorts or Instagram Reels channel linked from the show.
+I came across "Bonus Episode 35 - Scaffold Hill Hospital EXTENDED EDITION Part 2" from How Haunted? Podcast (Oct 24). At ~71 minutes per episode, there are easily ten clips in each one, and I didn't see a YouTube Shorts or Instagram Reels channel linked from the show.
 
 IncuBrix is a creator studio that turns one recording into captioned clips, quote posts and platform-sized versions, then schedules them to YouTube, Instagram, LinkedIn and Spotify from one screen. For podcasters it means one episode becomes a week of clips, quotes and posts.
 
-If it helps, I can run "October Patreon Teaser - Elmwood House Alone…" through it and send you three ready-to-post clips. No call and no card needed. Would that be useful?
+If it helps, I can run "Bonus Episode 35 - Scaffold Hill Hospital…" through it and send you three ready-to-post clips. No call and no card needed. Would that be useful?
 
 Gowtham M P
 Growth Engineer candidate for IncuBrix (IncuBrix Pte. Ltd., 4 Tampines Street 73, Singapore 528824)

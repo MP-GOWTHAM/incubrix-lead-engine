@@ -1,131 +1,186 @@
 time,stage,item,error
-2026-10-22T14:06:14+00:00,feed,https://www.startupcan.ca/category/startuppodcast/feed/,HTTP 403 for https://www.startupcan.ca/category/startuppodcast/feed/
-2026-10-22T14:06:14+00:00,feed,https://www.ibo-ad.com/my_rss.php?sid=2089&sbid=20286,HTTP 403 for https://www.ibo-ad.com/my_rss.php?sid=2089&sbid=20286
-2026-10-22T14:06:14+00:00,feed,https://rss.buzzsprout.com/2415185.rss,HTTP 404 for https://rss.buzzsprout.com/2415185.rss
-2026-10-22T14:06:14+00:00,feed,https://podcasts.apple.com/gb/podcast/parent-unplugged/id1812910824,"Bad XML in https://podcasts.apple.com/gb/podcast/parent-unplugged/id1812910824: not well-formed (invalid token): line 39, column 27"
-2026-10-22T14:06:15+00:00,feed,http://pod.ssenhosting.com/rss/pb_32465/pbchannel_46141.xml,HTTP 404 for http://pod.ssenhosting.com/rss/pb_32465/pbchannel_46141.xml
-2026-10-22T14:06:15+00:00,feed,https://www.chiro.org.au/feed/podcasts,HTTP 403 for https://www.chiro.org.au/feed/podcasts
-2026-10-22T14:06:15+00:00,feed,https://anchor.fm/s/114e05154/podcast/rss,HTTP 404 for https://anchor.fm/s/114e05154/podcast/rss
-2026-10-22T14:06:15+00:00,feed,https://ericrobertsfitness.com/feed/podcast/,"Bad XML in https://ericrobertsfitness.com/feed/podcast/: not well-formed (invalid token): line 1, column 129"
-2026-10-22T14:06:15+00:00,feed,https://www.startupcan.ca/feed/podcast/,HTTP 403 for https://www.startupcan.ca/feed/podcast/
-2026-10-22T14:06:15+00:00,feed,https://www.bnipodcast.com/feed/podcast/,HTTP 403 for https://www.bnipodcast.com/feed/podcast/
-2026-10-22T14:06:15+00:00,feed,http://peopleshistory.com.au/index.php/feed/podcast/,"Bad XML in http://peopleshistory.com.au/index.php/feed/podcast/: not well-formed (invalid token): line 1, column 141"
-2026-10-22T14:06:16+00:00,feed,https://www.spreaker.com/show/7289305/episodes/feed,HTTP 404 for https://www.spreaker.com/show/7289305/episodes/feed
-2026-10-22T14:06:16+00:00,feed,https://anchor.fm/s/116a6211c/podcast/rss,HTTP 404 for https://anchor.fm/s/116a6211c/podcast/rss
-2026-10-22T14:06:16+00:00,feed,https://feeds.transistor.fm/ai-for-australian-business-field-notes,HTTP 404 for https://feeds.transistor.fm/ai-for-australian-business-field-notes
-2026-10-22T14:06:16+00:00,feed,https://www.timpeter.com/blog/feed/podcast/,"Bad XML in https://www.timpeter.com/blog/feed/podcast/: not well-formed (invalid token): line 1, column 136"
-2026-10-22T14:06:16+00:00,feed,https://media.rss.com/brisbane-first-home-buyer-loan/feed.xml,HTTP 404 for https://media.rss.com/brisbane-first-home-buyer-loan/feed.xml
-2026-10-22T14:06:16+00:00,feed,https://media.rss.com/first-home-loan-broker-brisbane/feed.xml,HTTP 404 for https://media.rss.com/first-home-loan-broker-brisbane/feed.xml
-2026-10-22T14:06:16+00:00,feed,https://www.thefishow.com/feed/podcast/,"Bad XML in https://www.thefishow.com/feed/podcast/: not well-formed (invalid token): line 1, column 129"
-2026-10-22T14:06:16+00:00,feed,https://addictedtothemouse.com/feed/podcast/,"Bad XML in https://addictedtothemouse.com/feed/podcast/: not well-formed (invalid token): line 1, column 129"
-2026-10-22T14:06:16+00:00,feed,https://media.rss.com/home-loan-broker-brisbane/feed.xml,HTTP 404 for https://media.rss.com/home-loan-broker-brisbane/feed.xml
-2026-10-22T14:06:16+00:00,feed,https://www.spreaker.com/show/7315553/episodes/feed,HTTP 404 for https://www.spreaker.com/show/7315553/episodes/feed
-2026-10-22T14:06:16+00:00,feed,https://www.spreaker.com/show/7373486/episodes/feed,HTTP 404 for https://www.spreaker.com/show/7373486/episodes/feed
-2026-10-22T14:06:16+00:00,feed,https://markethuddle.com/feed/podcast/,HTTP 403 for https://markethuddle.com/feed/podcast/
-2026-10-22T14:06:16+00:00,feed,https://media.rss.com/oval-lab-grown-diamonds-brisbane/feed.xml,HTTP 404 for https://media.rss.com/oval-lab-grown-diamonds-brisbane/feed.xml
-2026-10-22T14:06:16+00:00,feed,https://www.spreaker.com/show/7375808/episodes/feed,HTTP 404 for https://www.spreaker.com/show/7375808/episodes/feed
-2026-10-22T14:06:16+00:00,feed,https://media.rss.com/solar-panel-bird-proofing-brisbane/feed.xml,HTTP 404 for https://media.rss.com/solar-panel-bird-proofing-brisbane/feed.xml
-2026-10-22T14:06:17+00:00,feed,https://www.spreaker.com/show/7387329/episodes/feed,HTTP 404 for https://www.spreaker.com/show/7387329/episodes/feed
-2026-10-22T14:06:17+00:00,feed,https://www.spreaker.com/show/7389028/episodes/feed,HTTP 404 for https://www.spreaker.com/show/7389028/episodes/feed
-2026-10-22T14:06:17+00:00,feed,https://media.rss.com/capcut-pro-mod-apk-features-editing-tools/feed.xml,HTTP 404 for https://media.rss.com/capcut-pro-mod-apk-features-editing-tools/feed.xml
-2026-10-22T14:06:17+00:00,feed,https://www.melissawest.com/feed/namaste-yoga-video/,"Bad XML in https://www.melissawest.com/feed/namaste-yoga-video/: not well-formed (invalid token): line 1, column 140"
-2026-10-22T14:06:17+00:00,feed,https://podcast.lifterlms.com/category/episodes/feed/,HTTP 403 for https://podcast.lifterlms.com/category/episodes/feed/
-2026-10-22T14:06:17+00:00,feed,https://media.rss.com/bird-removal-brisbane-pod1/feed.xml,HTTP 404 for https://media.rss.com/bird-removal-brisbane-pod1/feed.xml
-2026-10-22T14:06:17+00:00,feed,https://www.spreaker.com/show/7419127/episodes/feed,HTTP 404 for https://www.spreaker.com/show/7419127/episodes/feed
-2026-10-22T14:06:17+00:00,feed,https://media.rss.com/from-the-oasthouse/feed.xml,HTTP 404 for https://media.rss.com/from-the-oasthouse/feed.xml
-2026-10-22T14:06:17+00:00,feed,https://engineeringmanagementinstitute.org/category/tecc-podcast/feed/,HTTP 403 for https://engineeringmanagementinstitute.org/category/tecc-podcast/feed/
-2026-10-22T14:06:17+00:00,feed,https://media.rss.com/engagement-rings-brisbane-under-1000/feed.xml,HTTP 404 for https://media.rss.com/engagement-rings-brisbane-under-1000/feed.xml
-2026-10-22T14:06:17+00:00,feed,https://media.rss.com/engagement-rings-brisbane-under-1000/feed.xml,HTTP 404 for https://media.rss.com/engagement-rings-brisbane-under-1000/feed.xml
-2026-10-22T14:06:17+00:00,feed,https://www.spreaker.com/show/7419135/episodes/feed,HTTP 404 for https://www.spreaker.com/show/7419135/episodes/feed
-2026-10-22T14:06:17+00:00,feed,https://www.spreaker.com/show/7459845/episodes/feed,HTTP 404 for https://www.spreaker.com/show/7459845/episodes/feed
-2026-10-22T14:06:17+00:00,feed,https://www.retirementwisdom.com/podcasts/feed/retirement-wisdom-podcast-feed/,HTTP 403 for https://www.retirementwisdom.com/podcasts/feed/retirement-wisdom-podcast-feed/
-2026-10-22T14:06:17+00:00,feed,https://streetphotographymagazine.com/feed/podcast,"Bad XML in https://streetphotographymagazine.com/feed/podcast: not well-formed (invalid token): line 1, column 126"
-2026-10-22T14:06:17+00:00,feed,https://rss.buzzsprout.com/2657692.rss,HTTP 404 for https://rss.buzzsprout.com/2657692.rss
-2026-10-22T14:06:17+00:00,feed,https://www.spreaker.com/show/7459961/episodes/feed,HTTP 404 for https://www.spreaker.com/show/7459961/episodes/feed
-2026-10-22T14:06:17+00:00,feed,https://www.spreaker.com/show/7459964/episodes/feed,HTTP 404 for https://www.spreaker.com/show/7459964/episodes/feed
-2026-10-22T14:06:18+00:00,feed,https://www.diamond-consultants.com/feed/podcast/,HTTP 403 for https://www.diamond-consultants.com/feed/podcast/
-2026-10-22T14:06:18+00:00,feed,https://www.spreaker.com/show/7440279/episodes/feed,HTTP 404 for https://www.spreaker.com/show/7440279/episodes/feed
-2026-10-22T14:06:18+00:00,feed,https://www.kuttinconsultinggroup.com/feed/podcast/,HTTP 403 for https://www.kuttinconsultinggroup.com/feed/podcast/
-2026-10-22T14:06:18+00:00,feed,https://checkyourthread.com/feed/podcast/,"Bad XML in https://checkyourthread.com/feed/podcast/: not well-formed (invalid token): line 1, column 129"
-2026-10-22T14:06:18+00:00,feed,https://wheelingwineandwhiskey.com/feed/podcast,"Bad XML in https://wheelingwineandwhiskey.com/feed/podcast: not well-formed (invalid token): line 1, column 126"
-2026-10-22T14:06:18+00:00,feed,https://ultimateradioshow.com/category/shows/homeschooling-with-technology/feed/,"Bad XML in https://ultimateradioshow.com/category/shows/homeschooling-with-technology/feed/: not well-formed (invalid token): line 1, column 170"
-2026-10-22T14:06:18+00:00,feed,https://ultimateradioshow.com/category/shows/homeschool-highschool/feed/,"Bad XML in https://ultimateradioshow.com/category/shows/homeschool-highschool/feed/: not well-formed (invalid token): line 1, column 162"
-2026-10-22T14:06:18+00:00,feed,https://feeds.transistor.fm/boozy-browsing,HTTP 404 for https://feeds.transistor.fm/boozy-browsing
-2026-10-22T14:06:19+00:00,feed,https://ultimateradioshow.com/category/shows/creation-science-podcast/feed/,"Bad XML in https://ultimateradioshow.com/category/shows/creation-science-podcast/feed/: not well-formed (invalid token): line 1, column 165"
-2026-10-22T14:06:19+00:00,feed,https://feeds.async.com/fd3b80f9-6170-4406-80b0-63ce40f7fca0.rss,HTTP 404 for https://feeds.async.com/fd3b80f9-6170-4406-80b0-63ce40f7fca0.rss
-2026-10-22T14:06:19+00:00,feed,https://austincodemonkey.com/feed/podcast/,HTTP 403 for https://austincodemonkey.com/feed/podcast/
-2026-10-22T14:06:19+00:00,feed,https://collavia.com/feed/podcast/,HTTP 403 for https://collavia.com/feed/podcast/
-2026-10-22T14:06:19+00:00,feed,https://app.kajabi.com/podcasts/2148103390/feed,HTTP 404 for https://app.kajabi.com/podcasts/2148103390/feed
-2026-10-22T14:06:19+00:00,feed,https://rss.buzzsprout.com/2568664.rss,HTTP 404 for https://rss.buzzsprout.com/2568664.rss
-2026-10-22T14:06:19+00:00,feed,https://microdoseu.com/feed/podcast,"Bad XML in https://microdoseu.com/feed/podcast: not well-formed (invalid token): line 1, column 126"
-2026-10-22T14:06:19+00:00,feed,https://www.spreaker.com/show/7230191/episodes/feed,HTTP 404 for https://www.spreaker.com/show/7230191/episodes/feed
-2026-10-22T14:06:20+00:00,feed,https://ultimateradioshow.com/category/shows/homeschool-curious-podcast/feed/podcast/,"Bad XML in https://ultimateradioshow.com/category/shows/homeschool-curious-podcast/feed/podcast/: not well-formed (invalid token): line 1, column 177"
-2026-10-22T14:06:20+00:00,feed,https://rss.buzzsprout.com/2627349.rss,HTTP 404 for https://rss.buzzsprout.com/2627349.rss
-2026-10-22T14:06:20+00:00,feed,https://feeds.acast.com/public/shows/6aa14df68ff451bb22f87f47,HTTP 404 for https://feeds.acast.com/public/shows/6aa14df68ff451bb22f87f47
-2026-10-22T14:06:20+00:00,feed,https://www.spreaker.com/show/7329398/episodes/feed,HTTP 404 for https://www.spreaker.com/show/7329398/episodes/feed
-2026-10-22T14:06:20+00:00,feed,https://www.spreaker.com/show/7350162/episodes/feed,HTTP 404 for https://www.spreaker.com/show/7350162/episodes/feed
-2026-10-22T14:06:20+00:00,feed,https://rss.buzzsprout.com/2646560.rss,HTTP 404 for https://rss.buzzsprout.com/2646560.rss
-2026-10-22T14:06:20+00:00,feed,https://www.spreaker.com/show/7361042/episodes/feed,HTTP 404 for https://www.spreaker.com/show/7361042/episodes/feed
-2026-10-22T14:06:20+00:00,feed,https://rss.buzzsprout.com/2656772.rss,HTTP 404 for https://rss.buzzsprout.com/2656772.rss
-2026-10-22T14:06:21+00:00,feed,https://ultimateradioshow.com/category/ultimate-homeschool-radio-show/feed/,"Bad XML in https://ultimateradioshow.com/category/ultimate-homeschool-radio-show/feed/: not well-formed (invalid token): line 1, column 163"
-2026-10-22T14:06:21+00:00,feed,https://ultimateradioshow.com/category/the-homeschool-sanity-show/feed/,"Bad XML in https://ultimateradioshow.com/category/the-homeschool-sanity-show/feed/: not well-formed (invalid token): line 1, column 159"
-2026-10-22T14:06:21+00:00,feed,https://tiffanyparson.com/feed/podcast/,"Bad XML in https://tiffanyparson.com/feed/podcast/: not well-formed (invalid token): line 1, column 129"
-2026-10-22T14:06:21+00:00,feed,https://microdoseu.com/feed/podcast,"Bad XML in https://microdoseu.com/feed/podcast: not well-formed (invalid token): line 1, column 126"
-2026-10-22T14:06:21+00:00,feed,https://pinecast.com/feed/powering-tomorrow-conversation,HTTP 410 for https://pinecast.com/feed/powering-tomorrow-conversation
-2026-10-22T14:06:21+00:00,feed,https://productmasterynow.com/feed/podcast/,"Bad XML in https://productmasterynow.com/feed/podcast/: not well-formed (invalid token): line 1, column 129"
-2026-10-22T14:06:21+00:00,feed,https://ultimateradioshow.com/category/homeschooling-irl/feed/,"Bad XML in https://ultimateradioshow.com/category/homeschooling-irl/feed/: not well-formed (invalid token): line 1, column 150"
-2026-10-22T14:06:21+00:00,feed,https://etfprime.com/category/etf-radio-show/feed/podcast,HTTP 403 for https://etfprime.com/category/etf-radio-show/feed/podcast
-2026-10-22T14:06:22+00:00,feed,http://decadesofhorror.com/feed/podcast/,"Bad XML in http://decadesofhorror.com/feed/podcast/: not well-formed (invalid token): line 1, column 129"
-2026-10-22T14:06:22+00:00,feed,https://ultimateradioshow.com/category/vintage-homeschool-moms/feed/,"Bad XML in https://ultimateradioshow.com/category/vintage-homeschool-moms/feed/: not well-formed (invalid token): line 1, column 156"
-2026-10-22T14:06:22+00:00,feed,https://physicsworld.com/feed/podcast-weekly/,HTTP 403 for https://physicsworld.com/feed/podcast-weekly/
-2026-10-22T14:06:22+00:00,feed,https://media.rss.com/pizza-trailer-for-sale-australia/feed.xml,HTTP 404 for https://media.rss.com/pizza-trailer-for-sale-australia/feed.xml
-2026-10-22T14:06:22+00:00,feed,https://www.hoyhablamos.com/category/podcast/feed/,"Bad XML in https://www.hoyhablamos.com/category/podcast/feed/: not well-formed (invalid token): line 1, column 140"
-2026-10-22T14:06:23+00:00,feed,https://feeds.captivate.fm/the-womens-lawyer/,HTTP 404 for https://feeds.captivate.fm/the-womens-lawyer/
-2026-10-22T14:06:23+00:00,feed,https://joshbraun.com/feed/podcast/,"Bad XML in https://joshbraun.com/feed/podcast/: not well-formed (invalid token): line 1, column 129"
-2026-10-22T14:06:24+00:00,feed,https://robhasawebsite.com/feed/traitors-podcast/?test-1,HTTP 403 for https://robhasawebsite.com/feed/traitors-podcast/?test-1
-2026-10-22T14:06:25+00:00,feed,https://www.hoyhablamos.com/feed/podcast-basico/,"Bad XML in https://www.hoyhablamos.com/feed/podcast-basico/: not well-formed (invalid token): line 1, column 136"
-2026-10-22T14:06:27+00:00,feed,https://www.askaboutflyfishing.com/feed/podcast/,Gave up on https://www.askaboutflyfishing.com/feed/podcast/: HTTP Error 503: Service Unavailable
-2026-10-22T14:06:28+00:00,feed,https://www.diwinetaste.com/podcast.php?c=1,Gave up on https://www.diwinetaste.com/podcast.php?c=1: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)>
-2026-10-22T14:06:30+00:00,feed,https://www.music-zone.es/PodcastDP/UrbanaRS.xml,Gave up on https://www.music-zone.es/PodcastDP/UrbanaRS.xml: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)>
-2026-10-22T14:06:31+00:00,feed,https://www.music-zone.es/PodcastNBI/NassauIbiza.xml,Gave up on https://www.music-zone.es/PodcastNBI/NassauIbiza.xml: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)>
-2026-10-22T14:06:31+00:00,feed,https://feeds.transistor.fm/the-daily-habit-guided-japanese-learning-for-beginners,HTTP 404 for https://feeds.transistor.fm/the-daily-habit-guided-japanese-learning-for-beginners
-2026-10-22T14:06:31+00:00,feed,https://api.audioteca.rac1.cat/rss/tu-diras/,HTTP 403 for https://api.audioteca.rac1.cat/rss/tu-diras/
-2026-10-22T14:06:35+00:00,feed,https://feed.mirrorvoice.com.tw/rss/pw.xml,Gave up on https://feed.mirrorvoice.com.tw/rss/pw.xml: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)>
-2026-10-22T14:06:45+00:00,feed,https://www.bizcast.in/feed/the-trade-show-podcast/,HTTP 522 for https://www.bizcast.in/feed/the-trade-show-podcast/
-2026-10-22T14:06:47+00:00,feed,https://esl.culips.com/feed/podcast/,"Bad XML in https://esl.culips.com/feed/podcast/: not well-formed (invalid token): line 1, column 129"
-2026-10-22T14:06:57+00:00,feed,https://twogeeksandagit.com/tgaag.xml,Gave up on https://twogeeksandagit.com/tgaag.xml: <urlopen error [Errno 11002] getaddrinfo failed>
-2026-10-22T14:06:58+00:00,feed,https://thestrangebrew.co.uk/?feed=podcast,"Bad XML in https://thestrangebrew.co.uk/?feed=podcast: not well-formed (invalid token): line 1, column 129"
-2026-10-22T14:06:59+00:00,feed,https://www.talkingdeadpodcast.com/feed/podcast,"Bad XML in https://www.talkingdeadpodcast.com/feed/podcast: not well-formed (invalid token): line 1, column 126"
-2026-10-22T14:07:00+00:00,feed,https://rss.pdrl.fm/118060/robhasawebsite.com/feed/big-brother/,HTTP 403 for https://rss.pdrl.fm/118060/robhasawebsite.com/feed/big-brother/
-2026-10-22T14:07:00+00:00,feed,https://www.twogeeksandagit.com/tgaag.xml,Gave up on https://www.twogeeksandagit.com/tgaag.xml: <urlopen error [Errno 11002] getaddrinfo failed>
-2026-10-22T14:07:01+00:00,feed,https://www.spreaker.com/show/7230429/episodes/feed,HTTP 404 for https://www.spreaker.com/show/7230429/episodes/feed
-2026-10-22T14:07:01+00:00,feed,http://blasphemoustomes.com/category/podcast/feed/,"Bad XML in http://blasphemoustomes.com/category/podcast/feed/: not well-formed (invalid token): line 1, column 140"
-2026-10-22T14:07:01+00:00,feed,https://banzaibeat.com/rss/banzaibeat.xml,Gave up on https://banzaibeat.com/rss/banzaibeat.xml: <urlopen error [Errno 11001] getaddrinfo failed>
-2026-10-22T14:07:02+00:00,feed,https://media.rss.com/audiobooks-pod6/feed.xml,HTTP 404 for https://media.rss.com/audiobooks-pod6/feed.xml
-2026-10-22T14:07:02+00:00,feed,https://www.spreaker.com/show/7309938/episodes/feed,HTTP 404 for https://www.spreaker.com/show/7309938/episodes/feed
-2026-10-22T14:07:02+00:00,feed,https://www.spreaker.com/show/7309953/episodes/feed,HTTP 404 for https://www.spreaker.com/show/7309953/episodes/feed
-2026-10-22T14:07:02+00:00,feed,https://media.rss.com/audiobooks-pod6/feed.xml,HTTP 404 for https://media.rss.com/audiobooks-pod6/feed.xml
-2026-10-22T14:07:03+00:00,feed,https://www.spreaker.com/show/7467009/episodes/feed,HTTP 404 for https://www.spreaker.com/show/7467009/episodes/feed
-2026-10-22T14:07:03+00:00,feed,https://feeds.acast.com/public/shows/6ad103669fea6e0a642334b4,HTTP 404 for https://feeds.acast.com/public/shows/6ad103669fea6e0a642334b4
-2026-10-22T14:07:04+00:00,feed,https://www.firpodcastnetwork.com/for-immediate-release/feed/,"Bad XML in https://www.firpodcastnetwork.com/for-immediate-release/feed/: not well-formed (invalid token): line 1, column 143"
-2026-10-22T14:07:24+00:00,feed,https://www.cbc.ca/podcasting/includes/becausenews.xml,Gave up on https://www.cbc.ca/podcasting/includes/becausenews.xml: [WinError 10054] An existing connection was forcibly closed by the remote host
-2026-10-22T14:07:25+00:00,feed,https://www.cbc.ca/podcasting/includes/theexpertwitness.xml,Gave up on https://www.cbc.ca/podcasting/includes/theexpertwitness.xml: [WinError 10054] An existing connection was forcibly closed by the remote host
-2026-10-22T14:07:26+00:00,feed,https://www.cbc.ca/podcasting/includes/uncover.xml,Gave up on https://www.cbc.ca/podcasting/includes/uncover.xml: The read operation timed out
-2026-10-22T14:07:29+00:00,feed,https://www.cbc.ca/podcasting/includes/ideas.xml,Gave up on https://www.cbc.ca/podcasting/includes/ideas.xml: [WinError 10054] An existing connection was forcibly closed by the remote host
-2026-10-22T14:07:30+00:00,feed,https://www.cbc.ca/podcasting/includes/dirtbagclimber.xml,Gave up on https://www.cbc.ca/podcasting/includes/dirtbagclimber.xml: The read operation timed out
-2026-10-22T14:07:31+00:00,feed,https://www.cbc.ca/podcasting/includes/sundayedition.xml,Gave up on https://www.cbc.ca/podcasting/includes/sundayedition.xml: [WinError 10054] An existing connection was forcibly closed by the remote host
-2026-10-22T14:07:32+00:00,feed,https://www.cbc.ca/podcasting/includes/debaters.xml,Gave up on https://www.cbc.ca/podcasting/includes/debaters.xml: The read operation timed out
-2026-10-22T14:07:36+00:00,feed,https://www.cbc.ca/podcasting/includes/thedose.xml,Gave up on https://www.cbc.ca/podcasting/includes/thedose.xml: The read operation timed out
-2026-10-22T14:07:36+00:00,feed,https://www.cbc.ca/podcasting/includes/laughoutloud.xml,Gave up on https://www.cbc.ca/podcasting/includes/laughoutloud.xml: The read operation timed out
-2026-10-22T14:07:39+00:00,feed,https://www.cbc.ca/podcasting/includes/outlawocean.xml,Gave up on https://www.cbc.ca/podcasting/includes/outlawocean.xml: The read operation timed out
-2026-10-22T14:07:42+00:00,feed,https://www.cbc.ca/podcasting/includes/nakedemperor.xml,Gave up on https://www.cbc.ca/podcasting/includes/nakedemperor.xml: The read operation timed out
-2026-10-22T14:07:44+00:00,feed,https://www.cbc.ca/podcasting/includes/missing.xml,Gave up on https://www.cbc.ca/podcasting/includes/missing.xml: The read operation timed out
-2026-10-22T14:07:44+00:00,feed,https://www.cbc.ca/podcasting/includes/costofliving.xml,Gave up on https://www.cbc.ca/podcasting/includes/costofliving.xml: The read operation timed out
-2026-10-22T14:07:44+00:00,feed,https://www.cbc.ca/podcasting/includes/seeyouincourt.xml,Gave up on https://www.cbc.ca/podcasting/includes/seeyouincourt.xml: The read operation timed out
-2026-10-22T14:07:44+00:00,feed,https://www.cbc.ca/podcasting/includes/quirksaio.xml,Gave up on https://www.cbc.ca/podcasting/includes/quirksaio.xml: The read operation timed out
-2026-10-22T14:07:44+00:00,feed,https://www.cbc.ca/podcasting/includes/commotion.xml,Gave up on https://www.cbc.ca/podcasting/includes/commotion.xml: The read operation timed out
-2026-10-22T14:07:45+00:00,feed,https://www.cbc.ca/podcasting/includes/runhiderepeat.xml,Gave up on https://www.cbc.ca/podcasting/includes/runhiderepeat.xml: The read operation timed out
-2026-10-22T14:07:45+00:00,feed,https://www.cbc.ca/podcasting/includes/whitecoat.xml,Gave up on https://www.cbc.ca/podcasting/includes/whitecoat.xml: [WinError 10054] An existing connection was forcibly closed by the remote host
-2026-10-22T14:07:48+00:00,feed,https://www.cbc.ca/podcasting/includes/writersandco.xml,Gave up on https://www.cbc.ca/podcasting/includes/writersandco.xml: The read operation timed out
-2026-10-22T14:07:48+00:00,feed,https://www.cbc.ca/podcasting/includes/qpodcast.xml,Gave up on https://www.cbc.ca/podcasting/includes/qpodcast.xml: The read operation timed out
-2026-10-22T14:08:04+00:00,feed,https://www.cbc.ca/podcasting/includes/nextchapter.xml,Gave up on https://www.cbc.ca/podcasting/includes/nextchapter.xml: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-10-25T12:06:22+00:00,feed,https://www.startupcan.ca/category/startuppodcast/feed/,HTTP 403 for https://www.startupcan.ca/category/startuppodcast/feed/
+2026-10-25T12:06:23+00:00,feed,https://audioboom.com/channels/4829841.rss,[WinError 10054] An existing connection was forcibly closed by the remote host
+2026-10-25T12:07:04+00:00,feed,https://addictedtothemouse.com/feed/podcast/,HTTP 403 for https://addictedtothemouse.com/feed/podcast/
+2026-10-25T12:07:05+00:00,feed,https://www.chiro.org.au/feed/podcasts,HTTP 403 for https://www.chiro.org.au/feed/podcasts
+2026-10-25T12:07:19+00:00,feed,https://audioboom.com/channels/5011925.rss,[WinError 10054] An existing connection was forcibly closed by the remote host
+2026-10-25T12:07:42+00:00,feed,https://www.cbc.ca/podcasting/includes/becausenews.xml,Gave up on https://www.cbc.ca/podcasting/includes/becausenews.xml: The read operation timed out
+2026-10-25T12:07:54+00:00,feed,https://www.thefishow.com/feed/podcast/,HTTP 403 for https://www.thefishow.com/feed/podcast/
+2026-10-25T12:08:00+00:00,feed,https://markethuddle.com/feed/podcast/,HTTP 403 for https://markethuddle.com/feed/podcast/
+2026-10-25T12:08:09+00:00,feed,https://feeds.ivoox.com/feed_fg_f1680499_filtro_1.xml,HTTP 451 for https://feeds.ivoox.com/feed_fg_f1680499_filtro_1.xml
+2026-10-25T12:08:16+00:00,feed,https://feeds.redcircle.com/e4c0db0a-98a4-47e6-a2b0-6a291469e1d6,[WinError 10054] An existing connection was forcibly closed by the remote host
+2026-10-25T12:08:37+00:00,feed,https://ericrobertsfitness.com/feed/podcast/,HTTP 403 for https://ericrobertsfitness.com/feed/podcast/
+2026-10-25T12:09:00+00:00,feed,https://www.cbc.ca/podcasting/includes/uncover.xml,Gave up on https://www.cbc.ca/podcasting/includes/uncover.xml: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-10-25T12:09:10+00:00,feed,https://www.cbc.ca/podcasting/includes/debaters.xml,Gave up on https://www.cbc.ca/podcasting/includes/debaters.xml: The read operation timed out
+2026-10-25T12:09:10+00:00,feed,https://feeds.ivoox.com/feed_fg_f154794_filtro_1.xml,HTTP 451 for https://feeds.ivoox.com/feed_fg_f154794_filtro_1.xml
+2026-10-25T12:09:12+00:00,feed,https://feeds.ivoox.com/feed_fg_f1657622_filtro_1.xml,HTTP 451 for https://feeds.ivoox.com/feed_fg_f1657622_filtro_1.xml
+2026-10-25T12:09:26+00:00,feed,https://rss.libsyn.com/shows/278054/destinations/2129654.xml,[WinError 10054] An existing connection was forcibly closed by the remote host
+2026-10-25T12:09:26+00:00,feed,https://anchor.fm/s/22d1c9b0/podcast/rss,[WinError 10054] An existing connection was forcibly closed by the remote host
+2026-10-25T12:09:26+00:00,feed,https://feeds.captivate.fm/great-big-photography-world/,[WinError 10054] An existing connection was forcibly closed by the remote host
+2026-10-25T12:09:26+00:00,feed,https://anchor.fm/s/25eaeb18/podcast/rss,[WinError 10054] An existing connection was forcibly closed by the remote host
+2026-10-25T12:09:26+00:00,feed,https://rss.libsyn.com/shows/276722/destinations/2118326.xml,[WinError 10054] An existing connection was forcibly closed by the remote host
+2026-10-25T12:09:26+00:00,feed,https://feed.podbean.com/officialanythinggoes/feed.xml,[WinError 10054] An existing connection was forcibly closed by the remote host
+2026-10-25T12:09:26+00:00,feed,https://feeds.redcircle.com/b82554de-b5b1-49cf-b805-ff2738b3e071,[WinError 10054] An existing connection was forcibly closed by the remote host
+2026-10-25T12:09:26+00:00,feed,https://feeds.simplecast.com/sXf_AsM6,[WinError 10054] An existing connection was forcibly closed by the remote host
+2026-10-25T12:09:26+00:00,feed,https://anchor.fm/s/fce00f4/podcast/rss,[WinError 10054] An existing connection was forcibly closed by the remote host
+2026-10-25T12:09:26+00:00,feed,https://rss.libsyn.com/shows/269030/destinations/2050382.xml,[WinError 10054] An existing connection was forcibly closed by the remote host
+2026-10-25T12:09:26+00:00,feed,https://feeds.captivate.fm/practicedisrupted/,[WinError 10054] An existing connection was forcibly closed by the remote host
+2026-10-25T12:09:26+00:00,feed,https://feeds.captivate.fm/parenting-todays-teen/,[WinError 10054] An existing connection was forcibly closed by the remote host
+2026-10-25T12:09:26+00:00,feed,https://anchor.fm/s/2323ce90/podcast/rss,[WinError 10054] An existing connection was forcibly closed by the remote host
+2026-10-25T12:09:51+00:00,feed,https://www.cbc.ca/podcasting/includes/thedose.xml,Gave up on https://www.cbc.ca/podcasting/includes/thedose.xml: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-10-25T12:10:04+00:00,feed,https://feeds.danlirencomedy.com/xxlth.xml,Gave up on https://feeds.danlirencomedy.com/xxlth.xml: <urlopen error _ssl.c:1063: The handshake operation timed out>
+2026-10-25T12:10:07+00:00,feed,https://www.ibo-ad.com/my_rss.php?sid=2089&sbid=20286,"Bad XML in https://www.ibo-ad.com/my_rss.php?sid=2089&sbid=20286: not well-formed (invalid token): line 1, column 1216"
+2026-10-25T12:10:21+00:00,feed,https://rss.buzzsprout.com/2083113.rss,[WinError 10054] An existing connection was forcibly closed by the remote host
+2026-10-25T12:10:33+00:00,feed,http://pod.ssenhosting.com/rss/pb_32465/pbchannel_46141.xml,HTTP 404 for http://pod.ssenhosting.com/rss/pb_32465/pbchannel_46141.xml
+2026-10-25T12:11:16+00:00,feed,https://app.kajabi.com/podcasts/2147493714/feed,[WinError 10054] An existing connection was forcibly closed by the remote host
+2026-10-25T12:11:16+00:00,feed,https://rss.buzzsprout.com/2158913.rss,[WinError 10054] An existing connection was forcibly closed by the remote host
+2026-10-25T12:12:12+00:00,feed,https://api.riverside.fm/hosting/MKUejF6V.rss,[WinError 10054] An existing connection was forcibly closed by the remote host
+2026-10-25T12:12:34+00:00,feed,https://rss.buzzsprout.com/2415185.rss,HTTP 404 for https://rss.buzzsprout.com/2415185.rss
+2026-10-25T12:12:35+00:00,feed,https://anchor.fm/s/db44f2c4/podcast/rss,Gave up on https://anchor.fm/s/db44f2c4/podcast/rss: The read operation timed out
+2026-10-25T12:12:52+00:00,feed,https://podcasts.apple.com/gb/podcast/parent-unplugged/id1812910824,"Bad XML in https://podcasts.apple.com/gb/podcast/parent-unplugged/id1812910824: not well-formed (invalid token): line 39, column 27"
+2026-10-25T12:14:58+00:00,feed,https://www.bnipodcast.com/feed/podcast/,HTTP 403 for https://www.bnipodcast.com/feed/podcast/
+2026-10-25T12:15:06+00:00,feed,https://feed.podbean.com/o35s/feed.xml,[WinError 10054] An existing connection was forcibly closed by the remote host
+2026-10-25T12:15:06+00:00,feed,https://feeds.simplecast.com/Cyw1tJ_z,[WinError 10054] An existing connection was forcibly closed by the remote host
+2026-10-25T12:15:06+00:00,feed,https://rss.pdrl.fm/a9cb78/feeds.megaphone.fm/ignbeyond,[WinError 10054] An existing connection was forcibly closed by the remote host
+2026-10-25T12:15:07+00:00,feed,https://feed.podbean.com/beourguestpodcast/feed.xml,[WinError 10054] An existing connection was forcibly closed by the remote host
+2026-10-25T12:15:07+00:00,feed,https://c.peerview.com/podcast/xml/nephrology_video.xml,[WinError 10054] An existing connection was forcibly closed by the remote host
+2026-10-25T12:15:07+00:00,feed,https://rss.buzzsprout.com/1807501.rss,[WinError 10054] An existing connection was forcibly closed by the remote host
+2026-10-25T12:15:07+00:00,feed,https://anchor.fm/s/1013a0ce4/podcast/rss,[WinError 10054] An existing connection was forcibly closed by the remote host
+2026-10-25T12:15:07+00:00,feed,https://podcasts.files.bbci.co.uk/p02nrvyj.rss,[WinError 10054] An existing connection was forcibly closed by the remote host
+2026-10-25T12:15:07+00:00,feed,https://audioboom.com/channels/4997224.rss,[WinError 10054] An existing connection was forcibly closed by the remote host
+2026-10-25T12:15:07+00:00,feed,https://feeds.npr.org/510282/podcast.xml,[WinError 10054] An existing connection was forcibly closed by the remote host
+2026-10-25T12:15:07+00:00,feed,https://www.cbc.ca/podcasting/includes/dirtbagclimber.xml,Gave up on https://www.cbc.ca/podcasting/includes/dirtbagclimber.xml: The read operation timed out
+2026-10-25T12:15:11+00:00,feed,https://www.melissawest.com/feed/namaste-yoga-video/,HTTP 403 for https://www.melissawest.com/feed/namaste-yoga-video/
+2026-10-25T12:15:18+00:00,feed,https://www.timpeter.com/blog/feed/podcast/,HTTP 403 for https://www.timpeter.com/blog/feed/podcast/
+2026-10-25T12:15:25+00:00,feed,https://www.startupcan.ca/feed/podcast/,HTTP 403 for https://www.startupcan.ca/feed/podcast/
+2026-10-25T12:15:27+00:00,feed,https://anchor.fm/s/114e05154/podcast/rss,HTTP 404 for https://anchor.fm/s/114e05154/podcast/rss
+2026-10-25T12:15:29+00:00,feed,https://feeds.transistor.fm/ai-for-australian-business-field-notes,HTTP 404 for https://feeds.transistor.fm/ai-for-australian-business-field-notes
+2026-10-25T12:15:34+00:00,feed,https://www.spreaker.com/show/7289305/episodes/feed,HTTP 404 for https://www.spreaker.com/show/7289305/episodes/feed
+2026-10-25T12:15:35+00:00,feed,https://anchor.fm/s/116a6211c/podcast/rss,HTTP 404 for https://anchor.fm/s/116a6211c/podcast/rss
+2026-10-25T12:15:35+00:00,feed,https://media.rss.com/brisbane-first-home-buyer-loan/feed.xml,HTTP 404 for https://media.rss.com/brisbane-first-home-buyer-loan/feed.xml
+2026-10-25T12:15:35+00:00,feed,https://media.rss.com/first-home-loan-broker-brisbane/feed.xml,HTTP 404 for https://media.rss.com/first-home-loan-broker-brisbane/feed.xml
+2026-10-25T12:15:35+00:00,feed,https://media.rss.com/home-loan-broker-brisbane/feed.xml,HTTP 404 for https://media.rss.com/home-loan-broker-brisbane/feed.xml
+2026-10-25T12:15:36+00:00,feed,https://media.rss.com/oval-lab-grown-diamonds-brisbane/feed.xml,HTTP 404 for https://media.rss.com/oval-lab-grown-diamonds-brisbane/feed.xml
+2026-10-25T12:15:36+00:00,feed,https://media.rss.com/solar-panel-bird-proofing-brisbane/feed.xml,HTTP 404 for https://media.rss.com/solar-panel-bird-proofing-brisbane/feed.xml
+2026-10-25T12:15:36+00:00,feed,https://media.rss.com/bird-removal-brisbane-pod1/feed.xml,HTTP 404 for https://media.rss.com/bird-removal-brisbane-pod1/feed.xml
+2026-10-25T12:15:36+00:00,feed,https://www.spreaker.com/show/7315553/episodes/feed,HTTP 404 for https://www.spreaker.com/show/7315553/episodes/feed
+2026-10-25T12:15:37+00:00,feed,https://media.rss.com/capcut-pro-mod-apk-features-editing-tools/feed.xml,HTTP 404 for https://media.rss.com/capcut-pro-mod-apk-features-editing-tools/feed.xml
+2026-10-25T12:15:40+00:00,feed,https://www.spreaker.com/show/7373486/episodes/feed,HTTP 404 for https://www.spreaker.com/show/7373486/episodes/feed
+2026-10-25T12:15:40+00:00,feed,https://www.spreaker.com/show/7375808/episodes/feed,HTTP 404 for https://www.spreaker.com/show/7375808/episodes/feed
+2026-10-25T12:15:40+00:00,feed,https://media.rss.com/from-the-oasthouse/feed.xml,HTTP 404 for https://media.rss.com/from-the-oasthouse/feed.xml
+2026-10-25T12:15:41+00:00,feed,https://www.spreaker.com/show/7387329/episodes/feed,HTTP 404 for https://www.spreaker.com/show/7387329/episodes/feed
+2026-10-25T12:15:41+00:00,feed,https://www.spreaker.com/show/7389028/episodes/feed,HTTP 404 for https://www.spreaker.com/show/7389028/episodes/feed
+2026-10-25T12:15:41+00:00,feed,https://media.rss.com/engagement-rings-brisbane-under-1000/feed.xml,HTTP 404 for https://media.rss.com/engagement-rings-brisbane-under-1000/feed.xml
+2026-10-25T12:15:41+00:00,feed,https://media.rss.com/engagement-rings-brisbane-under-1000/feed.xml,HTTP 404 for https://media.rss.com/engagement-rings-brisbane-under-1000/feed.xml
+2026-10-25T12:15:42+00:00,feed,https://www.spreaker.com/show/7419127/episodes/feed,HTTP 404 for https://www.spreaker.com/show/7419127/episodes/feed
+2026-10-25T12:15:42+00:00,feed,https://www.spreaker.com/show/7419135/episodes/feed,HTTP 404 for https://www.spreaker.com/show/7419135/episodes/feed
+2026-10-25T12:15:42+00:00,feed,https://www.spreaker.com/show/7424765/episodes/feed,HTTP 404 for https://www.spreaker.com/show/7424765/episodes/feed
+2026-10-25T12:15:42+00:00,feed,https://www.spreaker.com/show/7424810/episodes/feed,HTTP 404 for https://www.spreaker.com/show/7424810/episodes/feed
+2026-10-25T12:15:47+00:00,feed,https://www.spreaker.com/show/7445478/episodes/feed,HTTP 404 for https://www.spreaker.com/show/7445478/episodes/feed
+2026-10-25T12:15:48+00:00,feed,https://www.spreaker.com/show/7453696/episodes/feed,HTTP 404 for https://www.spreaker.com/show/7453696/episodes/feed
+2026-10-25T12:15:48+00:00,feed,https://www.spreaker.com/show/7453701/episodes/feed,HTTP 404 for https://www.spreaker.com/show/7453701/episodes/feed
+2026-10-25T12:15:48+00:00,feed,https://www.spreaker.com/show/7453862/episodes/feed,HTTP 404 for https://www.spreaker.com/show/7453862/episodes/feed
+2026-10-25T12:15:49+00:00,feed,https://www.spreaker.com/show/7459845/episodes/feed,HTTP 404 for https://www.spreaker.com/show/7459845/episodes/feed
+2026-10-25T12:15:49+00:00,feed,https://www.spreaker.com/show/7459961/episodes/feed,HTTP 404 for https://www.spreaker.com/show/7459961/episodes/feed
+2026-10-25T12:15:49+00:00,feed,https://www.spreaker.com/show/7459964/episodes/feed,HTTP 404 for https://www.spreaker.com/show/7459964/episodes/feed
+2026-10-25T12:15:50+00:00,feed,https://rss.buzzsprout.com/2657692.rss,HTTP 404 for https://rss.buzzsprout.com/2657692.rss
+2026-10-25T12:15:50+00:00,feed,https://www.spreaker.com/show/7440279/episodes/feed,HTTP 404 for https://www.spreaker.com/show/7440279/episodes/feed
+2026-10-25T12:15:50+00:00,feed,https://anchor.fm/s/11437d038/podcast/rss,HTTP 404 for https://anchor.fm/s/11437d038/podcast/rss
+2026-10-25T12:15:53+00:00,feed,https://engineeringmanagementinstitute.org/category/tecc-podcast/feed/,HTTP 403 for https://engineeringmanagementinstitute.org/category/tecc-podcast/feed/
+2026-10-25T12:16:02+00:00,feed,https://relay.fm/penaddict/feed,[WinError 10054] An existing connection was forcibly closed by the remote host
+2026-10-25T12:16:05+00:00,feed,https://podcast.lifterlms.com/category/episodes/feed/,HTTP 403 for https://podcast.lifterlms.com/category/episodes/feed/
+2026-10-25T12:16:12+00:00,feed,https://streetphotographymagazine.com/feed/podcast,HTTP 403 for https://streetphotographymagazine.com/feed/podcast
+2026-10-25T12:16:26+00:00,feed,https://www.cbc.ca/podcasting/includes/laughoutloud.xml,Gave up on https://www.cbc.ca/podcasting/includes/laughoutloud.xml: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-10-25T12:16:32+00:00,feed,https://ultimateradioshow.com/category/shows/homeschool-highschool/feed/,HTTP 403 for https://ultimateradioshow.com/category/shows/homeschool-highschool/feed/
+2026-10-25T12:16:43+00:00,feed,https://www.cbc.ca/podcasting/includes/theexpertwitness.xml,Gave up on https://www.cbc.ca/podcasting/includes/theexpertwitness.xml: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-10-25T12:16:45+00:00,feed,https://www.diamond-consultants.com/feed/podcast/,HTTP 403 for https://www.diamond-consultants.com/feed/podcast/
+2026-10-25T12:16:46+00:00,feed,https://www.retirementwisdom.com/podcasts/feed/retirement-wisdom-podcast-feed/,HTTP 403 for https://www.retirementwisdom.com/podcasts/feed/retirement-wisdom-podcast-feed/
+2026-10-25T12:16:52+00:00,feed,https://ultimateradioshow.com/category/shows/homeschooling-with-technology/feed/,HTTP 403 for https://ultimateradioshow.com/category/shows/homeschooling-with-technology/feed/
+2026-10-25T12:16:55+00:00,feed,https://ultimateradioshow.com/category/shows/creation-science-podcast/feed/,HTTP 403 for https://ultimateradioshow.com/category/shows/creation-science-podcast/feed/
+2026-10-25T12:16:56+00:00,feed,https://www.askaboutflyfishing.com/feed/podcast/,Gave up on https://www.askaboutflyfishing.com/feed/podcast/: HTTP Error 503: Service Unavailable
+2026-10-25T12:16:59+00:00,feed,https://wheelingwineandwhiskey.com/feed/podcast,HTTP 403 for https://wheelingwineandwhiskey.com/feed/podcast
+2026-10-25T12:17:15+00:00,feed,https://twogeeksandagit.com/tgaag.xml,Gave up on https://twogeeksandagit.com/tgaag.xml: <urlopen error [Errno 11002] getaddrinfo failed>
+2026-10-25T12:17:27+00:00,feed,https://www.kuttinconsultinggroup.com/feed/podcast/,HTTP 403 for https://www.kuttinconsultinggroup.com/feed/podcast/
+2026-10-25T12:17:31+00:00,feed,https://feeds.ivoox.com/feed_fg_f11176956_filtro_1.xml,HTTP 451 for https://feeds.ivoox.com/feed_fg_f11176956_filtro_1.xml
+2026-10-25T12:17:37+00:00,feed,https://microdoseu.com/feed/podcast,HTTP 403 for https://microdoseu.com/feed/podcast
+2026-10-25T12:17:38+00:00,feed,https://checkyourthread.com/feed/podcast/,HTTP 403 for https://checkyourthread.com/feed/podcast/
+2026-10-25T12:18:22+00:00,feed,https://feeds.async.com/fd3b80f9-6170-4406-80b0-63ce40f7fca0.rss,HTTP 404 for https://feeds.async.com/fd3b80f9-6170-4406-80b0-63ce40f7fca0.rss
+2026-10-25T12:18:39+00:00,feed,https://feeds.transistor.fm/boozy-browsing,HTTP 404 for https://feeds.transistor.fm/boozy-browsing
+2026-10-25T12:18:48+00:00,feed,https://austincodemonkey.com/feed/podcast/,HTTP 403 for https://austincodemonkey.com/feed/podcast/
+2026-10-25T12:18:49+00:00,feed,https://collavia.com/feed/podcast/,HTTP 403 for https://collavia.com/feed/podcast/
+2026-10-25T12:18:51+00:00,feed,https://ultimateradioshow.com/category/shows/homeschool-curious-podcast/feed/podcast/,HTTP 403 for https://ultimateradioshow.com/category/shows/homeschool-curious-podcast/feed/podcast/
+2026-10-25T12:19:01+00:00,feed,https://rss.buzzsprout.com/2568664.rss,HTTP 404 for https://rss.buzzsprout.com/2568664.rss
+2026-10-25T12:19:06+00:00,feed,https://feed.podbean.com/fruitfulreader/feed.xml,HTTP 404 for https://feed.podbean.com/fruitfulreader/feed.xml
+2026-10-25T12:19:33+00:00,feed,https://www.spreaker.com/show/7230191/episodes/feed,HTTP 404 for https://www.spreaker.com/show/7230191/episodes/feed
+2026-10-25T12:19:33+00:00,feed,https://rss.buzzsprout.com/2627349.rss,HTTP 404 for https://rss.buzzsprout.com/2627349.rss
+2026-10-25T12:19:34+00:00,feed,https://www.diwinetaste.com/podcast.php?c=1,Gave up on https://www.diwinetaste.com/podcast.php?c=1: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)>
+2026-10-25T12:19:35+00:00,feed,https://app.kajabi.com/podcasts/2148103390/feed,HTTP 404 for https://app.kajabi.com/podcasts/2148103390/feed
+2026-10-25T12:19:36+00:00,feed,https://rss.buzzsprout.com/2646560.rss,HTTP 404 for https://rss.buzzsprout.com/2646560.rss
+2026-10-25T12:19:36+00:00,feed,https://www.twogeeksandagit.com/tgaag.xml,Gave up on https://www.twogeeksandagit.com/tgaag.xml: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-25T12:19:37+00:00,feed,https://www.spreaker.com/show/7329398/episodes/feed,HTTP 404 for https://www.spreaker.com/show/7329398/episodes/feed
+2026-10-25T12:19:37+00:00,feed,https://feeds.acast.com/public/shows/6aa14df68ff451bb22f87f47,HTTP 404 for https://feeds.acast.com/public/shows/6aa14df68ff451bb22f87f47
+2026-10-25T12:19:38+00:00,feed,https://www.spreaker.com/show/7350162/episodes/feed,HTTP 404 for https://www.spreaker.com/show/7350162/episodes/feed
+2026-10-25T12:19:39+00:00,feed,https://www.spreaker.com/show/7361042/episodes/feed,HTTP 404 for https://www.spreaker.com/show/7361042/episodes/feed
+2026-10-25T12:19:41+00:00,feed,https://www.spreaker.com/show/7441333/episodes/feed,HTTP 404 for https://www.spreaker.com/show/7441333/episodes/feed
+2026-10-25T12:19:43+00:00,feed,https://rss.buzzsprout.com/2656772.rss,HTTP 404 for https://rss.buzzsprout.com/2656772.rss
+2026-10-25T12:19:43+00:00,feed,https://www.spreaker.com/show/7453850/episodes/feed,HTTP 404 for https://www.spreaker.com/show/7453850/episodes/feed
+2026-10-25T12:19:44+00:00,feed,https://feeds.captivate.fm/the-womens-lawyer/,HTTP 404 for https://feeds.captivate.fm/the-womens-lawyer/
+2026-10-25T12:19:47+00:00,feed,https://ultimateradioshow.com/category/the-homeschool-sanity-show/feed/,HTTP 403 for https://ultimateradioshow.com/category/the-homeschool-sanity-show/feed/
+2026-10-25T12:19:47+00:00,feed,https://ultimateradioshow.com/category/ultimate-homeschool-radio-show/feed/,HTTP 403 for https://ultimateradioshow.com/category/ultimate-homeschool-radio-show/feed/
+2026-10-25T12:19:47+00:00,feed,https://ultimateradioshow.com/category/vintage-homeschool-moms/feed/,HTTP 403 for https://ultimateradioshow.com/category/vintage-homeschool-moms/feed/
+2026-10-25T12:19:47+00:00,feed,https://ultimateradioshow.com/category/homeschooling-irl/feed/,HTTP 403 for https://ultimateradioshow.com/category/homeschooling-irl/feed/
+2026-10-25T12:19:47+00:00,feed,https://microdoseu.com/feed/podcast,HTTP 403 for https://microdoseu.com/feed/podcast
+2026-10-25T12:19:47+00:00,feed,http://decadesofhorror.com/feed/podcast/,HTTP 403 for http://decadesofhorror.com/feed/podcast/
+2026-10-25T12:19:48+00:00,feed,https://tiffanyparson.com/feed/podcast/,HTTP 403 for https://tiffanyparson.com/feed/podcast/
+2026-10-25T12:19:51+00:00,feed,https://aiofinancial.com/feed/,HTTP 403 for https://aiofinancial.com/feed/
+2026-10-25T12:19:51+00:00,feed,https://productmasterynow.com/feed/podcast/,HTTP 403 for https://productmasterynow.com/feed/podcast/
+2026-10-25T12:20:00+00:00,feed,https://feeds.ivoox.com/feed_fg_f1644699_filtro_1.xml,HTTP 451 for https://feeds.ivoox.com/feed_fg_f1644699_filtro_1.xml
+2026-10-25T12:20:08+00:00,feed,https://banzaibeat.com/rss/banzaibeat.xml,Gave up on https://banzaibeat.com/rss/banzaibeat.xml: <urlopen error [Errno 11002] getaddrinfo failed>
+2026-10-25T12:20:32+00:00,feed,https://pinecast.com/feed/powering-tomorrow-conversation,HTTP 410 for https://pinecast.com/feed/powering-tomorrow-conversation
+2026-10-25T12:20:33+00:00,feed,https://media.rss.com/pizza-trailer-for-sale-australia/feed.xml,HTTP 404 for https://media.rss.com/pizza-trailer-for-sale-australia/feed.xml
+2026-10-25T12:20:53+00:00,feed,https://etfprime.com/category/etf-radio-show/feed/podcast,HTTP 403 for https://etfprime.com/category/etf-radio-show/feed/podcast
+2026-10-25T12:21:06+00:00,feed,https://www.hoyhablamos.com/category/podcast/feed/,HTTP 403 for https://www.hoyhablamos.com/category/podcast/feed/
+2026-10-25T12:21:09+00:00,feed,https://www.music-zone.es/PodcastNBI/NassauIbiza.xml,Gave up on https://www.music-zone.es/PodcastNBI/NassauIbiza.xml: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)>
+2026-10-25T12:21:17+00:00,feed,https://joshbraun.com/feed/podcast/,HTTP 403 for https://joshbraun.com/feed/podcast/
+2026-10-25T12:21:28+00:00,feed,https://physicsworld.com/feed/podcast-weekly/,HTTP 403 for https://physicsworld.com/feed/podcast-weekly/
+2026-10-25T12:21:45+00:00,feed,https://www.cbc.ca/podcasting/includes/sundayedition.xml,Gave up on https://www.cbc.ca/podcasting/includes/sundayedition.xml: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-10-25T12:22:05+00:00,feed,https://feeds.ivoox.com/feed_fg_f1757774_filtro_1.xml,HTTP 451 for https://feeds.ivoox.com/feed_fg_f1757774_filtro_1.xml
+2026-10-25T12:22:23+00:00,feed,https://www.cbc.ca/podcasting/includes/missing.xml,Gave up on https://www.cbc.ca/podcasting/includes/missing.xml: The read operation timed out
+2026-10-25T12:22:43+00:00,feed,https://www.music-zone.es/PodcastDP/UrbanaRS.xml,Gave up on https://www.music-zone.es/PodcastDP/UrbanaRS.xml: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)>
+2026-10-25T12:23:25+00:00,feed,https://www.cbc.ca/podcasting/includes/costofliving.xml,Gave up on https://www.cbc.ca/podcasting/includes/costofliving.xml: The read operation timed out
+2026-10-25T12:23:40+00:00,feed,https://www.cbc.ca/podcasting/includes/ideas.xml,Gave up on https://www.cbc.ca/podcasting/includes/ideas.xml: The read operation timed out
+2026-10-25T12:23:46+00:00,feed,https://www.cbc.ca/podcasting/includes/quirksaio.xml,Gave up on https://www.cbc.ca/podcasting/includes/quirksaio.xml: The read operation timed out
+2026-10-25T12:23:51+00:00,feed,https://www.cbc.ca/podcasting/includes/commotion.xml,Gave up on https://www.cbc.ca/podcasting/includes/commotion.xml: The read operation timed out
+2026-10-25T12:23:55+00:00,feed,https://robhasawebsite.com/feed/traitors-podcast/?test-1,HTTP 403 for https://robhasawebsite.com/feed/traitors-podcast/?test-1
+2026-10-25T12:24:15+00:00,feed,https://www.hoyhablamos.com/feed/podcast-basico/,"Bad XML in https://www.hoyhablamos.com/feed/podcast-basico/: not well-formed (invalid token): line 1, column 136"
+2026-10-25T12:24:37+00:00,feed,https://www.bizcast.in/feed/the-trade-show-podcast/,HTTP 522 for https://www.bizcast.in/feed/the-trade-show-podcast/
+2026-10-25T12:24:47+00:00,feed,https://feeds.ivoox.com/feed_fg_f12597222_filtro_1.xml,HTTP 451 for https://feeds.ivoox.com/feed_fg_f12597222_filtro_1.xml
+2026-10-25T12:24:49+00:00,feed,https://www.cbc.ca/podcasting/includes/outlawocean.xml,Gave up on https://www.cbc.ca/podcasting/includes/outlawocean.xml: The read operation timed out
+2026-10-25T12:24:52+00:00,feed,https://feeds.ivoox.com/feed_fg_f12494259_filtro_1.xml,HTTP 451 for https://feeds.ivoox.com/feed_fg_f12494259_filtro_1.xml
+2026-10-25T12:24:55+00:00,feed,https://www.cbc.ca/podcasting/includes/runhiderepeat.xml,Gave up on https://www.cbc.ca/podcasting/includes/runhiderepeat.xml: The read operation timed out
+2026-10-25T12:24:55+00:00,feed,https://feed.mirrorvoice.com.tw/rss/pw.xml,Gave up on https://feed.mirrorvoice.com.tw/rss/pw.xml: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)>
+2026-10-25T12:24:58+00:00,feed,https://www.cbc.ca/podcasting/includes/nakedemperor.xml,Gave up on https://www.cbc.ca/podcasting/includes/nakedemperor.xml: The read operation timed out
+2026-10-25T12:25:28+00:00,feed,https://feeds.transistor.fm/the-daily-habit-guided-japanese-learning-for-beginners,HTTP 404 for https://feeds.transistor.fm/the-daily-habit-guided-japanese-learning-for-beginners
+2026-10-25T12:25:34+00:00,feed,https://api.audioteca.rac1.cat/rss/tu-diras/,HTTP 403 for https://api.audioteca.rac1.cat/rss/tu-diras/
+2026-10-25T12:25:38+00:00,feed,https://esl.culips.com/feed/podcast/,"Bad XML in https://esl.culips.com/feed/podcast/: not well-formed (invalid token): line 1, column 129"
+2026-10-25T12:25:42+00:00,feed,https://www.talkingdeadpodcast.com/feed/podcast,"Bad XML in https://www.talkingdeadpodcast.com/feed/podcast: not well-formed (invalid token): line 1, column 126"
+2026-10-25T12:25:43+00:00,feed,https://thestrangebrew.co.uk/?feed=podcast,"Bad XML in https://thestrangebrew.co.uk/?feed=podcast: not well-formed (invalid token): line 1, column 129"
+2026-10-25T12:25:56+00:00,feed,https://rss.pdrl.fm/118060/robhasawebsite.com/feed/big-brother/,HTTP 403 for https://rss.pdrl.fm/118060/robhasawebsite.com/feed/big-brother/
+2026-10-25T12:25:58+00:00,feed,http://blasphemoustomes.com/category/podcast/feed/,"Bad XML in http://blasphemoustomes.com/category/podcast/feed/: not well-formed (invalid token): line 1, column 140"
+2026-10-25T12:26:03+00:00,feed,https://www.spreaker.com/show/7230429/episodes/feed,HTTP 404 for https://www.spreaker.com/show/7230429/episodes/feed
+2026-10-25T12:26:09+00:00,feed,https://media.rss.com/audiobooks-pod6/feed.xml,HTTP 404 for https://media.rss.com/audiobooks-pod6/feed.xml
+2026-10-25T12:26:10+00:00,feed,https://www.spreaker.com/show/7309938/episodes/feed,HTTP 404 for https://www.spreaker.com/show/7309938/episodes/feed
+2026-10-25T12:26:10+00:00,feed,https://www.spreaker.com/show/7309953/episodes/feed,HTTP 404 for https://www.spreaker.com/show/7309953/episodes/feed
+2026-10-25T12:26:12+00:00,feed,https://media.rss.com/audiobooks-pod6/feed.xml,HTTP 404 for https://media.rss.com/audiobooks-pod6/feed.xml
+2026-10-25T12:26:13+00:00,feed,https://www.spreaker.com/show/7350155/episodes/feed,HTTP 404 for https://www.spreaker.com/show/7350155/episodes/feed
+2026-10-25T12:26:15+00:00,feed,https://www.spreaker.com/show/7373683/episodes/feed,HTTP 404 for https://www.spreaker.com/show/7373683/episodes/feed
+2026-10-25T12:26:15+00:00,feed,https://feeds.acast.com/public/shows/6ad103669fea6e0a642334b4,HTTP 404 for https://feeds.acast.com/public/shows/6ad103669fea6e0a642334b4
+2026-10-25T12:26:19+00:00,feed,https://www.spreaker.com/show/7467009/episodes/feed,HTTP 404 for https://www.spreaker.com/show/7467009/episodes/feed
+2026-10-25T12:26:20+00:00,feed,https://www.cbc.ca/podcasting/includes/seeyouincourt.xml,Gave up on https://www.cbc.ca/podcasting/includes/seeyouincourt.xml: The read operation timed out
+2026-10-25T12:26:23+00:00,feed,https://www.spreaker.com/show/7453695/episodes/feed,HTTP 404 for https://www.spreaker.com/show/7453695/episodes/feed
+2026-10-25T12:26:31+00:00,feed,https://www.firpodcastnetwork.com/for-immediate-release/feed/,"Bad XML in https://www.firpodcastnetwork.com/for-immediate-release/feed/: not well-formed (invalid token): line 1, column 143"
+2026-10-25T12:26:41+00:00,feed,https://feeds.ivoox.com/feed_fg_f1170563_filtro_1.xml,HTTP 451 for https://feeds.ivoox.com/feed_fg_f1170563_filtro_1.xml
+2026-10-25T12:26:45+00:00,feed,https://www.cbc.ca/podcasting/includes/qpodcast.xml,Gave up on https://www.cbc.ca/podcasting/includes/qpodcast.xml: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-10-25T12:26:53+00:00,feed,https://www.cbc.ca/podcasting/includes/whitecoat.xml,Gave up on https://www.cbc.ca/podcasting/includes/whitecoat.xml: The read operation timed out
+2026-10-25T12:26:57+00:00,feed,https://www.cbc.ca/podcasting/includes/writersandco.xml,Gave up on https://www.cbc.ca/podcasting/includes/writersandco.xml: The read operation timed out
+2026-10-25T12:27:00+00:00,feed,https://www.cbc.ca/podcasting/includes/nextchapter.xml,Gave up on https://www.cbc.ca/podcasting/includes/nextchapter.xml: The read operation timed out

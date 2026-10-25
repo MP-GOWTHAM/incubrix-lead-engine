@@ -1,13 +1,13 @@
 # L00668 · Andrea Crowder · More Alive with Andrea Crowder
 
-- **Segment:** Expert-Led Creator · **Country:** US · **Score:** 75
+- **Segment:** Expert-Led Creator · **Country:** US · **Score:** 73
 - **Profile:** https://podcasts.apple.com/sg/podcast/more-alive-with-andrea-crowder/id1639582208
 - **Best channel:** Email → `hello@andreacrowder.com` (evidence: https://feed.podbean.com/mediasr/feed.xml)
 - **Backup channel:** Instagram → `https://www.instagram.com/love_andreacrowder/`
 - **Hook:** Latest episode "Ep. 137 Are we really in a trust recession or was it my ego that cost me $1M? Here’s my…" (2026-10-16); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~44-min episodes; no YouTube/TikTok clip channel linked in the feed; Publishing consistency: gap of 109 days between episodes vs a usual 17-day rhythm
 - **Commercial signal:** Course/product: "n this episode: Ignite His Leadership — my masterclass on clearing the walls to receiving support Feminine Velocit" (episode 'Ep. 135 Intrusive thoughts and how to quiet the storm in minutes 🎤 And') (https://mediasr.podbean.com/e/ep-135-intrusive-thoughts-and-how-to-quiet-the-storm-in-minutes/)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Email · day 0
 **Subject:** "Are we really in a trust recession or was it…" as clips?

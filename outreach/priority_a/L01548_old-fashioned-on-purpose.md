@@ -1,13 +1,13 @@
 # L01548 · Jill Winger · Old Fashioned On Purpose
 
-- **Segment:** Expert-Led Creator · **Country:** US · **Score:** 73
+- **Segment:** Expert-Led Creator · **Country:** US · **Score:** 71
 - **Profile:** https://podcasts.apple.com/sg/podcast/old-fashioned-on-purpose/id1475835329
 - **Best channel:** Email → `jill@theprairiehomestead.com` (evidence: https://rss.buzzsprout.com/469465.rss)
 - **Backup channel:** Instagram → `https://www.instagram.com/jill.winger/`
 - **Hook:** Latest episode "S19: E19: The Real Story Behind My New Cookbook: Easter Eggs & the Elephant in the Room" (2026-10-05); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~36-min episodes; no YouTube/TikTok clip channel linked in the feed
 - **Commercial signal:** Sponsorship: "first order of $100 or more. Simply use promo code OLDFASHIONED15 at checkout. Find details on my new food sto" (episode 'S19: E18: Why I’m Paying Attention to the 2027 Food Shortage Warnings') (https://rss.buzzsprout.com/469465.rss)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Email · day 0
 **Subject:** "S19: E19: The Real Story Behind My New…" as clips?

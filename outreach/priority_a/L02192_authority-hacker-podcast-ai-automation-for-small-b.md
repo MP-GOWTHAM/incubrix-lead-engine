@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "ChatGPT's Dots Finally Feels Like a Virtual Employee" (2026-10-08); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Publishing consistency: gap of 41 days between episodes vs a usual 7-day rhythm
 - **Commercial signal:** Course/product: "The new Authority Hacker MCP that plugs our membership into your AI agent The watermark is real. Most of the fear" (episode 'Google Can Now Accurately Detect Your AI Content') (https://rss.buzzsprout.com/1885879.rss)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Email · day 0
 **Subject:** "ChatGPT's Dots Finally Feels Like a Virtual…" as clips?

@@ -1,13 +1,13 @@
 # L01893 · Mike Young · Aircrew Interview
 
-- **Segment:** Podcaster/Video Podcaster · **Country:** GB · **Score:** 87
+- **Segment:** Podcaster/Video Podcaster · **Country:** GB · **Score:** 86
 - **Profile:** https://podcasts.apple.com/nz/podcast/aircrew-interview/id1180010629
 - **Best channel:** Instagram → `https://www.instagram.com/aircrew_interview/` (evidence: https://rss.buzzsprout.com/155362.rss)
 - **Backup channel:** X → `https://x.com/aircrewtv`
 - **Hook:** Latest episode "AI # 445 : F-14A vs Tornado F3: A RIO & Navs View | David 'Boomer' Smith *FULL*" (2026-10-12); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~37-min episodes; no YouTube/TikTok clip channel linked in the feed; Publishing consistency: gap of 21 days between episodes vs a usual 6.5-day rhythm
 - **Commercial signal:** Membership/subscription: "he channel going: PATREON - https://www.patreon.com/aircrewinterview DONATE - http://www.aircrewinterview.tv/do" (episode 'AI # 445 : F-14A vs Tornado F3: A RIO & Navs View | David 'Boomer' Smi') (https://rss.buzzsprout.com/155362.rss)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Instagram · day 0
 

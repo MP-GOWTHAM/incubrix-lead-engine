@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "How To Stop Anticipatory Anxiety and Calm Your Inner C-3PO" (2026-10-12); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~22-min episodes; no YouTube/Instagram/TikTok clip channel linked in the feed; Publishing consistency: gap of 1624 days between episodes vs a usual 14-day rhythm
 - **Commercial signal:** Sponsorship: "eally is something worth worrying about Episode Sponsor: BetterHelp This episode of The Men's Self-Help Podcast is" (episode 'How To Stop Anticipatory Anxiety and Calm Your Inner C-3PO') (https://guycounselingradio.libsyn.com/have-you-been-living-like-c-3po)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Email · day 0
 **Subject:** "How To Stop Anticipatory Anxiety and Calm Your…" as clips?

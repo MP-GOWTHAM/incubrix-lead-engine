@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "Gender Disappointment Isn't What You Think | The Truth About Grief & Hope" (2026-10-16); Repurposing into clips
 - **Why IncuBrix:** Repurposing into clips: ~26-min episodes; no YouTube/Instagram/TikTok clip channel linked in the feed
 - **Commercial signal:** Affiliate: "l Psychologist Collective Book: https://amzn.to/3jOplx0 📖 To check out The Aspiring Psychologist Collective" (episode 'Gender Disappointment Isn't What You Think | The Truth About Grief & H') (https://psychology-actually.captivate.fm/episode/gender-disappointment)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Email · day 0
 **Subject:** "Gender Disappointment Isn't What You Think |…" as clips?

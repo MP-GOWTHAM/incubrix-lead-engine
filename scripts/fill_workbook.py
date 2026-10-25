@@ -126,7 +126,9 @@ def main():
                 f"Workbook counts {pa_tab} because it holds only the first 1,000 of {total} rows")
     s["C12"] = "Yes"
     s["E12"] = "README.md run command; output/runs.csv"
-    s["E11"] = "seed_test/SEED_TEST.md; seed_test/reply_log.csv (fill after running the seed test)"
+    s["C11"] = "No"
+    s["E11"] = ("seed_test/SEED_TEST.md §6. Email PASSED (sent, scheduled 2 follow-ups, delivered, UTM link "
+                "clicked, reply logged: seed_test/evidence/). Instagram and X NOT RUN yet; messages ready")
     # Exceptional (only claim what is literally true)
     s["B18"] = "Yes" if pa >= 250 else "No"
     s["C18"] = pa
@@ -167,7 +169,7 @@ def main():
 
     # 03 section C: launch kit summary
     launch = [
-        "1,042 verified independent podcasters (599) and expert-led creators (443) in US/GB/AU/CA/IE/NZ/SG; "
+        "1,048 verified independent podcasters (598) and expert-led creators (450) in US/GB/AU/CA/IE/NZ/SG; "
         "Priority A (250) first. See launch_kit/LAUNCH_KIT.md §1",
         "Email (best for 743): published business contacts. Instagram/LinkedIn/X DMs by hand (best for ~300 incl. "
         "UK/IE personal mailboxes, PECR). Podcast guest pitches for distribution. Contact form as backup",

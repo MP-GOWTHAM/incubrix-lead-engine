@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "Your Group Practice Has a Growth Leak. Here’s How to Find It." (2026-10-20); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~27-min episodes; no YouTube/TikTok clip channel linked in the feed
 - **Commercial signal:** Course/product: "Sign up for my FREE Masterclass - How to Build a 7-Figure Group Practice and earn 1 CE Hour" (episode 'Your Group Practice Has a Growth Leak. Here’s How to Find It.') (https://the-business-savvy-therapist.captivate.fm)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Instagram · day 0
 

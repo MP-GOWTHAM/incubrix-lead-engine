@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "Stitching Dreams Together with Jaz Tyler" (2026-10-14); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~28-min episodes; no TikTok clip channel linked in the feed
 - **Commercial signal:** Membership/subscription: "akpipe.com/BlackWomenStitch https://www.patreon.com/blackwomenstitch https://www.amazon.com/shop/blackwomenstit" (episode 'Stitching Dreams Together with Jaz Tyler') (https://blackwomenstitch.org/podcasts/)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Instagram · day 0
 

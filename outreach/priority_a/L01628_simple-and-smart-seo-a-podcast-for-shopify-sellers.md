@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "Stop Obsessing Over Page Speed. Your Shopify Store Has Bigger Problems | With Parth…" (2026-10-14); Repurposing into clips
 - **Why IncuBrix:** Repurposing into clips: ~25-min episodes; no YouTube/TikTok clip channel linked in the feed; Publishing consistency: gap of 41 days between episodes vs a usual 7-day rhythm
 - **Commercial signal:** Membership/subscription: "ut.com/1913509/fan_mail/new https://www.buzzsprout.com/1913509/supporters/new https://simpleandsmartseo.com/leak?utm_sou" (episode 'Stop Obsessing Over Page Speed. Your Shopify Store Has Bigger Problems') (https://rss.buzzsprout.com/1913509.rss)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Email · day 0
 **Subject:** "Stop Obsessing Over Page Speed. Your Shopify…" as clips?

@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "Is Vet Med Supporting Its People, or Just Talking About It? | Charlotte Fahy, BA MBA ACC" (2026-10-08); Repurposing into clips
 - **Why IncuBrix:** Repurposing into clips: ~48-min episodes; no YouTube/TikTok clip channel linked in the feed; Publishing consistency: gap of 59 days between episodes vs a usual 7-day rhythm
 - **Commercial signal:** Sponsorship: "This episode is sponsored by Solvet Canada: https://solvet.ca/ We sit down with the one" (episode 'Shannon Gervais, RVT | Redefining the RVT Career Path') (https://rss.buzzsprout.com/2527634.rss)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Email · day 0
 **Subject:** "Is Vet Med Supporting Its People, or Just…" as clips?

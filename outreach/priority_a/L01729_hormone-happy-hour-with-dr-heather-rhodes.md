@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "81. Is Trying to Fix Your Body Breaking it? Let Me Help You Stop Chasing Symptoms &…" (2026-10-19); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~44-min episodes; no YouTube/TikTok clip channel linked in the feed; Publishing consistency: gap of 55 days between episodes vs a usual 6.5-day rhythm
 - **Commercial signal:** Service (coaching/consulting): "on Instagram hello@drheatherrhodes.com Book A Free Consult Call Sign Up for My Weekly Newsletter Thank you so much for" (episode '78. Sneaky Blood Sugar Things That Are Messing With Your Hormones') (https://hormonehappyhourwithdrheatherrhodes.podbean.com/e/78-sneaky-blood-sugar-things-that-are-messing-with-your-hormones/)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Email · day 0
 **Subject:** "81. Is Trying to Fix Your Body Breaking it?…" as clips?

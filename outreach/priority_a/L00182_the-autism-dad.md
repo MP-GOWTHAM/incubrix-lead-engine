@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "I Had No Idea Until My 40s | Caroline Warnes (S9E20)" (2026-10-07); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~25-min episodes; no YouTube/TikTok clip channel linked in the feed
 - **Commercial signal:** Sponsorship: "ing. Visit https://www.mightier.com and use code theautismdad22 for 10% off. Rob's book, So Your Child Was J" (episode 'I Had No Idea Until My 40s | Caroline Warnes (S9E20)') (https://feeds.megaphone.fm/theautismdad)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Email · day 0
 **Subject:** "I Had No Idea Until My 40s | Caroline Warnes…" as clips?

@@ -1,13 +1,13 @@
 # L01957 · Omari Richins · Public Health Careers
 
-- **Segment:** Expert-Led Creator · **Country:** US · **Score:** 78
+- **Segment:** Expert-Led Creator · **Country:** US · **Score:** 73
 - **Profile:** https://podcasts.apple.com/gb/podcast/public-health-careers/id1515157290
 - **Best channel:** LinkedIn → `https://www.linkedin.com/in/omari-richins-mph/` (evidence: https://rss.buzzsprout.com/1103783.rss)
 - **Backup channel:** Contact form → `https://www.thephmillennial.com`
 - **Hook:** Latest episode "Taxes Aren’t the Enemy. Underfunded Communities Are." (2026-10-14); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~34-min episodes; no YouTube/Instagram/TikTok clip channel linked in the feed; Publishing consistency: gap of 48 days between episodes vs a usual 7-day rhythm
 - **Commercial signal:** Membership/subscription: "s://forms.gle/PFNVHicFPj8FSwV19 https://ko-fi.com/thephmillennial https://thephmillennial.com/join-the-commun" (episode 'Taxes Aren’t the Enemy. Underfunded Communities Are.') (https://rss.buzzsprout.com/1103783.rss)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · LinkedIn · day 0
 

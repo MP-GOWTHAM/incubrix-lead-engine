@@ -1,13 +1,13 @@
 # L02048 · Emma Levy · When Life Gives You Lemons
 
-- **Segment:** Podcaster/Video Podcaster · **Country:** GB · **Score:** 76
+- **Segment:** Podcaster/Video Podcaster · **Country:** GB · **Score:** 71
 - **Profile:** https://podcasts.apple.com/gb/podcast/when-life-gives-you-lemons/id1668697394
 - **Best channel:** Email → `emma.levy@live.co.uk` (evidence: https://feeds.acast.com/public/shows/677be9d1b2b69b369b557d7d)
 - **Backup channel:** Podcast guest pitch → `emma.levy@live.co.uk`
 - **Hook:** Latest episode "Hari Budha Magar on Losing Both Legs in Afghanistan and Then Becoming the First Amputee…" (2026-10-01); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~45-min episodes; no YouTube/Instagram/TikTok clip channel linked in the feed; Publishing consistency: gap of 174 days between episodes vs a usual 7-day rhythm
 - **Commercial signal:** Affiliate: "by Emma Bord - Available here - https://amzn.to/4rmEx5H Follow Emma on Instagram @emmabordpt Podcast availa" (episode 'Mum Power, Six Star Marathons and Running Through Trauma with Emma Bor') (https://shows.acast.com/when-life-gives-you-lemons-emmalevy/episodes/mum-power-six-star-marathons-and-running-through-trauma-with)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Email · day 0
 **Subject:** "Hari Budha Magar on Losing Both Legs in…" as clips?

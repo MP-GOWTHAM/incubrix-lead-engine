@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "How Thought Leaders Win on YouTube and AI" (2026-10-20); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~38-min episodes; no YouTube/TikTok clip channel linked in the feed; Stated workflow need: episode notes say "repurpos"
 - **Commercial signal:** Membership/subscription: "om/speakeasy-mastermind-pr/ https://www.buzzsprout.com/2466066/support" (episode 'How Thought Leaders Win on YouTube and AI') (https://rss.buzzsprout.com/2466066.rss)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Email · day 0
 **Subject:** "How Thought Leaders Win on YouTube and AI" as clips?

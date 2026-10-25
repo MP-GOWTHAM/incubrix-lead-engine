@@ -7,7 +7,7 @@
 - **Hook:** Latest episode "The 5 Legal Steps I Took Before Making $10M Online" (2026-10-19); Captions/transcripts
 - **Why IncuBrix:** Captions/transcripts: none of the last 10 episodes publish a transcript; Repurposing into clips: ~26-min episodes; no TikTok clip channel linked in the feed; Publishing consistency: gap of 28 days between episodes vs a usual 7-day rhythm
 - **Commercial signal:** Affiliate: "ck out KIT & get your first month free (affiliate link) If you have a question you’d like Sam to answer on a futur" (episode '299. Ready to Quit Your Job? Here's How I Knew It Was Time.') (https://samvanderwielen.com)
-- **Checked:** 2026-10-22
+- **Checked:** 2026-10-25
 
 ## Step 1 · Instagram · day 0
 
