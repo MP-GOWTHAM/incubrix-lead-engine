@@ -1,8 +1,9 @@
 # New input for the refresh demo: Apple Podcasts URLs not yet in the database
-https://podcasts.apple.com/gb/podcast/the-kyle-hunt-show/id1146086687
-https://podcasts.apple.com/gb/podcast/respark-your-life/id1529026340
-https://podcasts.apple.com/gb/podcast/the-holvey-hour/id1771337856
-https://podcasts.apple.com/gb/podcast/we-are-listening/id1722030528
-https://podcasts.apple.com/gb/podcast/we-are-listening/id1803114599
-https://podcasts.apple.com/gb/podcast/the-starting-line-with-cole-taylor/id1660988291
-https://podcasts.apple.com/gb/podcast/digital-marketing-coach-with-chris-heidlebaugh/id1875135728
+https://podcasts.apple.com/gb/podcast/the-forensic-psychologist-podcast/id6814957644
+https://podcasts.apple.com/gb/podcast/the-business-of-psychology/id1503339622
+https://podcasts.apple.com/gb/podcast/grief-is-the-new-normal-podcast-with-dr-heather-taylor/id1734509245
+https://podcasts.apple.com/gb/podcast/whole-while-healing-podcast/id1740855944
+https://podcasts.apple.com/gb/podcast/the-psychologists-are-in-with-maggie-lawson/id1593693216
+https://podcasts.apple.com/gb/podcast/strength-coach-rants-with-coach-connor-lyons/id1565809102
+https://podcasts.apple.com/gb/podcast/samson-strength-coach-collective/id1522528277
+https://podcasts.apple.com/gb/podcast/finding-joy-for-family-photographers/id1804384350

@@ -1,69 +1,183 @@
 {
-  "run_at": "2026-10-25T12:06:13+00:00",
-  "runtime_min": 27.05,
+  "run_at": "2026-10-25T14:05:41+00:00",
+  "runtime_min": 0.09,
   "direct_cost_usd": 0.0,
-  "input_size": 0,
+  "input_size": 16,
   "searches": 0,
   "searches_from_cache": 0,
   "new_candidates": 0,
-  "duplicates_removed": 42,
-  "feeds_fetched": 19962,
-  "feeds_from_cache": 19,
-  "feed_errors": 185,
-  "evaluated": 20166,
-  "qualified": 1048,
-  "rejected": 19045,
-  "reserve_country_cap": 73,
+  "duplicates_removed": 60,
+  "feeds_fetched": 10,
+  "feeds_from_cache": 6,
+  "feed_errors": 0,
+  "evaluated": 20326,
+  "qualified": 1057,
+  "rejected": 19191,
+  "reserve_country_cap": 78,
   "priority": {
     "A": 250,
-    "B": 419,
-    "C": 379
+    "B": 422,
+    "C": 385
   },
   "segments": {
-    "Expert-Led Creator": 450,
+    "Expert-Led Creator": 459,
     "Podcaster/Video Podcaster": 598
   },
   "countries": {
     "CA": 76,
-    "US": 576,
+    "US": 581,
     "IE": 22,
     "AU": 146,
-    "GB": 205,
-    "NZ": 22,
+    "GB": 208,
+    "NZ": 23,
     "SG": 1
   },
   "country_max_share": 0.55,
   "best_channels": {
-    "Email": 743,
+    "Email": 750,
     "Instagram": 226,
-    "LinkedIn": 66,
+    "LinkedIn": 68,
     "TikTok": 1,
     "X": 12
   },
   "backup_channels": {
-    "Instagram": 272,
-    "Contact form": 398,
+    "Instagram": 275,
+    "Contact form": 402,
     "Podcast guest pitch": 97,
-    "(none)": 114,
+    "(none)": 116,
     "Email": 19,
     "TikTok": 26,
-    "LinkedIn": 80,
-    "X": 42
+    "LinkedIn": 81,
+    "X": 41
   },
   "top_rejection_reasons": {
-    "Country not verified as approved market": 11932,
-    "No public monetisation evidence": 11429,
-    "No identifiable individual creator": 9084,
-    "No verifiable public business contact channel": 6685,
-    "Organisation/network/publication, not an individual creator": 3566,
-    "Not active enough": 2899,
-    "Listed author not confirmed as a person by any second source": 2107,
-    "Recent content not mainly English": 2088,
-    "No evidence of a content-workflow need": 709,
-    "Contact belongs to an agency/management firm": 346,
+    "Country not verified as approved market": 12014,
+    "No public monetisation evidence": 11500,
+    "No identifiable individual creator": 9127,
+    "No verifiable public business contact channel": 6730,
+    "Organisation/network/publication, not an individual creator": 3585,
+    "Not active enough": 2937,
+    "Listed author not confirmed as a person by any second source": 2123,
+    "Recent content not mainly English": 2095,
+    "No evidence of a content-workflow need": 720,
+    "Contact belongs to an agency/management firm": 347,
     "Contact channel not shown active in last 60 days": 112,
-    "Held in reserve: US would exceed 55% country cap": 73
+    "Held in reserve: US would exceed 55% country cap": 78
   },
   "duplicates_in_export": 0,
-  "incomplete_in_export": 0
+  "incomplete_in_export": 0,
+  "seed_results": [
+    {
+      "stable_creator_id": "apple_podcasts:1125252777",
+      "show": "Tax Smart Real Estate Investors Podcast",
+      "status": "Rejected",
+      "lead_id": "",
+      "reason": "Listed author not confirmed as a person by any second source (possible brand); No public monetisation evidence; Country not verified as approved market (no creator-published country signal (feed language 'en'))"
+    },
+    {
+      "stable_creator_id": "apple_podcasts:1449434811",
+      "show": "Get in the Cashflow Game with K&K | A Podcast for Real Estate Investors, Lenders & Entrepreneurs",
+      "status": "Rejected",
+      "lead_id": "",
+      "reason": "Not active enough (3 items/30d, 0 long-form/60d); Country not verified as approved market (feed language 'en-us' is a common host default and nothing corroborates a US base)"
+    },
+    {
+      "stable_creator_id": "apple_podcasts:1502134575",
+      "show": "Mindfulness and Breathwork with Gilad Shavit",
+      "status": "Rejected",
+      "lead_id": "",
+      "reason": "Listed author not confirmed as a person by any second source (possible brand); No public monetisation evidence"
+    },
+    {
+      "stable_creator_id": "apple_podcasts:1514962783",
+      "show": "The Commercial Real Estate Investor Podcast",
+      "status": "Rejected",
+      "lead_id": "",
+      "reason": "No public monetisation evidence; No verifiable public business contact channel"
+    },
+    {
+      "stable_creator_id": "apple_podcasts:1526029555",
+      "show": "Profit First for Real Estate Investors with David Richter",
+      "status": "Rejected",
+      "lead_id": "",
+      "reason": "No verifiable public business contact channel"
+    },
+    {
+      "stable_creator_id": "apple_podcasts:1548784535",
+      "show": "Real Estate Investor Podcast",
+      "status": "Qualified",
+      "lead_id": "L02315",
+      "reason": ""
+    },
+    {
+      "stable_creator_id": "apple_podcasts:1608217389",
+      "show": "Writer's Digest Presents",
+      "status": "Rejected",
+      "lead_id": "",
+      "reason": "Organisation/network/publication, not an individual creator; Listed author not confirmed as a person by any second source (possible brand); Country not verified as approved market (no creator-published country signal (feed language 'en')); No verifiable public business contact channel"
+    },
+    {
+      "stable_creator_id": "apple_podcasts:1646535788",
+      "show": "Transforming The Toddler Years- Parents and Educators Raising Calm, Connected, Capable Kids",
+      "status": "Rejected",
+      "lead_id": "",
+      "reason": "Country not verified as approved market (no creator-published country signal (feed language 'en'))"
+    },
+    {
+      "stable_creator_id": "apple_podcasts:1667242156",
+      "show": "Loving Your Life Again | Toxic Relationship Recovery & Nervous System Healing For Women Ready to Heal",
+      "status": "Rejected",
+      "lead_id": "",
+      "reason": "No verifiable public business contact channel"
+    },
+    {
+      "stable_creator_id": "apple_podcasts:1707418280",
+      "show": "Crime Writers of Canada's Podcast",
+      "status": "Rejected",
+      "lead_id": "",
+      "reason": "No verifiable public business contact channel"
+    },
+    {
+      "stable_creator_id": "apple_podcasts:1789996391",
+      "show": "AI & Automation for Real Estate Investors \u2013 RealDealCast",
+      "status": "Rejected",
+      "lead_id": "",
+      "reason": "No identifiable individual creator (possible brand); Not active enough (1 items/30d, 0 long-form/60d); No verifiable public business contact channel"
+    },
+    {
+      "stable_creator_id": "apple_podcasts:1827214837",
+      "show": "Storytime with Writers' Playground",
+      "status": "Rejected",
+      "lead_id": "",
+      "reason": "Listed author not confirmed as a person by any second source (possible brand); No public monetisation evidence; Country not verified as approved market (no creator-published country signal (feed language 'en')); No verifiable public business contact channel"
+    },
+    {
+      "stable_creator_id": "apple_podcasts:1847402433",
+      "show": "The Ashley Ventrice Show | Toddler Parenting & Child Development",
+      "status": "Rejected",
+      "lead_id": "",
+      "reason": "Listed author not confirmed as a person by any second source (possible brand)"
+    },
+    {
+      "stable_creator_id": "apple_podcasts:1892471422",
+      "show": "Toddlers Made Easy with Dr Cathryn",
+      "status": "Rejected",
+      "lead_id": "",
+      "reason": "No identifiable individual creator (possible brand); Not active enough (4 items/30d, 0 long-form/60d); No evidence of a content-workflow need; No verifiable public business contact channel"
+    },
+    {
+      "stable_creator_id": "apple_podcasts:1896818628",
+      "show": "Electronic Breathwork Movement",
+      "status": "Rejected",
+      "lead_id": "",
+      "reason": "No identifiable individual creator (possible brand); Not active enough (4 items/30d, 0 long-form/60d); Country not verified as approved market (no creator-published country signal (feed language 'en'))"
+    },
+    {
+      "stable_creator_id": "apple_podcasts:6816638624",
+      "show": "The Breathwork Code [De-Coded] by IMD Breathwork",
+      "status": "Rejected",
+      "lead_id": "",
+      "reason": "Not active enough (5 items/30d, 0 long-form/60d); Listed author not confirmed as a person by any second source (possible brand); No public monetisation evidence; Country not verified as approved market (no creator-published country signal (feed language 'en'))"
+    }
+  ]
 }
