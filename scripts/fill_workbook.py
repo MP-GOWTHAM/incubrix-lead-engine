@@ -196,7 +196,27 @@ def main():
         st["B6"] = cfg["sender"]["name"]
     st["B5"] = "25pb02"
     st["B7"] = "gowthamrockerzzz@gmail.com"
-    st["B8"] = "PSG College of Technology"
+    st["B8"] = "PSG College of Technology, M.E. Biometrics and Cybersecurity"
+    st["B9"] = "20.10.2026 11:30 IST"
+    st["B18"] = ("The engine, tests, outreach templates, launch kit and docs were written with Claude Code (AI) under my "
+                 "direction; I set the approach, reviewed outputs and audit samples, and decided rule changes. Manual: "
+                 "seed-test checks in Gmail (~30 min), workbook personal fields, review of lead samples (~2 h).")
+    st["B21"] = "Yes"
+    for r in range(5, 11):
+        st.cell(r, 6).value = "Yes"
+    # Self-score: honest estimates; reviewers compare with their own
+    sc = wb["04_SELF_CHECK"]
+    scores = [
+        (3, "5 product observations not yet completed (needs Creator Studio use); 3 data-backed opportunities are in tab 01"),
+        (26, "1,000+ leads with evidence URLs; own random samples ~85-90% clean; channels verified from creator-published "
+             "data; personalised 3-step sequences. Seed test passed on email only"),
+        (17, "One-command engine, 29 offline tests, dedupe, refresh, crash recovery, logged runtime and $0 cost (see Video B)"),
+        (8, "Launch kit with week-1 steps, owners, tools, budget, targets and risks; numbers are estimates to validate"),
+        (15, "Depends on the live review; I can trace any lead to its evidence and rerun the engine"),
+    ]
+    for i, (v, why) in enumerate(scores):
+        sc.cell(24 + i, 3).value = v
+        sc.cell(24 + i, 5).value = why
     st["B10"] = "25.10.2026"
     repo = "https://github.com/MP-GOWTHAM/incubrix-lead-engine"
     st["B11"] = f"{repo}/tree/main/output (leads.csv) and {repo}/tree/main/outreach"
