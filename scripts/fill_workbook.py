@@ -127,7 +127,7 @@ def main():
     s["C12"] = "Yes"
     s["E12"] = "README.md run command; output/runs.csv"
     s["C11"] = "No"
-    s["E11"] = ("seed_test/SEED_TEST.md §6. Email PASSED (sent, scheduled 2 follow-ups, delivered, UTM link "
+    s["E11"] = ("seed_test/SEED_TEST.md §6. Email PASSED (3 steps sent on schedule 17:28/18:00/18:30, delivered to inbox, UTM link "
                 "clicked, reply logged: seed_test/evidence/). Instagram and X NOT RUN yet; messages ready")
     # Exceptional (only claim what is literally true)
     s["B18"] = "Yes" if pa >= 250 else "No"

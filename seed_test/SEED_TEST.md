@@ -59,9 +59,11 @@ When everything passes, set **04_SELF_CHECK C11 = Yes** and link this folder.
 
 | Channel | Accounts (all the candidate's own) | Status | Evidence |
 |---|---|---|---|
-| **Email** | gowthamrockerzzz@gmail.com → 25pb02@psgtech.ac.in | **Passed.** S01 sent 17:28 IST and delivered to the inbox (not spam). S02 and S03 scheduled with Gmail Schedule send for 18:00 and 18:30. The tracked link opened incubrix.com with `utm_campaign=seed_test&utm_content=L02051-s1` intact. The reply "Yes, send the clips" was sent 17:31 and logged. | `evidence/S01_*`, `S02_scheduled_18-00.jpg`, `S03_scheduled_18-30.png`, `reply_log.csv` |
+| **Email** | gowthamrockerzzz@gmail.com → 25pb02@psgtech.ac.in | **Passed.** S01 sent 17:28 IST and delivered to the inbox (not spam). S02 and S03 were scheduled with Gmail Schedule send for 18:00 and 18:30 and were delivered at 18:00 and 18:31. The tracked link opened incubrix.com with `utm_campaign=seed_test&utm_content=L02051-s1` intact. The reply "Yes, send the clips" was sent 17:31 and logged. | `evidence/S01_*`, `S02_scheduled_18-00.jpg`, `S03_scheduled_18-30.png`, `reply_log.csv` |
 | **Instagram** | @gowtham_clasher → @abishekkk | **Not run.** The sender account wasn't signed in on the test machine at the time. Messages S04–S06 are ready in `seed_messages.md`. | — |
 | **X** | @gowthamabi → @bgsgowtham | **Not run.** Same reason. Messages S07–S09 are ready. | — |
+
+Note: Gmail Schedule send has no stop-on-reply, so S02 and S03 still went out after the S01 reply. Stop-on-reply comes from the sequencer in the launch kit and was not demonstrated here.
 
 So the seed test is **not yet passed on 3 channels**, and the workbook says so (C11 = No). Completing it takes about 30 minutes: sign in to both sender accounts, send S04–S09 by hand as each reminder fires, reply from the receiving accounts, and add screenshots here.
 

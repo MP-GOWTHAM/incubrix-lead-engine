@@ -1,7 +1,7 @@
 test_id,channel,from_account,to_test_account,lead_id,step,scheduled_for,sent_at,link_clicked_at,reply_received_at,reply_text,logged_in_crm_at,evidence_file
 S01,Email,gowthamrockerzzz@gmail.com,25pb02@psgtech.ac.in,L02051,1,2026-10-25 17:28 IST (send now),2026-10-25 17:28 IST,2026-10-25 17:30 IST,2026-10-25 17:31 IST,"Yes, send the clips. (seed test reply)",,S01_sent.jpg; S01_received_inbox.jpg; S01_link_click_utm.jpg; S01_reply_logged.jpg
-S02,Email,gowthamrockerzzz@gmail.com,25pb02@psgtech.ac.in,L02051,2,2026-10-25 18:00 IST (Gmail Schedule send),,,,,,S02_scheduled_18-00.jpg
-S03,Email,gowthamrockerzzz@gmail.com,25pb02@psgtech.ac.in,L02051,3,2026-10-25 18:30 IST (Gmail Schedule send),,,,,,S03_scheduled_18-30.png
+S02,Email,gowthamrockerzzz@gmail.com,25pb02@psgtech.ac.in,L02051,2,2026-10-25 18:00 IST (Gmail Schedule send),2026-10-25 18:00 IST (delivered on schedule),,,,,S02_scheduled_18-00.jpg; S02_delivered_18-00_on_schedule.jpg
+S03,Email,gowthamrockerzzz@gmail.com,25pb02@psgtech.ac.in,L02051,3,2026-10-25 18:30 IST (Gmail Schedule send),2026-10-25 18:30 IST (delivered 18:31),,,,,S03_scheduled_18-30.png; S03_delivered_18-31_on_schedule.jpg; Sender_sent_folder_S01-S03.jpg
 S04,Instagram,@gowtham_clasher,@abishekkk,L01893,1,,,,,,,
 S05,Instagram,@gowtham_clasher,@abishekkk,L01893,2,,,,,,,
 S06,Instagram,@gowtham_clasher,@abishekkk,L01893,3,,,,,,,
